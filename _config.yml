@@ -1,0 +1,80 @@
+plugins: 
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+remote_theme: kzu/beautiful-jekyll@main
+author: Daniel Cazzulino
+title : Daniel Cazzulino
+description : A blog about .NET, C#, Visual Studio and technology
+title-img:  https://api.kzu.app/devlooped.svg
+navbar-img: https://api.kzu.app/background.svg
+avatar: https://api.kzu.app/badge.png
+
+social-network-links:
+  alias:         kzu
+  email:         daniel@cazzulino.com
+  github:        kzu
+  twitter:       kzu
+  stackoverflow: 24684/kzu
+  linkedin:      in/DanielCazzulino
+  feed:          https://feeds.feedburner.com/DanielCazzulino
+
+share-links-active:
+  github:        true
+  twitter:       true
+  linkedin:      true
+  stackoverflow: true
+  feed:          true
+
+permalink:        /:title.html 
+url:              https://www.cazzulino.com
+baseurl:          ""
+gtag:             G-5THB4CL7H1
+google-search-id: fab2fac2137f17958
+giscus:
+  hostname: giscus.app
+  repository: "kzu/kzu.github.io"
+  repository-id: "MDEwOlJlcG9zaXRvcnkxOTQzNTIyMA=="
+  category: "Comments"
+  category-id: "DIC_kwDOASiO1M4Cl5AB"
+  mapping: "pathname"
+  reactions-enabled: "1"
+  emit-metadata: "0"
+  input-position: "top"
+  theme: "light"
+  lang: "en"
+  crossorigin: "anonymous"
+
+exclude:      [ "README.md", "CNAME", ".gitattributes", ".gitignore", ".editorconfig" ]
+paginate:     10
+port:         3000
+host:         127.0.0.1
+
+navbar-links:
+  Home: "/"
+  Archive: "/archive/"
+  Tags: "/tags/"
+  About Me: "/about/"
+  
+url-pretty: "cazzulino.com"
+excerpt_length: 100
+feed_show_tags: true
+navbar-col: "black"
+navbar-text-col: "white"
+hover-col: "green"
+link-col: "#418C41"
+site-css: /site.css
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      after-content: signature.html
+      comments: true
+  - scope:
+      path: ""
+    values:
+      head-extra: 
+        - favicon.html
+      footer-extra: license.html

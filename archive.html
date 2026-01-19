@@ -1,0 +1,27 @@
+---
+layout: page
+permalink: /archive/
+ext-js:
+  - "//cdnjs.cloudflare.com/ajax/libs/jqcloud/1.0.4/jqcloud-1.0.4.min.js"
+ext-css:
+  - "//cdnjs.cloudflare.com/ajax/libs/jqcloud/1.0.4/jqcloud.css"
+js:
+  - "/assets/js/tags.js"
+css:
+  - "/assets/css/cloud.css"
+---
+
+<div id="cloud" class="cloud"></div>
+
+{% if site.google-search-id != "" %}
+<script async src="https://cse.google.com/cse.js?cx={{ site.google-search-id }}"></script>
+<div class="gcse-searchbox-only"></div>
+{% endif %}
+
+<ul>
+{% for post in site.posts %}
+  <li>
+    {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
