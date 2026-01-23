@@ -6,9 +6,6 @@ date: 2005-06-15 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Search engines don't do magic with crappy websites
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

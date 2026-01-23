@@ -6,9 +6,6 @@ date: 2008-03-15 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Why do we need yet another NET mocking framework
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

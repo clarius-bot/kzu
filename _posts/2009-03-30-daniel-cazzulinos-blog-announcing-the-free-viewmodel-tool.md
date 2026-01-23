@@ -6,9 +6,6 @@ date: 2009-03-30 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Announcing the free ViewModel Tool
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

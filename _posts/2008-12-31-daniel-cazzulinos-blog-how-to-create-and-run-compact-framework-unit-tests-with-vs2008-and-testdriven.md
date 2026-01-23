@@ -6,9 +6,6 @@ date: 2008-12-31 00:00:00 +0000
 
 Daniel Cazzulino's Blog : How to create and run Compact Framework unit tests with VS2008 and TestDriven.NET
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

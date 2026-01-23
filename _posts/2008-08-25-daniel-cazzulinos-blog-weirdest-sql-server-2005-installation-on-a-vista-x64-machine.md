@@ -6,9 +6,6 @@ date: 2008-08-25 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Weirdest SQL Server 2005 installation on a Vista x64 machine
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

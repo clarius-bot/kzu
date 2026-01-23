@@ -6,9 +6,6 @@ date: 2004-05-10 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Configuration with XmlSerializer + codegen (i.e. xsd.exe): how &quot;fix&quot; PascalCase to camelCase for the XML
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

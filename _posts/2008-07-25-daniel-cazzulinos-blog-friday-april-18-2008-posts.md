@@ -6,9 +6,6 @@ date: 2008-07-25 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Friday, April 18, 2008 - Posts
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

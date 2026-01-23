@@ -6,9 +6,6 @@ date: 2004-01-16 00:00:00 +0000
 
 Daniel Cazzulino's Blog : MakePascal identifier (the XmlSerializer way)
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

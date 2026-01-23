@@ -6,9 +6,6 @@ date: 2005-09-28 00:00:00 +0000
 
 Daniel Cazzulino : Reflection severely broken for properties
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

@@ -6,9 +6,6 @@ date: 2004-11-30 00:00:00 +0000
 
 Daniel Cazzulino's Blog : The right approach to exposing code in the IDE (i.e. NOT the VS way!)
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

@@ -6,9 +6,6 @@ date: 2004-03-29 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Do I need SAX for .NET? (or does straight Java ports to C# make sense?)
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

@@ -6,9 +6,6 @@ date: 2004-11-08 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Kiss your favourite XML editor bye bye! (and welcome Domain Specific Languages designers!)
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

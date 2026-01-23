@@ -6,9 +6,6 @@ date: 2007-06-26 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Open source implementation of Simple Sharing Extensions (SSE) is available now!
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

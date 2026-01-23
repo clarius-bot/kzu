@@ -6,9 +6,6 @@ date: 2005-08-03 00:00:00 +0000
 
 Daniel Cazzulino : String concatenation considered harmfull (or how is HTML different than XML with regards to creating it)
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

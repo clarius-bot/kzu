@@ -6,9 +6,6 @@ date: 2008-06-17 00:00:00 +0000
 
 Daniel Cazzulino's Blog : June 18-2008 can be a great day for the Web
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

@@ -6,9 +6,6 @@ date: 2005-06-25 00:00:00 +0000
 
 Daniel Cazzulino's Blog : What's going on in PAG about smart clients? Composite UI Application Block (CAB) is coming!
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

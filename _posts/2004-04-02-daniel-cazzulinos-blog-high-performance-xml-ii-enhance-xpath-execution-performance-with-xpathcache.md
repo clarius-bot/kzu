@@ -6,9 +6,6 @@ date: 2004-04-02 00:00:00 +0000
 
 Daniel Cazzulino's Blog : High-performance XML (II'): Enhance XPath execution performance with XPathCache
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

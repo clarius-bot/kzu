@@ -6,9 +6,6 @@ date: 2005-08-12 00:00:00 +0000
 
 Daniel Cazzulino : What it takes to be a Dev Lead at patterns &amp; practices
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

@@ -6,9 +6,6 @@ date: 2008-09-03 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Developing orientation and resolution aware Windows Mobile applications just got a TON easier
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

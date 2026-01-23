@@ -6,9 +6,6 @@ date: 2003-10-24 00:00:00 +0000
 
 Daniel Cazzulino : Customizing XSD-&gt;Classes code generation, the &quot;easy&quot; way
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

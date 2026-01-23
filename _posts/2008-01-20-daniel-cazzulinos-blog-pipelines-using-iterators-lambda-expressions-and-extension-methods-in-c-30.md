@@ -6,9 +6,6 @@ date: 2008-01-20 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Pipelines Using Iterators, Lambda Expressions and Extension Methods in C# 3.0
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

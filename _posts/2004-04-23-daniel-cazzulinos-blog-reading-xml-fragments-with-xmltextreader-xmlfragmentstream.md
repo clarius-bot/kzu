@@ -6,9 +6,6 @@ date: 2004-04-23 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Reading XML fragments with XmlTextReader - XmlFragmentStream
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

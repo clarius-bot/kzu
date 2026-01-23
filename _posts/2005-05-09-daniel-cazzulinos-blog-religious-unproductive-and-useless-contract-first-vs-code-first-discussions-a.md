@@ -6,9 +6,6 @@ date: 2005-05-09 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Religious, unproductive and useless contract-first vs code-first discussions again
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

@@ -6,9 +6,6 @@ date: 2004-01-26 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Damn!!! I broke the whole thing!!! :S
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

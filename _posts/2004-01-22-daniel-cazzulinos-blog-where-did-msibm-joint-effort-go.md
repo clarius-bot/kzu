@@ -6,9 +6,6 @@ date: 2004-01-22 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Where did MS+IBM joint effort go?!?!?!
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

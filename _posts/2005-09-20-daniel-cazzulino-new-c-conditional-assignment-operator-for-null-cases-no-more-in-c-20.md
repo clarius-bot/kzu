@@ -6,9 +6,6 @@ date: 2005-09-20 00:00:00 +0000
 
 Daniel Cazzulino : New C# conditional assignment operator ?? for null cases!! (no more ? .. : in C# 2.0)
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

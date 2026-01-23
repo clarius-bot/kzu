@@ -6,9 +6,6 @@ date: 2005-05-20 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Pair-programming with Virtual Server and two mouse pointers!!!
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

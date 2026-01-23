@@ -6,9 +6,6 @@ date: 2008-04-29 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Live Mesh FeedSync: an overview of the protocol under the hood
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

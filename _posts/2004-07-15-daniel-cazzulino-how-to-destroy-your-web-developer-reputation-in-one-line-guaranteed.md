@@ -6,9 +6,6 @@ date: 2004-07-15 00:00:00 +0000
 
 Daniel Cazzulino : How To Destroy Your Web Developer Reputation in One Line, Guaranteed
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

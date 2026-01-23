@@ -6,9 +6,6 @@ date: 2005-07-28 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Open source projects and irresponsible use of incompatible licenses
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

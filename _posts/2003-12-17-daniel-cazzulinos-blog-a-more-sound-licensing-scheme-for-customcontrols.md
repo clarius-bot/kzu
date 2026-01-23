@@ -6,9 +6,6 @@ date: 2003-12-17 00:00:00 +0000
 
 Daniel Cazzulino's Blog : A more sound licensing scheme for CustomControls
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

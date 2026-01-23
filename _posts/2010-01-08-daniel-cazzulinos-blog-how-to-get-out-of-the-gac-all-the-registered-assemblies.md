@@ -6,9 +6,6 @@ date: 2010-01-08 00:00:00 +0000
 
 Daniel Cazzulino's Blog : How to get out of the GAC all the registered assemblies
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

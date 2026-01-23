@@ -6,9 +6,6 @@ date: 2004-03-12 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Typed XmlReaders: bridging the gap between streaming and object model APIs.
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

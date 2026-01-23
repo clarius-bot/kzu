@@ -6,9 +6,6 @@ date: 2009-03-27 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Crazy Linq: replacing multiple and nested foreach statements with a query
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

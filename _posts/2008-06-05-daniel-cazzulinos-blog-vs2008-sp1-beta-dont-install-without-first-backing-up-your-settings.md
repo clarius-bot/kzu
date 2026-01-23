@@ -6,9 +6,6 @@ date: 2008-06-05 00:00:00 +0000
 
 Daniel Cazzulino's Blog : VS2008 SP1 Beta: DON'T install without first backing up your settings!
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

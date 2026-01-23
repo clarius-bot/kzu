@@ -6,9 +6,6 @@ date: 2004-03-11 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Don't know what SHA1, DPAPI and Initialization Vector is? Crypto made simpe at last!
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

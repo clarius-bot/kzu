@@ -6,9 +6,6 @@ date: 2007-10-31 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Firefox is still king: creating fully customized GMail and Google skins with plain CSS
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

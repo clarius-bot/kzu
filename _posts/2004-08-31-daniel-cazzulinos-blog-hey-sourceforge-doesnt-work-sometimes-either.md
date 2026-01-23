@@ -6,9 +6,6 @@ date: 2004-08-31 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Hey, SourceForge doesn't work sometimes either!!!
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

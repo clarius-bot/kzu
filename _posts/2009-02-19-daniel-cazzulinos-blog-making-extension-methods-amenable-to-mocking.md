@@ -6,9 +6,6 @@ date: 2009-02-19 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Making extension methods amenable to mocking
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

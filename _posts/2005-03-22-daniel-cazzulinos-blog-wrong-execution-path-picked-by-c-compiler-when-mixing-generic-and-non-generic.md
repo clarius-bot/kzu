@@ -6,9 +6,6 @@ date: 2005-03-22 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Wrong execution path picked by C# compiler when mixing generic and non-generic method signatures.
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

@@ -6,9 +6,6 @@ date: 2007-10-04 00:00:00 +0000
 
 Daniel Cazzulino's Blog : How to get a System.Type from an EnvDTE.CodeTypeRef or EnvDTE.CodeClass
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

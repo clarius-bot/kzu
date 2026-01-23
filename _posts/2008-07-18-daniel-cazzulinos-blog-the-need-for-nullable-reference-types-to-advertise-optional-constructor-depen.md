@@ -6,9 +6,6 @@ date: 2008-07-18 00:00:00 +0000
 
 Daniel Cazzulino's Blog : The need for nullable reference types to advertise optional constructor dependencies
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

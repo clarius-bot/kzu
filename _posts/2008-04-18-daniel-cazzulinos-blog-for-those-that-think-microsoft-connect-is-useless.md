@@ -6,9 +6,6 @@ date: 2008-04-18 00:00:00 +0000
 
 Daniel Cazzulino's Blog : For those that think Microsoft Connect is useless
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

@@ -6,9 +6,6 @@ date: 2009-01-08 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Evolving an API without breaking clients via extension methods, ObsoleteAttribute and EditorBrowsableAttribute
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

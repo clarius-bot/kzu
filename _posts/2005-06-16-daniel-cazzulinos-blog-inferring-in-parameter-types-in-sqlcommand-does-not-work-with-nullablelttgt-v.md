@@ -6,9 +6,6 @@ date: 2005-06-16 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Inferring in parameter types in SqlCommand: does not work with Nullable&lt;T&gt; values
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

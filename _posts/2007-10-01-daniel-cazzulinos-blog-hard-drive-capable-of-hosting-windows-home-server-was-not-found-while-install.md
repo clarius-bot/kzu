@@ -6,9 +6,6 @@ date: 2007-10-01 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Hard drive capable of hosting Windows Home Server was not found while installing on VMWare
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

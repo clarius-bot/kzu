@@ -6,9 +6,6 @@ date: 2003-09-22 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Avoid the default designer for your IComponent-based classes: how to get the code view always!
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

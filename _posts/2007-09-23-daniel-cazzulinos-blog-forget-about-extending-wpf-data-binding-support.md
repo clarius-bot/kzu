@@ -6,9 +6,6 @@ date: 2007-09-23 00:00:00 +0000
 
 Daniel Cazzulino's Blog : Forget about extending WPF data binding support
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 

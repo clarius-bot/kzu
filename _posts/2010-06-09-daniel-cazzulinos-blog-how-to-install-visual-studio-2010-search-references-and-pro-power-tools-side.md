@@ -6,9 +6,6 @@ date: 2010-06-09 00:00:00 +0000
 
 Daniel Cazzulino's Blog : How to install Visual Studio 2010 Search References and Pro Power Tools side by side
 
-### Search
-
-[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
 
 ### Subscriptions
 
