@@ -24,11 +24,10 @@ share-links-active:
   twitter:       true
   linkedin:      true
   stackoverflow: true
-  feed:          true
 
 permalink:        /:title.html 
-url:              https://www.cazzulino.com
-baseurl:          ""
+url:              https://blogs.clarius.org
+baseurl:          "kzu"
 gtag:             G-5THB4CL7H1
 google-search-id: fab2fac2137f17958
 giscus:
@@ -53,10 +52,9 @@ host:         127.0.0.1
 navbar-links:
   Home: "/"
   Archive: "/archive/"
-  Tags: "/tags/"
   About Me: "/about/"
   
-url-pretty: "cazzulino.com"
+url-pretty: "blogs.clarius.org"
 excerpt_length: 100
 feed_show_tags: true
 navbar-col: "black"
