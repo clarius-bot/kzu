@@ -7,21 +7,15 @@ date: 2008-08-25 00:00:00 +0000
 Daniel Cazzulino's Blog : Weirdest SQL Server 2005 installation on a Vista x64 machine
 
 
-### Subscriptions
-
   * [RSS 2.0](http://www.clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://www.clariusconsulting.net/blogs/kzu/atom.aspx)
   * [Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### News
 
 [![](https://web.archive.org/web/20081223081847im_/http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/DanielCazzulino) [](http://feeds.feedburner.com/DanielCazzulino) [![](https://web.archive.org/web/20081223081847im_/http://feeds.feedburner.com/~fc/DanielCazzulino?bg=FF6600&fg=FFFFFF&anim=1)](http://feeds.feedburner.com/DanielCazzulino)
 
 [![Microsoft MVP Profile](https://web.archive.org/web/20081223081847im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](https://mvp.support.microsoft.com/profile/Daniel.Cazzulino)
 
 [ ![](/web/20081223081847im_/http://www.clariusconsulting.net/img/mail-to-button.gif) Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### Post Categories
 
   * [.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://www.clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -58,7 +52,6 @@ I installed first the x64 SP2, and then x32, and everything went smooth (aside f
 
 posted on Monday, August 25, 2008 12:35 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
 
-[Post a Comment](http://www.clariusconsulting.net/blogs/kzu/comments/81438.aspx) :: 
 
   
 

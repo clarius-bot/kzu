@@ -7,8 +7,6 @@ date: 2007-09-19 00:00:00 +0000
 Daniel Cazzulino's Blog : Why the iPhone is not ready for prime time
 
 
-### Subscriptions
-
   * [RSS 2.0](http://clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://clariusconsulting.net/blogs/kzu/atom.aspx)
   * [Contact](http://clariusconsulting.net/blogs/kzu/contact.aspx)
@@ -25,13 +23,9 @@ Su| Mo| Tu| We| Th| Fr| Sa
   
 [![Microsoft MVP Profile](https://web.archive.org/web/20071014050620im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](http://aspnet2.com/mvp.ashx?kzu)
 
-### News
-
 [![](https://web.archive.org/web/20071014050620im_/http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/DanielCazzulino) [](http://feeds.feedburner.com/DanielCazzulino) [![](https://web.archive.org/web/20071014050620im_/http://feeds.feedburner.com/~fc/DanielCazzulino?bg=FF6600&fg=FFFFFF&anim=1)](http://feeds.feedburner.com/DanielCazzulino)
 
 [ ![](/web/20071014050620im_/http://clariusconsulting.net/img/mail-to-button.gif) Contact](http://clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### Post Categories
 
   * [.NET](http://clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -131,7 +125,6 @@ So, I join [Jeff's](http://www.codinghorror.com/blog/archives/000896.html) "no i
 
 posted on Wednesday, September 19, 2007 8:35 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
 
-[Post a Comment](http://clariusconsulting.net/blogs/kzu/comments/32248.aspx) :: 
 
   
 

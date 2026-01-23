@@ -7,8 +7,6 @@ date: 2007-03-13 00:00:00 +0000
 Daniel Cazzulino : eXtensible Mind Lounge : Beware of Hotel Kappa in Mestre/Venice - Tener cuidado con el Hotel Kappa en Mestre/Venecia
 
 
-### Subscriptions
-
   * [RSS 2.0](http://www.clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://www.clariusconsulting.net/blogs/kzu/atom.aspx)
   * [Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
@@ -24,8 +22,6 @@ Su| Mo| Tu| We| Th| Fr| Sa
 1| 2| 3| 4| 5| 6| 7  
   
 [![Microsoft MVP Profile](https://web.archive.org/web/20070323152748im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](http://aspnet2.com/mvp.ashx?kzu)
-
-### Post Categories
 
   * [.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://www.clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)

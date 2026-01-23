@@ -7,13 +7,9 @@ date: 2010-05-14 00:00:00 +0000
 Daniel Cazzulino's Blog : A really simple ViewModel base class with strongly-typed INotifyPropertyChanged
 
 
-### Subscriptions
-
   * [RSS 2.0](http://www.clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://www.clariusconsulting.net/blogs/kzu/atom.aspx)
   * [Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### News
 
 Source code published in this blog is [public domain](http://en.wikipedia.org/wiki/Public_domain) unless otherwise specified.
 
@@ -26,8 +22,6 @@ Source code published in this blog is [public domain](http://en.wikipedia.org/wi
 [![Microsoft MVP Profile](https://web.archive.org/web/20100521014655im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](https://mvp.support.microsoft.com/profile/Daniel.Cazzulino)
 
 [ ![](/web/20100521014655im_/http://www.clariusconsulting.net/img/mail-to-button.gif) Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### Post Categories
 
   * [.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://www.clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -134,7 +128,6 @@ Enjoy!
 
 posted on Friday, May 14, 2010 5:03 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
 
-[Post a Comment](http://www.clariusconsulting.net/blogs/kzu/comments/244098.aspx) :: 
 
 #### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2010/05/14/244098.aspx#244099 "permalink") re: A really simple ViewModel base class with strongly-typed INotifyPropertyChanged @ Friday, May 14, 2010 5:24 AM
 

@@ -7,21 +7,15 @@ date: 2005-06-25 00:00:00 +0000
 Daniel Cazzulino's Blog : What's going on in PAG about smart clients? Composite UI Application Block (CAB) is coming!
 
 
-### Subscriptions
-
   * [RSS 2.0](http://clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://clariusconsulting.net/blogs/kzu/atom.aspx)
   * [Contact](http://clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### News
 
 [![](https://web.archive.org/web/20081122051829im_/http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/DanielCazzulino) [](http://feeds.feedburner.com/DanielCazzulino) [![](https://web.archive.org/web/20081122051829im_/http://feeds.feedburner.com/~fc/DanielCazzulino?bg=FF6600&fg=FFFFFF&anim=1)](http://feeds.feedburner.com/DanielCazzulino)
 
 [![Microsoft MVP Profile](https://web.archive.org/web/20081122051829im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](https://mvp.support.microsoft.com/profile/Daniel.Cazzulino)
 
 [ ![](/web/20081122051829im_/http://clariusconsulting.net/img/mail-to-button.gif) Contact](http://clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### Post Categories
 
   * [.NET](http://clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -47,7 +41,6 @@ As [Eugenio](http://blogs.msdn.com/eugeniop/archive/2005/06/16/430020.aspx) and 
   
 The war room has been substantially improved with a reorganization we did yesterday. I'll post more pictures later, but much more happy with the new layout :)  posted on Saturday, June 25, 2005 4:54 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004) ](src=)
 
-[Post a Comment](http://clariusconsulting.net/blogs/kzu/comments/354.aspx) :: 
 
 #### [#](http://clariusconsulting.net/blogs/kzu/archive/2005/06/25/CabDrop2.aspx#31598 "permalink") christian science monitor search stories @ Wednesday, September 12, 2007 10:58 PM
 

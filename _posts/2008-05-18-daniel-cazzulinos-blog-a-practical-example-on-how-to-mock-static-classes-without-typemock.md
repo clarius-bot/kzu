@@ -7,8 +7,6 @@ date: 2008-05-18 00:00:00 +0000
 Daniel Cazzulino's Blog : A practical example on how to mock static classes without TypeMock
 
 
-### Subscriptions
-
   * [RSS 2.0](http://www.clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://www.clariusconsulting.net/blogs/kzu/atom.aspx)
   * [Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
@@ -25,13 +23,9 @@ Su| Mo| Tu| We| Th| Fr| Sa
   
 [![Microsoft MVP Profile](https://web.archive.org/web/20080603044803im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](http://aspnet2.com/mvp.ashx?kzu)
 
-### News
-
 [![](https://web.archive.org/web/20080603044803im_/http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/DanielCazzulino) [](http://feeds.feedburner.com/DanielCazzulino) [![](https://web.archive.org/web/20080603044803im_/http://feeds.feedburner.com/~fc/DanielCazzulino?bg=FF6600&fg=FFFFFF&anim=1)](http://feeds.feedburner.com/DanielCazzulino)
 
 [ ![](/web/20080603044803im_/http://www.clariusconsulting.net/img/mail-to-button.gif) Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### Post Categories
 
   * [.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://www.clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -84,7 +78,6 @@ More to the [case against statics and singletons at Scott's blog](http://blogs.m
 
 posted on Sunday, May 18, 2008 9:00 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
 
-[Post a Comment](http://www.clariusconsulting.net/blogs/kzu/comments/69123.aspx) :: 
 
 #### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2008/05/18/mock_statics_without_typemock.aspx#69124 "permalink") A practical example on how to mock static classes without TypeMock @ Sunday, May 18, 2008 8:53 PM
 

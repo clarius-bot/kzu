@@ -7,8 +7,6 @@ date: 2005-09-28 00:00:00 +0000
 Daniel Cazzulino : Reflection severely broken for properties
 
 
-### Subscriptions
-
   * [RSS 2.0](http://clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://clariusconsulting.net/blogs/kzu/atom.aspx)
   * [Contact](http://clariusconsulting.net/blogs/kzu/contact.aspx)
@@ -24,8 +22,6 @@ Su| Mo| Tu| We| Th| Fr| Sa
 1| 2| 3| 4| 5| 6| 7  
   
   
-
-### Post Categories
 
   * [All .NET](http://clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -48,7 +44,6 @@ You can see the bug, get a repro class, and vote for it on [Product Feedback](ht
 
 posted on Wednesday, September 28, 2005 6:35 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
 
-[Post a Comment](http://clariusconsulting.net/blogs/kzu/comments/385.aspx) :: 
 
   
 

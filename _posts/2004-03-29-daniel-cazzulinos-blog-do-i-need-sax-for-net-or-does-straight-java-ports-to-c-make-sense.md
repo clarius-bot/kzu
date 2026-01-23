@@ -7,21 +7,15 @@ date: 2004-03-29 00:00:00 +0000
 Daniel Cazzulino's Blog : Do I need SAX for .NET? (or does straight Java ports to C# make sense?)
 
 
-### Subscriptions
-
   * [RSS 2.0](http://clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://clariusconsulting.net/blogs/kzu/atom.aspx)
   * [Contact](http://clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### News
 
 [![](https://web.archive.org/web/20081122064444im_/http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/DanielCazzulino) [](http://feeds.feedburner.com/DanielCazzulino) [![](https://web.archive.org/web/20081122064444im_/http://feeds.feedburner.com/~fc/DanielCazzulino?bg=FF6600&fg=FFFFFF&anim=1)](http://feeds.feedburner.com/DanielCazzulino)
 
 [![Microsoft MVP Profile](https://web.archive.org/web/20081122064444im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](https://mvp.support.microsoft.com/profile/Daniel.Cazzulino)
 
 [ ![](/web/20081122064444im_/http://clariusconsulting.net/img/mail-to-button.gif) Contact](http://clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### Post Categories
 
   * [.NET](http://clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -58,7 +52,6 @@ So, do I want SAX.NET? Definitely NOT. I like some of its ideas. We, as .NET dev
 
 posted on Monday, March 29, 2004 7:47 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
 
-[Post a Comment](http://clariusconsulting.net/blogs/kzu/comments/196.aspx) :: 
 
   
 

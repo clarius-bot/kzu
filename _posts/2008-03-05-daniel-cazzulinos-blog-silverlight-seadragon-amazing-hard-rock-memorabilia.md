@@ -7,8 +7,6 @@ date: 2008-03-05 00:00:00 +0000
 Daniel Cazzulino's Blog : Silverlight + Seadragon = amazing Hard Rock memorabilia
 
 
-### Subscriptions
-
   * [RSS 2.0](http://www.clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://www.clariusconsulting.net/blogs/kzu/atom.aspx)
   * [Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
@@ -25,13 +23,9 @@ Su| Mo| Tu| We| Th| Fr| Sa
   
 [![Microsoft MVP Profile](https://web.archive.org/web/20080503131042im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](http://aspnet2.com/mvp.ashx?kzu)
 
-### News
-
 [![](https://web.archive.org/web/20080503131042im_/http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/DanielCazzulino) [](http://feeds.feedburner.com/DanielCazzulino) [![](https://web.archive.org/web/20080503131042im_/http://feeds.feedburner.com/~fc/DanielCazzulino?bg=FF6600&fg=FFFFFF&anim=1)](http://feeds.feedburner.com/DanielCazzulino)
 
 [ ![](/web/20080503131042im_/http://www.clariusconsulting.net/img/mail-to-button.gif) Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### Post Categories
 
   * [.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://www.clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -58,7 +52,6 @@ I thought it would take years for [Seadragon](http://labs.live.com/Seadragon.asp
 
 posted on Wednesday, March 05, 2008 11:35 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
 
-[Post a Comment](http://www.clariusconsulting.net/blogs/kzu/comments/58144.aspx) :: 
 
 #### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2008/03/05/58144.aspx#58145 "permalink") Silverlight + Seadragon = amazing Hard Rock memorabilia @ Wednesday, March 05, 2008 12:46 PM
 

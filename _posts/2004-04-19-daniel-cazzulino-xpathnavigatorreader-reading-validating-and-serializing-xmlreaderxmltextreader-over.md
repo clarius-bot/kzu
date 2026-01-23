@@ -7,8 +7,6 @@ date: 2004-04-19 00:00:00 +0000
 Daniel Cazzulino : XPathNavigatorReader: reading, validating and serializing! (XmlReader/XmlTextReader over XPathNavigator)
 
 
-### Subscriptions
-
   * [RSS 2.0](http://clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://clariusconsulting.net/blogs/kzu/atom.aspx)
   * 
@@ -24,8 +22,6 @@ Su| Mo| Tu| We| Th| Fr| Sa
 4| 5| 6| 7| 8| 9| 10  
   
   
-
-### Post Categories
 
   * [All .NET](http://clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -337,7 +333,6 @@ Check out the [Roadmap to high performance XML](http://weblogs.asp.net/cazzu/pos
 
 posted on Monday, April 19, 2004 1:16 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
 
-[Post a Comment](http://clariusconsulting.net/blogs/kzu/comments/213.aspx) :: 
 
   
 

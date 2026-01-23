@@ -7,8 +7,6 @@ date: 2007-12-18 00:00:00 +0000
 Daniel Cazzulino's Blog : Linq to Mock: MoQ is born
 
 
-### Subscriptions
-
   * [RSS 2.0](http://www.clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://www.clariusconsulting.net/blogs/kzu/atom.aspx)
   * [Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
@@ -25,13 +23,9 @@ Su| Mo| Tu| We| Th| Fr| Sa
   
 [![Microsoft MVP Profile](https://web.archive.org/web/20080430151609im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](http://aspnet2.com/mvp.ashx?kzu)
 
-### News
-
 [![](https://web.archive.org/web/20080430151609im_/http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/DanielCazzulino) [](http://feeds.feedburner.com/DanielCazzulino) [![](https://web.archive.org/web/20080430151609im_/http://feeds.feedburner.com/~fc/DanielCazzulino?bg=FF6600&fg=FFFFFF&anim=1)](http://feeds.feedburner.com/DanielCazzulino)
 
 [ ![](/web/20080430151609im_/http://www.clariusconsulting.net/img/mail-to-button.gif) Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### Post Categories
 
   * [.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://www.clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -102,7 +96,6 @@ Check out the [Moq Quickstart](http://code.google.com/p/moq/wiki/QuickStart) wik
 
 posted on Tuesday, December 18, 2007 3:19 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
 
-[Post a Comment](http://www.clariusconsulting.net/blogs/kzu/comments/46465.aspx) :: 
 
 #### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2007/12/18/LinqtoMockMoqisborn.aspx#46475 "permalink") Linq to Mock: Moq is born @ Tuesday, December 18, 2007 8:44 PM
 

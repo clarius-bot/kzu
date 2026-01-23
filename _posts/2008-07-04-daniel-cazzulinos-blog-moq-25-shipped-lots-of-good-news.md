@@ -7,21 +7,15 @@ date: 2008-07-04 00:00:00 +0000
 Daniel Cazzulino's Blog : Moq 2.5 shipped: lots of good news!
 
 
-### Subscriptions
-
   * [RSS 2.0](http://www.clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://www.clariusconsulting.net/blogs/kzu/atom.aspx)
   * [Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### News
 
 [![](https://web.archive.org/web/20080708025959im_/http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/DanielCazzulino) [](http://feeds.feedburner.com/DanielCazzulino) [![](https://web.archive.org/web/20080708025959im_/http://feeds.feedburner.com/~fc/DanielCazzulino?bg=FF6600&fg=FFFFFF&anim=1)](http://feeds.feedburner.com/DanielCazzulino)
 
 [![Microsoft MVP Profile](https://web.archive.org/web/20080708025959im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](https://mvp.support.microsoft.com/profile/Daniel.Cazzulino)
 
 [ ![](/web/20080708025959im_/http://www.clariusconsulting.net/img/mail-to-button.gif) Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### Post Categories
 
   * [.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://www.clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -68,7 +62,6 @@ As usual, we'd love to hear your feedback at the [discussion list](http://groups
 
 posted on Friday, July 04, 2008 7:10 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
 
-[Post a Comment](http://www.clariusconsulting.net/blogs/kzu/comments/77643.aspx) :: 
 
 #### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2008/07/04/77643.aspx#77671 "permalink") Moq 2.5 shipped: lots of good news! @ Friday, July 04, 2008 11:15 PM
 

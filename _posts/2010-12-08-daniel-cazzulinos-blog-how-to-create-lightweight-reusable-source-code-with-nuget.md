@@ -7,13 +7,9 @@ date: 2010-12-08 00:00:00 +0000
 Daniel Cazzulino's Blog : How to create lightweight reusable source code with NuGet
 
 
-### Subscriptions
-
   * [RSS 2.0](http://www.clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://www.clariusconsulting.net/blogs/kzu/atom.aspx)
   * [Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### News
 
 Source code published in this blog is [public domain](http://en.wikipedia.org/wiki/Public_domain) unless otherwise specified.
 
@@ -29,8 +25,6 @@ Source code published in this blog is [public domain](http://en.wikipedia.org/wi
 
 [Translate this page](http://www.microsofttranslator.com/bv.aspx?a=http%3a%2f%2fwww.clariusconsulting.net%2f)  
 Powered by [Microsoft® Translator](http://www.microsofttranslator.com/)
-
-### Post Categories
 
   * [.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://www.clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -286,7 +280,6 @@ Now that's it! Just re-building the package is enough to get the changes in, and
 
 posted on Wednesday, December 08, 2010 6:23 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
 
-[Post a Comment](http://www.clariusconsulting.net/blogs/kzu/comments/301006.aspx) :: 
 
   
 

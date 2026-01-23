@@ -7,8 +7,6 @@ date: 2003-08-27 00:00:00 +0000
 Daniel Cazzulino : How to serve binary resources from a database (images and others) in ASP.NET?
 
 
-### Subscriptions
-
   * [RSS 2.0](http://clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://clariusconsulting.net/blogs/kzu/atom.aspx)
   * [Contact](http://clariusconsulting.net/blogs/kzu/contact.aspx)
@@ -24,8 +22,6 @@ Su| Mo| Tu| We| Th| Fr| Sa
 1| 2| 3| 4| 5| 6| 7  
   
   
-
-### Post Categories
 
   * [All .NET](http://clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -202,7 +198,6 @@ To directly open a Word document from the server, we could simply point IE to th
 
 posted on Wednesday, August 27, 2003 4:14 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
 
-[Post a Comment](http://clariusconsulting.net/blogs/kzu/comments/74.aspx) :: 
 
 #### [#](http://clariusconsulting.net/blogs/kzu/archive/2003/08/27/74.aspx#392 "permalink") re: How to serve binary resources from a database (images and others) in ASP.NET? @ Sunday, November 13, 2005 4:19 AM
 

@@ -7,8 +7,6 @@ date: 2007-02-20 00:00:00 +0000
 Daniel Cazzulino's Blog : Team Foundation Power Toys, Vista compatible!
 
 
-### Subscriptions
-
   * [RSS 2.0](http://clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://clariusconsulting.net/blogs/kzu/atom.aspx)
   * [Contact](http://clariusconsulting.net/blogs/kzu/contact.aspx)
@@ -25,13 +23,9 @@ Su| Mo| Tu| We| Th| Fr| Sa
   
 [![Microsoft MVP Profile](https://web.archive.org/web/20080503224239im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](http://aspnet2.com/mvp.ashx?kzu)
 
-### News
-
 [![](https://web.archive.org/web/20080503224239im_/http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/DanielCazzulino) [](http://feeds.feedburner.com/DanielCazzulino) [![](https://web.archive.org/web/20080503224239im_/http://feeds.feedburner.com/~fc/DanielCazzulino?bg=FF6600&fg=FFFFFF&anim=1)](http://feeds.feedburner.com/DanielCazzulino)
 
 [ ![](/web/20080503224239im_/http://clariusconsulting.net/img/mail-to-button.gif) Contact](http://clariusconsulting.net/blogs/kzu/contact.aspx)
-
-### Post Categories
 
   * [.NET](http://clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -82,7 +76,6 @@ Enjoy!
 
 posted on Tuesday, February 20, 2007 9:10 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
 
-[Post a Comment](http://clariusconsulting.net/blogs/kzu/comments/20926.aspx) :: 
 
 #### [#](http://clariusconsulting.net/blogs/kzu/archive/2007/02/20/TeamFoundationPowerToysVista.aspx#20927 "permalink") Team Foundation Power Toys, Vista compatible! @ Tuesday, February 20, 2007 9:18 PM
 

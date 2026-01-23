@@ -7,8 +7,6 @@ date: 2004-05-17 00:00:00 +0000
 Daniel Cazzulino : EIF vs log4net
 
 
-### Subscriptions
-
   * [RSS 2.0](http://clariusconsulting.net/blogs/kzu/rss.aspx)
   * [Atom 0.3](http://clariusconsulting.net/blogs/kzu/atom.aspx)
   * 
@@ -24,8 +22,6 @@ Su| Mo| Tu| We| Th| Fr| Sa
 4| 5| 6| 7| 8| 9| 10  
   
   
-
-### Post Categories
 
   * [All .NET](http://clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
   * [All Technology](http://clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
@@ -174,7 +170,6 @@ Have you used both products? What do you think about the points made above?
 
 posted on Monday, May 17, 2004 12:32 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
 
-[Post a Comment](http://clariusconsulting.net/blogs/kzu/comments/235.aspx) :: 
 
   
 
