@@ -8,7 +8,7 @@ date: 2011-07-13 00:00:00 +0000
 
 July 13, 2011 5:47 am
 
-(cross-posted from [NETFx](<http://kzu.to/rnpM7S>))
+(cross-posted from [NETFx](<https://bit.ly/rnpM7S>))
 
 Somehow we ended up with a stagnating code generator for .resx built-in VS and we just got used to its shortcomings.
 
@@ -26,7 +26,7 @@ The bigger problem with this though is that it’s easy to make mistakes, like f
 
 And to think all it takes to make things better is just a [T4 template](<http://www.hanselman.com/blog/T4TextTemplateTransformationToolkitCodeGenerationBestKeptVisualStudioSecret.aspx>)!!!
 
-The [netfx-System.StringResources](<http://kzu.to/oCEsLz>) package provides that very template in a simple to use way. When it’s installed, a new Resources.tt file is added to your Properties folder, alongside your existing (or to be created) Resources.resx file.
+The [netfx-System.StringResources](<https://bit.ly/oCEsLz>) package provides that very template in a simple to use way. When it’s installed, a new Resources.tt file is added to your Properties folder, alongside your existing (or to be created) Resources.resx file.
 
 The template automatically processes the .resx file whenever its associated custom tool is run by right-clicking the template and selecting “Run Custom Tool”, which also happens automatically when you install the package. So you end up with something like this:
 

@@ -118,6 +118,6 @@ Where the registration code can simply be:
     
     var container = builder.Build();
 
-You gotta love [Autofac](<http://kzu.to/12t9Cry>) ![:\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_smile.gif)
+You gotta love [Autofac](<https://bit.ly/12t9Cry>) ![:\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_smile.gif)
 
 Posted by kzu

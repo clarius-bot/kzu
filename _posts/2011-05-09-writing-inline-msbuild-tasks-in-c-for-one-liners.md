@@ -18,7 +18,7 @@ For example, I needed to checkout a file from TFS before some task run and tried
     <Exec Command="&quot;$(VS100COMNTOOLS)..\IDE\tf.exe&quot; checkout $(ExtenderNamesTargetFile)"
           WorkingDirectory="$(MSBuildProjectDirectory)" />
 
-(Note how I’m [NOT using $(DevEnvDir)](<http://kzu.to/jcvzmX>)) 
+(Note how I’m [NOT using $(DevEnvDir)](<https://bit.ly/jcvzmX>)) 
 
 That’s simple enough, but it has a problem: performance. The tf.exe command connects to the TFS server every time for the checkout, and this can take some time. Not something you want to do if the file is already checked out! So I needed a simple condition: just checkout if the file is readonly. 
 

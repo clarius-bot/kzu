@@ -8,7 +8,7 @@ date: 2013-07-10 00:00:00 +0000
 
 July 10, 2013 1:50 am
 
-The Kickstarter successes of the ambitious [Ghost](<http://kzu.to/185SSpj>) as well as the much more modest [Schema Migrations for Django](<http://kzu.to/185SYNA>) or [git-annex](<http://kzu.to/185TElY>) (all open source software projects) got me thinking that this could be the start of a new way to fund open source projects in general.
+The Kickstarter successes of the ambitious [Ghost](<https://bit.ly/185SSpj>) as well as the much more modest [Schema Migrations for Django](<https://bit.ly/185SYNA>) or [git-annex](<https://bit.ly/185TElY>) (all open source software projects) got me thinking that this could be the start of a new way to fund open source projects in general.
 
 The Django project in particular was solely to add a significant feature to an existing open source project. What if popular open source projects started creating Kickstarter projects to raise funds to push the projects forward? Say a major significant rewrite is needed in some area but nobody can afford a 2 week break from work to complete it? Maybe it requires more than one dev? Maybe devs are from different parts of the world and if significant funds are raised, they could even afford to travel and work together on-site somewhere for 2-3 weeks?
 

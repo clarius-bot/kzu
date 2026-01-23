@@ -8,9 +8,9 @@ date: 2011-12-29 00:00:00 +0000
 
 December 29, 2011 1:58 pm
 
-[Reactive Extensions](<http://kzu.to/rsPavA>) (Rx) is one of the coolest additions to .NET ever. However, they have been largely ignored by the mainstream, in a significant part because (IMO) it’s seen as a [UI technique](<http://www.reactiveui.net/>), with samples that show how to handle mouse moves, drag & drop and so on. Its focus on asynchronous programming too makes it look like a niche technique that might even be worth skipping over as we wait for [C# 5.0 async keyword](<http://kzu.to/vBpKrj>) (see [Mike’s blog entry](<http://kzu.to/vJuwi7>) on a possible clarification of where it might fit in the async world).
+[Reactive Extensions](<https://bit.ly/rsPavA>) (Rx) is one of the coolest additions to .NET ever. However, they have been largely ignored by the mainstream, in a significant part because (IMO) it’s seen as a [UI technique](<http://www.reactiveui.net/>), with samples that show how to handle mouse moves, drag & drop and so on. Its focus on asynchronous programming too makes it look like a niche technique that might even be worth skipping over as we wait for [C# 5.0 async keyword](<https://bit.ly/vBpKrj>) (see [Mike’s blog entry](<https://bit.ly/vJuwi7>) on a possible clarification of where it might fit in the async world).
 
-There is, however, one mainstream application of reactive extensions that seems to have been missed by most: business intelligence. Here’s one concrete example: pretty soon, [hospitals will face penalties for patient readmission](<http://kzu.to/uxwOmY>), so you need a way to get an alert whenever patients are readmitted before a certain elapsed time (say 5 days or whatever). Another one: you want to preventively block a user’s account after 5 consecutive login failures within a minute (looks like an automated attack), or shoot an sms to the support team when failure rates for your app go above 5 crashes a day, or keep a report of top trending products in a store, and so on.
+There is, however, one mainstream application of reactive extensions that seems to have been missed by most: business intelligence. Here’s one concrete example: pretty soon, [hospitals will face penalties for patient readmission](<https://bit.ly/uxwOmY>), so you need a way to get an alert whenever patients are readmitted before a certain elapsed time (say 5 days or whatever). Another one: you want to preventively block a user’s account after 5 consecutive login failures within a minute (looks like an automated attack), or shoot an sms to the support team when failure rates for your app go above 5 crashes a day, or keep a report of top trending products in a store, and so on.
 
 The common theme across all those kinds of business queries is that they involve the concept of time passing and events happening (patients admitted and discharged from hospitals, users trying to log-in, an app crashing, a product being downloaded), things that the Reactive Extensions models as first class citizens. These events are not .NET events, but _domain events_ , the representation of something meaningful that happened to your system.
 
@@ -54,7 +54,7 @@ The EventStream class is simply a pass-through of events that turns things that 
         IObservable<TEvent> Of<TEvent>();
     }
 
-The implementation is surprisingly simple with [Reactive Extensions](<http://kzu.to/uD6ysq>):
+The implementation is surprisingly simple with [Reactive Extensions](<https://bit.ly/uD6ysq>):
     
     
     partial class EventStream : IEventStream
@@ -76,9 +76,9 @@ The implementation is surprisingly simple with [Reactive Extensions](<http://kzu
         }
     }
 
-I’ve put this together as a [NuGet for your convenience](<http://kzu.to/rPiZEs>). I’ve also published a [unit tests package](<http://kzu.to/sYGqDW>) for it, so you get the above examples to play.
+I’ve put this together as a [NuGet for your convenience](<https://bit.ly/rPiZEs>). I’ve also published a [unit tests package](<https://bit.ly/sYGqDW>) for it, so you get the above examples to play.
 
-This seems like a rather simple thing, and even one that isn’t so revolutionary by itself. Might seem like just an improved way to query a log, but in real-time. Like many things, the true power comes when it’s combined with other patterns, specifically [Event Sourcing](<http://kzu.to/og0QJ5>) (ES), as I’ll explain in my next blog post. And that’s the reason behind the title’s prefix, a hint to Greg’s upcoming [Event Centric](<http://kzu.to/to2aQj>) book, which talks about the ES pattern (although I doubt it will mention how combining it with Rx makes for the killer business argument for adopting it).
+This seems like a rather simple thing, and even one that isn’t so revolutionary by itself. Might seem like just an improved way to query a log, but in real-time. Like many things, the true power comes when it’s combined with other patterns, specifically [Event Sourcing](<https://bit.ly/og0QJ5>) (ES), as I’ll explain in my next blog post. And that’s the reason behind the title’s prefix, a hint to Greg’s upcoming [Event Centric](<https://bit.ly/to2aQj>) book, which talks about the ES pattern (although I doubt it will mention how combining it with Rx makes for the killer business argument for adopting it).
 
 Stay tunned!
 

@@ -14,7 +14,7 @@ It’s quite common to refer to $(DevEnvDir) in a project, such as to specify th
 
 Well, turns out that the variable is not defined when the build is run by Team Build, so it resolves to *Undefined*. Yuck.
 
-This adds yet [another reason](<http://kzu.to/e8l7vP>) in favor of using the less obvious $(VS100COMNTOOLS) environment variable.
+This adds yet [another reason](<https://bit.ly/e8l7vP>) in favor of using the less obvious $(VS100COMNTOOLS) environment variable.
 
 Just replace all occurrences of $(DevEnvDir) with $(VS100COMNTOOLS)..\IDE\ and you’re good.
 

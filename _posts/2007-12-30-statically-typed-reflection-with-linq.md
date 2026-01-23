@@ -65,6 +65,6 @@ Anyway, since I wrote my original article, I realized through [Ayende’s blog](
 
 As I’m so in love with the lambda syntax, I’ll keep my implementation based on expression trees instead of delegates.
 
-![](http://www.clariusconsulting.net/aggbug.aspx?PostID=49063)[Update]: superseded by the [NETFx Reflector](<http://kzu.to/fzbYRq>) package.
+![](http://www.clariusconsulting.net/aggbug.aspx?PostID=49063)[Update]: superseded by the [NETFx Reflector](<https://bit.ly/fzbYRq>) package.
 
 Posted by kzu

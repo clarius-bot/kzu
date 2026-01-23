@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Daniel Cazzulino"
+date: 2006-05-19 00:00:00 +0000
+---
+
+Daniel Cazzulino : eXtensible Mind Lounge : Monday, November 08, 2004 - Posts
+
+### Search
+
+[Go](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Singleweblogsearch1$_ctl0$SearchButton',''\))
+
+### Subscriptions
+
+  * [RSS 2.0](http://clariusconsulting.net/blogs/kzu/rss.aspx)
+  * [Atom 0.3](http://clariusconsulting.net/blogs/kzu/atom.aspx)
+  * [Contact](http://clariusconsulting.net/blogs/kzu/contact.aspx)
+
+| [<](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Cal$_ctl0$PostCalendar','V2282'\))| May 2006| [>](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Cal$_ctl0$PostCalendar','V2343'\))  
+---|---|---  
+Su| Mo| Tu| We| Th| Fr| Sa  
+30| 1| 2| 3| 4| 5| 6  
+7| [8](http://clariusconsulting.net/blogs/kzu/archive/2004/11/8.aspx "1 Post")| 9| 10| 11| 12| [13](http://clariusconsulting.net/blogs/kzu/archive/2004/11/13.aspx "1 Post")  
+14| 15| 16| 17| 18| 19| 20  
+21| 22| [23](http://clariusconsulting.net/blogs/kzu/archive/2004/11/23.aspx "1 Post")| 24| [25](http://clariusconsulting.net/blogs/kzu/archive/2004/11/25.aspx "1 Post")| 26| 27  
+28| 29| [30](http://clariusconsulting.net/blogs/kzu/archive/2004/11/30.aspx "2 Posts")| 31| 1| 2| 3  
+4| 5| 6| 7| 8| 9| 10  
+  
+[![Microsoft MVP Profile](https://web.archive.org/web/20060519073807im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](http://aspnet2.com/mvp.ashx?kzu)
+
+### Post Categories
+
+  * [All .NET](http://clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
+  * [All Technology](http://clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
+  * [ASP.NET](http://clariusconsulting.net/blogs/kzu/archive/category/1024.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1024)
+  * [Books](http://clariusconsulting.net/blogs/kzu/archive/category/1022.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1022)
+  * [GAT](http://clariusconsulting.net/blogs/kzu/archive/category/1038.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1038)
+  * [Miscelaneous](http://clariusconsulting.net/blogs/kzu/archive/category/1026.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1026)
+  * [Movies](http://clariusconsulting.net/blogs/kzu/archive/category/1027.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1027)
+  * [Patterns & Practices](http://clariusconsulting.net/blogs/kzu/archive/category/1037.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1037)
+  * [Shadowfax](http://clariusconsulting.net/blogs/kzu/archive/category/1032.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1032)
+  * [Software Factories](http://clariusconsulting.net/blogs/kzu/archive/category/1041.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1041)
+  * [XML](http://clariusconsulting.net/blogs/kzu/archive/category/1021.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1021)
+
+## Monday, November 08, 2004 - Posts
+
+#####  [Kiss your favourite XML editor bye bye! (and welcome Domain Specific Languages designers!)](http://clariusconsulting.net/blogs/kzu/archive/2004/11/08/ByeXmlEditors.aspx)
+
+With the advent of XML, each and every piece of software is configurable with it, from [Virtual PC](http://www.microsoft.com/windows/virtualpc/default.mspx) to [IIS](http://www.microsoft.com/WindowsServer2003/iis/default.mspx) to [log4net](http://logging.apache.org/log4net/) to [Shadowfax](http://workspaces.gotdotnet.com/shadowfx) and all the Application Blocks released from [PAG](http://www.microsoft.com/practices) ... you name it.   
+  
+If you think about it, however, it's quite easy to realize that what those XML files are actually, is nothing more than a text-based representation of the concepts in the particular domain of the tool/app. So, log4net has the concepts of Appenders, Filters, Object Formatters, and so on, while Shadowfax (as most SOA frameworks) has the concepts of Pipeline, Handler, Service Action, and so on. Therefore, XML is just a means to express the particular layout/behavior you want these tools/frameworks to have at run-time. It's not about XML, stupid! It's about the [Domain Specific Language](http://en.wikipedia.org/wiki/Domain-specific_language) (DSL) expressed in (serialized into) those tags.  
+  
+A very important step forward to make these languages first-class citizens in the developer's minds and programming experience has been made by Microsoft with [the release of the tools necessary to build your own DSL editors/designers](http://lab.msdn.microsoft.com/vs2005/teamsystem/workshop/dsltools/). With these specialized editors, the need for a generic XML editor (when used to edit configuration) will dissapear. How many people do you think is using generic XML editors to create instance documents that are used as **input** for an application (other than just for testing purposes)? My bet: **NONE** (InfoPath doesn't count, as it's not an XML editor but a forms tool, which just happens to use XML as the underlying store). Generic XML editors, instead, have been primarily used to _configure_ the myriad of tools/blocks/frameworks that you need to use to get your application up and running fast and with minimal effort (other than the one needed to configure it in the first place, an increasingly complex one indeed!). It's time to move forward.  
+  
+That's why I think any effort put in creating [generic/customizable XML editors](http://www.google.com/search?q=configuration+editor+.net) is futile. I believe the future is a multitude of specialized designers for the different aspects of an application (their DSLs). I hope sooner than later we'll see [an editor like this](http://www.exadel.com/strutsStudio/features/6.0/viewlets/strutsstudio6_viewlet_swf.html) for tools like [UIP](http://msdn.microsoft.com/library/en-us/dnpag/html/uipab.asp), and we'll have nothing to envy the [Eclipse](http://eclipse.org/) guys...  
+
+posted [Monday, November 08, 2004 3:56 PM](http://clariusconsulting.net/blogs/kzu/archive/2004/11/08/ByeXmlEditors.aspx) by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004) with [0 Comments](http://clariusconsulting.net/blogs/kzu/archive/2004/11/08/ByeXmlEditors.aspx#comments)
+
+  
+
+[![](/web/20060519073807im_/http://clariusconsulting.net/Themes/default/images/hdr-KZU.jpg)](http://clariusconsulting.net/blogs "Clarius Aggregated Blogs")

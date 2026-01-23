@@ -8,13 +8,13 @@ date: 2011-05-20 00:00:00 +0000
 
 May 20, 2011 2:45 pm
 
-From the [documentation](<http://kzu.to/netfx-contribute>):
+From the [documentation](<https://bit.ly/netfx-contribute>):
 
 ## How to contribute
 
 [NETFx](<http://netfx.codeplex.com/>) relies on the [CodePlex mercurial fork/pull process](<http://codeplex.codeplex.com/wikipage?title=Forks>) for contributions. The explanation on [how to contribute to NuGet](<http://docs.nuget.org/docs/contribute/contributing-to-nuget>) applies roughly in its entirety to NETFx.
 
-Install the [NETFx Contributor VSIX](<http://kzu.to/netfx_vsix>) from the Extension Manager. 
+Install the [NETFx Contributor VSIX](<https://bit.ly/netfx_vsix>) from the Extension Manager. 
 
 Restart VS, and now you’ll get the NETFx Extension template:
 

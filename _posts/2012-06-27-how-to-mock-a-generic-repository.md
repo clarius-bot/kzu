@@ -8,7 +8,7 @@ date: 2012-06-27 00:00:00 +0000
 
 June 27, 2012 2:17 pm
 
-The short answer is: you don’t. You see, having a mocking library at hand (no matter [how cool it is](<http://kzu.to/Qjt280>)) doesn’t automatically make it the best tool for every testing need. 
+The short answer is: you don’t. You see, having a mocking library at hand (no matter [how cool it is](<https://bit.ly/Qjt280>)) doesn’t automatically make it the best tool for every testing need. 
 
 A generic repository is much easier to replace for testing with a simple fake and allows to use simple state-based testing agaist it, rather than mock verifications. 
 
@@ -56,7 +56,7 @@ You might use integer or long for IDs, you might not have an IEntity interface b
 
 DONE. So why go for a mock, multiple setups, etc.? No need at all. This is a simple reusable fake that you can leverage over and over again in all tests. 
 
-What if you have more of a [domain context-like repository](<http://kzu.to/Qjs77r>) that is more like a unit of work + entity collections? Something like:
+What if you have more of a [domain context-like repository](<https://bit.ly/Qjs77r>) that is more like a unit of work + entity collections? Something like:
     
     
     public interface IDomainContext

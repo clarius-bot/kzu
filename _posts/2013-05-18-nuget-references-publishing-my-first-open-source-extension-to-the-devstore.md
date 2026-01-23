@@ -8,7 +8,7 @@ date: 2013-05-18 00:00:00 +0000
 
 May 18, 2013 7:49 pm
 
-Last week I had the pleasure of spending time with a bunch of friends at the [OuterConf 2013](<kzu.to/outerconf>), including pretty much the entire NuGet team. I also could attend to the hackathon they organized, and I got to hack what I think is a pretty cool Visual Studio 2012 extension: NuGet References. 
+Last week I had the pleasure of spending time with a bunch of friends at the [OuterConf 2013](<https://bit.ly/outerconf>), including pretty much the entire NuGet team. I also could attend to the hackathon they organized, and I got to hack what I think is a pretty cool Visual Studio 2012 extension: NuGet References. 
 
 ## An improved NuGet experience
 
@@ -99,7 +99,7 @@ Well, I’m a complete fan of open source. I always ask myself “why NOT make t
 
 The DevStore provides a great way to encourage developers to automate more of their daily programming activities, boosting productivity. I believe bite sized extensions in the range of $2-10 are a much better option that monster-sized tools that completely take over most of your IDE or pollute it unnecessarily with myriad (and totally unrelated) commands all over the place.
 
-In order to prove the point that both open source and paid convenience delivery of binaries can actually be a commercially viable option, I’m also publishing the entire source for this extension in [GitHub](<http://kzu.to/10x7FXt>).
+In order to prove the point that both open source and paid convenience delivery of binaries can actually be a commercially viable option, I’m also publishing the entire source for this extension in [GitHub](<https://bit.ly/10x7FXt>).
 
 And that’s it! I just bought myself a beer with that demo above, so it’s time for me to go enjoy it. I hope you like the extension and gift me a beer too ![;\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif)
 

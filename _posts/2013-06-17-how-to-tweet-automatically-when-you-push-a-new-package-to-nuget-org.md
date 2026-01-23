@@ -114,7 +114,7 @@ We will copy the “Get as RSS” link and use in the next step.
 
 ## Tweeting from IFTTT
 
-This is the easiest part, and [Scott has already explained the basis of IFTTT](<http://kzu.to/QFQJYM>) better than I could. You just activate your Twitter channel, and pick if[Feed]then[Twitter]. 
+This is the easiest part, and [Scott has already explained the basis of IFTTT](<https://bit.ly/QFQJYM>) better than I could. You just activate your Twitter channel, and pick if[Feed]then[Twitter]. 
 
 I’ve configured my IFTTT Twitter action as: just pushed new version of {{EntryTitle}} #nuget {{EntryUrl}}
 

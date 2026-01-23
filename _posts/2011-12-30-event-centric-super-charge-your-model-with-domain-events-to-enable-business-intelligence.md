@@ -8,7 +8,7 @@ date: 2011-12-30 00:00:00 +0000
 
 December 30, 2011 6:06 pm
 
-I’ve shown in [my previous post](<http://kzu.to/srVn3P>) how interesting domain events can be mined using the Reactive Extensions for .NET. Now we need to raise those events when things happen to our domain. The typical way you’d publish events from your domain is simply adding .NET events. Say we have a Patient class, with a method Admit that causes the patient to be in the hospital and tracks the date when he was admitted:
+I’ve shown in [my previous post](<https://bit.ly/srVn3P>) how interesting domain events can be mined using the Reactive Extensions for .NET. Now we need to raise those events when things happen to our domain. The typical way you’d publish events from your domain is simply adding .NET events. Say we have a Patient class, with a method Admit that causes the patient to be in the hospital and tracks the date when he was admitted:
     
     
     public class Patient
@@ -26,7 +26,7 @@ I’ve shown in [my previous post](<http://kzu.to/srVn3P>) how interesting domai
         }
     }
 
-The domain object method typically does some precondition validation (like the one above, the patient can’t be admitted twice), then mutates the state as needed. At some point the resulting object state will be persisted somehow, but it’s a good goal to have [persistence ignorant](<http://kzu.to/tNqNE0>) entities, as you probably know by now ![Winking smile](http://blogs.clariusconsulting.net/kzu/files/2011/12/wlEmoticon-winkingsmile.png).
+The domain object method typically does some precondition validation (like the one above, the patient can’t be admitted twice), then mutates the state as needed. At some point the resulting object state will be persisted somehow, but it’s a good goal to have [persistence ignorant](<https://bit.ly/tNqNE0>) entities, as you probably know by now ![Winking smile](http://blogs.clariusconsulting.net/kzu/files/2011/12/wlEmoticon-winkingsmile.png).
 
 If we now want to let other components know whenever a patient is admitted, we can just add a .NET event, like so:
     
@@ -63,7 +63,7 @@ From the domain public method, we just raise the event when we’re done mutatin
 
 > Note: I have initialized the event with a non-null initializer lambda, (sender, args) => { }, and that means the event will never be null, so I can avoid the null check in the OnAdmitted method. The overhead is negligible compared to the increased readability and simplicity. I’ve been using this trick forever, and I always find it weird that developers don’t use it everywhere since we have lambdas…
 
-Now, in order to achieve the kind of analysis that I showed in [my previous post](<http://kzu.to/srVn3P>), we need a way to grab ALL events that have been raised by any domain object, so as to publish them for analysis. Someone could still hook to our .NET event, but it would be cumbersome to have to do that in a generic fashion, using reflection, for all events of all domain objects we instantiate (not to mention it would be slow). If we think about the events, the actual interesting data about it is the event args class itself. The sender is always the same, the current object. So we could refactor a bit the code like so:
+Now, in order to achieve the kind of analysis that I showed in [my previous post](<https://bit.ly/srVn3P>), we need a way to grab ALL events that have been raised by any domain object, so as to publish them for analysis. Someone could still hook to our .NET event, but it would be cumbersome to have to do that in a generic fashion, using reflection, for all events of all domain objects we instantiate (not to mention it would be slow). If we think about the events, the actual interesting data about it is the event args class itself. The sender is always the same, the current object. So we could refactor a bit the code like so:
     
     
     public void Admit(DateTimeOffset when)
@@ -390,7 +390,7 @@ And that, dear reader, is the essence of the **Event Sourcing pattern**. Nothing
 
 > The fundamental idea of Event Sourcing is that of ensuring every change to the state of an application is captured in an event object, and that these event objects are themselves stored in the sequence they were applied for the same lifetime as the application state itself.
 
-And I’ll talk about the storage in my next post. To peek at what’s coming, you can install the [Event Sourcing NETFx package](<http://kzu.to/tl7euc>), which includes the DomainObject base class we’ve been discussing in this post (and a bit more).
+And I’ll talk about the storage in my next post. To peek at what’s coming, you can install the [Event Sourcing NETFx package](<https://bit.ly/tl7euc>), which includes the DomainObject base class we’ve been discussing in this post (and a bit more).
 
 Stay tunned.
 
