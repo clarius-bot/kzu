@@ -25,4 +25,4 @@ _Updated:_ What's more, if you want to get rid of the floating panel and the bot
 
 Enjoy. 
 
-posted on Tuesday, January 20, 2004 2:13 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

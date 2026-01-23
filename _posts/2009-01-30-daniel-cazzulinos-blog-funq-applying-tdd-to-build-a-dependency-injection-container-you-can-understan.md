@@ -20,4 +20,4 @@ The series will also serve as a good example, I think, on how TDD is done in pra
 
 Funq is the code-name I'll be using for this project, which will be released (for the .NET CF) on Codeplex ([http://mobile.codeplex.com](http://mobile.codeplex.com/)) later on. A desktop/silverlight version is out of scope for p&p on this project, but it's something I might do on my own by forking it (I might keep the Funq name :)) while keeping it in full sync with the p&p release. 
 
-posted on Friday, January 30, 2009 9:00 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

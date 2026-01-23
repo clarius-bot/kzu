@@ -38,4 +38,4 @@ You’d have one such custom action for each VS version, and that’s it ![:\)](
 
 Enjoy!
 
-Posted by kzu
+/kzu

@@ -19,4 +19,4 @@ Now, I wonder how is XML different than HTML with regards to creating it. After 
 
 Guess [where you will find ****TONS**** of code like that](http://www.flexwiki.com/). This is so [1996 of them](http://en.wikipedia.org/wiki/Active_Server_Pages)!! 
 
-posted on Wednesday, August 03, 2005 1:28 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

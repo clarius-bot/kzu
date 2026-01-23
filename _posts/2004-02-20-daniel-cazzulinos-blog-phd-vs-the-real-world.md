@@ -13,4 +13,4 @@ So, there's no tautological question as he argues. I can rephrase my question as
 
 That's why [my weblog](http://weblogs.asp.net/cazzu/) is titled "IXml* - **Welcome to the real world** ". Not only because I'm a big fan of [Matrix](http://whatisthematrix.warnerbros.com/) but because I care about what happens in the daily work with XML. 
 
-posted on Friday, February 20, 2004 4:14 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -12,4 +12,4 @@ Even though it was made [obsolete by the HTML 4 specification](http://www.w3.org
 
 The strange thing is that even when RssBandit uses an embedded IE for post display, it's modifying the contents of the <xmp> and removing my formatting (tabs, whitespaces and line breaks), and that's why you would see the post rather ugly. Even more strange, it's doing so ONLY for XML content, not for the C# code I embedd... :S
 
-posted on Monday, January 26, 2004 10:50 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -44,4 +44,4 @@ or
 
 One caveat: this is very reliable if the type you're loading is external (i.e. it's CodeClass.InfoLocation == vsCMInfoLocation.vsCMInfoLocationExternal) but for classes on the current project, you'll get a type that contains the code from the last successful compilation. Alternatively, you can force a compilation before going this route, although I'd advise against it: it's not a very good user experience IMO.
 
-posted on Thursday, October 04, 2007 1:20 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

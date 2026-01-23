@@ -12,4 +12,4 @@ However, it's a fact of life that you always want more. And it was time for me t
 
 So it's now time for **Clarius Consulting SA** (clariusconsulting.com and clariusconsulting.net in the registration process now), where we expect to develop further our public visibility and share with the comunity the stuff we learn (mainly with Whidbey now) through our new site [ aspnet2](http://aspnet2.com/) (under construction still) and our books ([two](http://www.amazon.com/exec/obidos/ASIN/1590593618) of [them](http://www.amazon.com/exec/obidos/ASIN/1590593596) comming out soon from Apress). We have officially started the company (that is, we signed the appropriate papers with our lawyer) on March 15, 2004. An important day in our lives, and the beginning of interesting times, I'm sure...
 
-posted on Tuesday, March 23, 2004 10:47 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -137,4 +137,4 @@ You can look at the final [MSBuild properties](<https://github.com/clariuslabs/V
 
 Enjoy!
 
-Posted by kzu
+/kzu

@@ -19,4 +19,4 @@ Well, if you use Windows XP and NTFS volumes, there's a cool workaround, which i
 
 Enjoy! 
 
-posted on Wednesday, December 17, 2003 11:47 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -10,4 +10,4 @@ Adding a feature (namely, the new Url rewriting happening in weblogs.asp.net) an
 If I had the source code for the current version (that is, if ScottW was so kind as to keep a CVS/GDN updated version I can hack into), I could at least tell what is broken and maybe find a workaround.   
 No luck, I guess... 
 
-posted on Tuesday, December 30, 2003 2:06 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

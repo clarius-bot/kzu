@@ -16,4 +16,4 @@ From inside the VM, hit Ctrl+Alt and release them. Now do Alt+Tab and voila!! Yo
   
 Anyway, very cool, and I don't need to touch the mouse anymore to go back and forth between them. Amazing "bugture".  
 
-posted on Friday, September 24, 2004 4:36 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

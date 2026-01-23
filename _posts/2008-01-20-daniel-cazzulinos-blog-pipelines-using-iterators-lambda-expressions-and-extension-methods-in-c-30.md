@@ -196,4 +196,4 @@ It was fun for one thing ;). It also starts opening your mind regarding reuse at
 
 C# 3.0 is the absolutely best version ever. Programming is becoming so damn interesting!
 
-posted on Sunday, January 20, 2008 7:29 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

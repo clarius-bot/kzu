@@ -16,4 +16,4 @@ I guess sooner or later we'll have another long awaited spec:
 
 :S 
 
-posted on Friday, February 27, 2004 9:52 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -53,4 +53,4 @@ Very dissapointing. I had to (once again) implement this myself (on the [ULTIMAT
 
 Anyway, [please vote for the bug](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=381858) so this gets fixed (hopefully it's not too late for C# 4.0!).
 
-posted on Thursday, November 13, 2008 7:42 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

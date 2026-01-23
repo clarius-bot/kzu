@@ -12,4 +12,4 @@ From this [german blog](http://www.live-writer.de/windows-live-writer-download/)
 
 [![screenshot of WLW running on Windows 2008](https://web.archive.org/web/20080503131100im_/http://www.clariusconsulting.net/images/blogs/kzu/InstallingWindowsLiveWriteronWindows2008_10AEA/image_thumb.png)](http://www.clariusconsulting.net/images/blogs/kzu/InstallingWindowsLiveWriteronWindows2008_10AEA/image.png)
 
-posted on Monday, March 24, 2008 4:40 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

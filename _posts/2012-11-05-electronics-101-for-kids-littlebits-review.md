@@ -73,4 +73,4 @@ We couldn’t find a good use for the [Timeout](<https://community.littlebits.cc
 
 All in all, it was one of the best purchases I made for a toy. It’s still quite expensive, and I certainly hope to see its price come down to around $5 per module max, considering you need about 20 per kid to make it interesting. I believe they have a good chance of [becoming the next Legos of electronics](<https://bit.ly/TGcj1P>).
 
-Posted by kzu
+/kzu

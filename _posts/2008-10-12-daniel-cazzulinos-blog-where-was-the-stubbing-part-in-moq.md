@@ -47,4 +47,4 @@ If you want to have some fun reading rather crazy reflection API usage to invoke
 
 Next: out/ref parameters in Moq!!!
 
-posted on Sunday, October 12, 2008 11:51 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

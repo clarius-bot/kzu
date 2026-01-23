@@ -41,4 +41,4 @@ I bet more than one product will ship with broken links in the doc… (dunno how
 
 ![](http://www.clariusconsulting.net/aggbug.aspx?PostID=53053)
 
-Posted by kzu
+/kzu

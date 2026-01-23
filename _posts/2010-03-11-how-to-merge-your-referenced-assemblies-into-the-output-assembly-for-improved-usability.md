@@ -32,4 +32,4 @@ Update: turns out I [had blogged about this before more extensively ![:\)](http:
 
 ![](http://www.clariusconsulting.net/aggbug.aspx?PostID=222905)
 
-Posted by kzu
+/kzu

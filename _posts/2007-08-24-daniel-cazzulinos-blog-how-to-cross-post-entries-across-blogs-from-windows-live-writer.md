@@ -54,4 +54,4 @@ I submitted the plugin to the [Windows Live Gallery](http://gallery.live.com/def
 
 Enjoy!
 
-posted on Friday, August 24, 2007 10:23 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

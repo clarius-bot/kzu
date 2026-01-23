@@ -14,4 +14,4 @@ Peter is very good at it, not only metaphorically, as you can see ;)
 
 You can see [Scott](http://blogs.msdn.com/scottdensmore/), [Brian](http://www.agileprogrammer.com/oneagilecoder/) and [Brad](http://www.agileprogrammer.com/dotnetguy/) watch him in [awe](http://dictionary.reference.com/search?q=awe).
 
-posted on Friday, August 12, 2005 1:53 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

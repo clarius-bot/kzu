@@ -8,4 +8,4 @@ date: 2007-09-24 00:00:00 +0000
 
 I know I'm years behind this, but just solved some range problems I had at home by using my existing Airport Express as a range extender in addition to a remote speaker, as explained in an article about [Linksys WRT54G, Airport Express, and WDS](http://rgbdream.com/2005/09/06/linksys-wrt54g-airport-express-and-wds/).
 
-posted on Monday, September 24, 2007 6:44 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

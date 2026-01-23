@@ -22,4 +22,4 @@ Moreover, I read that babies that signed actually learned to speak sooner and wi
 
 Only time will tell, but it's absolutely thrilling. So, if you've a 10-12 months baby, you should start signing right-away!!!
 
-posted on Wednesday, June 27, 2007 7:44 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

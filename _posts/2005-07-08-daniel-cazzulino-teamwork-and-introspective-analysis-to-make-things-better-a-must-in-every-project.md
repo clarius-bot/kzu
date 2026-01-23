@@ -16,4 +16,4 @@ After we grouped the notes according to the area (from technology/infrastructure
 
 Process-wise, this is a very good practice that we'll surely be applying at [ClariuS](http://clariusconsulting.net/). 
 
-posted on Friday, July 08, 2005 7:48 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -165,4 +165,4 @@ This is exploratory field as we try to make for the best user experience possibl
 
 What do you think?
 
-posted on Tuesday, April 29, 2008 4:16 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

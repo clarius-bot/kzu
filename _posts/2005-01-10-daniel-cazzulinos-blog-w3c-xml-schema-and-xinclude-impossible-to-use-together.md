@@ -30,4 +30,4 @@ Please [vote the bug if](http://lab.msdn.microsoft.com/ProductFeedback/viewFeedb
   
   
 
-posted on Monday, January 10, 2005 4:00 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -14,4 +14,4 @@ XML MVPs in Argentina| none!
   
 The more amazed I am with the award :o)
 
-posted on Wednesday, January 21, 2004 11:53 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

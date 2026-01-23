@@ -16,4 +16,4 @@ The only thing that looks (potentially) better on the X1 is the redesigned keybo
 
 Sigh… still waiting for a real no-compromises 13’’ from Lenovo. But the X220 is very very close. I’m as happy as one can be with my X201, so I’ll probably just skip the X1…
 
-Posted by kzu
+/kzu

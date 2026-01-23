@@ -199,4 +199,4 @@ You can also [download the plain text representation](http://www.clariusconsulti
 [![Creative Commons License](https://web.archive.org/web/20080622141023im_/http://i.creativecommons.org/l/by/3.0/88x31.png) ](http://creativecommons.org/licenses/by/3.0/)  
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). 
 
-posted on Thursday, November 22, 2007 9:02 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

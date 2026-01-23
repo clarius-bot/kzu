@@ -19,4 +19,4 @@ Let's start the real blogging now...
 
 Cazzu 
 
-posted on Friday, August 22, 2003 11:15 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

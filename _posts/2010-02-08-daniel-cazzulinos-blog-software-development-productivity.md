@@ -12,4 +12,4 @@ I agree with the analysis that unnatural organizational structures kill producti
 
 And it's not always only a matter of design principles, I'd add. Sometimes you need a specific area of expertise which you're better off outsourcing (i.e. Visual Studio extensibility, hardcore WCF, framework/runtime libraries, WPF/Silverlight/Blend UEX, etc.). Small shops of highly specialized professionals can save you tons of money and time. But your own dev team will certainly benefit from applying sound design principles for what matters most to your business: the business rules and logic.
 
-posted on Monday, February 08, 2010 3:15 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

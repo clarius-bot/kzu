@@ -28,4 +28,4 @@ I'm still enjoying XAML/WPF very much, but this is [the second](http://www.clari
 
 It's probably useless, but if you wanna [vote to get this changed](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=299711), go ahead. Thanks.
 
-posted on Tuesday, September 25, 2007 8:21 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

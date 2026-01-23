@@ -18,4 +18,4 @@ MS Live: 177k results, first couple links VERY relevant, following ones somewhat
 
 Maybe it's because they are geeky questions, but for me, Google is still king, and all the fuss about the ["the world's biggest search engine"](http://www.cuil.com/) is totally bogus.
 
-posted on Saturday, August 02, 2008 5:55 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

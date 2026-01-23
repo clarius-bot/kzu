@@ -51,4 +51,4 @@ Now, the most interesting thing is that you don’t have to do *anything* at all
 
 ![](http://clariusconsulting.net/aggbug.aspx?PostID=531)
 
-Posted by kzu
+/kzu

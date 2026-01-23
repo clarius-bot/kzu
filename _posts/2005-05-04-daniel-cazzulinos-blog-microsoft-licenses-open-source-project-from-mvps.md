@@ -25,4 +25,4 @@ Next targets:
 
 BTW, this agreement came out of good will from both sides, and I didn't make any money in the process. 
 
-posted on Wednesday, May 04, 2005 6:39 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

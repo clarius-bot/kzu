@@ -10,4 +10,4 @@ I've broken the mark of 100 bugs entered thorugh [Product Feedback](http://lab.m
   
 Contributing this way makes you definitely feel part of the process of helping the platform continue to rock!  
 
-posted on Wednesday, June 01, 2005 7:19 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

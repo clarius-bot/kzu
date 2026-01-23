@@ -18,4 +18,4 @@ There's built-in support for browsing, searching and managing your styles, very 
 
 Brilliant.
 
-posted on Wednesday, October 31, 2007 8:26 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

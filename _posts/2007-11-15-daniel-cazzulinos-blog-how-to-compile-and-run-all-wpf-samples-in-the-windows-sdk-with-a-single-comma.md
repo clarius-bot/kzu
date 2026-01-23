@@ -25,4 +25,4 @@ Just issue the following PowerShell one-liner, and you'll compile and run each s
 
 Very useful if you're just playing with the technologies and want to get a quick overview through samples of what's possible.
 
-posted on Thursday, November 15, 2007 8:13 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

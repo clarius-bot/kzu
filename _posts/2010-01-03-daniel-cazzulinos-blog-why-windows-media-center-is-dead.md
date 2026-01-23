@@ -37,4 +37,4 @@ For now, I got my [Dell Zino HD](http://www.dell.com/us/en/corp/desktops/inspiro
 
 The future looks bright for the smart home :)
 
-posted on Sunday, January 03, 2010 12:55 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

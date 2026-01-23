@@ -20,4 +20,4 @@ Last weekend the OAC reached another important milestone with its 2008 RTM versi
 
 My friend and OAC Lead [Joe](http://www.mobilepractices.com/) has blogged more about [the release and why it's important to you](http://www.mobilepractices.com/2008/09/orientation-aware-control-2008-released.html).
 
-posted on Wednesday, September 03, 2008 8:40 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

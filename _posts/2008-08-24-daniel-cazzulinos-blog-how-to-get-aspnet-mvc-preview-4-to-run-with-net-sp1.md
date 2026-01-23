@@ -37,4 +37,4 @@ The other two redirects are added automatically by a Dynamic Data website, so I 
 
 [](http://11011.net/software/vspaste)
 
-posted on Sunday, August 24, 2008 9:03 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

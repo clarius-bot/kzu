@@ -17,4 +17,4 @@ https://raw.github.com/wiki/[user]/[project]/[page].md
 
 Just replace the square brackets’ stuff with your values and that’s it. I think I’ll be trying this out with a wiki page as a Release Notes landing page, which I just pull in raw format on a build script and replace the Nuget <releaseNotes> node with its content…
 
-Posted by kzu
+/kzu

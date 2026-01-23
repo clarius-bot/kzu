@@ -27,4 +27,4 @@ I can even envision some cool rewards:
 
 I’d certainly be backing way more projects than I’m doing now (I did back Ghost which looks very promising).
 
-Posted by kzu
+/kzu

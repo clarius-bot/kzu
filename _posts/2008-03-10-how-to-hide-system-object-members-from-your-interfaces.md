@@ -78,4 +78,4 @@ Sometimes I do love VS ![:\)](http://blogs.clariusconsulting.net/kzu/wp-includes
 
 ![](http://www.clariusconsulting.net/aggbug.aspx?PostID=58301)
 
-Posted by kzu
+/kzu

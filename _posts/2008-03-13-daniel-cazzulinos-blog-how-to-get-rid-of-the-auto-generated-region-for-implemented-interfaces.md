@@ -14,4 +14,4 @@ Anyway, just go to Tools -> Options and please-please turn it off!!!
 
 And please-please-please-please [VOTE TO MAKE IT OFF BY DEFAULT](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=332931 "MS Connect Bug Report")!!!
 
-posted on Thursday, March 13, 2008 12:50 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

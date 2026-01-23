@@ -41,4 +41,4 @@ The worst case scenario is if the method receiving a BaseType returned a BaseTyp
   
 I believe this is pretty serious, and should get inmediate attention before it's too late. Please [vote for the bug](http://lab.msdn.microsoft.com/ProductFeedback/viewfeedback.aspx?feedbackid=581bd41b-eb2a-4902-bcef-623f05e6726c) if you agree.
 
-posted on Tuesday, March 22, 2005 1:45 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

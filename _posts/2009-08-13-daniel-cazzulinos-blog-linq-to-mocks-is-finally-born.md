@@ -100,4 +100,4 @@ There are many more features in this upcoming version of Moq. I'll try to blog a
 
 [Go get it](http://moq.me/get)!
 
-posted on Thursday, August 13, 2009 6:53 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

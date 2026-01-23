@@ -10,4 +10,4 @@ SqlCommand can infer parameter types from their values. It has always been that 
   
 Turns out that if you try to use parameter inference with Nullable<T>, you will get an exception saying that the managed provider does not know how to map the Nullable<T> to a native type. As usual, [I reported the bug](http://lab.msdn.microsoft.com/ProductFeedback/viewFeedback.aspx?feedbackid=e4c5e9a3-9fac-4eab-98c0-776e85250d0c), which they resolved ***By Design*** (hopefully they will change the resolution to **Posponed** , which is what I would expect given their own answer to the issue). Hence, it's not supported and will not be in Whidbey. Too bad as auto-generated data access layers now will have to account for this. And it's bad because although the introduccion of the Nullable<T> made it easier to generate the reading piece, it now complicates the querying and updating :(. 
 
-posted on Thursday, June 16, 2005 1:55 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

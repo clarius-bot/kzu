@@ -34,4 +34,4 @@ In a nutshell:
 
 Enjoy! 
 
-posted on Tuesday, February 20, 2007 9:10 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

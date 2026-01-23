@@ -55,4 +55,4 @@ Note that now you need to use the [SystemFonts](http://msdn2.microsoft.com/en-us
 
 WPF is so cool, but until we get our heads around building desktop apps the way we learned (through years of pain) to build web apps (that is, no styles on the UI markup, maximize reuse of markup blocks, etc), it's pretty painful. Specially since WPF takes the web styling concept much further (developers should build the UI with the absolute minimal markup required to implement behavior and a graphics designer should come later and using Blend and styles, completely rework the visuals). 
 
-posted on Monday, August 20, 2007 1:14 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -44,4 +44,4 @@ This would bring back the assertion phase to the place it belongs, if that's wha
 
 What do you think?
 
-posted on Tuesday, April 22, 2008 7:45 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

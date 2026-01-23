@@ -167,4 +167,4 @@ To render specs I quickly put together a query that uses reflection:
 
 Note that this class is not a test class or test method. That's because we render on-demand. When I need to discuss or explain how a given area works, I'll go and render the specs first, email it and then meet. To run the Render method, I use [TestDriven.NET](http://testdriven.net/) which can run any method on any class (with a default constructor). I use it to run all tests too :), it's SOOOO much speedier than the VS runner...
 
-posted on Thursday, October 01, 2009 6:11 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

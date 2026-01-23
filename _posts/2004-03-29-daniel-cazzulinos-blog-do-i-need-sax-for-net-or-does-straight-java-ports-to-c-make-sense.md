@@ -20,4 +20,4 @@ I think copying Java projects over to .NET is not always a good idea, specially 
 
 So, do I want SAX.NET? Definitely NOT. I like some of its ideas. We, as .NET developers, should take the best ideas from it, mix them with .NET-friendly APIs, take advantage of built-in infrastructure, and improve on it. So, I still like it much more the [Xml Streaming Events (XSE)](http://weblogs.asp.net/cazzu/posts/XseIntro.htm) idea than any of these ports. I have to work further on it, develop more use cases, clarify the API and give a second though to some concepts, but it definitely integrates far better with current and future .NET XML support. What I definitely don't want, is to code against a pseudo-.NET/pseudo-Java API. 
 
-posted on Monday, March 29, 2004 7:47 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

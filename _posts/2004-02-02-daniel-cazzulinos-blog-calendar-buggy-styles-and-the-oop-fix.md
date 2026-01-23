@@ -17,4 +17,4 @@ private class NonStyleWriter : HtmlTextWriter { HtmlTextWriter _writer; public N
 What you get is a calendar without ANY `style=""` attributes whatsoever.  
 I leave the task of putting this into a library, copying the XSD from the MS Calendar, installing it under the appropriate VS folder to get intellisense, and toolbox item attribute to VGA, which excels in the matter ;). The code can be downloaded from the [ ASPNET2 Incubator](http://aspnet2.com/incubator/code/UnStyledCalendar.cs.txt)
 
-posted on Monday, February 02, 2004 10:46 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

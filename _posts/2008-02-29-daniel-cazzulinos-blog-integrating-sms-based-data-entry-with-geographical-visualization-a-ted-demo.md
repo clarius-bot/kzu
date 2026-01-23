@@ -70,4 +70,4 @@ Will follow-up with details about the [technologies and open source projects](ht
 * sending direct SMS messages is no longer working as the TED demo finished. You can still tweet ted08 and have the messages appear.  
 Also, we're no longer on-site monitoring the demo server/wesite, so it may be down sporadically (see all the alpha/ctp/preview stuff we're using? ;)), so please be patient. 
 
-posted on Friday, February 29, 2008 9:58 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

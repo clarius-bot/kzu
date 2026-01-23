@@ -10,4 +10,4 @@ If you happen to be around Buenos Aires, don't miss today's [TechNight](http://w
   
 [Here are the slides](http://aspnet2.com/kzu/weblog/GATTechNight.zip) that I'll be showing (along with *lots* of demos/code!!).  
 
-posted on Friday, August 12, 2005 1:44 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

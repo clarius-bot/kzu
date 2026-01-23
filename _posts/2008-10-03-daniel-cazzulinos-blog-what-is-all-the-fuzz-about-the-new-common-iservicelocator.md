@@ -50,4 +50,4 @@ I'd argue that people that should care/use such a thing is even less than 1%. Th
 
 There you have my rant too :)
 
-posted on Friday, October 03, 2008 6:35 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

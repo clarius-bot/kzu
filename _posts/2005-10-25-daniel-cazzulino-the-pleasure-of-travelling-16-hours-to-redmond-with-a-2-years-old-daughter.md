@@ -10,4 +10,4 @@ She's already well-known for being an [early](http://weblogs.asp.net/cazzu/archi
 
 [![](https://web.archive.org/web/20051105084447im_/http://aspnet2.com/kzu/weblog/Agus-avion-small.jpg)](http://aspnet2.com/kzu/weblog/Agus-avion-big.jpg "Click to enlarge")
 
-posted on Tuesday, October 25, 2005 11:59 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

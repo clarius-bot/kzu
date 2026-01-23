@@ -8,4 +8,4 @@ date: 2004-03-26 00:00:00 +0000
 
 Just in case [you didn't hear it before](http://www.tkachenko.com/blog/archives/000199.html). Note: you will have to drill down to the Developer Tools tree node to find it. It isn't in the home as New Downloads yet... 
 
-posted on Friday, March 26, 2004 5:26 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

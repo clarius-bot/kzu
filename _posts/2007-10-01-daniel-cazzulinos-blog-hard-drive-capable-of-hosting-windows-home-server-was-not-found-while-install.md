@@ -14,4 +14,4 @@ Turns out that WHS will not recognize these drives:
 
 You will have to shutdown the VM, remove and optionally delete the original SCSI disk, and create new IDE drive. Remember to make it bigger than 65GB, and now installation should run smoothly.
 
-posted on Monday, October 01, 2007 9:10 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

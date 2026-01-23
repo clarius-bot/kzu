@@ -41,4 +41,4 @@ I was suggested two workarounds:
 
 I created a small repro and reported this bug through Connect: <https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=304777> (you can vote it!)
 
-posted on Thursday, November 15, 2007 10:51 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

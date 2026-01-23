@@ -30,4 +30,4 @@ MS, help!!! Calling code is simple:
 
 `
 
-posted on Monday, December 01, 2003 6:06 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

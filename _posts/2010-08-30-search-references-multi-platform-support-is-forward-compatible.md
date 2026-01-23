@@ -20,4 +20,4 @@ Kudos to the <http://go-mono.com/monodroid/> team for integrating so nicely in t
 
 ![](http://www.clariusconsulting.net/aggbug.aspx?PostID=276778)
 
-Posted by kzu
+/kzu

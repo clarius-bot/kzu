@@ -18,4 +18,4 @@ Microsoft Connect site used to be the place where you suggested things. I did fo
 
 So I basically cloned the suggestion in the new site. Please go vote to [get support for ISupportInitialize on object initializers in C# 5.0](<https://bit.ly/rpOYNs>)!
 
-Posted by kzu
+/kzu

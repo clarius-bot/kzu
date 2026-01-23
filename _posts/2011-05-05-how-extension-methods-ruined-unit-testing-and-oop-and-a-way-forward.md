@@ -129,4 +129,4 @@ Next post we’ll look at the implementation and I’ll post the source.
 
 Stay tunned!
 
-Posted by kzu
+/kzu

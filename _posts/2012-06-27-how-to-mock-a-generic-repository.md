@@ -109,4 +109,4 @@ That’s also trivial to fake:
 
 Any other variations of the repository pattern or similar persistence abstraction you have, can simply be replaced with an in-memory one based on lists or dictionaries. Just don’t try to mock something that simple to fake.
 
-Posted by kzu
+/kzu

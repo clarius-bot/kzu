@@ -12,4 +12,4 @@ Now, back to pair-programming with Virtual Server, it works great except that  y
 
 BTW, pairing with virtual server is *real* pair programming: you can switch the driver instantly, and the whole process is much more smooth. It's great. You really need to try it if you haven't done it yet.  
 
-posted on Friday, May 20, 2005 11:58 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

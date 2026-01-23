@@ -154,4 +154,4 @@ And it's looking much better now :). The code is very similar to the one shown a
         controller.HttpContext.Response.Redirect(target);
     }
 
-posted on Monday, April 07, 2008 2:01 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

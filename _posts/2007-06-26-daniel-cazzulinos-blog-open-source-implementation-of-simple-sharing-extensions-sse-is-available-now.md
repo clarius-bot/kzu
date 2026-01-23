@@ -43,4 +43,4 @@ Included in the download is a sample application that is a very simple Customer 
 
 Feedback welcomed! (either comments here, or in [the user forum](http://www.codeplex.com/sse/Thread/List.aspx))
 
-posted on Tuesday, June 26, 2007 8:30 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

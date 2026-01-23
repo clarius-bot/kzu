@@ -40,4 +40,4 @@ Some people have argued this is just another consumer-oriented Microsoft-thinghy
 
 Stay tunned as I'll be posting more detailed (and practical) information about Mesh4x in the coming weeks, as well as the cool stuff we're doing with [InSTEDD](http://instedd.org/) as part of its [goal of helping in the humanitarian space by applying technology](http://instedd.org/about).  
 
-posted on Thursday, April 24, 2008 1:19 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -124,4 +124,4 @@ It's quite late on an intense week at Redmond, so I'm just going to paste the re
     
     Enjoy!!!
 
-posted on Thursday, March 05, 2009 11:31 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

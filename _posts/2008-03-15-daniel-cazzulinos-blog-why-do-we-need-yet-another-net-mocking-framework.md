@@ -121,4 +121,4 @@ You can also place calls to [Verify](http://www.clariusconsulting.net/labs/moq/h
 
 These features take away one of the typical complaints: that using mock frameworks typically make your unit tests too verbose and obscure the true purpose of the test behind somewhat unrelated expectations that have to be set just to hook everything together. Now you can move all that repetitive code (and typically expensive to fix when implementation details change) to the fixture setup, and have a central place to maintain when interactions change.
 
-posted on Monday, March 17, 2008 8:51 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

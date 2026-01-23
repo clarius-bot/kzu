@@ -14,4 +14,4 @@ So, in order to benefit from the better manageability and modularity of you guid
 
 ![](http://clariusconsulting.net/aggbug.aspx?PostID=431)
 
-Posted by kzu
+/kzu

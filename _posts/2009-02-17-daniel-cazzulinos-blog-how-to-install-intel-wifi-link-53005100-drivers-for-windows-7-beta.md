@@ -14,4 +14,4 @@ See, the page for the [Lenovo X200](http://shop.lenovo.com/SEUILibrary/controlle
 
 So I went to [the source](http://downloadcenter.intel.com/Product_Filter.aspx?ProductID=3062), got the bare drivers, unzipped them, right-clicked the unrecognized device (Network Device or something like that), clicked "Update Driver" and specified the path to the unzipped drivers. Worked like a charm and I'm now thoroughly enjoying the new taskbar...
 
-posted on Tuesday, February 17, 2009 1:29 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

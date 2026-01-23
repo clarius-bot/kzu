@@ -12,4 +12,4 @@ Weird procedure you have to follow to activate:
 
 [Activate Windows Server 2008 RTM (MSDN Subscriber Downloads version)](http://snowstormlife.com/blogs/bliz/archive/2008/02/11/activate-windows-server-2008-rtm-msdn-subscriber-downloads-version.aspx)
 
-posted on Saturday, October 25, 2008 12:33 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -19,4 +19,4 @@ If, however, those dependencies are distributed by some other means (i.e. anothe
       ...
       <IncludeCopyLocalReferencesInVSIXContainer>false</IncludeCopyLocalReferencesInVSIXContainer>
 
-Posted by kzu
+/kzu

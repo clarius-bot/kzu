@@ -17,4 +17,4 @@ date: 2005-09-25 00:00:00 +0000
 Looks like the killer recipe for a world-changing (more than they have, already) company if they merge, or am I just dreaming? (not the first one to dream about it, for sure)  
 I'm not sure about Amazon... it has competing technologies with both eBay (lots of third-party stores sell through both) and Google (i.e. A9 search engine)... but they could all three join forces, yes... that would be so good but at the same time damn scaring!  
 
-posted on Sunday, September 25, 2005 5:52 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

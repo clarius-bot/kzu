@@ -26,4 +26,4 @@ Mmm... the following code causes a `System.NullReferenceException`:
 
 The exception is thrown at the `WriteStartDocument()` call. Of course the document being written is not valid according to the [Prolog and DTD Declaration](http://www.w3.org/TR/REC-xml#sec-prolog-dtd) specification in XML, but we should get a meaningful exception, right? 
 
-posted on Friday, October 17, 2003 12:57 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

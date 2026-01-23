@@ -34,4 +34,4 @@ How about this flow?
 
 I believe this is totally worth exploring. I’m willing to give this a try for Moq v5, as we talked about in [our first hangout](<https://bit.ly/xNP9BT>). What do you think? Is this something that looks reasonable and useful?
 
-Posted by kzu
+/kzu

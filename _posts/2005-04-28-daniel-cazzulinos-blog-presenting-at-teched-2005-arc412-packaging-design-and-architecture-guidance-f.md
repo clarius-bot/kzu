@@ -11,4 +11,4 @@ It's an honor to [be there](http://www.msteched.com/content/sessions.aspx) prese
 Now I only have to find the time to start sharing how to use it....  
 [![](https://web.archive.org/web/20081122021254im_/http://techedbloggers.net/Images/Flair/illbethere_7.gif)](http://msteched.com/content/sessions.aspx "Search Daniel Cazzulino as speaker :\)")
 
-posted on Thursday, April 28, 2005 5:34 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

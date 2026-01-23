@@ -29,4 +29,4 @@ That import is required by VS2005 in order to properly compile the XAML files, b
 
 Now you can have half your team with VS2005 and the adventurous ones on VS2008 :)
 
-posted on Wednesday, September 12, 2007 8:07 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

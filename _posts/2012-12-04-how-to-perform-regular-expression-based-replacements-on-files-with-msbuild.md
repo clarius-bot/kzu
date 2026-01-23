@@ -71,4 +71,4 @@ I recently had a need to also supply [RegexOptions](<https://bit.ly/RAkhuT>) to 
 
 **Update** : As noted by Emperor, I simplified the code for parsing the enum from using Aggregate to a simple string replace of | with a comma, which is readily supported by Enum.Parse ![Smile](http://blogs.clariusconsulting.net/kzu/files/2012/12/wlEmoticon-smile.png)
 
-Posted by kzu
+/kzu

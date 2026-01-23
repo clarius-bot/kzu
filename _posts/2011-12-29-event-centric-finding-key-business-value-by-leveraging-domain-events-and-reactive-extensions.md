@@ -84,4 +84,4 @@ Stay tunned!
 
 [Update] The “surprisingly simple” implementation explained above is surprisingly limiting too ![:\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_smile.gif) . Namely: the subscriber has to use the exact same type as the publisher in order for a subscription to be called. In other words: no support for covariant subscriptions, subscriptions to interfaces implemented by the concrete events, etc. (i.e. the EventPattern<TEventArgs> from Rx wouldn’t work for subscriptions to the base EventPattern<EventArgs>). So I had to make it a bit more complicated to support everything the CLR supports in terms of assignable types. The updated nuget package contains the full implementation.
 
-Posted by kzu
+/kzu

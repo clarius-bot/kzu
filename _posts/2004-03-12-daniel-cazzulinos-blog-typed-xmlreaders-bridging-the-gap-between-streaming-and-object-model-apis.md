@@ -48,4 +48,4 @@ So, what do you think about such an idea? Is it useful? Would you use it? What s
 
 This may be part of the new [Mvp.Xml](http://sf.net/projects/mvp-xml) project most XML MVPs (including me, of course) are heading.
 
-posted on Friday, March 12, 2004 11:32 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

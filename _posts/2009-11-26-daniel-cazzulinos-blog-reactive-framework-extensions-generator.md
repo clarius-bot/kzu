@@ -45,4 +45,4 @@ which will enable you to use LINQ operators and the new Observable APIs for all 
 
 Go to the [Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/en-us/0791089a-4570-4f21-b5ee-78aba7e80651) and give it a try!
 
-posted on Thursday, November 26, 2009 8:56 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

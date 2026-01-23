@@ -31,4 +31,4 @@ This command removes and sort using statements for all classes given a project. 
 
 And there are many more. You can download it from [the new MSDN code gallery](http://code.msdn.microsoft.com/PowerCommands/Release/ProjectReleases.aspx?ReleaseId=559).
 
-posted on Monday, March 03, 2008 4:38 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

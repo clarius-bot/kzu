@@ -14,4 +14,4 @@ Of course, I'll be blogging a lot more about it now that it's public... now you 
   
 I'll keep all GAT-related posts in a [separate category](http://weblogs.asp.net/cazzu/category/9898.aspx) for easier subscription. There's also a [patterns & practices](http://weblogs.asp.net/cazzu/category/6331.aspx) category if you're interested in everything we do for PAG.  
 
-posted on Wednesday, April 20, 2005 4:16 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

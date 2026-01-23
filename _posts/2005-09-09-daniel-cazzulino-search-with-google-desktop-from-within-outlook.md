@@ -10,4 +10,4 @@ I may be a little late, but I've just downloaded the latest version of [Google D
   
 Definitely, Google is getting closer and closer to killing the application I hate the most in my life with computers, that fat dog that eats 120+Mb RAM and freezes my computer every now and then, and sometimes eats 100% of my CPU....  
 
-posted on Friday, September 09, 2005 1:15 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -52,4 +52,4 @@ The DebuggerTextWriter is trivial too:
 
 In both cases I'm wrapping the code in #if DEBUG so that it doesn't even go to production code. The debugger writer will write to the console output as well as the VS debugger output window.
 
-posted on Friday, August 22, 2008 4:08 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

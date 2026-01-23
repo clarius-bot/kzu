@@ -65,4 +65,4 @@ And [after registering your snap-in](http://www.clariusconsulting.net/blogs/pga/
 
 And now you can use your beloved "typeof" passing just the type name.
 
-posted on Tuesday, August 21, 2007 4:13 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

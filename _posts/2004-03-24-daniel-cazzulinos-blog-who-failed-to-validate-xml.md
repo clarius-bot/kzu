@@ -28,4 +28,4 @@ private void OnValidationError(object sender, ValidationEventArgs e) { if (e.Sev
 Unfortunately, the `sender` is `null` in v1.x, so no luck.   
 The good news is that this has been fixed in the PDC bits. Maybe we can hope a service pack/hotfix for v1.1...
 
-posted on Wednesday, March 24, 2004 8:24 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

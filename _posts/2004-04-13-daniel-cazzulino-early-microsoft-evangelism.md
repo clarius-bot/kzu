@@ -12,4 +12,4 @@ I don't want her to take the path to the [dark side](http://java.sun.com/), so I
 
 Is she an "early adopter" or what?! :D 
 
-posted on Tuesday, April 13, 2004 2:12 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

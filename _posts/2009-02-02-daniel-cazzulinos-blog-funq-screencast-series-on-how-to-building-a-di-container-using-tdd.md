@@ -16,4 +16,4 @@ Funq is by no means a revolutionary concept to DI, I'm well aware of that. But i
 
 I hope this series serves to understand the inner workings of this fully functional yet extremely simple DI container.
 
-posted on Monday, February 02, 2009 12:49 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

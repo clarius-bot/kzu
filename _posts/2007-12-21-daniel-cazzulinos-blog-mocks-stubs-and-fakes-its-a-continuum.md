@@ -257,4 +257,4 @@ As you can see, knowing the categorization helps at the conceptual level, but in
 
 That is, if you're manually creating your Test Doubles. I'll talk more about the influence the use of a mocking library can have in the way you test in another post.
 
-posted on Friday, December 21, 2007 6:48 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

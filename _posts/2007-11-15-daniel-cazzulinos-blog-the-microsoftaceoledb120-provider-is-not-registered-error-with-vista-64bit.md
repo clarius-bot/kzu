@@ -20,4 +20,4 @@ The solution is to add a new configuration for x86 platform in VS (click on Conf
 
 [ ![VSx86](/web/20080412091633im_/http://www.clariusconsulting.net/images/blogs/kzu/The.0providerisnotregisterederrorwithVis_A50/VSx86_thumb.png) ](http://www.clariusconsulting.net/images/blogs/kzu/The.0providerisnotregisterederrorwithVis_A50/VSx86.png)
 
-posted on Thursday, November 15, 2007 7:58 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

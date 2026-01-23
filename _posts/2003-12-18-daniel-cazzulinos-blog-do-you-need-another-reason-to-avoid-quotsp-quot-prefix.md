@@ -10,4 +10,4 @@ date: 2003-12-18 00:00:00 +0000
 
 from [Designing Data Tier Components and Passing Data Through Tiers](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/BOAGag.asp?frame=true&hidetoc=true), section titled "Recommendations for Using Stored Procedures with Data Access Logic Components". 
 
-posted on Thursday, December 18, 2003 12:00 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

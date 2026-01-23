@@ -34,4 +34,4 @@ One minor issue is that in order to use [TDD.NET](http://www.testdriven.net/) to
 
 So far, I think xUnit brings a fresh perspective to unit test frameworks. Challenging the status quo generally results in interesting new ideas IMO :) 
 
-posted on Tuesday, April 22, 2008 2:27 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

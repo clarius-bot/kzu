@@ -32,4 +32,4 @@ Absolutely broken if you ask me. So you have to make sure you always convert eve
 
 ![](http://www.clariusconsulting.net/aggbug.aspx?PostID=115995)
 
-Posted by kzu
+/kzu

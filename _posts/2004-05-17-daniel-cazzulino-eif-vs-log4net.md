@@ -115,4 +115,4 @@ I'd love to hear arguments in favor of EIF. I may be missing some other features
 
 Have you used both products? What do you think about the points made above? 
 
-posted on Monday, May 17, 2004 12:32 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

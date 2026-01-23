@@ -51,4 +51,4 @@ RDF explicitly forces the [rdfs:datatype](http://www.w3.org/TR/rdf-schema/#ch_da
 
 Given that XML Schema, SOAP, even XAML heavly uses QNames in attributes, I believe RDF is now in an awkward position maitaining that annoying restriction. It would be as simple to solve as saying "when a QName is used, it will be expanded using the XML prefix mapping in scope, plus the fragment identifier '#' plus the local name", so that xsd:date becomes <http://www.w3.org/2001/XMLSchema#date>.
 
-posted on Monday, July 16, 2007 7:21 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

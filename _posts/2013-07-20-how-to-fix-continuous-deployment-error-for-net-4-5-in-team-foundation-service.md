@@ -19,4 +19,4 @@ I don’t recall exactly where ([may have been here](<http://connect.microsoft.c
     
     <IgnoreDeployManagedRuntimeVersion>True</IgnoreDeployManagedRuntimeVersion>
 
-Posted by kzu
+/kzu

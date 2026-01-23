@@ -14,4 +14,4 @@ About covering newer, work-in-progress and unreleased stuff, I definitely think 
 
 I also agree with [Oleg](http://www.tkachenko.com/blog/archives/000187.html) that they should be more theory/exploratory than the regular material.
 
-posted on Wednesday, March 10, 2004 11:51 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

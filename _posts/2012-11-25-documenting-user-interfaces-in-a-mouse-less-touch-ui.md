@@ -24,4 +24,4 @@ Update 11/25: looks like a tend to me now. This time from YouTube app
 
 [![image](http://blogs.clariusconsulting.net/kzu/files/2012/11/wpid-Screenshot_2012-11-25-15-37-46.png)](<http://blogs.clariusconsulting.net/kzu/files/2012/11/wpid-Screenshot_2012-11-25-15-37-46.png>)
 
-Posted by kzu
+/kzu

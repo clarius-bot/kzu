@@ -12,4 +12,4 @@ Boy, 2Kb vs 6kb!! And the RelaxNG version is actually FAR more readable! And it 
 I've [implemented](http://sf.net/projects/dotnetopensrc) the [](http://www.schematron.com/)Schematron XML validation language for .NET... maybe I should start having a look at RelaxNG now :). However, I saw a [RelaxNG](http://cvs.hispalinux.es/cgi-bin/cvsweb/mcs/class/Commons.Xml.Relaxng/?cvsroot=mono) folder in the Mono source, so it seems those guys are beating MS this time... or will we have a surprise in Whidbey?  
 As a developer, I'd love to have the choice in .NET to use one or the other, specially because XSD is not easy to tackle at first, and many developers completely ignore its capabilities, and design plain wrong schemas. RelaxNG looks so much simple that it would be quite easy to get up to speed designing complex schemas with it. And of course, there's a non-compact XML [version too](http://www.tbray.org/ongoing/pie/0.2/pie02.rng). 
 
-posted on Sunday, October 26, 2003 12:22 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

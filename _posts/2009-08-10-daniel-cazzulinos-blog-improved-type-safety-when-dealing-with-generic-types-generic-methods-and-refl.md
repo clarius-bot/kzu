@@ -49,4 +49,4 @@ The same trick applies to generic methods, but you need to get the generic metho
 
 With these combined tricks, you don't need to (ab?)use expression trees for certain scenarios and it's backwards compatible with .NET 2.0.
 
-posted on Monday, August 10, 2009 8:00 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -13,4 +13,4 @@ Sealed keyword is by far the most annoying showstopper to extensibility. I hate 
   
 Although the third one is a little bit extreme, the first two are a **MUST**. Another day I'll tell you where I found a few key such annoying combinations...  
 
-posted on Monday, August 29, 2005 4:50 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

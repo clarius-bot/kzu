@@ -89,4 +89,4 @@ Full [ViewModel class code available](http://pastie.org/960139).
 
 Enjoy!
 
-posted on Friday, May 14, 2010 5:03 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

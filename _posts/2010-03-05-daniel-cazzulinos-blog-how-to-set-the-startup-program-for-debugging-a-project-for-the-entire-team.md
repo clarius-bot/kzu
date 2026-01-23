@@ -27,4 +27,4 @@ Turns out that this setting goes to a file named after your project file plus th
 
 And because this just plain MSBuild properties, you can copy the entire PropertyGroup to your main project file, delete this .user, and check-in your change. From now on, everyone on the team will have this setting enabled, and you will have it too if you get a clean environment eventually :)
 
-posted on Friday, March 05, 2010 4:01 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

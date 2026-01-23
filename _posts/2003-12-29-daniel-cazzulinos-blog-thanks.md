@@ -10,4 +10,4 @@ It's cool to see one's blog in [the screenshot of the upcomming version of RssBa
 
 Thanks Dare! :D
 
-posted on Monday, December 29, 2003 3:34 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

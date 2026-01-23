@@ -33,4 +33,4 @@ in this case, the application would map the "crm" prefix to the business objects
 These schemas are easy enough for an advanced user to edit.   
 In [Schematron.NET](http://sf.net/projects/dotnetopensrc), I'm implementing quite a few extensions, including XSLT-specific ones, and adding the full [EXSLT](http://www.exslt.org/) [for .NET](http://workspaces.gotdotnet.com/exslt) implemented by [Dare Obasanjo](http://www.25hoursaday.com/weblog/). It's not impossible to think about a set of domain-specific standard specs (like EXSLT itself) that would aid in business rules expression. 
 
-posted on Monday, January 19, 2004 1:13 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

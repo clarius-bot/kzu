@@ -40,4 +40,4 @@ from..select:
 
 [ ](http://11011.net/software/vspaste)
 
-posted on Friday, January 04, 2008 4:15 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

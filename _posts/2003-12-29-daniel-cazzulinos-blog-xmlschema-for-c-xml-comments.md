@@ -10,4 +10,4 @@ date: 2003-12-29 00:00:00 +0000
 
 I think it may be useful to someone, so [here it is again](http://dotnetopensrc.sf.net/CsComments.xsd). A valid cool XML comment that many ignore is `<see langword="[c# language keyword]" />` that automatically gets italicized and shows the appropriate VB.NET equivalent. Look for `<!-- undocumented element -->"` in the schema for other interesting ones. 
 
-posted on Monday, December 29, 2003 6:07 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

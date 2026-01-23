@@ -56,4 +56,4 @@ On top of that, I got a really cool domain name for the project: [http://moq.me]
 
 Feedback welcomed on both features! Next I have to write about future directions... 
 
-posted on Sunday, October 12, 2008 11:11 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -78,4 +78,4 @@ Enjoy!
 
 ![](http://clariusconsulting.net/aggbug.aspx?PostID=432)
 
-Posted by kzu
+/kzu

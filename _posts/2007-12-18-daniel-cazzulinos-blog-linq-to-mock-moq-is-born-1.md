@@ -54,4 +54,4 @@ The cool thing about this approach is that you don't need the mocking library to
 
 Check out the [Moq Quickstart](http://code.google.com/p/moq/wiki/QuickStart) wiki page which contains a lot more samples. 
 
-posted on Tuesday, December 18, 2007 3:19 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

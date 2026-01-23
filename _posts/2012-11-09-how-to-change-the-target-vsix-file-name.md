@@ -17,4 +17,4 @@ When creating a VSIX or VS Package extension to VS, the default .vsix file name 
 
 Happy extending
 
-Posted by kzu
+/kzu

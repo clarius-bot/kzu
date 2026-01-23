@@ -210,4 +210,4 @@ What's happening here is that we're registering the same service twice with diff
 
 The same effect (of "fixing" a lambda parameter to a given value) can be achieved by just [currying the function](http://diditwith.net/2007/08/15/TheArtOfCurrying.aspx) returned from LazyResolve :)
 
-posted on Monday, April 20, 2009 9:26 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

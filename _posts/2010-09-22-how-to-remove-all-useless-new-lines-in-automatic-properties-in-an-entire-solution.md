@@ -36,4 +36,4 @@ Enjoy!
 
 ![](http://www.clariusconsulting.net/aggbug.aspx?PostID=285007)
 
-Posted by kzu
+/kzu

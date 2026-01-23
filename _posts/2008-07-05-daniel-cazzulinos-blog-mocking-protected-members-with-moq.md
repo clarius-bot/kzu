@@ -49,4 +49,4 @@ Don't forget to give us feedback through the [discussion list](http://groups.goo
 
 Enjoy!
 
-posted on Saturday, July 05, 2008 10:09 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

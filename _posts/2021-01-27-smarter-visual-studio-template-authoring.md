@@ -75,4 +75,4 @@ Here we’re including a specific text file for (say) all Glass projects, then a
 
 This is significantly more maintainable and flexible than anything the out of the box Visual Studio templates provide.
 
-Posted by kzu
+/kzu

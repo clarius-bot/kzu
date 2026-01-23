@@ -12,4 +12,4 @@ Even worse, if you ask for `Attributes.IsDefined` with the same values, you will
   
 You can see the bug, get a repro class, and vote for it on [Product Feedback](http://lab.msdn.microsoft.com/ProductFeedback/viewFeedback.aspx?feedbackId=FDBK37702).  
 
-posted on Wednesday, September 28, 2005 6:35 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

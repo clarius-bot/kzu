@@ -15,4 +15,4 @@ I believe that's what will happen in the short-term. ObjectBuilder is a very goo
   
 You can [get the slides](http://www.clariusconsulting.net/kzu/SET2007_ObjectBuilder.zip "Powerpoint 2007 Slides") (PowerPoint 2007), and [download the sample project](http://clariusconsulting.net/downloads/farcaster.zip "Sample ObjectBuilder project") that compares the usage against standard hardcoded dependencies and even Pico and Spring.  
 
-posted on Thursday, May 17, 2007 7:51 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

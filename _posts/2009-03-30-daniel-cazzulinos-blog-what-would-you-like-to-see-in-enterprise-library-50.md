@@ -14,4 +14,4 @@ It's now time to engage in shaping EntLib 5.0! From [Grigori's blog](http://blog
 
 I wish the format for the survey was more user friendly, but don't let that stop you from voting!
 
-posted on Monday, March 30, 2009 1:13 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

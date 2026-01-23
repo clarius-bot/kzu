@@ -37,4 +37,4 @@ This release supports both VB and C#.
 
 Enjoy!
 
-posted on Thursday, September 27, 2007 10:44 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

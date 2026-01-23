@@ -45,4 +45,4 @@ replaced with:
 
 Lastly, having public properties lets you bind these custom classes directly to a WinForms datagrid and get the properties as columns automatically (yeah... I know nobody will EVER use that...). But you can always take the blue pill after doing so ;)
 
-posted on Tuesday, August 26, 2003 8:26 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

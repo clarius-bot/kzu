@@ -12,4 +12,4 @@ That's a [TINY app](http://snook.ca/snitter/) built with [Adobe AIR](http://www.
 
 If only MS made [Silverlight](http://www.microsoft.com/silverlight/) available for standalone apps too... I'm willing to bet they'll do much better than this even for their initial release with .NET built-in (Silverlight 2.0).
 
-posted on Monday, April 07, 2008 2:52 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

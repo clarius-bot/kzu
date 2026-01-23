@@ -55,4 +55,4 @@ What other wizards would you like to have?
 
 In a future post, I'll discuss the architecture and integration features of the Wizard Framework that backs all these wizards, which are 100% .NET code (no HTML or JS!), are defined in XML and customized through well known TypeConverter and UITypeEditor classes.
 
-posted on Monday, July 05, 2004 12:34 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

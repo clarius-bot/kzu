@@ -18,4 +18,4 @@ DAMN IT!!!
 
 **Update** : [there's a way to set it up](http://mswhs.com/2007/11/02/installing-the-connector-software-on-vista-x64/), and it's working fine so far. phiuuu!!!
 
-posted on Thursday, March 13, 2008 1:20 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

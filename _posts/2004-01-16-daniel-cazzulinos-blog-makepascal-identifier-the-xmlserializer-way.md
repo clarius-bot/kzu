@@ -40,4 +40,4 @@ Using [the ToCharArray()](http://weblogs.asp.net/cazzu/archive/2004/01/09/48987.
 
 By the way, it looks like [readers' concerns](http://weblogs.asp.net/cazzu/archive/2004/01/09/48987.aspx#FeedBack) with regards to I18N are non-issues, as the .NET class uses the same approach I showed, basically making a unicode Char uppercase. Finally, note that this is not actually PascalCase, but only FirstLetterUpperCase, although such a method name wouldn't be cool at all... 
 
-posted on Friday, January 16, 2004 10:47 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

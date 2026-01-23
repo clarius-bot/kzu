@@ -48,4 +48,4 @@ Your tests will also instantiate this class exclusively from the non-MEF constru
 
 ![](http://www.clariusconsulting.net/aggbug.aspx?PostID=247751)
 
-Posted by kzu
+/kzu

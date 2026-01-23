@@ -94,4 +94,4 @@ The source is BSD-licensed, so you can do whatever you want with it.
 
 Happy tracing/logging!
 
-Posted by kzu
+/kzu

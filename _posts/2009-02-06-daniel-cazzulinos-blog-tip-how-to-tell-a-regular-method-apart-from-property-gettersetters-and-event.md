@@ -19,4 +19,4 @@ Rather than typical code like:
 
 IsSpecialName returns true for property getters/setters and event add/remove :) 
 
-posted on Friday, February 06, 2009 7:02 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

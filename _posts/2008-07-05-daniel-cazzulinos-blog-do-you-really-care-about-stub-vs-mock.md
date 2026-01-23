@@ -40,4 +40,4 @@ This simplifies the learning curve on the framework, and basically allows you to
 
 I hope just like everyone's now seeing the value of NOT having an explicit record-reply model, we'll move past this rigid theoretical frame and into a more pragmatic and flexible view of mocking in general.
 
-posted on Saturday, July 05, 2008 11:49 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

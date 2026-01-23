@@ -184,4 +184,4 @@ This type of querying capability on top of the basic event stream that your [“
 
 I’ll explore more of this smooth evolution path in my next post. Stay tunned.
 
-Posted by kzu
+/kzu

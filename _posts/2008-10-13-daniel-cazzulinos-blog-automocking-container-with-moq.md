@@ -21,4 +21,4 @@ Because it uses a [MockFactory](http://www.clariusconsulting.net/labs/moq/html/4
 
 Go ahead and [read the wiki](http://code.google.com/p/moq-contrib/wiki/Automocking) and [get the bits](http://code.google.com/p/moq-contrib)!
 
-posted on Monday, October 13, 2008 11:56 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

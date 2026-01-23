@@ -18,4 +18,4 @@ This adds yet [another reason](<https://bit.ly/e8l7vP>) in favor of using the le
 
 Just replace all occurrences of $(DevEnvDir) with $(VS100COMNTOOLS)..\IDE\ and you’re good.
 
-Posted by kzu
+/kzu

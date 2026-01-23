@@ -10,4 +10,4 @@ Every now and then, an [article](http://msdn.microsoft.com/msdnmag/issues/05/05/
   
 Just for the record: I agree with Craig in that you cannot do one without the other. Which way you start, is a matter of timing, which won't save you from learning both technologies. And I would even argue that learning how to properly understand and use the host of XML serialization attributes to get what you want on the wire is almost on a pair with learning XSD (except for the esoteric features like substitution groups that you don't even need to learn as they are not even supported by XmlSerializer).  
 
-posted on Monday, May 09, 2005 2:38 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -140,4 +140,4 @@ An argument on the wizard can use this state slot as follows:
 
 On a future post I'll discuss a concrete wizard distributed with the Shadowfax Wizards, most probably the Add New Service one as it's the most comprehensive, from XML configuration, to Add New Project dialog hook to setup and deployment on top of the base Wizard Framework. 
 
-posted on Friday, July 16, 2004 2:11 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

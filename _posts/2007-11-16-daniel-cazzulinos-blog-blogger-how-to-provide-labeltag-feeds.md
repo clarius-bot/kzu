@@ -56,4 +56,4 @@ Now the rendering is as follows:
 
 Enjoy! 
 
-posted on Friday, November 16, 2007 8:35 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

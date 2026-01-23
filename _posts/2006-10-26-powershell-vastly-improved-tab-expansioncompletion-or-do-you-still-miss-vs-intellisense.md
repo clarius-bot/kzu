@@ -38,4 +38,4 @@ Get the [improved tab expansion](<http://powershell.wiki.com/TabExpansion>) from
 
 ![](http://clariusconsulting.net/aggbug.aspx?PostID=4906)
 
-Posted by kzu
+/kzu

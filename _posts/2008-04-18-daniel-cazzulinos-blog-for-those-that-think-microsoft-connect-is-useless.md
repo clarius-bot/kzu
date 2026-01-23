@@ -18,4 +18,4 @@ Pretty significant IMO, especially since in my experience these kind of "breakin
 
 Continue blogging and bitching about stuff that bothers you, but don't forget to [report it formally](https://connect.microsoft.com/): it might [make a difference](http://www.clariusconsulting.net/blogs/kzu/archive/2004/09/11/ContributingFeedback.aspx "How I got Microsoft to create XPathExpression.Compile") and we may end up getting a better product from Microsoft (it may take years, but hey, it's a learning process!).
 
-posted on Friday, April 18, 2008 1:12 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

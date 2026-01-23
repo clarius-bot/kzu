@@ -14,4 +14,4 @@ Enough said:
 
 Hahaha... very true! (from [Brad Wilson](http://www.agileprogrammer.com/dotnetguy/) in an internal email :)) 
 
-posted on Tuesday, August 02, 2005 7:37 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

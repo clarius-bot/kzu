@@ -51,4 +51,4 @@ Enjoy and please give us feedback on the project!
 
 Check out the [Roadmap to high performance XML](http://clariusconsulting.net/blogs/kzu/archive/2004/07/09/HiPerfXML.aspx).
 
-posted on Thursday, June 24, 2004 12:53 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

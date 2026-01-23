@@ -10,4 +10,4 @@ date: 2004-03-11 00:00:00 +0000
 
 Next time you need to encrypt a license key, a password, in-memory (i.e. CallContext) data internal to your framework, etc., be sure to download it. 
 
-posted on Thursday, March 11, 2004 2:40 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

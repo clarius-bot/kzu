@@ -14,4 +14,4 @@ But most importantly, you can get **NEW** features implemented, if they are well
   
 So, next time you find a method you think is missing overloads, or a missing one, or some behavior you don't like, or generally any bug, don't just find a workaround for it. [Go report it](http://lab.msdn.microsoft.com/productfeedback), and become part of the history of .NET (well, maybe that's saying too much for a little contribution... hehe... but it makes me feel really good... you should definitely give it a try).  
 
-posted on Saturday, September 11, 2004 12:32 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

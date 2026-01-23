@@ -12,4 +12,4 @@ Just to be fair to SF, however, please notice that even if the admin features (w
 
 [![](https://web.archive.org/web/20080827161132im_/http://aspnet2.com/kzu/weblog/sf-broken-small.jpg)](http://aspnet2.com/kzu/weblog/sf-broken.png)
 
-posted on Tuesday, August 31, 2004 2:12 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

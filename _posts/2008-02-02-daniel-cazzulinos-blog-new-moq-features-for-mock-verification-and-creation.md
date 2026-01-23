@@ -127,4 +127,4 @@ We continue to strive to keep [Moq](http://code.google.com/p/moq/) faithful to i
 
 Let us know what you'd like to see in future versions, what you like and what you don't! You can either [submit an issue](http://code.google.com/p/moq/issues/list) (not only bugs, but also suggestions) or [send an email to the user's group](https://web.archive.org/web/20081102081403/mailto:moqdisc@googlegroups.com).
 
-posted on Saturday, February 02, 2008 6:18 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

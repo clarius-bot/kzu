@@ -32,4 +32,4 @@ This one looks good. Seems like a kind of "ReadyBoost" at the hard-drive level.
 
 And it's definitely not an expensive product for the features you get. I love it. I'll [give it a try](http://consumer.diskeeper.com/downloads/Downloads.aspx?RId=11221&SId=1&CId=1&Aeid=0&Apid=PPS0002948) and let you know how it goes.
 
-posted on Friday, November 30, 2007 10:50 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

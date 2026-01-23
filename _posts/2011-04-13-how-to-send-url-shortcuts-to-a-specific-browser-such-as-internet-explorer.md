@@ -24,4 +24,4 @@ Steps to set it up:
 
 That’s it. Now you can send the shortcuts directly to IE.
 
-Posted by kzu
+/kzu

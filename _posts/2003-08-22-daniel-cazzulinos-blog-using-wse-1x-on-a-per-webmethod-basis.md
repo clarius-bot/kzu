@@ -52,4 +52,4 @@ Now you can use the attribute only on the methods that require WSE processing:
 
 By looking at the [WSE 2.0 Technical Preview](http://microsoft.com/downloads/details.aspx?FamilyId=21FB9B9A-C5F6-4C95-87B7-FC7AB49B3EDD&displaylang=en) "code", I can say this still holds true, so you will need this code anyway (except if they happen to add it!).
 
-posted on Friday, August 22, 2003 12:45 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

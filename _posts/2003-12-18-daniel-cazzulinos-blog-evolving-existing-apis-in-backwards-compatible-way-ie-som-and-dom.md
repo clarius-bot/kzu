@@ -58,4 +58,4 @@ This offers a more consistent programming model to the newer code taking advanta
 
 Thoughts? 
 
-posted on Thursday, December 18, 2003 12:29 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

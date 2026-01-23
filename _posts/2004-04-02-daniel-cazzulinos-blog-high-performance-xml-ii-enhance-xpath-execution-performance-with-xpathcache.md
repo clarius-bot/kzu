@@ -97,4 +97,4 @@ Enjoy and please give us feedback on the project!
 
 Check out the [Roadmap to high performance XML](http://weblogs.asp.net/cazzu/posts/HiPerfXML.aspx).
 
-posted on Friday, April 02, 2004 5:22 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

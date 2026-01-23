@@ -171,4 +171,4 @@ Happy [moqing](http://moq.me/)!
 
 PS: remember the focus of this post is on mocking extension methods, not on how to design security for your domain ;-). Feel free to mentally replace ISecurity with IFoo, GetPermissions with DoSomething, etc., as needed.
 
-posted on Tuesday, December 22, 2009 11:27 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

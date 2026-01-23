@@ -21,4 +21,4 @@ date: 2010-04-15 00:00:00 +0000
 
 Enjoy!
 
-posted on Thursday, April 15, 2010 10:08 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

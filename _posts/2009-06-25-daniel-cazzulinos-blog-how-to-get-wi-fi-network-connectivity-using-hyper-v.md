@@ -12,4 +12,4 @@ date: 2009-06-25 00:00:00 +0000
   4. Use ICS on the wi-fi network and select the local network Hyper-V as the one to share the connection with. 
   5. To allow VPN access, you need to open a port (GRE) in the windows firewall as explained in <http://help.wugnet.com/vista/VPN-server-configured-Generic-Routing-Encapsulatio-ftopict116489.html>
 
-posted on Thursday, June 25, 2009 3:51 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

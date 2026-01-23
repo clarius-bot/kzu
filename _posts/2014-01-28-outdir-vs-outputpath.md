@@ -24,4 +24,4 @@ From C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets, how
 
 Sometimes the best way to understand MSBuild is to dig deeper in the built-in targets. They are pretty well self-documented.
 
-Posted by kzu
+/kzu

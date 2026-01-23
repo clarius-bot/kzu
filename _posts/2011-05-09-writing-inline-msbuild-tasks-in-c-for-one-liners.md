@@ -60,4 +60,4 @@ And with that, I have a property to use for my condition for the checkout comman
 
 Pretty cool and flexible!
 
-Posted by kzu
+/kzu

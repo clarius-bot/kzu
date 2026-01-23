@@ -21,4 +21,4 @@ It's really cool, specially if your types are specified through configuration. A
 
 2 - Getting unescaped strings: quite often you build XML/HTML or whatever with a `StringBuilder` or by some other means. At debugging-time, if you ask for any string variable value you get it escaped, which isn't very useful. You can't copy/paste to a text editor to save to a file and check how it looks like, for example. A trick I use all the time is issuing the following command in the Command Window - Inmediate: System.Diagnostics.Debugger.Log(0, "", theTextVariable) You will get in the same window, the unescaped string, including any tabs, CRLF, etc. :D. This is another one I use everyday! 
 
-posted on Tuesday, February 10, 2004 12:27 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

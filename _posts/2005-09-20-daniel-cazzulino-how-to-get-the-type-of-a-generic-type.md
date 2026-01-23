@@ -14,4 +14,4 @@ date: 2005-09-20 00:00:00 +0000
 
 :D
 
-posted on Tuesday, September 20, 2005 5:29 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

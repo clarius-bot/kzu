@@ -81,4 +81,4 @@ One thing I didn’t like is that you can only play on one device at a time. Sta
 
 As a general purpose music player for my local files, it also looks pretty decent, so although I’m sure I’ll miss the desktop Zune software, I think I’m ready to let it go.
 
-Posted by kzu
+/kzu

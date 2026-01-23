@@ -20,4 +20,4 @@ So, I just had to go ahead, write my repro test, fix it, [push to my fork](<http
 
 I just wish every project (including mine :S) provided [this mechanism](<https://bit.ly/193xqnL>) *always*.
 
-Posted by kzu
+/kzu

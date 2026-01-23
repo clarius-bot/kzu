@@ -10,4 +10,4 @@ date: 2009-03-15 00:00:00 +0000
 
 (does that answer [Jeremy's question too](http://codebetter.com/blogs/jeremy.miller/archive/2009/03/14/can-we-declare-programming-in-xml-to-be-dead-yet.aspx)?)
 
-posted on Sunday, March 15, 2009 7:16 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

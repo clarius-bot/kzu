@@ -30,4 +30,4 @@ and even inside code blocks which might even include formatting markup:
 
 Go get the [WLW Cross-Post Plugin](http://www.codeplex.com/clarius/Release/ProjectReleases.aspx?ReleaseId=6626), another resounding success from your friends at [Clarius](http://www.clariusconsulting.net/)[Labs](http://www.codeplex.com/clarius) :)
 
-posted on Thursday, February 05, 2009 1:45 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

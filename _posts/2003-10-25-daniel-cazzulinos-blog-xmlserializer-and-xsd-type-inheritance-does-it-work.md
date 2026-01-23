@@ -375,4 +375,4 @@ In a future post, maybe here, maybe on MSDN online, I will explain how to take a
 
 `
 
-posted on Saturday, October 25, 2003 2:38 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

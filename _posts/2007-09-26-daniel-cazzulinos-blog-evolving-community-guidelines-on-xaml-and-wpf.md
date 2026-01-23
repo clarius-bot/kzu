@@ -12,4 +12,4 @@ I think it would be great to have community-developed guidelines on this topic. 
 
 Would be nice to point everyone to <http://wpf.jottit.com/> and <http://xaml.jottit.com/> for this kind of advice :)
 
-posted on Wednesday, September 26, 2007 9:30 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

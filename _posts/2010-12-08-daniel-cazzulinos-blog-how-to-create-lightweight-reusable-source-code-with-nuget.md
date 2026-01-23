@@ -234,4 +234,4 @@ and uninstall.ps1:
 
 Now that's it! Just re-building the package is enough to get the changes in, and sure enough, our code snippets will get deployed and removed as necessary.
 
-posted on Wednesday, December 08, 2010 6:23 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

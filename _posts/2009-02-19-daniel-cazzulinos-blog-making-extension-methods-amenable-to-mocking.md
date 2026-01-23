@@ -87,4 +87,4 @@ This may be useful if you have objects that are heavily extended by external cla
 
 And here I dub this technique the "Extension Method Entry Point Pattern" :)
 
-posted on Thursday, February 19, 2009 10:15 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -99,4 +99,4 @@ Note that the root node is not transparent as is the case with the XPathDocument
 
 [Get the Mvp.Xml library](http://www.codeplex.com/MVPXML) and enjoy! 
 
-posted on Friday, August 03, 2007 5:28 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

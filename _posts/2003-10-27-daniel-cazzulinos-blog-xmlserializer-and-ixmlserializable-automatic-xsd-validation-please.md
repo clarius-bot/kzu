@@ -27,4 +27,4 @@ The `XmlSerializer` constructor takes an `XmlReader`, `TextReader` or `Stream`. 
 
 I think this would be a great addition to Whidbey.
 
-posted on Monday, October 27, 2003 12:07 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

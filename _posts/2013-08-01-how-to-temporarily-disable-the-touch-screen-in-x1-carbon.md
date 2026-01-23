@@ -38,4 +38,4 @@ And no, I don’t want a touch enabled version of VS or Chrome. I don’t need b
 
 Enjoy.
 
-Posted by kzu
+/kzu

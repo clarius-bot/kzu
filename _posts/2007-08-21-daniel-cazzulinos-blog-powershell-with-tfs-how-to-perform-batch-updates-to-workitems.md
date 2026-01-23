@@ -76,4 +76,4 @@ With all that in place, all that's left is to pipe the items resulting from the 
 
 Enjoy.
 
-posted on Tuesday, August 21, 2007 4:38 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

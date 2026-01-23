@@ -26,4 +26,4 @@ Is it just me or the vsCommandStatus rules don't make any sense at all?!?!?!?!
   
 ****So far, I couldn't find a @#$%@#$%^ way to do the simplest thing in the world.... I'm runing out of ideas/status combinations... any ideas?!  
 
-posted on Thursday, September 23, 2004 3:54 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

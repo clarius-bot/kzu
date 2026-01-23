@@ -34,4 +34,4 @@ And just to make it a tad more interesting and engaging at launch time, we're gi
 
 /kzu
 
-posted on Friday, August 20, 2010 1:22 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

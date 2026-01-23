@@ -98,4 +98,4 @@ date: 2003-08-26 00:00:00 +0000
 Note that for arbitrary object serialization, the class relies in built-in `BinaryFormatter`, which makes it an improvement of if but not a replacement. The types specified in the TypeID enumeration will be highly optimized, and could even expand on the future if you find better ways of serializing other types.  
 You can figure out the missing parts. It's pretty clear in the IL code (maybe Reflector can help more). What's important is that whether or not you saw System.Web AltSerialization class, this approach is so logic and common that I doubt many more developers haven't arrived to very similar code before (at least I did, even before .NET existed). 
 
-posted on Tuesday, August 26, 2003 5:29 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -64,4 +64,4 @@ I remain excited by Live Mesh possibilities. I think it will be a game changer, 
 
 I wouldn’t advise you to take a hard dependency on Live Mesh right-away. The Live Framework CTP is ahead of the public Live Mesh beta
 
-posted on Thursday, June 25, 2009 9:02 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

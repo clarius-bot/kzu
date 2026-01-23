@@ -19,4 +19,4 @@ Durante los días del 27 al 30 de Octubre se lleva a cabo la Professional Develo
 
 My friends [Brian](http://weblogs.manas.com.ar/bcardiff/2008/11/pdc-essentials-buenos-aires/) and [Juan](http://weblogs.manas.com.ar/waj/) will also be presenting :)
 
-posted on Monday, November 17, 2008 6:32 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

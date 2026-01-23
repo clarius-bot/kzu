@@ -18,4 +18,4 @@ Amazon has made a couple not-too-smart choices lately. This one, and [not allowi
 
 I sincerely hope they fix both.
 
-posted on Saturday, July 18, 2009 1:37 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

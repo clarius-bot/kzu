@@ -20,4 +20,4 @@ This will be a sample / source code driven session, with just a few slides to se
 
 ![](http://www.mseventseurope.com/TechEd/06/Pre/Images/Developers/banners/300_b_speak2.gif)![](http://clariusconsulting.net/aggbug.aspx?PostID=5079)
 
-Posted by kzu
+/kzu

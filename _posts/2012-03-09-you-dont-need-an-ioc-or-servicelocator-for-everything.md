@@ -108,4 +108,4 @@ If you were doing TDD (which you should) the process would be slightly different
 
 That said, an IoC container and a mocking framework are my first two choices when doing File | New Project ![Smile](http://blogs.clariusconsulting.net/kzu/files/2012/03/wlEmoticon-smile.png). I know I’ll need them for anything non-trivial.
 
-Posted by kzu
+/kzu

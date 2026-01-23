@@ -51,4 +51,4 @@ Activities nest naturally, and the `using(..)` ensures that they are closed prop
 
 This is part of the [Tracer](<https://github.com/clariuslabs/tracer>) project. This content will be updated on the [Activity Tracing wiki page](<https://github.com/clariuslabs/tracer/wiki/Activity-Tracing>).
 
-Posted by kzu
+/kzu

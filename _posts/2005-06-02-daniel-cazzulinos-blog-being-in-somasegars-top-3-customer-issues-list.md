@@ -12,4 +12,4 @@ Yesterday I posted about [how Microsoft is listening to customers](http://weblog
 
 Fortunately [I reopened the bug](http://weblogs.asp.net/cazzu/posts/ComponentsNotBack.aspx) after he ran the query :o).... I only wish I had more support from ASP.NET MVPs (specially [those with strong reputation among the product team](http://clariusconsulting.net/vga)...)
 
-posted on Thursday, June 02, 2005 12:02 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

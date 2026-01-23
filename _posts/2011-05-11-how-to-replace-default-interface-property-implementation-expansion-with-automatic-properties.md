@@ -66,4 +66,4 @@ Use the [Power Tools](<http://visualstudiogallery.msdn.microsoft.com/d0d33361-18
 
 **Update** : you can do the same trick (add automatic get; private set;) to interfaces that only have a getter defined (note the private set;), by changing the snippet at C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC#\Snippets\1033\Refactoring\PropertyStubGet.snippet. I’ve both now in place, and doing interface-based programming (a good thing!) is now more enjoyable ![:\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_smile.gif) .
 
-Posted by kzu
+/kzu

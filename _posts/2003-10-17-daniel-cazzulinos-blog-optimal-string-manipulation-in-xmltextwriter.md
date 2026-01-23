@@ -33,4 +33,4 @@ References:
   * [Quantum Hierarchical State Machine - Port to C#](http://www.quantum-leaps.com/qf.code/qhsm_csharp.PDF)
   * [Hierarchical State Machine Design Pattens](http://www.scs.carleton.ca/~francis/Courses/304/Slides/304P2S7-HSMPatterns.pdf)
 
-posted on Friday, October 17, 2003 1:35 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

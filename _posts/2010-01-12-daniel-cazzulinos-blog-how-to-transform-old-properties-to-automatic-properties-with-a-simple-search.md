@@ -55,4 +55,4 @@ Running it will get you automatic properties for the entire file (or files):
 
 Yeah, I know, that expression looks like crap ;)
 
-posted on Tuesday, January 12, 2010 12:50 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

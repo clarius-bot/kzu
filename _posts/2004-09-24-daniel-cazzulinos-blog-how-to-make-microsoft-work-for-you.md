@@ -10,4 +10,4 @@ date: 2004-09-24 00:00:00 +0000
   
 Believe me, they do extensive analysis on these surveys, and they definitely shape what's delivered.  
 
-posted on Friday, September 24, 2004 2:24 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

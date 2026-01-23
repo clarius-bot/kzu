@@ -22,4 +22,4 @@ So, [MoQ](http://code.google.com/p/moq/) will not be renamed to anything like St
 
 Anyway, [happy mocking](http://code.google.com/p/moq/wiki/QuickStart) without remorse if you [don't verify your mocks](http://www.clariusconsulting.net/blogs/kzu/archive/2007/12/26/48177.aspx) ;). It's all right as long as it gets your (mostly classic) tests green.
 
-posted on Thursday, December 27, 2007 10:18 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

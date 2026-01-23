@@ -20,4 +20,4 @@ How does web apps this way these days?? Being a C# sample, I would have expected
 
 I mean, I GET it that it’s a sample, but it couldn’t have been MORE horrible! Hint to PayPal: samples lately are more of the “Reference Implementation” type, where you can actually learn the GOOD usage patterns for your library/service in a more or less real scenario. 
 
-Posted by kzu
+/kzu

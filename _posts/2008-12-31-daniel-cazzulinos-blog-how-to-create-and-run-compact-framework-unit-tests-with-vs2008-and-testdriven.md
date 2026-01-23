@@ -36,4 +36,4 @@ This is because (don't ask me why) that particular assembly is not registered in
 
 Now back to TDD for CF too!
 
-posted on Wednesday, December 31, 2008 4:33 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

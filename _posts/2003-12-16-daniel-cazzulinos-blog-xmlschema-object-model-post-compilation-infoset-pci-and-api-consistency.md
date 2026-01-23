@@ -41,4 +41,4 @@ Which isn't very consistent with the approach for pre-compilation equivalent pro
 I'm wondering whether it would be better to have a separate object model extending the pre- one and adding the new post- ones. I think a cool API design would be to turn all of the pre- SOM to interfaces, and make the concrete pre/post implement it. The later could implement them explicitly, so that by default you don't have to "see" the pre- when you're dealing with the post- SOM.   
 Any thoughts? 
 
-posted on Tuesday, December 16, 2003 3:05 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

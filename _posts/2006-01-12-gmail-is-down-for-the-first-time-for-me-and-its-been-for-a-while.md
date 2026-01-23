@@ -14,4 +14,4 @@ I love their attitude upon errors… "Ooops", "Cross your fingers", hahaaa… (l
 
 ![](http://www.clariusconsulting.net/aggbug.aspx?PostID=441)
 
-Posted by kzu
+/kzu

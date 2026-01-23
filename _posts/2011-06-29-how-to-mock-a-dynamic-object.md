@@ -50,4 +50,4 @@ I hardly use that syntax anymore (except for dynamics). It gets really annoying 
 
 Happy moqing!
 
-Posted by kzu
+/kzu

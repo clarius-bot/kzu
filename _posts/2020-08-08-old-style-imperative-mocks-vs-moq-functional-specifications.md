@@ -78,4 +78,4 @@ Haven’t you become a moqer yet? ![;\)](https://web.archive.org/web/20200808212
 
 ![](https://web.archive.org/web/20200808212749im_/http://www.clariusconsulting.net/aggbug.aspx?PostID=284965)
 
-Posted by kzu
+/kzu

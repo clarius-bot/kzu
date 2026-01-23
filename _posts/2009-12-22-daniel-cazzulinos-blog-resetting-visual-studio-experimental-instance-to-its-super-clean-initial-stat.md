@@ -27,4 +27,4 @@ If you've been doing VSX work in previous versions of VS, you'll sure appreciate
 
 Happy extending!
 
-posted on Tuesday, December 22, 2009 11:24 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

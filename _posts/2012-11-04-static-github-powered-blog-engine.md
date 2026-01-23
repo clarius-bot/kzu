@@ -34,4 +34,4 @@ The cool thing about such a service, is that it could evolve to support multiple
 
 What else does a "proper" blog engine buy you that would render this idea useless? Is it just stupid or actually makes sense?
 
-Posted by kzu
+/kzu

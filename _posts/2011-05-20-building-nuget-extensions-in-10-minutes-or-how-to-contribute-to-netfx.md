@@ -62,4 +62,4 @@ Would be surprised if your extension doesn’t show up in mere minutes after app
 
 Now go and build your cool extension ![Smile](http://blogs.clariusconsulting.net/kzu/files/2011/05/wlEmoticon-smile4.png)
 
-Posted by kzu
+/kzu

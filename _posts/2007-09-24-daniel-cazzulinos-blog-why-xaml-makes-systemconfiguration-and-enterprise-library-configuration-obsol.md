@@ -55,4 +55,4 @@ So, why would you want to develop and maintain a DSL/configuration model for you
 
 And XAML is a v1 release, so I can only expect it to get better, more flexible and powerful over time. 
 
-posted on Monday, September 24, 2007 9:00 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

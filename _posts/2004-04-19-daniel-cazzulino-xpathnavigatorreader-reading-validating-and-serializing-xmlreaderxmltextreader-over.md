@@ -206,4 +206,4 @@ Special credits: the idea of a reader over a navigator isn't new. [Aaron Skonnar
 
 Check out the [Roadmap to high performance XML](http://weblogs.asp.net/cazzu/posts/HiPerfXML.aspx).
 
-posted on Monday, April 19, 2004 1:16 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

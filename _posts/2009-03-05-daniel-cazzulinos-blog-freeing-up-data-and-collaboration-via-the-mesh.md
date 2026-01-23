@@ -34,4 +34,4 @@ The main driving force for Mesh4x at this point is the work in the early detecti
 
 Head over to [http://mesh4x.org](http://mesh4x.org/) to give these guys feedback or learn more about the feature!
 
-posted on Thursday, March 05, 2009 4:05 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -24,4 +24,4 @@ Thanks for your patience!
 
 ![](http://www.clariusconsulting.net/aggbug.aspx?PostID=296679)
 
-Posted by kzu
+/kzu

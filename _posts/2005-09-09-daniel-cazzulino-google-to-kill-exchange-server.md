@@ -12,4 +12,4 @@ But [Gmail](http://gmail.google.com/) is different. Even being a web app, it's w
   
 Now, **when will they offer a mail server with their cool WebMail GUI** for sell?? I know for sure that I will certainly be interested in buying such a product for [my own company](http://clariusconsulting.net/)... (of course, it would be great if it's extensible so that even if they do not provide built-in support for things like Outlook appointments, tasks assignments and the like, some other company can develop it)  
 
-posted on Friday, September 09, 2005 1:29 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

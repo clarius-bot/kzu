@@ -120,4 +120,4 @@ Where the registration code can simply be:
 
 You gotta love [Autofac](<https://bit.ly/12t9Cry>) ![:\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_smile.gif)
 
-Posted by kzu
+/kzu

@@ -103,4 +103,4 @@ In order to prove the point that both open source and paid convenience delivery 
 
 And that’s it! I just bought myself a beer with that demo above, so it’s time for me to go enjoy it. I hope you like the extension and gift me a beer too ![;\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif)
 
-Posted by kzu
+/kzu

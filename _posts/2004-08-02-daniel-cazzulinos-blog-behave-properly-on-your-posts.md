@@ -13,4 +13,4 @@ If we could just get everyone else using the same, the main page would be much m
 
 ...your code... 
 
-posted on Monday, August 02, 2004 6:43 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

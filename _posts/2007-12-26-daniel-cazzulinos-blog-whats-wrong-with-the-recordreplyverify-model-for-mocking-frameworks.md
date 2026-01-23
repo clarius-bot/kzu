@@ -56,4 +56,4 @@ Verifying the mock slowly but almost inevitably takes you down the path of focus
 
 That's why [MoQ](http://code.google.com/p/moq/) doesn't provide a Verify method on its Mock<T> class. I strongly believe that an API that makes it very easy for you to do the "right thing" is the way to go. You can still verify the interactions with [MoQ](http://code.google.com/p/moq/), but it's going to be a bit more work, keeping flags of invoked members and setting them from callbacks. This way, the mocking framework takes you away from that kind of testing by making it more difficult.
 
-posted on Wednesday, December 26, 2007 4:20 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

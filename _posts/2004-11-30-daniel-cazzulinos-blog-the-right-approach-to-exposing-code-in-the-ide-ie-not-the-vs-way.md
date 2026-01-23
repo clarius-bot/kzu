@@ -10,4 +10,4 @@ Every since the [CodeDom](http://msdn.microsoft.com/library/default.asp?url=/lib
   
 While I don't like the way they mix static members to access IDE features with IServiceProvider-based service retrieval (see the example that accesses BorlandIDE.ModuleServices.CurrentModule and then calls  CurrentModule.GetService(typeof(IOTACodeDomProvider))), an obvious inconsistency, I love the idea of doing addins/VSIP packages that can play with/refactor code using CodeDom... Now I only have finish my [radically different to that](http://www.codeproject.com/csharp/refly.asp) alternative to generating CodeDom, and coupled with the [MsilCodeProvider](http://www.microsoft.com/downloads/details.aspx?FamilyId=7E979ED3-416B-43B6-993B-308A160831B6&displaylang=en) you can kiss Reflection.Emit bye bye!!!  
 
-posted on Tuesday, November 30, 2004 1:45 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

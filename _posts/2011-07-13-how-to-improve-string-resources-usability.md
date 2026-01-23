@@ -79,4 +79,4 @@ Multiple levels of nesting are supported.
 
 And that’s it. The simplest thing that could possibly work and make your developer’s life just a tiny bit happier [![wlEmoticon-smile2](http://blogs.clariusconsulting.net/kzu/files/2011/07/wlEmoticon-smile2_thumb1.png)](<http://blogs.clariusconsulting.net/kzu/files/2011/07/wlEmoticon-smile21.png>)
 
-Posted by kzu
+/kzu

@@ -55,4 +55,4 @@ During the article I explore the most advanced features available in .NET and VS
 
 I discuss the MVC design pattern, and create a concrete implementation that can make application development substantially faster. Not only that, but I create an implementation that can work with the same code base for both Windows and Web Forms. 
 
-posted on Tuesday, May 24, 2005 12:17 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

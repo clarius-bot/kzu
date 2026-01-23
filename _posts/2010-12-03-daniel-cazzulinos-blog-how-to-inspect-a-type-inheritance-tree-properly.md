@@ -263,4 +263,4 @@ Giving us the correct output:
 
 Enjoy!
 
-posted on Friday, December 03, 2010 8:14 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

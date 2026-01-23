@@ -60,4 +60,4 @@ The tool can also generate (opt-in) ISupportInitialize, ISupportInitializeNotifi
 
 Enjoy and please report any issues you may find via the [Issue Tracker](http://clarius.codeplex.com/WorkItem/List.aspx) (select ViewModel Tool as the component). Go [get it](http://clarius.codeplex.com/Wiki/View.aspx?title=ViewModel%20Tool)!
 
-posted on Monday, March 30, 2009 1:03 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

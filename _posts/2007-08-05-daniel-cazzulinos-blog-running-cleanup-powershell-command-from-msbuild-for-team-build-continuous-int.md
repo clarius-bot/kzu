@@ -50,4 +50,4 @@ Enjoy!
 
 BTW, this is going to be [SO much easier with Orcas](http://channel9.msdn.com/Showpost.aspx?postid=291350 "Channel9 video showing CI in Orcas") :)
 
-posted on Sunday, August 05, 2007 9:11 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

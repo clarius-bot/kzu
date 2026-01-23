@@ -41,4 +41,4 @@ Even though sleep and hibernation are supported, you have to Ctrl+Alt+Del and ch
 
 So far it's been a blast using Windows 2008 in my laptop. Vista x64 was becoming truly unusable, even with a 7200RPM disc, 4GB RAM and 2.2Ghz proc.
 
-posted on Tuesday, October 21, 2008 6:45 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

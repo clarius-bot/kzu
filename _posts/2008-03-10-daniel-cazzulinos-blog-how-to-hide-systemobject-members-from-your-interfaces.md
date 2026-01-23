@@ -54,4 +54,4 @@ Now you simply add this interface to all your classes or interfaces where you wa
 
 Sometimes I do love VS :)
 
-posted on Monday, March 10, 2008 9:59 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

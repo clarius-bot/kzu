@@ -20,4 +20,4 @@ It's important to realize that it's not a failure of the particular mocking libr
 
 So, if you wonder why [Moq](http://code.google.com/p/moq/) doesn't provide a [Verify](http://www.clariusconsulting.net/labs/moq/index.html) method, now you know why :). It's IMO the most classic/state TDD-friendly mocking library available, and the most [minimalist](http://www.clariusconsulting.net/labs/moq/index.html) too :).
 
-posted on Friday, December 21, 2007 7:43 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -10,4 +10,4 @@ date: 2003-12-17 00:00:00 +0000
 
 **Update:** [another product](http://www.dotnetlicensing.com/) also exists, which is more powerful and mature, judging by its features description and blog comments...
 
-posted on Wednesday, December 17, 2003 6:44 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

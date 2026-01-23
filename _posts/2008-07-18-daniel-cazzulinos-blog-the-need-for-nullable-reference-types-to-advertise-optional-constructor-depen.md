@@ -28,4 +28,4 @@ What this tells the caller, is that the first argument is a required dependency,
 
 You can also avoid depending on properties to advertise optional dependencies (and an associated custom attribute such as [MEF](http://blogs.msdn.com/kcwalina/archive/2008/04/25/MEF.aspx) in order to indicate it's a dependency and not a regular property).
 
-posted on Friday, July 18, 2008 2:42 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

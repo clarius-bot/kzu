@@ -32,4 +32,4 @@ The provider can detect the presence of the schema and create it automatically i
 
 Another one: maybe my provider uses a webservice. I may need to pass complex information to the provider, such as credentials, proxy information, SOAP message skeletons, or whatever. None of this is possible with a `NameValueCollection`.
 
-posted on Monday, March 22, 2004 10:12 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

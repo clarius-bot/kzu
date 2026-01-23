@@ -107,4 +107,4 @@ So, backing up a little, if I were creating such a reflection-based intelligent 
 
 Summary: don't try to extend WPF data binding. If what's provided is not enough (i.e. ValidationRule), you're better off writing your own mechanism (will try to follow-up with another post if I manage to get the [reflection-based validation](http://www.codeplex.com/entlibcontrib/Release/ProjectReleases.aspx?ReleaseId=7225) to integrate somehow). For me, this is the first time I find a feature in WPF which sucks from the extensibility point of view :(.
 
-posted on Sunday, September 23, 2007 8:18 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

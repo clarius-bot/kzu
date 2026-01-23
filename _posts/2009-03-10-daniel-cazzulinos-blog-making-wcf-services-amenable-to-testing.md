@@ -32,4 +32,4 @@ What will happen here is that on DEBUG builds, the actual class invoked when you
 
 Of course, WCF service implementations, in my opinion, should not contain much core, and be basically a REST/webservices facade on top of the actual implementation which is something that never depends on any WCF specifics. But for those cases where you must ensure some behavior from your service implementations, this is certainly the best way to do it.
 
-posted on Tuesday, March 10, 2009 1:29 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

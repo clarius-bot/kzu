@@ -70,4 +70,4 @@ So the full Exec task looks like the following:
 
 Happy ILmerging ;)
 
-posted on Monday, February 23, 2009 11:55 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

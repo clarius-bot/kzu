@@ -10,4 +10,4 @@ In case you didn't noticed (I realized today :o)), [the best browser ever](http:
   
 They add a bookmark that acts as a bookmark folder (with the title of the weblog by default), and update the entries in the folder directly from the RSS feed!!! Now THAT's what I call to evolve the browsers! Meantime, IE team is trying to come up with a release that tightens security... there's an abismal difference that would take much more investment from MS to catch-up again, although I doubt they want to... My guess is they'll bet everything to Avalon, and try to get rid of IE with it by offering richer user experience for sites Avalon-aware (not that I like the idea at all....)  
 
-posted on Saturday, November 13, 2004 1:34 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

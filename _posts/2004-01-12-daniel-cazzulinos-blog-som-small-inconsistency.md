@@ -11,4 +11,4 @@ Looks like an "inheritance bug" to me ;)
 
 [Update]: [Dare](http://weblogs.asp.net/cazzu/archive/2004/01/12/57794.aspx#58080) corrected my mistake by clarifying that there can be multiple annotations, unlike the other SchemaAnnotated-derived classes. However, I couldn't find any [XmlSchema member](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpref/html/frlrfsystemxmlschemaxmlschemamemberstopic.asp) exposing such information. Therefore, the only workaround seems to be to keep an XPathDocument for the schema too.
 
-posted on Monday, January 12, 2004 10:35 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

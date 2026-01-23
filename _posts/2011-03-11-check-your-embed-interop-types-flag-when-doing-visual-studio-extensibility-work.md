@@ -28,4 +28,4 @@ Next time you add an assembly reference to a VSIX project, please go and check t
 
 Enjoy!
 
-Posted by kzu
+/kzu

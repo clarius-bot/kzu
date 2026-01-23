@@ -12,4 +12,4 @@ It's funny how I found it, as it was released less than 2 days ago and not even 
 
 I wish the feed was updated more often. In fact, that should be the first one, as it's probably the one requiring less work, IMO. 
 
-posted on Wednesday, May 26, 2004 4:49 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

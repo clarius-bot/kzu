@@ -21,4 +21,4 @@ Not everything works that great (i.e. copying large files via drag&drop doesn’
 
 Enjoy.
 
-Posted by kzu
+/kzu

@@ -24,4 +24,4 @@ A much faster solution, though, is to select the Create Shortcut option from the
 
 Networking in Vista is SOOOO broken!!! (right-clicking on the connection to disconnect takes forever to show up the conext menu, connecting to anything always shows the useless "Successfully connected" dialog every damn time, etc.)
 
-posted on Wednesday, June 27, 2007 5:50 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

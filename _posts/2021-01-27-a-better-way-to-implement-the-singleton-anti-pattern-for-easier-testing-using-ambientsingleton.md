@@ -178,4 +178,4 @@ You can install the [nuget package to get the source AmbientSingleton<T> class](
 
 In order to keep your code coverage goals, you can also install the [xUnit tests](https://bit.ly/ym4hcr) which provide 100% coverage for this source.
 
-Posted by kzu
+/kzu

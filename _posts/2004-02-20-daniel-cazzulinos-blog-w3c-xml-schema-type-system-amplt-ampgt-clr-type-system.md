@@ -30,4 +30,4 @@ The later sort of implies that you think MS is pushing the similarities too far,
 
 Current votation: YES=13, NO=0 
 
-posted on Friday, February 20, 2004 11:18 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -31,4 +31,4 @@ But as the scanner is buffering (something that should be left to the lower laye
 
 What's the moral of the story: cleaner separation allows for novel uses not foreseen originally. Violations lend in the best case to ugly hacks, in the worst case (as in the XmlTextReader) to plain impossibility. Let's keep dreaming about the ResetableReader (or thinking about alternative XML parsers for .NET...).
 
-posted on Wednesday, February 25, 2004 12:39 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

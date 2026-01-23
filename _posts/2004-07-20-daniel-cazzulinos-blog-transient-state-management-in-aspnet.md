@@ -12,4 +12,4 @@ In my experience, a combination of `HttpContext.Items` and the Cache API almost 
 
 Too bad it didn't make into that excelent guide :( 
 
-posted on Tuesday, July 20, 2004 7:40 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

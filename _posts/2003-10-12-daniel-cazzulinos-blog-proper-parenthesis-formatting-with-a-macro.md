@@ -56,4 +56,4 @@ As you can see, it gets more and more annoying when you have nested method calls
 
 `
 
-posted on Sunday, October 12, 2003 12:56 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

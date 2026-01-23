@@ -154,4 +154,4 @@ To refer to a resource of type `image/jpg` from an `<img>` HTML tag, we could us
 
 To directly open a Word document from the server, we could simply point IE to the same handler passing its id.
 
-posted on Wednesday, August 27, 2003 4:14 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

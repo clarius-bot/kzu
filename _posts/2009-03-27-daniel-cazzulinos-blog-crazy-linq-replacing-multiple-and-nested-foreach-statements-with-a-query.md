@@ -59,4 +59,4 @@ The SelectMany invocation is needed to flatten the list of attributes from all p
 
 Update: Changed Count() to Any() which is generally more optimal, as I only care about knowing whether there's at least one such attribute, regardless of how many.   
 
-posted on Friday, March 27, 2009 6:42 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

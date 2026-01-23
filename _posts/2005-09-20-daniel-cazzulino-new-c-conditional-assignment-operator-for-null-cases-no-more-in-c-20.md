@@ -19,4 +19,4 @@ I love it!
 [see [MSDN](http://msdn2.microsoft.com/en-us/library/ms173224)]  
 [via [BradWilson](http://www.agileprogrammer.com/dotnetguy/) code]  
 
-posted on Tuesday, September 20, 2005 5:36 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

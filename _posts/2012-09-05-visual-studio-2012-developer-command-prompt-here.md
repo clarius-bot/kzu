@@ -18,4 +18,4 @@ And the command can even be uninstalled from Add/Remove programs.
 
 Enjoy!
 
-Posted by kzu
+/kzu

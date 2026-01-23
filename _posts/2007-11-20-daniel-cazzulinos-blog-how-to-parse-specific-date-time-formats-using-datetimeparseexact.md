@@ -41,4 +41,4 @@ The following is an example of how you can parse (and normalize, by removing mil
 
 Thanks [Juan](http://weblogs.manas.com.ar/waj/) for reminding me (and causing a full class to be [deleted from a project](http://www.codeplex.com/sse) :)).
 
-posted on Tuesday, November 20, 2007 3:07 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

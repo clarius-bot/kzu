@@ -54,4 +54,4 @@ You can do things like show the solution explorer, save the solution, subscribe 
 
 ![](https://raw.github.com/clariuslabs/common/master/ClariusLabs.png)
 
-Posted by kzu
+/kzu

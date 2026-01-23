@@ -18,4 +18,4 @@ Finally, some pictures of the [CompositeUI application block](http://www.peterpr
   
 This time I didn't have time to add the bubbles showing the names of each, but I will, eventually :o)  
 
-posted on Friday, July 08, 2005 7:32 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -152,4 +152,4 @@ Todo este asunto suena a tirado de los pelos, desproporcionado y desprolijo, tal
 
 [¡Vanidad, pura vanidad!](http://www.vatican.va/archive/ESL0506/__PMQ.HTM)
 
-posted on Monday, August 23, 2010 11:30 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

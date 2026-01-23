@@ -55,4 +55,4 @@ Please [vote for this bug](http://lab.msdn.microsoft.com/ProductFeedback/viewfee
 
 **Update:** the bug has been fixed in .NET 2.0, and now you should be able to have a fixed value serialized properly. Great!!!
 
-posted on Thursday, September 30, 2004 8:50 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

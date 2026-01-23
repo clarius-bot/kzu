@@ -42,4 +42,4 @@ To be honest, the comparison on the CF is unfair to the other frameworks, becaus
 
 Over the next few posts, I'll explain more about its design and features. Stay tunned!
 
-posted on Friday, April 17, 2009 5:27 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

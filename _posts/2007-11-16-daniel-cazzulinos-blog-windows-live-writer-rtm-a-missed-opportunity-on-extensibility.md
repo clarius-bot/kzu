@@ -64,4 +64,4 @@ This is especially sad since all the blog client types are public, and you could
 
 The combination of lack of support for extended XML elements in the item payload, and the impossibility to extend the blog providers/clients, means that WLW is out of the game for serious uses of RSS/Atom feeds outside of the most basic publishing scenarios (i.e. forget about enabling geo-tagging your entries, for example, unless you use an (X)HTML ["in-body"](http://en.wikipedia.org/wiki/Geo_%28microformat%29 "Geo microformat at Wikipedia") [microformat](http://en.wikipedia.org/wiki/HCalendar "hCalendar microformat at Wikipedia")).
 
-posted on Friday, November 16, 2007 7:41 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

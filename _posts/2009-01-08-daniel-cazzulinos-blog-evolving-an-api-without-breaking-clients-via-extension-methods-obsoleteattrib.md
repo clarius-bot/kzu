@@ -69,4 +69,4 @@ The [EditorBrowsableAttribute](http://msdn.microsoft.com/en-us/library/system.co
 
 This approach ensures that existing users know where legacy features went (you get a compile warning from the Obsolete attribute), while new users/functionality don't get confused with backwards-compatible APIs (they would typically NOT add a reference to a *.Legacy.dll on a new project).
 
-posted on Thursday, January 08, 2009 7:14 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -24,4 +24,4 @@ I offered this converted library to the guys at the [Open Clip Art Library](http
 
 Enjoy!
 
-posted on Friday, August 24, 2007 8:45 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

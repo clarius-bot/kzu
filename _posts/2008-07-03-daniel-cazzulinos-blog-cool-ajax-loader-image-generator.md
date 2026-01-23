@@ -10,4 +10,4 @@ Just found (via [Brian](http://weblogs.manas.com.ar/bcardiff/)) about this cool 
 
 ![ajax-loader](https://web.archive.org/web/20080919132257im_/http://www.clariusconsulting.net/images/blogs/kzu/Coolajaxloaderimagegenerator_D293/ajaxloader.gif)
 
-posted on Thursday, July 03, 2008 10:58 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

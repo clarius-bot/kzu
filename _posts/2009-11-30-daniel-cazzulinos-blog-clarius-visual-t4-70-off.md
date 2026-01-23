@@ -10,4 +10,4 @@ date: 2009-11-30 00:00:00 +0000
 
 Go get it :)
 
-posted on Monday, November 30, 2009 9:19 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

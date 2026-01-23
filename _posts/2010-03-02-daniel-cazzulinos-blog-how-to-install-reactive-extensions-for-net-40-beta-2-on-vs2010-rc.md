@@ -22,4 +22,4 @@ Stay tuned, my [Reactive Framework Extensions Generator](http://www.clariusconsu
 
 Enjoy!
 
-posted on Tuesday, March 02, 2010 8:18 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -74,4 +74,4 @@ I've contributed this code to the [EntLib Contrib](http://www.codeplex.com/entli
 
 Go [get the release](http://www.codeplex.com/entlibcontrib/Wiki/View.aspx?title=Standalone%20Validation%20Block), and enjoy developing apps with full input validation and data binding in (almost) pure markup :
 
-posted on Wednesday, September 26, 2007 8:25 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

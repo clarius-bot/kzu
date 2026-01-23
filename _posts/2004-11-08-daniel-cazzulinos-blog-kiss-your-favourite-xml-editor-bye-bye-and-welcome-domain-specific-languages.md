@@ -14,4 +14,4 @@ A very important step forward to make these languages first-class citizens in th
   
 That's why I think any effort put in creating [generic/customizable XML editors](http://www.google.com/search?q=configuration+editor+.net) is futile. I believe the future is a multitude of specialized designers for the different aspects of an application (their DSLs). I hope sooner than later we'll see [an editor like this](http://www.exadel.com/strutsStudio/features/6.0/viewlets/strutsstudio6_viewlet_swf.html) for tools like [UIP](http://msdn.microsoft.com/library/en-us/dnpag/html/uipab.asp), and we'll have nothing to envy the [Eclipse](http://eclipse.org/) guys...  
 
-posted on Monday, November 08, 2004 3:56 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

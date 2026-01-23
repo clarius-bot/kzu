@@ -119,4 +119,4 @@ Among the cool things you now have, you can do a video call right from the Phone
 
 ![](https://web.archive.org/web/20140528155806im_/http://www.clariusconsulting.net/aggbug.aspx?PostID=314327)
 
-Posted by kzu
+/kzu

@@ -22,4 +22,4 @@ If you want to continue using this familiar, lightweight and simpler dialog, but
 
 Enjoy!
 
-posted on Wednesday, June 09, 2010 7:52 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

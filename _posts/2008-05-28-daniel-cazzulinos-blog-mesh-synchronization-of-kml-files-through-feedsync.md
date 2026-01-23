@@ -18,4 +18,4 @@ I believe this is one of the first instances of a mesh-style synchronization tha
 
 This technology is going to change the way we think about applications, data ownership and sharing. It's actually a pity that some people is focusing on the one * **sample** * application that Microsoft is showing (file/folder sharing) to evaluate it.
 
-posted on Wednesday, May 28, 2008 2:14 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -92,4 +92,4 @@ propietaria: "Que tenga un buen dia" (despues de cobrarme, por supuesto)
 
 Y todo el tiempo tenia una sonrisa en la cara como diciendo "No importa lo que pienses o digas, te voy a embaucar de todas maneras, porque la habitacion ya fue pagada de antemano."
 
-posted on Tuesday, March 13, 2007 4:31 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

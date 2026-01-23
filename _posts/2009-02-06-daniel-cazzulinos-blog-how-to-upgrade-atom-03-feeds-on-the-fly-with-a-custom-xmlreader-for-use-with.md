@@ -109,4 +109,4 @@ This code is part of the [NetFx](http://code.google.com/p/netfx/) project, a col
 
 Enjoy!
 
-posted on Friday, February 06, 2009 5:42 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

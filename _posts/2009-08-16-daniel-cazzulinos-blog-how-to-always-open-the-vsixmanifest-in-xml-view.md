@@ -20,4 +20,4 @@ The only way to force the change is to manually modify the .csproj as follows:
 
 (on Beta1, the manifest file name would be just extension.vsixmanifest)
 
-posted on Sunday, August 16, 2009 11:48 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

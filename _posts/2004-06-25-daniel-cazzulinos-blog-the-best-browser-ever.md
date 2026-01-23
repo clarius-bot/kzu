@@ -28,4 +28,4 @@ As if it wasn't enough, [Mono](http://go-mono.org/) has a [ Gecko#](http://prima
 
 There's an interesting [article on the revival of the browsers war on XML.com](http://www.xml.com/lpt/a/2004/06/16/deviant.html).
 
-posted on Friday, June 25, 2004 7:54 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -20,4 +20,4 @@ The simple way to achieve it is adding the following attribute to your class dec
 
 Now whenever you double-click the class in the solution explorer, the code editor will show up, instead of the designer, all thanks to the `[DesignerCategoryAttribute](http://msdn.microsoft.com/library/en-us/cpref/html/frlrfsystemcomponentmodeldesignercategoryattributeclasstopic.asp)`. 
 
-posted on Monday, September 22, 2003 3:28 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

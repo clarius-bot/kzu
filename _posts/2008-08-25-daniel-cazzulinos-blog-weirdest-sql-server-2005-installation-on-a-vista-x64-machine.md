@@ -20,4 +20,4 @@ Microsoft SQL Server VSS Writer x64
 
 I installed first the x64 SP2, and then x32, and everything went smooth (aside from the 2x download size).
 
-posted on Monday, August 25, 2008 12:35 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

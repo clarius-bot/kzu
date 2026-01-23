@@ -124,4 +124,4 @@ I’ve found that having both IFTTT and Yahoo Pipes in my toolset, you can get t
 
 Enjoy!
 
-Posted by kzu
+/kzu

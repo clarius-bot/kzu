@@ -23,4 +23,4 @@ This one-liner powershell command will get them all out in a folder of your choo
     
     Get-ChildItem C:\Windows\assembly\GAC_MSIL -filter *.dll -recurse | Copy-Item -destination C:\GAC
 
-posted on Friday, January 08, 2010 7:06 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

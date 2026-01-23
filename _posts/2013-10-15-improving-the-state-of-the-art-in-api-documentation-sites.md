@@ -83,4 +83,4 @@ If you’re a project author and want to tune the way we group your packages or 
 
 Yes, this might have just been a hugely overkill solution to [Moq’s lack of an API documentation site](<https://moq.uservoice.com/forums/11304-general/suggestions/1726871-please-fix-the-broken-api-documentation-link-i-w>), but it surely was fun and I hope you find it useful too!
 
-Posted by kzu
+/kzu

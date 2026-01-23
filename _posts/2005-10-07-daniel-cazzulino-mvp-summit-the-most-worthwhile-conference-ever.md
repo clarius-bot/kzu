@@ -12,4 +12,4 @@ Most notable, however, is our product team. The [XML team](http://blogs.msdn.com
   
 This year was the biggest MVP Summit ever, with more than 1500 people from more than 70 countries. An incredible success for a program that is becoming more and more important as a way for Microsoft to interact with the community of people passionate about MS technology like myself. I feel very proud of belonging to this select group of people.  
 
-posted on Friday, October 07, 2005 8:29 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -10,4 +10,4 @@ I would like to thank ( //the-ones-that-nominated-me[@MS or @otherwise] ) for th
 I will do my best to keep up with my community contributions during this year. Lots of projects are shaping, both in my mind and through my hands ;).   
 _Updated_ : [Oleg](http://www.tkachenko.com/blog/archives/000145.html) has been awarded too. Cool! 
 
-posted on Tuesday, January 20, 2004 5:08 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

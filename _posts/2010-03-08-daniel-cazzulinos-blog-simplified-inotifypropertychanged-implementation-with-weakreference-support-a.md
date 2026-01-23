@@ -163,4 +163,4 @@ Some tooling such as a custom tool, item template, or code snippets would be nic
 
 Enjoy!
 
-posted on Monday, March 08, 2010 10:30 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

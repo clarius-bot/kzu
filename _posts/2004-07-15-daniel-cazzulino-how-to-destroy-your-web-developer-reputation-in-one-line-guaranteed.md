@@ -16,4 +16,4 @@ Everytime I see a `Response.Write`, and specially if it's not even kind enough t
 
 Bottom line: you should always design your web apps as reusable components and user or custom controls, so that they can be easily rearranged, styled and plugged into existing apps.
 
-posted on Thursday, July 15, 2004 11:07 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

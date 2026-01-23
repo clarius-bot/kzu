@@ -11,4 +11,4 @@ We got a very cool lab room at [building 20](http://maps.google.com/maps?q=3700+
   
 There was also an entire fridge full of [Haagen-Dazs ice cream](http://www.haagen-dazs.com/home.do), which is always a plus ;)  
 
-posted on Tuesday, July 26, 2005 4:22 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -76,4 +76,4 @@ It's released now as part of [Clarius Labs](http://www.codeplex.com/clarius) pro
 
 [****[License: Microsoft Permissive License (Ms-PL) v1.1](http://www.codeplex.com/clarius/Project/License.aspx)]
 
-posted on Sunday, December 30, 2007 11:45 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

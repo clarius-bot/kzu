@@ -30,4 +30,4 @@ Well, I tried it with the certainly big Enterprise Library 3.1 solution (no unit
 
 If you think the usability improvements from having this option on surpass the remote chance that in certain scenarios there may be a performance hit (?), please go and [vote to get it fixed](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=105637 "Make "Trake Active Item in Solution Explorer" be enabled by default"). Believe me, [we CAN make it change](http://www.clariusconsulting.net/blogs/kzu/archive/2008/04/18/ForthosethatthinkMicrosoftConnectisuseless.aspx "For those that think Microsoft Connect is useless"). I'm going to reopen the bug if there are significantly new voters.
 
-posted on Friday, April 18, 2008 1:44 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

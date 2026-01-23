@@ -9,4 +9,4 @@ date: 2004-12-22 00:00:00 +0000
 Now that the [XInclude](http://www.w3.org/TR/2004/REC-xinclude-20041220/) spec [is officially a Recomendation](http://www.w3.org/News/2004#item205), is it too late to include it in System.Xml v2? Unfortunately I think so :(  
 Luckily, you can still use it in your apps by using the [Mvp.Xml](http://mvp-xml.sf.net/) project [XInclude.NET](http://mvp-xml.sourceforge.net/xinclude/index.html).  
 
-posted on Wednesday, December 22, 2004 11:49 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

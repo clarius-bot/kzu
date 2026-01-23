@@ -51,4 +51,4 @@ Luckily I’m not traveling much lately, but I wish I had something like this ba
 
 ![](http://www.clariusconsulting.net/aggbug.aspx?PostID=290951)
 
-Posted by kzu
+/kzu

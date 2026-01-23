@@ -86,4 +86,4 @@ So, I join [Jeff's](http://www.codinghorror.com/blog/archives/000896.html) "no i
 
 ![image](https://web.archive.org/web/20071014050620im_/http://www.clariusconsulting.net/images/blogs/kzu/WhyiPhoneisnotreadyforprimetime_7F21/image_3.png)
 
-posted on Wednesday, September 19, 2007 8:35 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -20,4 +20,4 @@ Who about:
 
 That would make it feasible to have features that monitor for the disposal of elements to do something (like cleanup related state, etc.). For the record, the `Disposed` event *is* exposed in the `IComponent` interface.... too bad it didn't make it to the `IDisposable` interface :( .... (at least I'd like the event ...)  
 
-posted on Wednesday, April 27, 2005 3:00 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

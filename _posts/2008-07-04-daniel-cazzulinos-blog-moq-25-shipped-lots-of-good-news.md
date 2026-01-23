@@ -30,4 +30,4 @@ Go ahead and get the [latest version from Google Code](http://code.google.com/p/
 
 As usual, we'd love to hear your feedback at the [discussion list](http://groups.google.com/group/moqdisc/) or [issue tracker](http://code.google.com/p/moq/issues/list), and patches are always welcome :)
 
-posted on Friday, July 04, 2008 7:10 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

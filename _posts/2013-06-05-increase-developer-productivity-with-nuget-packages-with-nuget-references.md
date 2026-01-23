@@ -42,4 +42,4 @@ Please report issues or suggestions at the [Issue Tracker](<https://github.com/d
 
 Enjoy!
 
-Posted by kzu
+/kzu

@@ -36,4 +36,4 @@ Also, [Pablo clarified](http://weblogs.asp.net/cibrax/archive/2008/05/20/unit-te
 
 More to the [case against statics and singletons at Scott's blog](http://blogs.msdn.com/scottdensmore/archive/2004/05/25/140827.aspx).  
 
-posted on Sunday, May 18, 2008 9:00 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

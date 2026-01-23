@@ -27,4 +27,4 @@ If they take the idea further enough, you could even envision a .NET MicroFramew
 
 I’m telling you, Microsoft is on the verge of something BIG!
 
-posted on Monday, July 13, 2009 10:03 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

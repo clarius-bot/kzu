@@ -17,4 +17,4 @@ Let me explain: one cool thing about the `XmlSerializer` is that you can trap "u
 
 `
 
-posted on Monday, December 22, 2003 2:50 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -35,4 +35,4 @@ By inheriting from the base class, you gain automatic validation. The next step 
 
 I'll follow up with the alternative I'm working on right now ;)
 
-posted on Monday, September 24, 2007 9:58 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

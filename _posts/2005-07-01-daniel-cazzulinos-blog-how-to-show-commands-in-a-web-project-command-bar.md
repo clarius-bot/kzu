@@ -25,4 +25,4 @@ The supported named command bars are just a subset, and nothing more than a faci
 That will make a recipe appear in the context menu of a web project.  
   
 
-posted on Friday, July 01, 2005 5:06 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

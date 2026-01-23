@@ -84,4 +84,4 @@ Also, note that when doing conditional GET, the "not modified" response (HTTP 30
     }
     
 
-posted on Monday, July 30, 2007 8:05 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

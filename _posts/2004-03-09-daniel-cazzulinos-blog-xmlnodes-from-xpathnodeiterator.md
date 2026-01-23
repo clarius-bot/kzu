@@ -35,4 +35,4 @@ Enjoy!
 
 Check out the [Roadmap to high performance XML](http://weblogs.asp.net/cazzu/posts/HiPerfXML.aspx).
 
-posted on Tuesday, March 09, 2004 1:37 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

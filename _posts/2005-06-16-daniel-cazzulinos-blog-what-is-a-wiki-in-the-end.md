@@ -14,4 +14,4 @@ So you can see that there's no reference whatesoever to the format.
 I know I hate the format (to make a nicely formatted table header with a bold title with a link, just type 
 I know [we'll something about it](http://clariusconsulting.net/).  
 
-posted on Thursday, June 16, 2005 6:26 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu

@@ -27,4 +27,4 @@ And if you have the disgrace of having to work too much with GDN, the following 
 
 Of course, I've only scratched the surface. There are [a lot more ways to customize your browsing experience](http://www.mozilla.org/unix/customizing.html). Happy firefoxing! 
 
-posted on Friday, July 09, 2004 4:24 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
+/kzu
