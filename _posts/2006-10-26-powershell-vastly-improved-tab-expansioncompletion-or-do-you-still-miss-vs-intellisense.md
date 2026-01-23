@@ -12,20 +12,7 @@ I’m an intellisense-addict. I hate doing work that my computer can do for me, 
 
 [If you know all about PowerShell and just want to try it really quick, go [get the straight dope](<http://powershell.wiki.com/TabExpansion>) now ![;\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif) ]
 
-Out of the box, PowerShell (PS) does fairly minimal tab completion: simple member expansion on variables, variable name expansion and parameter completion on commands. The tab expansion in PS is implemented in a script function named TabExpansion. Turns out that functions are exposed via a custom PS provider (like the file system provider, the registry provider, etc.), meaning you can “cd” into functions and do a dir|gci|get-childitem on it 
-    
-    
-    PS C:\> Get-PSProvider
-    
-    Name                 Capabilities----                 ------------Alias                ShouldProcessEnvironment          ShouldProcessFileSystem           Filter, ShouldProcessFunction             ShouldProcessRegistry             ShouldProcessVariable             ShouldProcessCertificate          ShouldProcess
-    
-    PS C:\> cd Function:PS Function:\> gci
-    
-    CommandType     Name-----------     ----Function        promptFunction        TabExpansionFunction        Clear-HostFunction        moreFunction        helpFunction        man...
-
-  
-Now, being exposed as items over a provider, means that you can also call cat|gc|get-content on it, and see the actual function implementation:
-    
+Out of the box, PowerShell (PS) does fairly minimal tab completion: simple member expansion on variables, variable name expansion and parameter completion on commands. The tab expansion in PS is implemented in a script function named TabExpansion. Turns out that functions are exposed via a custom PS provider (like the file system provider, the registry provider, etc.), meaning you can “cd” into functions and do a dir    
     
     PS Function:\> gc TabExpansion
     

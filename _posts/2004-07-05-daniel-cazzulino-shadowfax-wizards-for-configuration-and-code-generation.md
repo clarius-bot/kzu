@@ -4,36 +4,6 @@ title: "Daniel Cazzulino : Shadowfax Wizards for configuration and code generati
 date: 2004-07-05 00:00:00 +0000
 ---
 
-Daniel Cazzulino : Shadowfax Wizards for configuration and code generation
-
-
-  * [RSS 2.0](http://clariusconsulting.net/blogs/kzu/rss.aspx)
-  * [Atom 0.3](http://clariusconsulting.net/blogs/kzu/atom.aspx)
-  * [Contact](http://clariusconsulting.net/blogs/kzu/contact.aspx)
-
-| [<](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Cal$_ctl0$PostCalendar','V2131'\))| December 2005| [>](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Cal$_ctl0$PostCalendar','V2192'\))  
----|---|---  
-Su| Mo| Tu| We| Th| Fr| Sa  
-27| 28| 29| 30| 1| 2| 3  
-4| [5](http://clariusconsulting.net/blogs/kzu/archive/2004/7/5.aspx "2 Posts")| [6](http://clariusconsulting.net/blogs/kzu/archive/2004/7/6.aspx "1 Post")| 7| 8| [9](http://clariusconsulting.net/blogs/kzu/archive/2004/7/9.aspx "2 Posts")| 10  
-11| [12](http://clariusconsulting.net/blogs/kzu/archive/2004/7/12.aspx "1 Post")| 13| 14| [15](http://clariusconsulting.net/blogs/kzu/archive/2004/7/15.aspx "1 Post")| [16](http://clariusconsulting.net/blogs/kzu/archive/2004/7/16.aspx "3 Posts")| 17  
-18| 19| [20](http://clariusconsulting.net/blogs/kzu/archive/2004/7/20.aspx "1 Post")| [21](http://clariusconsulting.net/blogs/kzu/archive/2004/7/21.aspx "2 Posts")| 22| 23| 24  
-25| 26| 27| 28| 29| 30| 31  
-1| 2| 3| 4| 5| 6| 7  
-  
-  
-
-  * [All .NET](http://clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
-  * [All Technology](http://clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
-  * [ASP.NET](http://clariusconsulting.net/blogs/kzu/archive/category/1024.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1024)
-  * [Books](http://clariusconsulting.net/blogs/kzu/archive/category/1022.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1022)
-  * [GAT](http://clariusconsulting.net/blogs/kzu/archive/category/1038.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1038)
-  * [Miscelaneous](http://clariusconsulting.net/blogs/kzu/archive/category/1026.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1026)
-  * [Movies](http://clariusconsulting.net/blogs/kzu/archive/category/1027.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1027)
-  * [Patterns & Practices](http://clariusconsulting.net/blogs/kzu/archive/category/1037.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1037)
-  * [Shadowfax](http://clariusconsulting.net/blogs/kzu/archive/category/1032.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1032)
-  * [XML](http://clariusconsulting.net/blogs/kzu/archive/category/1021.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1021)
-
 ## Shadowfax Wizards for configuration and code generation 
 
 The cornerstone of any highly extensible and pluggable framework is configuration. This is even more important in SOA architectures like [ Shadowfax](http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=9c29a963-594e-4e7a-9c45-576198df8058) (Sfx), because business actions (BA), service interface and implementation, pipelines, etc., must be configured. Configuring BAs is specially critical since a typical enterprise application will contain hundreds of them. A set of wizards for Sfx were released for that purpose.
@@ -86,8 +56,3 @@ What other wizards would you like to have?
 In a future post, I'll discuss the architecture and integration features of the Wizard Framework that backs all these wizards, which are 100% .NET code (no HTML or JS!), are defined in XML and customized through well known TypeConverter and UITypeEditor classes.
 
 posted on Monday, July 05, 2004 12:34 PM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
-
-
-  
-
-![](/web/20051225224734im_/http://clariusconsulting.net/Themes/default/images/hdr-KZU.jpg)

@@ -4,40 +4,6 @@ title: "Daniel Cazzulino's Blog : Why Windows Media Center is dead"
 date: 2010-01-03 00:00:00 +0000
 ---
 
-Daniel Cazzulino's Blog : Why Windows Media Center is dead
-
-
-  * [RSS 2.0](http://www.clariusconsulting.net/blogs/kzu/rss.aspx)
-  * [Atom 0.3](http://www.clariusconsulting.net/blogs/kzu/atom.aspx)
-  * [Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-[![](https://web.archive.org/web/20100120013709im_/http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/DanielCazzulino) [](http://feeds.feedburner.com/DanielCazzulino) [![](https://web.archive.org/web/20100120013709im_/http://feeds.feedburner.com/~fc/DanielCazzulino?bg=FF6600&fg=FFFFFF&anim=1)](http://feeds.feedburner.com/DanielCazzulino)
-
-[ ![](https://web.archive.org/web/20100120013709im_/http://twittercounter.com/counter/?username=kzu) ](http://twitter.com/kzu)
-
-[ ![](https://web.archive.org/web/20100120013709im_/http://www.linkedin.com/favicon.ico)](http://www.linkedin.com/in/danielcazzulino) [kzu in LinkedIn](http://www.linkedin.com/in/danielcazzulino)
-
-[![Microsoft MVP Profile](https://web.archive.org/web/20100120013709im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](https://mvp.support.microsoft.com/profile/Daniel.Cazzulino)
-
-[ ![](/web/20100120013709im_/http://www.clariusconsulting.net/img/mail-to-button.gif) Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-  * [.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
-  * [All Technology](http://www.clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
-  * [ASP.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1024.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1024)
-  * [Books](http://www.clariusconsulting.net/blogs/kzu/archive/category/1022.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1022)
-  * [GAT](http://www.clariusconsulting.net/blogs/kzu/archive/category/1038.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1038)
-  * [InSTEDD](http://www.clariusconsulting.net/blogs/kzu/archive/category/1064.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1064)
-  * [Mesh](http://www.clariusconsulting.net/blogs/kzu/archive/category/1065.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1065)
-  * [Miscelaneous](http://www.clariusconsulting.net/blogs/kzu/archive/category/1026.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1026)
-  * [Moq](http://www.clariusconsulting.net/blogs/kzu/archive/category/1062.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1062)
-  * [Movies](http://www.clariusconsulting.net/blogs/kzu/archive/category/1027.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1027)
-  * [Patterns & Practices](http://www.clariusconsulting.net/blogs/kzu/archive/category/1037.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1037)
-  * [PowerShell](http://www.clariusconsulting.net/blogs/kzu/archive/category/1055.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1055)
-  * [Shadowfax](http://www.clariusconsulting.net/blogs/kzu/archive/category/1032.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1032)
-  * [Software Factories](http://www.clariusconsulting.net/blogs/kzu/archive/category/1041.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1041)
-  * [WPF](http://www.clariusconsulting.net/blogs/kzu/archive/category/1060.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1060)
-  * [XML](http://www.clariusconsulting.net/blogs/kzu/archive/category/1021.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1021)
-
 ## Why Windows Media Center is dead 
 
 Windows Media Center (WMC) is based on a relatively simple (albeit awfully implemented) principle: you have ONE "server" PC holding and running your media, and then you associate any number of Media Center Extenders to it that are typically (except for the XBox 360) single-purpose devices that can only act as such and are fancy and silent enough to deserve a place in your living room.
@@ -72,43 +38,3 @@ For now, I got my [Dell Zino HD](http://www.dell.com/us/en/corp/desktops/inspiro
 The future looks bright for the smart home :)
 
 posted on Sunday, January 03, 2010 12:55 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
-
-
-#### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2010/01/03/WhyWindowsMediaCenterisdead.aspx#199373 "permalink") Why Windows Media Center is dead @ Sunday, January 03, 2010 1:04 PM
-
-Windows Media Center (WMC) is based on a relatively simple (albeit awfully implemented) principle: you [](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$Comments$_ctl0$Comments$_ctl0$EditLink',''\))
-
-[Anonymous](http://www.clariusconsulting.net/utility/Redirect.aspx?U=http://weblogs.asp.net/cazzu/archive/2010/01/03/why-windows-media-center-is-dead.aspx "TrackBack")
-
-#### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2010/01/03/WhyWindowsMediaCenterisdead.aspx#199386 "permalink") re: Why Windows Media Center is dead @ Sunday, January 03, 2010 1:53 PM
-
-I retired my XP MCE 2K5 (upgraded <sic> to Vista MCE) in October after moving from Comcast to FIOS. Got tired of listening to the home theater PC fans screaming in the entertainment center. Got tired of having to constantly reboot the box - just wanted to watch TV and view my media stored on my Windows Home Server - not have to constantly apply service packs and make sacrifices of small animals. And, got tired of having to constantly replug the MCE remote to 'unstick' it about every 4th time out of hibernation. MCE, like WinMO is another in a long line of abandoned Microsoft products. Now, when I want to watch TV or look at photos I just turn on the FIOS DVR and guess what - it works every time. Wife Acceptance Factor is much higher than it ever was with MCE. [](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$Comments$_ctl0$Comments$_ctl1$EditLink',''\))
-
-[Steven J. Ackerman](http://www.clariusconsulting.net/utility/Redirect.aspx?U=http://spaces.live.com/sjackerman "Anonymous")
-
-#### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2010/01/03/WhyWindowsMediaCenterisdead.aspx#199407 "permalink") re: Why Windows Media Center is dead @ Sunday, January 03, 2010 3:33 PM
-
-Did you read my blog post from late 2008?   
-  
-<http://weblogs.asp.net/mschwarz/archive/2008/11/13/windows-media-center-as-a-silverlight-application.aspx>   
-  
-;)   
-  
-Regards,   
-Michael [](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$Comments$_ctl0$Comments$_ctl2$EditLink',''\))
-
-[Michael Schwarz](http://www.clariusconsulting.net/utility/Redirect.aspx?U=http://weblogs.asp.net/mschwarz/archive/2008/11/13/windows-media-center-as-a-silverlight-application.aspx "Anonymous")
-
-#### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2010/01/03/WhyWindowsMediaCenterisdead.aspx#199481 "permalink") re: Why Windows Media Center is dead @ Sunday, January 03, 2010 8:34 PM
-
-I disagree. I just barely got done watching a video that I rented from amazon via media center on my xbox 360, and the experience was great.   
-  
-Why should I store my media on some windows home server when I can have amazon store it on the cloud and stream it to me on demand?   
-  
-THAT is the future my friend. [](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$Comments$_ctl0$Comments$_ctl3$EditLink',''\))
-
-Darren Kopp
-
-  
-
-[![](/web/20100120013709im_/http://www.clariusconsulting.net/Themes/default/images/hdr-KZU.jpg)](http://clariusconsulting.net/blogs "Clarius Aggregated Blogs")

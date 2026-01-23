@@ -76,21 +76,3 @@ Here we’re including a specific text file for (say) all Glass projects, then a
 This is significantly more maintainable and flexible than anything the out of the box Visual Studio templates provide.
 
 Posted by kzu
-
-![Comments](https://web.archive.org/web/20210127025837im_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/images/hr.png)
-
-### 2 Comments
-
-  1. [![](https://web.archive.org/web/20210127025837im_/http://0.gravatar.com/avatar/61cde2cff7afeabac25c19cc9b36fd32?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G)](http://sedodream.com/)
-
-[Sayed Ibrahim Hashimi](http://sedodream.com/) [ July 7, 2014 at 5:31 am. ](http://blogs.clariusconsulting.net/kzu/smarter-visual-studio-template-authoring/#comment-2590)
-
-Have you heard of TemplateBuilder? It solves much of the same issues. Here is a six minute video <https://www.youtube.com/watch?v=z33jOo75CH4>. The project is on GitHub <https://github.com/ligershark/template-builder>. We have some templates in SideWaffle ([http://sidewaffle](http://sidewaffle/)) built using this NuGet pig.
-
-  2. [![](https://web.archive.org/web/20210127025837im_/http://0.gravatar.com/avatar/0527b119ab04c4e7bc46f0c555275d9d?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G)](http://www.trustafireman.com/mbt-shoes/mbt-sport-white-pink.php)
-
-[mbt sport white pink](http://www.trustafireman.com/mbt-shoes/mbt-sport-white-pink.php) [ August 16, 2015 at 1:23 am. ](http://blogs.clariusconsulting.net/kzu/smarter-visual-studio-template-authoring/#comment-2916)
-
-<http://www.trustafireman.com/mbt-shoes/mbt-shoe-repair-usa.php> mbt shoe repair usa
-
-Comments are closed

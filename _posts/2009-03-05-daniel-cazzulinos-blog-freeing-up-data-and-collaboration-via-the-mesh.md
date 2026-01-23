@@ -4,40 +4,6 @@ title: "Daniel Cazzulino's Blog : Freeing up data and collaboration via the mesh
 date: 2009-03-05 00:00:00 +0000
 ---
 
-Daniel Cazzulino's Blog : Freeing up data and collaboration via the mesh
-
-
-  * [RSS 2.0](http://www.clariusconsulting.net/blogs/kzu/rss.aspx)
-  * [Atom 0.3](http://www.clariusconsulting.net/blogs/kzu/atom.aspx)
-  * [Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-[![](https://web.archive.org/web/20100123102448im_/http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/DanielCazzulino) [](http://feeds.feedburner.com/DanielCazzulino) [![](https://web.archive.org/web/20100123102448im_/http://feeds.feedburner.com/~fc/DanielCazzulino?bg=FF6600&fg=FFFFFF&anim=1)](http://feeds.feedburner.com/DanielCazzulino)
-
-[ ![](https://web.archive.org/web/20100123102448im_/http://twittercounter.com/counter/?username=kzu) ](http://twitter.com/kzu)
-
-[ ![](https://web.archive.org/web/20100123102448im_/http://www.linkedin.com/favicon.ico)](http://www.linkedin.com/in/danielcazzulino) [kzu in LinkedIn](http://www.linkedin.com/in/danielcazzulino)
-
-[![Microsoft MVP Profile](https://web.archive.org/web/20100123102448im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](https://mvp.support.microsoft.com/profile/Daniel.Cazzulino)
-
-[ ![](/web/20100123102448im_/http://www.clariusconsulting.net/img/mail-to-button.gif) Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-  * [.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
-  * [All Technology](http://www.clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
-  * [ASP.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1024.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1024)
-  * [Books](http://www.clariusconsulting.net/blogs/kzu/archive/category/1022.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1022)
-  * [GAT](http://www.clariusconsulting.net/blogs/kzu/archive/category/1038.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1038)
-  * [InSTEDD](http://www.clariusconsulting.net/blogs/kzu/archive/category/1064.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1064)
-  * [Mesh](http://www.clariusconsulting.net/blogs/kzu/archive/category/1065.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1065)
-  * [Miscelaneous](http://www.clariusconsulting.net/blogs/kzu/archive/category/1026.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1026)
-  * [Moq](http://www.clariusconsulting.net/blogs/kzu/archive/category/1062.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1062)
-  * [Movies](http://www.clariusconsulting.net/blogs/kzu/archive/category/1027.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1027)
-  * [Patterns & Practices](http://www.clariusconsulting.net/blogs/kzu/archive/category/1037.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1037)
-  * [PowerShell](http://www.clariusconsulting.net/blogs/kzu/archive/category/1055.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1055)
-  * [Shadowfax](http://www.clariusconsulting.net/blogs/kzu/archive/category/1032.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1032)
-  * [Software Factories](http://www.clariusconsulting.net/blogs/kzu/archive/category/1041.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1041)
-  * [WPF](http://www.clariusconsulting.net/blogs/kzu/archive/category/1060.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1060)
-  * [XML](http://www.clariusconsulting.net/blogs/kzu/archive/category/1021.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1021)
-
 ## Freeing up data and collaboration via the mesh 
 
 Last weekend, during the [ALT.NET Seattle](http://altnetseattle.pbwiki.com/) conference, I spoke for quite a while with [Miguel de Icaza](http://tirania.org/blog/) on the work [we're](http://clariusconsulting.net/) doing with [InSTEDD](http://instedd.org/) in the area of data synchronization. He was very excited, and wondered how come this wasn't more broadly known. 
@@ -69,13 +35,3 @@ The main driving force for Mesh4x at this point is the work in the early detecti
 Head over to [http://mesh4x.org](http://mesh4x.org/) to give these guys feedback or learn more about the feature!
 
 posted on Thursday, March 05, 2009 4:05 PM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
-
-#### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2009/03/05/Freeingupdataandcollaborationviathemesh.aspx#119923 "permalink") Freeing up data and collaboration via the mesh @ Thursday, March 05, 2009 4:39 PM
-
-Last weekend, during the ALT.NET Seattle conference, I spoke for quite a while with Miguel de Icaza on [](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$Comments$_ctl0$Comments$_ctl0$EditLink',''\))
-
-[Anonymous](http://www.clariusconsulting.net/utility/Redirect.aspx?U=http://weblogs.asp.net/cazzu/archive/2009/03/05/freeing-up-data-and-collaboration-via-the-mesh.aspx "TrackBack")
-
-  
-
-[![](/web/20100123102448im_/http://www.clariusconsulting.net/Themes/default/images/hdr-KZU.jpg)](http://clariusconsulting.net/blogs "Clarius Aggregated Blogs")

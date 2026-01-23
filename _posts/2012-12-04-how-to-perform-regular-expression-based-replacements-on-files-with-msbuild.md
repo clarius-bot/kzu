@@ -19,35 +19,7 @@ I recently had a need to also supply [RegexOptions](<https://bit.ly/RAkhuT>) to 
         <ItemGroup>
             <RegexTransform Include="$(BuildRoot)**\*.nuspec"
                             Condition="'$(ReleaseNotes)' != ''">
-                <Find><![CDATA[<releaseNotes />|<releaseNotes/>|<releaseNotes>.*</releaseNotes>]]></Find>
-                <ReplaceWith><![CDATA[<releaseNotes>$(ReleaseNotes)</releaseNotes>]]></ReplaceWith>
-                <Options>Singleline</Options>
-            </RegexTransform>
-        </ItemGroup>
-    
-        <RegexTransform Items="@(RegexTransform)" />
-    </Target>
-
-It also supports specifying multiple options, like “Singleline | IgnorePatternWhitespace” and the like.
-
-The code changes to the task are minimal:
-    
-    
-    <!--
-    ============================================================
-                RegexTransform
-    
-    Transforms the input Items parameter by evaluating the
-    regular expression in their Find metadata and
-    replacing with their ReplaceWith metadata. Optional, the
-    options for the regular expression evaluation can be specified.
-    
-    Example input item:
-            <RegexTransform Include="$(BuildRoot)Src\GlobalAssemblyInfo.cs">
-                <Find>AssemblyFileVersion\(".*?"\)</Find>
-                <ReplaceWith>AssemblyFileVersion("$(FileVersion)")</ReplaceWith>
-                <Options>Multiline | IgnorePatternWhitespace</Options>
-            </RegexTransform>
+                <Find><![CDATA[<releaseNotes />            </RegexTransform>
     
     Invoking the target:
         <RegexTransform Items="@(RegexTransform)" />

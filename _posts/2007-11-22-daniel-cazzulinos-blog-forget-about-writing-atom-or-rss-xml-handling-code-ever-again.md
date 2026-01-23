@@ -4,36 +4,6 @@ title: "Daniel Cazzulino's Blog : Forget about writing Atom or RSS XML handling 
 date: 2007-11-22 00:00:00 +0000
 ---
 
-Daniel Cazzulino's Blog : Forget about writing Atom or RSS XML handling code ever again
-
-
-  * [RSS 2.0](http://www.clariusconsulting.net/blogs/kzu/rss.aspx)
-  * [Atom 0.3](http://www.clariusconsulting.net/blogs/kzu/atom.aspx)
-  * [Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-[![](https://web.archive.org/web/20080622141023im_/http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/DanielCazzulino) [](http://feeds.feedburner.com/DanielCazzulino) [![](https://web.archive.org/web/20080622141023im_/http://feeds.feedburner.com/~fc/DanielCazzulino?bg=FF6600&fg=FFFFFF&anim=1)](http://feeds.feedburner.com/DanielCazzulino)
-
-[![Microsoft MVP Profile](https://web.archive.org/web/20080622141023im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](https://mvp.support.microsoft.com/profile/Daniel.Cazzulino)
-
-[ ![](/web/20080622141023im_/http://www.clariusconsulting.net/img/mail-to-button.gif) Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-  * [.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
-  * [All Technology](http://www.clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
-  * [ASP.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1024.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1024)
-  * [Books](http://www.clariusconsulting.net/blogs/kzu/archive/category/1022.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1022)
-  * [GAT](http://www.clariusconsulting.net/blogs/kzu/archive/category/1038.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1038)
-  * [InSTEDD](http://www.clariusconsulting.net/blogs/kzu/archive/category/1064.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1064)
-  * [Mesh](http://www.clariusconsulting.net/blogs/kzu/archive/category/1065.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1065)
-  * [Miscelaneous](http://www.clariusconsulting.net/blogs/kzu/archive/category/1026.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1026)
-  * [Moq](http://www.clariusconsulting.net/blogs/kzu/archive/category/1062.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1062)
-  * [Movies](http://www.clariusconsulting.net/blogs/kzu/archive/category/1027.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1027)
-  * [Patterns & Practices](http://www.clariusconsulting.net/blogs/kzu/archive/category/1037.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1037)
-  * [PowerShell](http://www.clariusconsulting.net/blogs/kzu/archive/category/1055.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1055)
-  * [Shadowfax](http://www.clariusconsulting.net/blogs/kzu/archive/category/1032.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1032)
-  * [Software Factories](http://www.clariusconsulting.net/blogs/kzu/archive/category/1041.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1041)
-  * [WPF](http://www.clariusconsulting.net/blogs/kzu/archive/category/1060.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1060)
-  * [XML](http://www.clariusconsulting.net/blogs/kzu/archive/category/1021.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1021)
-
 ## Forget about writing Atom or RSS XML handling code ever again 
 
 A *very* welcome addition to .NET 3.5, which just went [RTM for MSDN](http://www.danielmoth.com/Blog/2007/11/vs2008-rtm-for-non-msdn-subscribers.html) subscribers and [trial for the rest](http://msdn2.microsoft.com/en-gb/vstudio/products/aa700831.aspx "Download VS2008 RTM from MSDN") before general availability early next year: [System.ServiceModel.Syndication](msdn2.microsoft.com/library/system.servicemodel.syndication.aspx "MSDN Library").
@@ -230,20 +200,3 @@ You can also [download the plain text representation](http://www.clariusconsulti
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). 
 
 posted on Thursday, November 22, 2007 9:02 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
-
-
-#### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2007/11/22/ForgetaboutwritingAtomorRSSXMLhandlingcodeeveragain.aspx#42821 "permalink") Forget about writing Atom or RSS XML handling code ever again @ Thursday, November 22, 2007 9:38 AM
-
-A *very* welcome addition to .NET 3.5, which just went RTM for MSDN subscribers and trial for the rest [](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$Comments$_ctl0$Comments$_ctl0$EditLink',''\))
-
-[Anonymous](http://www.clariusconsulting.net/utility/Redirect.aspx?U=http://weblogs.asp.net/cazzu/archive/2007/11/22/forget-about-writing-atom-or-rss-xml-handling-code-ever-again.aspx "TrackBack")
-
-#### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2007/11/22/ForgetaboutwritingAtomorRSSXMLhandlingcodeeveragain.aspx#43360 "permalink") Forget about writing Atom or RSS XML handling code ever again @ Sunday, November 25, 2007 3:42 AM
-
-You've been kicked (a good thing) - Trackback from DotNetKicks.com [](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$Comments$_ctl0$Comments$_ctl1$EditLink',''\))
-
-[Anonymous](http://www.clariusconsulting.net/utility/Redirect.aspx?U=http://www.dotnetkicks.com/other/Forget_about_writing_Atom_or_RSS_XML_handling_code_ever_again "TrackBack")
-
-  
-
-[![](/web/20080622141023im_/http://www.clariusconsulting.net/Themes/default/images/hdr-KZU.jpg)](http://clariusconsulting.net/blogs "Clarius Aggregated Blogs")

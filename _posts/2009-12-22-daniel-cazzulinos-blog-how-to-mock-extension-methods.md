@@ -4,42 +4,6 @@ title: "Daniel Cazzulino's Blog : How to mock extension methods"
 date: 2009-12-22 00:00:00 +0000
 ---
 
-Daniel Cazzulino's Blog : How to mock extension methods
-
-
-  * [RSS 2.0](http://www.clariusconsulting.net/blogs/kzu/rss.aspx)
-  * [Atom 0.3](http://www.clariusconsulting.net/blogs/kzu/atom.aspx)
-  * [Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-Source code published in this blog is [public domain](http://en.wikipedia.org/wiki/Public_domain) unless otherwise specified.
-
-[![](https://web.archive.org/web/20100317104915im_/http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/DanielCazzulino) [](http://feeds.feedburner.com/DanielCazzulino) [![](https://web.archive.org/web/20100317104915im_/http://feeds.feedburner.com/~fc/DanielCazzulino?bg=FF6600&fg=FFFFFF&anim=1)](http://feeds.feedburner.com/DanielCazzulino)
-
-[ ![](https://web.archive.org/web/20100317104915im_/http://twittercounter.com/counter/?username=kzu) ](http://twitter.com/kzu)
-
-[ ![](https://web.archive.org/web/20100317104915im_/http://www.linkedin.com/favicon.ico)](http://www.linkedin.com/in/danielcazzulino) [kzu in LinkedIn](http://www.linkedin.com/in/danielcazzulino)
-
-[![Microsoft MVP Profile](https://web.archive.org/web/20100317104915im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](https://mvp.support.microsoft.com/profile/Daniel.Cazzulino)
-
-[ ![](/web/20100317104915im_/http://www.clariusconsulting.net/img/mail-to-button.gif) Contact](http://www.clariusconsulting.net/blogs/kzu/contact.aspx)
-
-  * [.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
-  * [All Technology](http://www.clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
-  * [ASP.NET](http://www.clariusconsulting.net/blogs/kzu/archive/category/1024.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1024)
-  * [Books](http://www.clariusconsulting.net/blogs/kzu/archive/category/1022.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1022)
-  * [GAT](http://www.clariusconsulting.net/blogs/kzu/archive/category/1038.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1038)
-  * [InSTEDD](http://www.clariusconsulting.net/blogs/kzu/archive/category/1064.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1064)
-  * [Mesh](http://www.clariusconsulting.net/blogs/kzu/archive/category/1065.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1065)
-  * [Miscelaneous](http://www.clariusconsulting.net/blogs/kzu/archive/category/1026.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1026)
-  * [Moq](http://www.clariusconsulting.net/blogs/kzu/archive/category/1062.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1062)
-  * [Movies](http://www.clariusconsulting.net/blogs/kzu/archive/category/1027.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1027)
-  * [Patterns & Practices](http://www.clariusconsulting.net/blogs/kzu/archive/category/1037.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1037)
-  * [PowerShell](http://www.clariusconsulting.net/blogs/kzu/archive/category/1055.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1055)
-  * [Shadowfax](http://www.clariusconsulting.net/blogs/kzu/archive/category/1032.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1032)
-  * [Software Factories](http://www.clariusconsulting.net/blogs/kzu/archive/category/1041.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1041)
-  * [WPF](http://www.clariusconsulting.net/blogs/kzu/archive/category/1060.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1060)
-  * [XML](http://www.clariusconsulting.net/blogs/kzu/archive/category/1021.aspx) [(rss)](http://www.clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1021)
-
 ## How to mock extension methods 
 
 . without paying for a TypeMock Isolator license to do it ;-)
@@ -208,46 +172,3 @@ Happy [moqing](http://moq.me/)!
 PS: remember the focus of this post is on mocking extension methods, not on how to design security for your domain ;-). Feel free to mentally replace ISecurity with IFoo, GetPermissions with DoSomething, etc., as needed.
 
 posted on Tuesday, December 22, 2009 11:27 AM by [kzu](http://www.clariusconsulting.net/user/Profile.aspx?UserID=1004)
-
-
-#### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2009/12/22/Howtomockextensionmethods.aspx#194717 "permalink") How to mock extension methods @ Tuesday, December 22, 2009 11:51 AM
-
-. without paying for a TypeMock Isolator license to do it ;-) There&amp;#39;s going to be no magic here. [](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$Comments$_ctl0$Comments$_ctl0$EditLink',''\))
-
-[Anonymous](http://www.clariusconsulting.net/utility/Redirect.aspx?U=http://weblogs.asp.net/cazzu/archive/2009/12/22/how-to-mock-extension-methods.aspx "TrackBack")
-
-#### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2009/12/22/Howtomockextensionmethods.aspx#194723 "permalink") How to mock extension methods @ Tuesday, December 22, 2009 12:05 PM
-
-You've been kicked (a good thing) - Trackback from DotNetKicks.com [](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$Comments$_ctl0$Comments$_ctl1$EditLink',''\))
-
-[Anonymous](http://www.clariusconsulting.net/utility/Redirect.aspx?U=http://www.dotnetkicks.com/tipsandtricks/How_to_mock_extension_methods "TrackBack")
-
-#### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2009/12/22/Howtomockextensionmethods.aspx#194724 "permalink") re: How to mock extension methods @ Tuesday, December 22, 2009 12:06 PM
-
-Best blog post of the year. Anywhere. [](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$Comments$_ctl0$Comments$_ctl2$EditLink',''\))
-
-Will
-
-#### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2009/12/22/Howtomockextensionmethods.aspx#194794 "permalink") Social comments and analytics for this post @ Tuesday, December 22, 2009 3:38 PM
-
-This post was mentioned on Twitter by kzu: How to mock extension methods <http://ff.im/-dfIvA> [](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$Comments$_ctl0$Comments$_ctl3$EditLink',''\))
-
-[Anonymous](http://www.clariusconsulting.net/utility/Redirect.aspx?U=http://www.ubervu.com/conversations/www.clariusconsulting.net/blogs/kzu/archive/2009/12/22/Howtomockextensionmethods.aspx "TrackBack")
-
-#### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2009/12/22/Howtomockextensionmethods.aspx#199916 "permalink") re: How to mock extension methods @ Tuesday, January 05, 2010 4:38 AM
-
-Except, of course that you've introduced a global (non-thread-safe) delegate. Not sure how else you would achieve it ([ThreadStatic] on the internal member?), but there's an implicit assumption that the testing framework won't spawn multiple threads.   
-  
-Not to mention the fact that a Security() is a method which is (arguably) a little ugly. [](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$Comments$_ctl0$Comments$_ctl4$EditLink',''\))
-
-[Eric Smith](http://www.clariusconsulting.net/utility/Redirect.aspx?U=http://thelimberlambda.com/ "Anonymous")
-
-#### [#](http://www.clariusconsulting.net/blogs/kzu/archive/2009/12/22/Howtomockextensionmethods.aspx#219058 "permalink") Cheap watson soma online. @ Thursday, March 04, 2010 8:39 AM
-
-Cheap soma watson. Cheap soma. Soma buy soma cheap soma soma online. Cheap soma indice. [](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$_ctl0$Comments$_ctl0$Comments$_ctl5$EditLink',''\))
-
-[Anonymous](http://www.clariusconsulting.net/utility/Redirect.aspx?U=http://www.youtube.com/user/SomaOnline "TrackBack")
-
-  
-
-[![](/web/20100317104915im_/http://www.clariusconsulting.net/Themes/default/images/hdr-KZU.jpg)](http://clariusconsulting.net/blogs "Clarius Aggregated Blogs")

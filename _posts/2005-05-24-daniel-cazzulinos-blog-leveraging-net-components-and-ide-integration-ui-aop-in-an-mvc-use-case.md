@@ -4,46 +4,6 @@ title: "Daniel Cazzulino's Blog : Leveraging .NET Components and IDE Integration
 date: 2005-05-24 00:00:00 +0000
 ---
 
-Daniel Cazzulino's Blog : Leveraging .NET Components and IDE Integration: UI AOP in an MVC use case
-
-
-  * [RSS 2.0](http://clariusconsulting.net/blogs/kzu/rss.aspx)
-  * [Atom 0.3](http://clariusconsulting.net/blogs/kzu/atom.aspx)
-  * [Contact](http://clariusconsulting.net/blogs/kzu/contact.aspx)
-
-| [<](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Cal$_ctl0$PostCalendar','V3013'\))| May 2008| [>](javascript:__doPostBack\('_ctl0$_ctl0$_ctl0$_ctl0$BlogSideBar1$_ctl0$Cal$_ctl0$PostCalendar','V3074'\))  
----|---|---  
-Su| Mo| Tu| We| Th| Fr| Sa  
-27| 28| 29| 30| 1| 2| [3](http://clariusconsulting.net/blogs/kzu/archive/2005/5/3.aspx "1 Post")  
-[4](http://clariusconsulting.net/blogs/kzu/archive/2005/5/4.aspx "1 Post")| 5| 6| 7| 8| [9](http://clariusconsulting.net/blogs/kzu/archive/2005/5/9.aspx "1 Post")| 10  
-11| 12| [13](http://clariusconsulting.net/blogs/kzu/archive/2005/5/13.aspx "1 Post")| 14| 15| 16| 17  
-18| 19| [20](http://clariusconsulting.net/blogs/kzu/archive/2005/5/20.aspx "1 Post")| 21| 22| 23| [24](http://clariusconsulting.net/blogs/kzu/archive/2005/5/24.aspx "1 Post")  
-25| 26| 27| [28](http://clariusconsulting.net/blogs/kzu/archive/2005/5/28.aspx "2 Posts")| 29| 30| 31  
-1| 2| 3| 4| 5| 6| 7  
-  
-[![Microsoft MVP Profile](https://web.archive.org/web/20080522144456im_/http://clariusconsulting.net/Themes/default/images/mvp-logo.gif)](http://aspnet2.com/mvp.ashx?kzu)
-
-[![](https://web.archive.org/web/20080522144456im_/http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/DanielCazzulino) [](http://feeds.feedburner.com/DanielCazzulino) [![](https://web.archive.org/web/20080522144456im_/http://feeds.feedburner.com/~fc/DanielCazzulino?bg=FF6600&fg=FFFFFF&anim=1)](http://feeds.feedburner.com/DanielCazzulino)
-
-[ ![](/web/20080522144456im_/http://clariusconsulting.net/img/mail-to-button.gif) Contact](http://clariusconsulting.net/blogs/kzu/contact.aspx)
-
-  * [.NET](http://clariusconsulting.net/blogs/kzu/archive/category/1023.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1023)
-  * [All Technology](http://clariusconsulting.net/blogs/kzu/archive/category/1035.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1035)
-  * [ASP.NET](http://clariusconsulting.net/blogs/kzu/archive/category/1024.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1024)
-  * [Books](http://clariusconsulting.net/blogs/kzu/archive/category/1022.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1022)
-  * [GAT](http://clariusconsulting.net/blogs/kzu/archive/category/1038.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1038)
-  * [InSTEDD](http://clariusconsulting.net/blogs/kzu/archive/category/1064.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1064)
-  * [Mesh](http://clariusconsulting.net/blogs/kzu/archive/category/1065.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1065)
-  * [Miscelaneous](http://clariusconsulting.net/blogs/kzu/archive/category/1026.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1026)
-  * [Moq](http://clariusconsulting.net/blogs/kzu/archive/category/1062.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1062)
-  * [Movies](http://clariusconsulting.net/blogs/kzu/archive/category/1027.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1027)
-  * [Patterns & Practices](http://clariusconsulting.net/blogs/kzu/archive/category/1037.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1037)
-  * [PowerShell](http://clariusconsulting.net/blogs/kzu/archive/category/1055.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1055)
-  * [Shadowfax](http://clariusconsulting.net/blogs/kzu/archive/category/1032.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1032)
-  * [Software Factories](http://clariusconsulting.net/blogs/kzu/archive/category/1041.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1041)
-  * [WPF](http://clariusconsulting.net/blogs/kzu/archive/category/1060.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1060)
-  * [XML](http://clariusconsulting.net/blogs/kzu/archive/category/1021.aspx) [(rss)](http://clariusconsulting.net/blogs/kzu/rss.aspx?CategoryID=1021)
-
 ## Leveraging .NET Components and IDE Integration: UI AOP in an MVC use case 
 
 ## Introduction
@@ -96,8 +56,3 @@ During the article I explore the most advanced features available in .NET and VS
 I discuss the MVC design pattern, and create a concrete implementation that can make application development substantially faster. Not only that, but I create an implementation that can work with the same code base for both Windows and Web Forms. 
 
 posted on Tuesday, May 24, 2005 12:17 AM by [kzu](http://clariusconsulting.net/user/Profile.aspx?UserID=1004)
-
-
-  
-
-[![](/web/20080522144456im_/http://clariusconsulting.net/Themes/default/images/hdr-KZU.jpg)](http://clariusconsulting.net/blogs "Clarius Aggregated Blogs")
