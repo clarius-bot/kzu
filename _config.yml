@@ -26,7 +26,7 @@ share-links-active:
   stackoverflow: true
 
 permalink:        /:title/
-url:              https://blogs.clarius.org
+url:              https://blogs.clariusconsulting.net
 baseurl:          "/kzu"
 gtag:             G-5THB4CL7H1
 google-search-id: fab2fac2137f17958
@@ -54,7 +54,7 @@ navbar-links:
   Archive: "/archive/"
   About Me: "/about/"
   
-url-pretty: "blogs.clarius.org"
+url-pretty: "blogs.clariusconsulting.net"
 excerpt_length: 100
 feed_show_tags: true
 navbar-col: "black"
