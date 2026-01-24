@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - TechEd Barcelona 2006: Designing Zero-Code Adaptive User Interfaces (UIs) for Windows Mobile for Windows Mobile\")"
+title: "Daniel Cazzulino's Blog - TechEd Barcelona 2006: Designing Zero-Code Adaptive User Interfaces (UIs) for Windows Mobile"
 date: 2006-10-31 00:00:00 +0000
 ---
 
