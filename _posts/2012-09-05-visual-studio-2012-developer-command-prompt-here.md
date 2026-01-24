@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 2012 Developer Command Prompt Here"
+title: "Daniel Cazzulino's Blog - Visual Studio 2012 Developer Command Prompt Here"
 date: 2012-09-05 00:00:00 +0000
 ---
 

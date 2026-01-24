@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to setup continous integration with team foundation build"
+title: "Daniel Cazzulino's Blog - How to setup continous integration with team foundation build"
 date: 2006-07-26 00:00:00 +0000
 ---
 

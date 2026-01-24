@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to reuse Windows Workflow Foundation (WF) cool type browser editor in your components"
+title: "Daniel Cazzulino's Blog - How to reuse Windows Workflow Foundation (WF) cool type browser editor in your components cool type browser editor in your components\")"
 date: 2006-01-07 00:00:00 +0000
 ---
 

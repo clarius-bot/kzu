@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to merge your referenced assemblies into the output assembly for improved usability"
+title: "Daniel Cazzulino's Blog - How to merge your referenced assemblies into the output assembly for improved usability"
 date: 2010-03-11 00:00:00 +0000
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to send URL shortcuts to a specific browser such as Internet Explorer"
+title: "Daniel Cazzulino's Blog - How to send URL shortcuts to a specific browser such as Internet Explorer"
 date: 2011-04-13 00:00:00 +0000
 ---
 

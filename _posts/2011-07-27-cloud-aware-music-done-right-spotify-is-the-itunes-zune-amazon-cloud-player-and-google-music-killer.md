@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cloud-aware music done right: Spotify is the iTunes, Zune, Amazon Cloud Player and Google Music killer"
+title: "Daniel Cazzulino's Blog - Cloud-aware music done right: Spotify is the iTunes, Zune, Amazon Cloud Player and Google Music killer"
 date: 2011-07-27 00:00:00 +0000
 ---
 

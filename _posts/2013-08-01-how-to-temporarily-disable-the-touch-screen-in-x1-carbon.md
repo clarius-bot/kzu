@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Temporarily Disable The Touch Screen In X1 Carbon"
+title: "Daniel Cazzulino's Blog - How To Temporarily Disable The Touch Screen In X1 Carbon"
 date: 2013-08-01 00:00:00 +0000
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "High level overview of Visual Studio Extensibility APIs"
+title: "Daniel Cazzulino's Blog - High level overview of Visual Studio Extensibility APIs"
 date: 2013-10-25 00:00:00 +0000
 ---
 

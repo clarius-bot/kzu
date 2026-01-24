@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to tweet automatically when you push a new package to nuget.org"
+title: "Daniel Cazzulino's Blog - How to tweet automatically when you push a new package to nuget.org"
 date: 2013-06-17 00:00:00 +0000
 ---
 

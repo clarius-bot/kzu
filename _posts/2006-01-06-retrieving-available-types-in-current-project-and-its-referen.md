@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Retrieving available types in current project and its references (without locking)"
+title: "Daniel Cazzulino's Blog - Retrieving available types in current project and its references (without locking)\")"
 date: 2006-01-06 00:00:00 +0000
 ---
 

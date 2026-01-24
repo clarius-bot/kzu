@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to perform regular expression based replacements on files with MSBuild"
+title: "Daniel Cazzulino's Blog - How to perform regular expression based replacements on files with MSBuild"
 date: 2012-12-04 00:00:00 +0000
 ---
 

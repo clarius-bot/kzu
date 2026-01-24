@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to turn on Google Analytics for your site in 2 lines of configuration: a custom IHttpModule"
+title: "Daniel Cazzulino's Blog - How to turn on Google Analytics for your site in 2 lines of configuration: a custom IHttpModule"
 date: 2006-06-08 00:00:00 +0000
 ---
 

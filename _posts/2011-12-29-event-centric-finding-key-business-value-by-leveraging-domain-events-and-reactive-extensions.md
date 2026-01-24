@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Event Centric: finding key business value by leveraging domain events and reactive extensions"
+title: "Daniel Cazzulino's Blog - Event Centric: finding key business value by leveraging domain events and reactive extensions"
 date: 2011-12-29 00:00:00 +0000
 ---
 

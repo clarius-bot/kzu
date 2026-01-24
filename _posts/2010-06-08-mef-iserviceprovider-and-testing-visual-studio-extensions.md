@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MEF, IServiceProvider and Testing Visual Studio Extensions"
+title: "Daniel Cazzulino's Blog - MEF, IServiceProvider and Testing Visual Studio Extensions"
 date: 2010-06-08 00:00:00 +0000
 ---
 

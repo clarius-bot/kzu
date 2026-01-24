@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to exclude copy local referenced assemblies from a VSIX"
+title: "Daniel Cazzulino's Blog - How to exclude copy local referenced assemblies from a VSIX"
 date: 2012-11-09 00:00:00 +0000
 ---
 

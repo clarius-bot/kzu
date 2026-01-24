@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to apply build configuration transformations on non-web projects"
+title: "Daniel Cazzulino's Blog - How to apply build configuration transformations on non-web projects"
 date: 2012-06-21 00:00:00 +0000
 ---
 

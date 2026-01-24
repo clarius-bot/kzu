@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PayPal Samples are virtually useless"
+title: "Daniel Cazzulino's Blog - PayPal Samples are virtually useless"
 date: 2013-07-30 00:00:00 +0000
 ---
 

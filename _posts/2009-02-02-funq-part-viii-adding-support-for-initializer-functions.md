@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Funq Part VIII: adding support for initializer functions"
+title: "Daniel Cazzulino's Blog - Funq Part VIII: adding support for initializer functions"
 date: 2009-02-02 00:00:00 +0000
 ---
 

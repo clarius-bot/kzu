@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to transform T4 templates on build without installing a Visual Studio SDK"
+title: "Daniel Cazzulino's Blog - How to transform T4 templates on build without installing a Visual Studio SDK"
 date: 2014-01-13 00:00:00 +0000
 ---
 

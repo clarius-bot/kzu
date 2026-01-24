@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OutDir vs OutputPath"
+title: "Daniel Cazzulino's Blog - OutDir vs OutputPath"
 date: 2014-01-28 00:00:00 +0000
 ---
 

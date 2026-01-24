@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to create a Visual Studio extensibility project that is compatible with VS 2010, 2012 and 2013"
+title: "Daniel Cazzulino's Blog - How to create a Visual Studio extensibility project that is compatible with VS 2010, 2012 and 2013"
 date: 2014-01-11 00:00:00 +0000
 ---
 

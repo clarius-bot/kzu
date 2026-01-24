@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Querying WCF endpoints using Web API"
+title: "Daniel Cazzulino's Blog - Querying WCF endpoints using Web API"
 date: 2011-05-19 00:00:00 +0000
 ---
 

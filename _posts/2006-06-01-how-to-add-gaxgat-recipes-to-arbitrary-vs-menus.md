@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to add GAX/GAT recipes to arbitrary VS menus"
+title: "Daniel Cazzulino's Blog - How to add GAX/GAT recipes to arbitrary VS menus"
 date: 2006-06-01 00:00:00 +0000
 ---
 

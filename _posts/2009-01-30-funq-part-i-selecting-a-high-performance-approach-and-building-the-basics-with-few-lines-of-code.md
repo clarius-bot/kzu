@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Funq Part I: selecting a high performance approach and building the basics with few lines of code"
+title: "Daniel Cazzulino's Blog - Funq Part I: selecting a high performance approach and building the basics with few lines of code"
 date: 2009-01-30 00:00:00 +0000
 ---
 

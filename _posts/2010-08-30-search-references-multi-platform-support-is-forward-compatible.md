@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Search References multi-platform support is forward-compatible"
+title: "Daniel Cazzulino's Blog - Search References multi-platform support is forward-compatible"
 date: 2010-08-30 00:00:00 +0000
 ---
 

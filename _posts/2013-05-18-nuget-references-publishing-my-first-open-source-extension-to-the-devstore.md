@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NuGet References: publishing my first open source extension to the DevStore"
+title: "Daniel Cazzulino's Blog - NuGet References: publishing my first open source extension to the DevStore"
 date: 2013-05-18 00:00:00 +0000
 ---
 

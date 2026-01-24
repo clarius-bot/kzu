@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Funq Part VII: polishing a fluent API"
+title: "Daniel Cazzulino's Blog - Funq Part VII: polishing a fluent API"
 date: 2009-02-02 00:00:00 +0000
 ---
 

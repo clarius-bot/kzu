@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Electronics 101 for kids: littleBits review"
+title: "Daniel Cazzulino's Blog - Electronics 101 for kids: littleBits review"
 date: 2012-11-05 00:00:00 +0000
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A general purpose event bus leveraging Reactive Extensions"
+title: "Daniel Cazzulino's Blog - A general purpose event bus leveraging Reactive Extensions"
 date: 2012-01-02 00:00:00 +0000
 ---
 

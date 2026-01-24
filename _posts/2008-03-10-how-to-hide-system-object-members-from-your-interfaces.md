@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to hide System.Object members from your interfaces: the IFluentInterface"
+title: "Daniel Cazzulino's Blog - How to hide System.Object members from your interfaces: the IFluentInterface"
 date: 2008-03-10 00:00:00 +0000
 ---
 

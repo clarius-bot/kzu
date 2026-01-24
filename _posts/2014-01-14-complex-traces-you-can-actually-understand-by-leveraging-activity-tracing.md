@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Complex traces you can actually understand by leveraging Activity Tracing"
+title: "Daniel Cazzulino's Blog - Complex traces you can actually understand by leveraging Activity Tracing"
 date: 2014-01-14 00:00:00 +0000
 ---
 
