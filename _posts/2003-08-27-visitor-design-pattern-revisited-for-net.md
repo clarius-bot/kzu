@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Daniel Cazzulino's Blog - Visitor Design Pattern: revisited for .NET"
-date: 2003-08-26 00:00:00 +0000
+date: 2003-08-27 00:00:00 +0000
 ---
 
 ## Visitor Design Pattern: revisited for .NET 
