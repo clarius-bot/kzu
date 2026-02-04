@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to change the target VSIX file name"
+title: "Daniel Cazzulino's Blog - How to change the target VSIX file name"
 date: 2012-11-09 00:00:00 +0000
 ---
 

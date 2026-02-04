@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Check your Embed Interop Types flag when doing Visual Studio extensibility work"
+title: "Daniel Cazzulino's Blog - Check your Embed Interop Types flag when doing Visual Studio extensibility work"
 date: 2011-03-11 00:00:00 +0000
 ---
 

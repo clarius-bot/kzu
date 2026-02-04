@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to install a Visual Studio extension with templates via an MSI"
+title: "Daniel Cazzulino's Blog - How to install a Visual Studio extension with templates via an MSI"
 date: 2013-11-13 00:00:00 +0000
 ---
 

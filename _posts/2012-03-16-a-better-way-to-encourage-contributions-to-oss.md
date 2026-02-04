@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A better way to encourage contributions to OSS"
+title: "Daniel Cazzulino's Blog - A better way to encourage contributions to OSS"
 date: 2012-03-16 00:00:00 +0000
 ---
 

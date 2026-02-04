@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to serve private S3 content from a CloudFront private distribution via signed expiring Urls"
+title: "Daniel Cazzulino's Blog - How to serve private S3 content from a CloudFront private distribution via signed expiring Urls"
 date: 2012-06-21 00:00:00 +0000
 ---
 

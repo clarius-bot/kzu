@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Increase developer productivity with NuGet packages with NuGet References"
+title: "Daniel Cazzulino's Blog - Increase developer productivity with NuGet packages with NuGet References"
 date: 2013-06-05 00:00:00 +0000
 ---
 

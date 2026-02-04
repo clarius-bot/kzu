@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to make object initializers more useful"
+title: "Daniel Cazzulino's Blog - How to make object initializers more useful"
 date: 2011-08-01 00:00:00 +0000
 ---
 

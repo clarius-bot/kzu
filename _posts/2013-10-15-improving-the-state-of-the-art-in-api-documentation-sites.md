@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Improving the state of the art in API documentation sites"
+title: "Daniel Cazzulino's Blog - Improving the state of the art in API documentation sites"
 date: 2013-10-15 00:00:00 +0000
 ---
 

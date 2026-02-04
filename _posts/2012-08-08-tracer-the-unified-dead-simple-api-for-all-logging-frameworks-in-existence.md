@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tracer: the unified, dead-simple API for all logging frameworks in existence"
+title: "Daniel Cazzulino's Blog - Tracer: the unified, dead-simple API for all logging frameworks in existence"
 date: 2012-08-08 00:00:00 +0000
 ---
 

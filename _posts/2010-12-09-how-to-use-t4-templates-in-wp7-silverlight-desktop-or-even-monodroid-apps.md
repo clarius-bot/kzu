@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to use T4 templates in WP7, Silverlight, Desktop or even MonoDroid apps"
+title: "Daniel Cazzulino's Blog - How to use T4 templates in WP7, Silverlight, Desktop or even MonoDroid apps"
 date: 2010-12-09 00:00:00 +0000
 ---
 

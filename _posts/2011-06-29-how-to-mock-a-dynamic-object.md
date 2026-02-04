@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to mock a dynamic object"
+title: "Daniel Cazzulino's Blog - How to mock a dynamic object"
 date: 2011-06-29 00:00:00 +0000
 ---
 

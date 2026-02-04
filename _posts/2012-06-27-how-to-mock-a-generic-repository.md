@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to mock a generic repository"
+title: "Daniel Cazzulino's Blog - How to mock a generic repository"
 date: 2012-06-27 00:00:00 +0000
 ---
 

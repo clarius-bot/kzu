@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to map a shared SkyDrive folder as a network drive in Windows"
+title: "Daniel Cazzulino's Blog - How to map a shared SkyDrive folder as a network drive in Windows"
 date: 2012-03-22 00:00:00 +0000
 ---
 

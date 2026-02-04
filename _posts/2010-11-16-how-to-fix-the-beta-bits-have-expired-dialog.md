@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to fix the Beta bits have expired dialog"
+title: "Daniel Cazzulino's Blog - How to fix the Beta bits have expired dialog"
 date: 2010-11-16 00:00:00 +0000
 ---
 

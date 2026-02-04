@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Static GitHub powered blog engine"
+title: "Daniel Cazzulino's Blog - Static GitHub powered blog engine"
 date: 2012-11-04 00:00:00 +0000
 ---
 

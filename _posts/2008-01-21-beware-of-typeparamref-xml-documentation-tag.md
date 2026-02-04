@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beware of typeparamref XML documentation tag"
+title: "Daniel Cazzulino's Blog - Beware of typeparamref XML documentation tag"
 date: 2008-01-21 00:00:00 +0000
 ---
 

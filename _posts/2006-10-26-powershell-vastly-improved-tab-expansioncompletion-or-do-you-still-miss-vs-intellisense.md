@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerShell: vastly improved tab expansion/completion (or do you still miss VS intellisense?)"
+title: "Daniel Cazzulino's Blog - PowerShell: vastly improved tab expansion/completion (or do you still miss VS intellisense?)"
 date: 2006-10-26 00:00:00 +0000
 ---
 

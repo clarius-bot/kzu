@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Documenting user interfaces in a mouse-less touch UI"
+title: "Daniel Cazzulino's Blog - Documenting user interfaces in a mouse-less touch UI"
 date: 2012-11-25 00:00:00 +0000
 ---
 

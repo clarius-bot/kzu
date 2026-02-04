@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beware of DateTime comparison when using DateTimeKind.Local vs DateTimeKind.Utc"
+title: "Daniel Cazzulino's Blog - Beware of DateTime comparison when using DateTimeKind.Local vs DateTimeKind.Utc"
 date: 2009-01-26 00:00:00 +0000
 ---
 

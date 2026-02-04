@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to replace default interface property implementation expansion with automatic properties"
+title: "Daniel Cazzulino's Blog - How to replace default interface property implementation expansion with automatic properties"
 date: 2011-05-11 00:00:00 +0000
 ---
 

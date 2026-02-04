@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to improve string resources usability"
+title: "Daniel Cazzulino's Blog - How to improve string resources usability"
 date: 2011-07-13 00:00:00 +0000
 ---
 

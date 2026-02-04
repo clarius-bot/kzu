@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevEnvDir considered harmful"
+title: "Daniel Cazzulino's Blog - DevEnvDir considered harmful"
 date: 2011-05-09 00:00:00 +0000
 ---
 

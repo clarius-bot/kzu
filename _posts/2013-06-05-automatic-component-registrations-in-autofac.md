@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automatic component registrations in Autofac"
+title: "Daniel Cazzulino's Blog - Automatic component registrations in Autofac"
 date: 2013-06-05 00:00:00 +0000
 ---
 

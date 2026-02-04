@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You don’t need an IoC container or ServiceLocator for everything"
+title: "Daniel Cazzulino's Blog - You don’t need an IoC container or ServiceLocator for everything"
 date: 2012-03-09 00:00:00 +0000
 ---
 

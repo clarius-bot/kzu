@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gmail is DOWN (for the first time for me, and it’s been for a while…)"
+title: "Daniel Cazzulino's Blog - Gmail is DOWN (for the first time for me, and it’s been for a while…)"
 date: 2006-01-12 00:00:00 +0000
 ---
 

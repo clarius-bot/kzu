@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to remove all useless new lines in automatic properties in an entire solution"
+title: "Daniel Cazzulino's Blog - How to remove all useless new lines in automatic properties in an entire solution"
 date: 2010-09-22 00:00:00 +0000
 ---
 

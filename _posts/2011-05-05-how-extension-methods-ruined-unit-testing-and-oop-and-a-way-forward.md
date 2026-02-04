@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How extension methods ruined unit testing and OOP, and a way forward"
+title: "Daniel Cazzulino's Blog - How extension methods ruined unit testing and OOP, and a way forward"
 date: 2011-05-05 00:00:00 +0000
 ---
 

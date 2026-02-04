@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Event Centric: storing and consuming events"
+title: "Daniel Cazzulino's Blog - Event Centric: storing and consuming events"
 date: 2012-01-22 00:00:00 +0000
 ---
 

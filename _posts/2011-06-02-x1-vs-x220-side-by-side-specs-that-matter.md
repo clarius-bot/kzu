@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "X1 vs X220 side by side specs that matter"
+title: "Daniel Cazzulino's Blog - X1 vs X220 side by side specs that matter"
 date: 2011-06-02 00:00:00 +0000
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to access the raw markdown source for a github wiki page"
+title: "Daniel Cazzulino's Blog - How to access the raw markdown source for a github wiki page"
 date: 2012-11-30 01:44:00 +0000
 tags: [ddd, ef, eventsourcing, extensibility, gadgets, mocking, moq, msbuild, mvc, nuget, patterns, programming, t4, technology, vsx, wcf, webapi]
 ---

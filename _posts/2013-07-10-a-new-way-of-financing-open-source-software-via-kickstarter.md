@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A new way of financing open source software via Kickstarter"
+title: "Daniel Cazzulino's Blog - A new way of financing open source software via Kickstarter"
 date: 2013-07-10 00:00:00 +0000
 ---
 

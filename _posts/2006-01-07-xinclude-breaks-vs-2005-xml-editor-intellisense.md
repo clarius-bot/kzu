@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XInclude breaks VS 2005 XML editor intellisense"
+title: "Daniel Cazzulino's Blog - XInclude breaks VS 2005 XML editor intellisense"
 date: 2006-01-07 00:00:00 +0000
 ---
 

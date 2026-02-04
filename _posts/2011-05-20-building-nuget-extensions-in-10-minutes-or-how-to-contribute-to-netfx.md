@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building NuGet extensions in 10 minutes, or how to contribute to NETFx"
+title: "Daniel Cazzulino's Blog - Building NuGet extensions in 10 minutes, or how to contribute to NETFx"
 date: 2011-05-20 00:00:00 +0000
 ---
 

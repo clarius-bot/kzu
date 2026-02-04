@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Simple Alternative to VS Add-ins"
+title: "Daniel Cazzulino's Blog - A Simple Alternative to VS Add-ins"
 date: 2006-06-25 00:00:00 +0000
 ---
 

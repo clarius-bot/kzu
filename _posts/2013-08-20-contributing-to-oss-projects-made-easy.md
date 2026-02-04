@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Contributing to OSS projects made easy"
+title: "Daniel Cazzulino's Blog - Contributing to OSS projects made easy"
 date: 2013-08-20 00:00:00 +0000
 ---
 
