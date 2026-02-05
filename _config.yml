@@ -68,7 +68,6 @@ defaults:
       path: ""
       type: posts
     values:
-      after-content: signature.html
       comments: true
   - scope:
       path: ""
