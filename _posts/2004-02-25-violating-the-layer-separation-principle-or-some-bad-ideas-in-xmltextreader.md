@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Violating the layer separation principle (or some bad ideas in XmlTextReader)"
+title: "Violating the layer separation principle (or some bad ideas in XmlTextReader)"
 date: 2004-02-25 00:00:00 +0000
 ---
-
-## Violating the layer separation principle (or some bad ideas in XmlTextReader) 
 
 Most of the APIs in .NET have a layered design, most notably the IO classes. System.Xml namespace builds on this layered design, but falls short, IMO. Basically, you have the following layers in a typical XML parsing activity:
 

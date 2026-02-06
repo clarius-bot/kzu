@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Configuration with XmlSerializer + codegen (i.e. xsd.exe): how &quot;fix&quot; PascalCase to camelCase for the XML"
+title: "Configuration with XmlSerializer + codegen (i.e. xsd.exe): how &quot;fix&quot; PascalCase to camelCase for the XML"
 date: 2004-05-10 00:00:00 +0000
 ---
-
-## Configuration with XmlSerializer + codegen (i.e. xsd.exe): how &quot;fix&quot; PascalCase to camelCase for the XML 
 
 Most people (including myself, as you may have noticed from [my previous post on XmlSerializer-based configuration](http://weblogs.asp.net/cazzu/archive/2004/01/23/62141.aspx)) believe an automated XSD->Classes->XmlSerializer config section handler is the optimum approach for dealing with configuration in .NET. You basically start definining your configuration in an XML Schema, then use xsd.exe or another even more cool approach, and finally get XmlSerializer-ready classes for it. Loading configuration afterwards is just a matter of deserializing it. Cool right?
 

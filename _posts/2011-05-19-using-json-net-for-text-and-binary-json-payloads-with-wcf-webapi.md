@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Using Json.NET for text and binary Json payloads with WCF WebApi"
+title: "Using Json.NET for text and binary Json payloads with WCF WebApi"
 date: 2011-05-19 00:00:00 +0000
 ---
-
-## Using Json.NET for text and binary Json payloads with WCF WebApi
 
 There is anaging post by Christianon how to use theawesome Json.NET libraryas a default serializer for the new WCF Web Api.
 
@@ -25,9 +23,9 @@ var config = HttpHostConfiguration.Create().UseJsonNet()
 
 Given the simplicity of this class, this doesn’t deserve anything less but being aNETFxNuGet. Goget itor search forWebApi,Json.NETorMediaTypeFormatterin the package library dialog in VS (doesn’t work if you enter multiple words):
 
-![Confused smile](http://blogs.clariusconsulting.net/kzu/files/2011/05/wlEmoticon-confusedsmile.png)
+![Confused smile](/img/2011-05-19-1.png)
 
-![image](http://blogs.clariusconsulting.net/kzu/files/2011/05/image28.png)
+![image](/img/2011-05-19-2.png)
 
 The correspondingunit tests are available too.
 

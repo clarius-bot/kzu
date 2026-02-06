@@ -1,17 +1,13 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Smarter Visual Studio Template Authoring"
+title: "Smarter Visual Studio Template Authoring"
 date: 2014-01-27 18:53:00 +0000
 tags: [ddd, ef, eventsourcing, extensibility, gadgets, mocking, moq, msbuild, mvc, nuget, patterns, programming, t4, technology, vsx, wcf, webapi]
 ---
 
-##  [Smarter Visual Studio Template Authoring](http://blogs.clariusconsulting.net/kzu/smarter-visual-studio-template-authoring/ "Smarter Visual Studio Template Authoring")
-
-January 27, 2014 6:53 pm
-
 From [Clarius VisualStudio Targets](https://github.com/clariuslabs/VisualStudio/wiki/Authoring-Templates) project:
 
-The out of the box experience for authoring templates in Visual Studio is a [multi-step process](http://msdn.microsoft.com/en-us/magazine/hh456399.aspx) that isn’t very amenable to incremental improvements. An exported .zip file does not encourage rapid iteration ![;\)](https://web.archive.org/web/20210127025837im_/http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif) .
+The out of the box experience for authoring templates in Visual Studio is a [multi-step process](http://msdn.microsoft.com/en-us/magazine/hh456399.aspx) that isn’t very amenable to incremental improvements. An exported .zip file does not encourage rapid iteration ![;\)](/img/2014-01-27-1.gif) .
 
 An alternative way introduced in VS2010 was a new [project template](http://msdn.microsoft.com/en-us/library/ff527340\(v=vs.100).aspx) to generate a project (or item) template output (its compressed zip). Yup, if that sounds weird, it’s because it is. It’s a project where you don’t compile anything, but rather just work with the files with [parameter substitutions](http://msdn.microsoft.com/en-us/library/s365byhx\(v=vs.100).aspx) and the like, and where building means just zipping it. If you have just one template to distribute with your VSIX, that may be ok.
 
@@ -21,7 +17,7 @@ For more advanced scenarios, where reusing shared artifacts (i.e. same AssemblyI
 
 The starting point after installing the [NuGet package](https://www.nuget.org/packages/Clarius.VisualStudio) is to include your template content files (you can unzip them from the inital exported template) in the VSIX project, and set the BuildAction to SmartVSTemplate on the .vstemplate file:
 
-![](https://web.archive.org/web/20210127025837im_/https://github.com/clariuslabs/VisualStudio/wiki/media/smart-template-build-action.png)
+![](/img/2014-01-27-2.png)
 
 > You may need to close and reopen the solution if the SmartVSTemplate build action does not show up as a valid BuildAction
 
@@ -41,7 +37,7 @@ Remember to add the project template’s root directory to the source.extension.
 
 With that in place, your template will show up under the root category for your template language (i.e. "Visual C#" root node).
 
-![](https://web.archive.org/web/20210127025837im_/https://github.com/clariuslabs/VisualStudio/wiki/media/template-without-category.png)
+![](/img/2014-01-27-3.png)
 
 ## [](https://github.com/clariuslabs/VisualStudio/wiki/Authoring-Templates#wiki-template-category)Template Category
 
@@ -49,7 +45,7 @@ Typically you’ll want to have your own category node within the Add New dialog
 
 For example, if we move a `Glass Application` folder within`T\PT\Wearables\Google Glass\Glass Application` and rebuild, we will end up with the following:
 
-![](https://web.archive.org/web/20210127025837im_/https://github.com/clariuslabs/VisualStudio/wiki/media/template-custom-category.png)
+![](/img/2014-01-27-4.png)
 
 ## [](https://github.com/clariuslabs/VisualStudio/wiki/Authoring-Templates#wiki-shared-artifacts)Shared Artifacts
 

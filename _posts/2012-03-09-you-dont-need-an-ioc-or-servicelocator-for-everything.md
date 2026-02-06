@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - You don’t need an IoC container or ServiceLocator for everything"
+title: "You don’t need an IoC container or ServiceLocator for everything"
 date: 2012-03-09 00:00:00 +0000
 ---
-
-##  [You don’t need an IoC container or ServiceLocator for everything](<http://blogs.clariusconsulting.net/kzu/you-dont-need-an-ioc-or-servicelocator-for-everything/> "You don’t need an IoC container or ServiceLocator for everything")
-
-March 9, 2012 1:36 pm
 
 Say you have a class that needs to collaborate with another, say a repository:
     
@@ -106,6 +102,6 @@ If you don’t, it’s perfectly fine to have a default constructor that is used
 
 If you were doing TDD (which you should) the process would be slightly different. Instead of refactoring to make it testable, you’d have the constructor receiving the IRepository right from the beginning. But the end result would be the same: just add a default ctor for the runtime framework to use and move on. 
 
-That said, an IoC container and a mocking framework are my first two choices when doing File | New Project ![Smile](http://blogs.clariusconsulting.net/kzu/files/2012/03/wlEmoticon-smile.png). I know I’ll need them for anything non-trivial.
+That said, an IoC container and a mocking framework are my first two choices when doing File | New Project ![Smile](/img/2012-03-09-1.png). I know I’ll need them for anything non-trivial.
 
 /kzu

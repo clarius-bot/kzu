@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - PowerShell with TFS: how to perform batch-updates to WorkItems"
+title: "PowerShell with TFS: how to perform batch-updates to WorkItems"
 date: 2007-08-21 00:00:00 +0000
 ---
-
-## PowerShell with TFS: how to perform batch-updates to WorkItems 
 
 In this post, I'll show how you can use Powershell to perform one of the most annoying and (currently impossible) tasks in an iteration planning using TFS: batch update of all non-completed items so that they are moved to the next iteration.
 

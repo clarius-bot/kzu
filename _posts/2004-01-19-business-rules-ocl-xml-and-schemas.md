@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Business Rules, OCL, XML and Schemas"
+title: "Business Rules, OCL, XML and Schemas"
 date: 2004-01-19 00:00:00 +0000
 ---
-
-## Business Rules, OCL, XML and Schemas 
 
 [DonXML](http://donxml.com/allthingstechie/archive/2004/01/15/314.aspx) is proposing extensions to OCL to express business rules that can be used at code-gen time and at run-time.   
 He mentions my [Schematron](http://www.ascc.net/xml/resource/schematron/schematron.html) implementation called [Schematron.NET](http://sf.net/projects/dotnetopensrc), which allows many business rules to be expressed simply in terms of standard XPath expressions. I believe such an XPath-based language is good enough to express almost every business rule. 

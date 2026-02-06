@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to add GAX/GAT recipes to arbitrary VS menus"
+title: "How to add GAX/GAT recipes to arbitrary VS menus"
 date: 2006-06-01 00:00:00 +0000
 ---
 
-##  [How to add GAX/GAT recipes to arbitrary VS menus](<http://blogs.clariusconsulting.net/kzu/how-to-add-gaxgat-recipes-to-arbitrary-vs-menus/> "How to add GAX/GAT recipes to arbitrary VS menus")
-
-June 1, 2006 6:32 am
 
 So you’re hooked to this cool [Guidance](<http://msdn.microsoft.com/vstudio/teamsystem/workshop/gat/>)[Automation](<http://www.clariusconsulting.net/blogs/kzu/archive/2005/07/28/GATAdvantages.aspx>)[Toolkit](<http://guidanceautomation.net/>). Now, say you have a cool recipe you’d like to place in an arbitrary context menu, such as the context menu over a Web Reference. In VS any menu is called a command bar. Now that particular context menu is not one of the command bars that GAT provides friendly aliases for:
 
@@ -43,7 +40,7 @@ From the information above, I can now place a new recipe in the View menu just b
     
     <CommandBar Guid="D309F791-903F-11D0-9EFC-00A0C911004F" ID="1073" />
 
-Here’s the proof ![;-\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif)
+Here’s the proof ![;-\)](/img/2006-06-01-1.gif)
 
 ![A recipe in the context menu of a Web Reference](http://www.clariusconsulting.net/ImageGallery/kzu/GAT/gatmenu2.png)
 

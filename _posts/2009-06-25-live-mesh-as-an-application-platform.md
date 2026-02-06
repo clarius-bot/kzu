@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Live Mesh as an application platform"
+title: "Live Mesh as an application platform"
 date: 2009-06-25 00:00:00 +0000
 ---
-
-## Live Mesh as an application platform 
 
 ## The potential
 

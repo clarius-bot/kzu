@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Nightly build is NOT continuous integration"
+title: "Nightly build is NOT continuous integration"
 date: 2005-08-02 00:00:00 +0000
 ---
-
-## Nightly build is NOT continuous integration 
 
 Enough said: 
 

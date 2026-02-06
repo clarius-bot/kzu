@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to diagnose Linq to SQL easily and production-ready"
+title: "How to diagnose Linq to SQL easily and production-ready"
 date: 2008-08-22 00:00:00 +0000
 ---
-
-## How to diagnose Linq to SQL easily and production-ready 
 
 Here's what we're currently doing: we add an InitializeContext method to all DataContext-derived classes, which is called from all ctors:
     

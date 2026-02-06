@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Integrating SMS-based data entry with geographical visualization: a TED demo"
+title: "Integrating SMS-based data entry with geographical visualization: a TED demo"
 date: 2008-02-29 00:00:00 +0000
 ---
-
-## Integrating SMS-based data entry with geographical visualization: a TED demo 
 
 For the past couple weeks, [we]( "Clarius Consulting")'[ve](http://www.instedd.org/ "InSTEDD") been very busy putting together a prototype that was running at an [InSTEDD](http://www.instedd.org/) booth in the prestigious [TED](http://www.ted.com/) conference. Of anecdotal interest is the fact that it's the first time in TED's history that such a demo is run remotely from South America (Buenos Aires, Argentina, in this case :)). 
 

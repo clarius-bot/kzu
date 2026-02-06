@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Old style imperative mocks vs moq functional specifications"
+title: "Old style imperative mocks vs moq functional specifications"
 date: 2010-09-22 15:56:00 +0000
 tags: [ddd, ef, eventsourcing, extensibility, gadgets, mocking, moq, msbuild, mvc, nuget, patterns, programming, t4, technology, vsx, wcf, webapi]
 ---
 
-##  [Old style imperative mocks vs moq functional specifications](http://blogs.clariusconsulting.net/kzu/old-style-imperative-mocks-vs-moq-functional-specifications/ "Old style imperative mocks vs moq functional specifications")
-
-September 22, 2010 3:56 pm
 
 Here’s a fairly complex object graph that needs to be setup as part of a unit test, as done in “traditional” [moq](http://moq.me/):
     
@@ -74,7 +71,7 @@ Well, I know I got tired of all that crap. So in moq v4, you can reduce all that
 
 What you're essentially saying is "Give me a mock that behaves like this" (you also have Mocks.Of<T> if you need many). How's that for improved readability and maintainability?
 
-Haven’t you become a moqer yet? ![;\)](https://web.archive.org/web/20200808212749im_/http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif)
+Haven’t you become a moqer yet? ![;\)](/img/2010-09-22-1.gif)
 
 ![](https://web.archive.org/web/20200808212749im_/http://www.clariusconsulting.net/aggbug.aspx?PostID=284965)
 

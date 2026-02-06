@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Portable DVD player vs PlayStation Portable vs PictureFrame w/video"
+title: "Portable DVD player vs PlayStation Portable vs PictureFrame w/video"
 date: 2006-02-10 00:00:00 +0000
 ---
-
-## Portable DVD player vs PlayStation Portable vs PictureFrame w/video
 
 ## Portable DVD player vs PlayStation Portable vs PictureFrame w/video
 

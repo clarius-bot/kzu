@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Updated WLW Cross-Post plugin"
+title: "Updated WLW Cross-Post plugin"
 date: 2009-02-05 00:00:00 +0000
 ---
-
-## Updated WLW Cross-Post plugin 
 
 Now that there's an [official installer of Live Writer](http://get.live.com/) that works on x64, I updated my [plugin](http://www.codeplex.com/clarius/Release/ProjectReleases.aspx?ReleaseId=6626) that allows you to cross-post a blog entry to a second WLW account, optionally summarizing the entry and always linking back to the source blog. I summarized the reasons why you might need to do this as well as the feature set in [How to cross post entries across blogs from Windows Live Writer](http://www.clariusconsulting.net/blogs/kzu/archive/2007/08/24/HowtocrosspostentriesacrossblogsfromWindowsLiveWriter.aspx).
 

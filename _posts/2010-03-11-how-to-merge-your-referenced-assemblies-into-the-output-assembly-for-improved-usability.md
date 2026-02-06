@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to merge your referenced assemblies into the output assembly for improved usability"
+title: "How to merge your referenced assemblies into the output assembly for improved usability"
 date: 2010-03-11 00:00:00 +0000
 ---
 
-##  [How to merge your referenced assemblies into the output assembly for improved usability](<http://blogs.clariusconsulting.net/kzu/how-to-merge-your-referenced-assemblies-into-the-output-assembly-for-improved-usability/> "How to merge your referenced assemblies into the output assembly for improved usability")
-
-March 11, 2010 6:24 pm
 
 Something we’ve been doing in [moq](<http://moq.me/>) since the very beginning is to have a single assembly as output: Moq.dll. This reduces the clutter for users and lets them focus on what they need from our library, rather than getting the noise of whatever third-party (or internal) libraries we use to implement it.
 
@@ -28,7 +25,7 @@ After merging the assemblies (only for release builds, in this case), it will de
 
 Enjoy!
 
-Update: turns out I [had blogged about this before more extensively ![:\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_smile.gif) ](<http://www.clariusconsulting.net/blogs/kzu/archive/2009/02/23/LeveragingILMergetosimplifydeploymentandyourusersexperience.aspx>).
+Update: turns out I [had blogged about this before more extensively ![:\)](/img/2010-03-11-1.gif) ](<http://www.clariusconsulting.net/blogs/kzu/archive/2009/02/23/LeveragingILMergetosimplifydeploymentandyourusersexperience.aspx>).
 
 ![](http://www.clariusconsulting.net/aggbug.aspx?PostID=222905)
 

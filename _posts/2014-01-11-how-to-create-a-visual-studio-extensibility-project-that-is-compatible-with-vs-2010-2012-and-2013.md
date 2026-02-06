@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to create a Visual Studio extensibility project that is compatible with VS 2010, 2012 and 2013"
+title: "How to create a Visual Studio extensibility project that is compatible with VS 2010, 2012 and 2013"
 date: 2014-01-11 00:00:00 +0000
 ---
-
-##  [How to create a Visual Studio extensibility project that is compatible with VS 2010, 2012 and 2013](<http://blogs.clariusconsulting.net/kzu/how-to-create-a-visual-studio-extensibility-project-that-is-compatible-with-vs-2010-2012-and-2013/> "How to create a Visual Studio extensibility project that is compatible with VS 2010, 2012 and 2013")
-
-January 11, 2014 1:52 pm
 
 For most common project types, you can just create a project in VS2010 and open it in 2012 and 2013 just fine. For some others (like VS package or VSIX projects), you may find Visual Studio wants to perform a one-way conversion:
 
@@ -91,7 +87,7 @@ In addition to the project opening fine, you also need to be able to reference t
 
 Note that the [version] in the environment variable does not contain the VS version dot (i.e. 11.0 is 110), so we remove that to build the variable name. We then expand it to get the $(VSSDK). And then I build the lib locations for both 2.0 and 4.0 folders, which contain different sets of assemblies that might be useful when developing an extension.
 
-One final variable which is quite useful to determine the location of PublicAssemblies and PrivateAssemblies (not that you should be using any from there ![;\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif) ) is [DevEnvDir](<http://blogs.clariusconsulting.net/kzu/devenvdir-considered-harmful/>). As I explained [elsewhere](<http://blogs.clariusconsulting.net/kzu/devenvdir-considered-harmful/>), that variable is only populated when building from inside VS. We can create it for command line builds using the same technique as above to make it VS version aware:
+One final variable which is quite useful to determine the location of PublicAssemblies and PrivateAssemblies (not that you should be using any from there ![;\)](/img/2014-01-11-1.gif) ) is [DevEnvDir](<http://blogs.clariusconsulting.net/kzu/devenvdir-considered-harmful/>). As I explained [elsewhere](<http://blogs.clariusconsulting.net/kzu/devenvdir-considered-harmful/>), that variable is only populated when building from inside VS. We can create it for command line builds using the same technique as above to make it VS version aware:
     
     
     <!-- On build servers and command line, this property is not available, so we redefine it in
@@ -130,7 +126,7 @@ The final bit is that if your code takes advantage of a particular new feature i
     
     <DefineConstants>$(DefineConstants);VS$(VisualStudioVersion.Replace('.', ''))</DefineConstants>
 
-You can look at the final [MSBuild properties](<https://github.com/clariuslabs/VisualStudio/blob/master/nuget/build/Clarius.VisualStudio.props>) and [targets files](<https://github.com/clariuslabs/VisualStudio/blob/master/nuget/build/Clarius.VisualStudio.targets>) directly on Github. Or even better, just [install the nuget package](<https://www.nuget.org/packages/clarius.visualstudio>) and get both added to your VSX project automatically ![:\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_smile.gif)
+You can look at the final [MSBuild properties](<https://github.com/clariuslabs/VisualStudio/blob/master/nuget/build/Clarius.VisualStudio.props>) and [targets files](<https://github.com/clariuslabs/VisualStudio/blob/master/nuget/build/Clarius.VisualStudio.targets>) directly on Github. Or even better, just [install the nuget package](<https://www.nuget.org/packages/clarius.visualstudio>) and get both added to your VSX project automatically ![:\)](/img/2014-01-11-2.gif)
     
     
     Install-Package Clarius.VisualStudio

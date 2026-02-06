@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - &amp;lt;/Lagash&amp;gt;&amp;lt;Clarius&amp;gt;"
+title: "&amp;lt;/Lagash&amp;gt;&amp;lt;Clarius&amp;gt;"
 date: 2004-03-23 00:00:00 +0000
 ---
-
-## &amp;lt;/Lagash&amp;gt;&amp;lt;Clarius&amp;gt; 
 
 For the past year I had the pleasure of working at Lagash Systems SA, a high-end consulting firm in Argentina, run buy really cool guys who created a company that is by far the best place you can work in Argentina right now. You won't find Morts there, only Einsteins. It was really an excelent experience, working with clever people, doing interesting and advanced stuff, and sharing knowledge as I had never seen in other companies. I can honestly say that my [ initial expectations](http://weblogs.asp.net/cazzu/archive/2003/08/22/24957.aspx) were easily surpassed. The company afforded a diving course (including the initiating trip to a "lake"!) for all of us, where we spent a couple great days, and they even gave me as a gift a beatiful cradle when [ my little](http://weblogs.asp.net/cazzu/archive/2003/12/11/42902.aspx) baby Agustina was born, which will always make me remember them. All I can say is a big "thank you", I've nothing but gratitude to them.
 

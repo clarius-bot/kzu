@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - High level overview of Visual Studio Extensibility APIs"
+title: "High level overview of Visual Studio Extensibility APIs"
 date: 2013-10-25 00:00:00 +0000
 ---
-
-##  [High level overview of Visual Studio Extensibility APIs](<http://blogs.clariusconsulting.net/kzu/high-level-overview-of-visual-studio-extensibility-apis/> "High level overview of Visual Studio Extensibility APIs")
-
-October 25, 2013 12:45 pm
 
 If your head is dizzy with the myriad VS services and APIs, from EnvDTE to Shell.Interop, this should clarify a couple things.
 
@@ -50,8 +46,8 @@ on your Visual Studio extension, you can write code like this to retrieve the di
 
 You can do things like show the solution explorer, save the solution, subscribe to solution and project events, and much more.
 
-[Clide is open source](<https://github.com/clariuslabs/clide>) software provided by [Clarius Labs](<https://github.com/clariuslabs>). And being a NuGet package, its documentation is available at [NuDoq](<http://www.nudoq.org/#!/Projects/Clide>), of course ![;\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif)
+[Clide is open source](<https://github.com/clariuslabs/clide>) software provided by [Clarius Labs](<https://github.com/clariuslabs>). And being a NuGet package, its documentation is available at [NuDoq](<http://www.nudoq.org/#!/Projects/Clide>), of course ![;\)](/img/2013-10-25-1.gif)
 
-![](https://raw.github.com/clariuslabs/common/master/ClariusLabs.png)
+![](/img/2013-10-25-1.png)
 
 /kzu

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Introduction"
+title: "Introduction"
 date: 2003-08-22 00:00:00 +0000
 ---
-
-## Introduction 
 
 I think it's time to start for me too :). I'm Daniel, a big fan of .NET, C#, XML and design patterns. I wrote 4 books for the extint Wrox Press (about ASP.NET and Server Controls), as well as some articles for C# Today and ASP Today. I was a speaker at the [.NET ONE 2002](http://www.sigs-datacom.de/sd/kongresse/dotnet_2002/program/sessions.htm) conference also ([slides](http://www.sigs.de/download/dotnet_02/)), where I presented the [NMatrix](http://sf.net/projects/dotnetopensrc) project, a personal endeavour I started back in May 2001, in a joined effort with my german friend Rainer and [Paul Speranza](http://weblogs.asp.net/Psperanza/) to contribute to the OpenSource community.
 

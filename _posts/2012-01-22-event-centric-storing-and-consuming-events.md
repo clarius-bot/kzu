@@ -1,20 +1,17 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Event Centric: storing and consuming events"
+title: "Event Centric: storing and consuming events"
 date: 2012-01-22 00:00:00 +0000
 ---
 
-##  [Event Centric: storing and consuming events](<http://blogs.clariusconsulting.net/kzu/event-centric-storing-and-consuming-events/> "Event Centric: storing and consuming events")
-
-January 22, 2012 8:47 pm
 
 [Disclaimer: I don’t think this disclaimer is needed, but just to be on the safe side. The opinions expressed herein are my own personal opinions and do not represent in any way my company's view, that of any customer current or past, or any current, past or future project related to these concepts that I may participate in]
 
-In [my previous post](<https://bit.ly/uSx4g2>) I showed how you can evolve the way you code your domain objects (or entities) so that they can benefit from the [Event Sourcing](<https://bit.ly/og0QJ5>) pattern, and I also showed that it’s pretty simple at its core. That post ended up being a little disconnected from the one where [I show how do to cool analysis](<https://bit.ly/srVn3P>) based on those events. It was on purpose, as I needed to introduce another concept, and the post was getting too big already ![Smile](http://blogs.clariusconsulting.net/kzu/files/2012/01/wlEmoticon-smile1.png).
+In [my previous post](<https://bit.ly/uSx4g2>) I showed how you can evolve the way you code your domain objects (or entities) so that they can benefit from the [Event Sourcing](<https://bit.ly/og0QJ5>) pattern, and I also showed that it’s pretty simple at its core. That post ended up being a little disconnected from the one where [I show how do to cool analysis](<https://bit.ly/srVn3P>) based on those events. It was on purpose, as I needed to introduce another concept, and the post was getting too big already ![Smile](/img/2012-01-22-1.png).
 
 Lets recap briefly what happens on a domain object when we invoke an operation:
 
-![image](http://blogs.clariusconsulting.net/kzu/files/2012/01/image7.png)
+![image](/img/2012-01-22-2.png)
 
 So after we invoked Move(), calling GetEvents() on the object would give us the CustomerMoved event data class that was the result of the operation. Pushing this event through the event stream manually is pretty straightforward:
     
@@ -162,7 +159,7 @@ Just a plain DTO of the query information. The nice thing about this is that I c
     
     var results = query.Execute();
 
-The query.Execute method simply calls Query(criteria) on the underlying store ![Smile](http://blogs.clariusconsulting.net/kzu/files/2012/01/wlEmoticon-smile1.png). Needless to say, not all stores need to implement all the query behavior. You’ll use what you need. I just put in the criteria I thought would be useful against an event store (things like being able to query by event type regardless of object instance, or all events for all objects of a given type, are useful in some scenarios we’ll see later, but aren’t common in other event store implementations).
+The query.Execute method simply calls Query(criteria) on the underlying store ![Smile](/img/2012-01-22-1.png). Needless to say, not all stores need to implement all the query behavior. You’ll use what you need. I just put in the criteria I thought would be useful against an event store (things like being able to query by event type regardless of object instance, or all events for all objects of a given type, are useful in some scenarios we’ll see later, but aren’t common in other event store implementations).
 
 To make things even simpler, I’ve created a [separate nuget package](<https://bit.ly/vtYxP4>) that provides the necessary LINQ expression building so that implementing a store over an underlying IQueryable storage is trivial. But again, being a separate package means you don’t have to use it or that your underlying storage has to be an IQueryable of some sort. And that’s about it for the store API itself.
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - vsCommandStatus illogical rules put to work"
+title: "vsCommandStatus illogical rules put to work"
 date: 2004-09-23 00:00:00 +0000
 ---
-
-## vsCommandStatus illogical rules put to work 
 
 I spend quite a bit of time trying to make the most "natural" scenario work:   
 

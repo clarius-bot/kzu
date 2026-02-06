@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - XPath queries without namespace: XSE to the rescue"
+title: "XPath queries without namespace: XSE to the rescue"
 date: 2004-02-16 00:00:00 +0000
 ---
-
-## XPath queries without namespace: XSE to the rescue 
 
 [Dare](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=cd6f9ffd-5149-4872-b48c-0f95f4fdd3bf) has posted about issues with XPath and namespaces in documents. I'm by no means encouraging this, but if you don't care about namespaces, here's a solution for you.
 

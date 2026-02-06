@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - A practical example on how to mock static classes without TypeMock"
+title: "A practical example on how to mock static classes without TypeMock"
 date: 2008-05-18 00:00:00 +0000
 ---
-
-## A practical example on how to mock static classes without TypeMock 
 
 WCF is the second biggest framework after ASP.NET that sooner or later forces you to use a static "context" property to do anything beyond the trivial stuff. ASP.NET has the HttpContext.Current, whereas WCF has the WebOperationContext.Current for example.
 

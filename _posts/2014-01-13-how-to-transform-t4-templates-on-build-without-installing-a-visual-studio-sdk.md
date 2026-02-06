@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to transform T4 templates on build without installing a Visual Studio SDK"
+title: "How to transform T4 templates on build without installing a Visual Studio SDK"
 date: 2014-01-13 00:00:00 +0000
 ---
 
-##  [How to transform T4 templates on build without installing a Visual Studio SDK](<http://blogs.clariusconsulting.net/kzu/how-to-transform-t4-templates-on-build-without-installing-a-visual-studio-sdk/> "How to transform T4 templates on build without installing a Visual Studio SDK")
-
-January 13, 2014 5:26 pm
 
 The [MS recommended way](<http://msdn.microsoft.com/en-us/library/ee847423.aspx>) is to just use the Microsoft.TextTemplating.targets which come with the [Visual Studio Visualization and Modeling SDK](<http://go.microsoft.com/fwlink/?LinkID=185579>). It makes me slightly nervous that it requires a little known SDK that is hosted on <http://archive.msdn.microsoft.com/vsvmsdk> rather than something more “official” like the [MSDN Download Center](<http://www.microsoft.com/en-us/download/>), where the [proper VS SDK lives](<http://www.microsoft.com/en-us/download/details.aspx?id=40758>). It also turns out to be absolutely unnecessary, since all you need is already installed with your base Visual Studio setup.
 
@@ -55,7 +52,7 @@ You won’t need to do anything else and your text templates will start transfor
 
 I thought about making the target that transform smarter and only transform if the source template is changed with regards to the last generated output, but it gets very tricky if you use includes. I’m not sure if there should be an additional item property to explicitly mark an included template as the source for the change detection or if the straightforward case without includes is common enough that it’s worth including the smart check anyways despite resulting in outdated output when includes are used?
 
-Would love to hear your thoughts on that. For the time being, simple “transform always” behavior it is ![:\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_smile.gif)
+Would love to hear your thoughts on that. For the time being, simple “transform always” behavior it is ![:\)](/img/2014-01-13-1.gif)
 
 Enjoy!
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - What would you like to see in Enterprise Library 5.0?"
+title: "What would you like to see in Enterprise Library 5.0?"
 date: 2009-03-30 00:00:00 +0000
 ---
-
-## What would you like to see in Enterprise Library 5.0? 
 
 There are few groups within Microsoft that are as open and so quick to deliver as [patterns & practices](http://msdn.microsoft.com/practices). When you give them feedback or request features, chances are you'll see them implemented within months, rather than years (if they get enough support of the rest of the community!). 
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Generate classes from XSD, now integrated with a guidance package!"
+title: "Generate classes from XSD, now integrated with a guidance package!"
 date: 2005-07-22 00:00:00 +0000
 ---
-
-## Generate classes from XSD, now integrated with a guidance package!
 
 ## Generate classes from XSD, now integrated with a guidance package!
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to mock extension methods"
+title: "How to mock extension methods"
 date: 2009-12-22 00:00:00 +0000
 ---
-
-## How to mock extension methods 
 
 . without paying for a TypeMock Isolator license to do it ;-)
 

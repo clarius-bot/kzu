@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Forget about writing Atom or RSS XML handling code ever again"
+title: "Forget about writing Atom or RSS XML handling code ever again"
 date: 2007-11-22 00:00:00 +0000
 ---
-
-## Forget about writing Atom or RSS XML handling code ever again 
 
 A *very* welcome addition to .NET 3.5, which just went [RTM for MSDN](http://www.danielmoth.com/Blog/2007/11/vs2008-rtm-for-non-msdn-subscribers.html) subscribers and [trial for the rest](http://msdn2.microsoft.com/en-gb/vstudio/products/aa700831.aspx "Download VS2008 RTM from MSDN") before general availability early next year: [System.ServiceModel.Syndication](msdn2.microsoft.com/library/system.servicemodel.syndication.aspx "MSDN Library").
 
@@ -196,7 +194,7 @@ So here goes such a factory:
 
 You can also [download the plain text representation](http://www.clariusconsulting.net/images/blogs/kzu/SyndicationFormatterFactory.cs.txt) for easier copying.
 
-[![Creative Commons License](https://web.archive.org/web/20080622141023im_/http://i.creativecommons.org/l/by/3.0/88x31.png) ](http://creativecommons.org/licenses/by/3.0/)  
+[![Creative Commons License](/img/2007-11-22-1.png) ](http://creativecommons.org/licenses/by/3.0/)  
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). 
 
 /kzu

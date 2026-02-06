@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to cross post entries across blogs from Windows Live Writer"
+title: "How to cross post entries across blogs from Windows Live Writer"
 date: 2007-08-24 00:00:00 +0000
 ---
-
-## How to cross post entries across blogs from Windows Live Writer 
 
 I think I'm not the first guy to end up in this situation: I created a lot of content (and loyal readers) on some blog hosting site (in my case [http://weblogs.asp.net](http://weblogs.asp.net/)) and now I want to move on, maybe with a self-hosted solution, maybe with [Blogger and its custom domain support](http://help.blogger.com/bin/answer.py?hl=en&answer=55373), whatever. 
 

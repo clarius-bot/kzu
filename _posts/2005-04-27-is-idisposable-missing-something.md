@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Is IDisposable missing something???"
+title: "Is IDisposable missing something???"
 date: 2005-04-27 00:00:00 +0000
 ---
-
-## Is IDisposable missing something??? 
 
 Who about:  
   

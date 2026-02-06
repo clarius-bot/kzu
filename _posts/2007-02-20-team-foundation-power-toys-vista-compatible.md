@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Team Foundation Power Toys, Vista compatible!"
+title: "Team Foundation Power Toys, Vista compatible!"
 date: 2007-02-20 00:00:00 +0000
 ---
-
-## Team Foundation Power Toys, Vista compatible! 
 
 If you're serious about working with TFS, and you fell the out-of-the-box experience (UI and command line) is lacking, you MUST go get these tools NOW.
 

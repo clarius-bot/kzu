@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - MAB ContainerModel / Funq: a transparent container"
+title: "MAB ContainerModel / Funq: a transparent container"
 date: 2009-04-20 00:00:00 +0000
 ---
-
-## MAB ContainerModel / Funq: a transparent container 
 
 From the point of view of the user of the container, he doesn't have to do anything at all. He just creates classes as usual:
     

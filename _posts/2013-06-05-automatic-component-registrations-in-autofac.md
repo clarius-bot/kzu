@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Automatic component registrations in Autofac"
+title: "Automatic component registrations in Autofac"
 date: 2013-06-05 00:00:00 +0000
 ---
 
-##  [Automatic component registrations in Autofac](<http://blogs.clariusconsulting.net/kzu/automatic-component-registrations-in-autofac/> "Automatic component registrations in Autofac")
-
-June 5, 2013 6:34 pm
 
 I just had to adapt my favorite IoC container to do some of the things MEF does out of the box, namely registering all classes that have a certain attribute (in MEF’s case, [Export]). 
 
@@ -118,6 +115,6 @@ Where the registration code can simply be:
     
     var container = builder.Build();
 
-You gotta love [Autofac](<https://bit.ly/12t9Cry>) ![:\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_smile.gif)
+You gotta love [Autofac](<https://bit.ly/12t9Cry>) ![:\)](/img/2013-06-05-1.gif)
 
 /kzu

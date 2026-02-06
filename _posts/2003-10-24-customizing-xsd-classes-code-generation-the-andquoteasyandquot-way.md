@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Customizing XSD-&gt;Classes code generation, the &quot;easy&quot; way"
+title: "Customizing XSD-&gt;Classes code generation, the &quot;easy&quot; way"
 date: 2003-10-24 00:00:00 +0000
 ---
-
-## Customizing XSD-&gt;Classes code generation, the &quot;easy&quot; way 
 
 Update: check a more thorough explanation of this techique in [ Code Generation in the .NET Framework Using XML Schema](http://msdn.microsoft.com/xml/default.aspx?pull=/library/en-us/dnxmlnet/html/xsdcodegen.asp) article published in the [MSDN XML DevCenter](http://msdn.microsoft.com/xml/), and the companion post on [the VS.NET custom tool](http://weblogs.asp.net/cazzu/archive/2004/05/14/XsdCodeGenTool.aspx) for it.
 

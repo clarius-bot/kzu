@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to inspect a type inheritance tree properly"
+title: "How to inspect a type inheritance tree properly"
 date: 2010-12-03 00:00:00 +0000
 ---
-
-## How to inspect a type inheritance tree properly 
 
 You might think this is a trivial thing, with Type.BaseType and Type.GetInterfaces already there. But there's catch: the GetInterfaces method will give you all the implemented interfaces by the concrete type, as well as all its base types, as well as all the interfaces inherited by other interfaces it implements. What a mess! To make it more clear, say you have the following types:
     

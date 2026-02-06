@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - New version of Whidbey is out!"
+title: "New version of Whidbey is out!"
 date: 2004-05-26 00:00:00 +0000
 ---
-
-## New version of Whidbey is out! 
 
 In case you haven't heard, the Visual Studio 2005 Community Technology Preview May 2004 is available to all MSDN subscribers! :D
 

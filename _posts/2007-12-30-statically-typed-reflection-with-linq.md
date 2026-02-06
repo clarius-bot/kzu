@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Statically-typed reflection with LINQ"
+title: "Statically-typed reflection with LINQ"
 date: 2007-12-30 00:00:00 +0000
 ---
-
-## Statically-typed reflection with LINQ 
 
 Quite some time ago I posted about [how to use LINQ to provide a strong-typed reflection API](http://www.clariusconsulting.net/blogs/kzu/archive/2006/07/06/TypedReflection.aspx). I used a very old LINQ preview back then. 
 

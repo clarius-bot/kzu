@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Secondary disk performance on laptop (for virtual machine working)"
+title: "Secondary disk performance on laptop (for virtual machine working)"
 date: 2006-02-20 00:00:00 +0000
 ---
-
-## Secondary disk performance on laptop (for virtual machine working)
 
 ## Secondary disk performance on laptop (for virtual machine working)
 

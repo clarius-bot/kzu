@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Cloud-aware music done right: Spotify is the iTunes, Zune, Amazon Cloud Player and Google Music killer"
+title: "Cloud-aware music done right: Spotify is the iTunes, Zune, Amazon Cloud Player and Google Music killer"
 date: 2011-07-27 00:00:00 +0000
 ---
 
-##  [Cloud-aware music done right: Spotify is the iTunes, Zune, Amazon Cloud Player and Google Music killer](<http://blogs.clariusconsulting.net/kzu/cloud-aware-music-done-right-spotify-is-the-itunes-zune-amazon-cloud-player-and-google-music-killer/> "Cloud-aware music done right: Spotify is the iTunes, Zune, Amazon Cloud Player and Google Music killer")
-
-July 27, 2011 7:13 am
 
 Oh boy, how I’ve been waiting for something like [Spotify](<http://www.spotify.com/>)!!! Just got an account setup (like 10’ ago) and I’m already blown away by it. Everything I’ve always wanted, truly. 
 
@@ -46,7 +43,7 @@ And these are online music services I’ve used (either currently -soon to be dr
   4. Amazon Cloud Player   
 \+ Upload my existing songs   
 \+ Nice Android app   
-\+ Multiple (Android platform only currently ![Sad smile](http://blogs.clariusconsulting.net/kzu/files/2011/07/wlEmoticon-sadsmile.png)) devices supported   
+\+ Multiple (Android platform only currently ![Sad smile](/img/2011-07-27-1.png)) devices supported   
 \+ Amazon recommendation system behind your purchases   
 \- No radio mode   
 \- No subscription mode for unlimited streaming (have to buy songs/albums)   
@@ -61,23 +58,23 @@ So I set out to try out for a month Spotify. Got a Premium account, and download
 
 Now, here’s how you do sync in this age, Apple:
 
-[![image](http://blogs.clariusconsulting.net/kzu/files/2011/07/image_thumb.png)](<http://blogs.clariusconsulting.net/kzu/files/2011/07/image3.png>)
+[![image](/img/2011-07-27-2.png)](<http://blogs.clariusconsulting.net/kzu/files/2011/07/image3.png>)
 
 At no point, ever, you need to connect a cable between your computer and your device. Ever. Here I’m sync’ing for offline play on the laptop the most excelent [Nightwish End of an Era CDs](<http://open.spotify.com/album/3RZRfLtJ1arwxWwIhPaVQg>) right off the cloud (I don’t own this album). 
 
 Here’s another view but now sync’ing to my Nexus One phone:
 
-[![image](http://blogs.clariusconsulting.net/kzu/files/2011/07/image7_thumb.png)](<http://blogs.clariusconsulting.net/kzu/files/2011/07/image7.png>)
+[![image](/img/2011-07-27-3.png)](<http://blogs.clariusconsulting.net/kzu/files/2011/07/image7.png>)
 
-And now with ALL my current devices (except for the Zune) connected (couldn’t rename the Galaxy Tab 10.1 device, option appears greyed out ![Sad smile](http://blogs.clariusconsulting.net/kzu/files/2011/07/wlEmoticon-sadsmile.png)):
+And now with ALL my current devices (except for the Zune) connected (couldn’t rename the Galaxy Tab 10.1 device, option appears greyed out ![Sad smile](/img/2011-07-27-1.png)):
 
-[![image](http://blogs.clariusconsulting.net/kzu/files/2011/07/image_thumb1.png)](<http://blogs.clariusconsulting.net/kzu/files/2011/07/image4.png>)
+[![image](/img/2011-07-27-4.png)](<http://blogs.clariusconsulting.net/kzu/files/2011/07/image4.png>)
 
 Truly amazing. Totally sold.
 
 Needless to say, you can of course do everything you can do from the desktop client (except manage sync on other devices, AFAICS) from each mobile client (search, create playlists, cache for offline, etc.).
 
-One thing I didn’t like is that you can only play on one device at a time. Starting on another pauses whichever other device is using the same username. I prefer the Zune’s approach of letting up to 5 simultaneous devices to be used. Imagine my wife is playing something on the HTPC for my kids and at the same time I’m working on my office. Can’t use my account on both. Means I have to pay more unnecessarily. Resorting to caching the music ahead of time and offlining one client or the other to avoid notifying Spotify and pause the other, is not going to work ![Sad smile](http://blogs.clariusconsulting.net/kzu/files/2011/07/wlEmoticon-sadsmile.png).
+One thing I didn’t like is that you can only play on one device at a time. Starting on another pauses whichever other device is using the same username. I prefer the Zune’s approach of letting up to 5 simultaneous devices to be used. Imagine my wife is playing something on the HTPC for my kids and at the same time I’m working on my office. Can’t use my account on both. Means I have to pay more unnecessarily. Resorting to caching the music ahead of time and offlining one client or the other to avoid notifying Spotify and pause the other, is not going to work ![Sad smile](/img/2011-07-27-1.png).
 
 As a general purpose music player for my local files, it also looks pretty decent, so although I’m sure I’ll miss the desktop Zune software, I think I’m ready to let it go.
 

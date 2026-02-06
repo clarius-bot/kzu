@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - ASP.NET v2.0: is the non-visual components support finally back?"
+title: "ASP.NET v2.0: is the non-visual components support finally back?"
 date: 2005-05-28 00:00:00 +0000
 ---
-
-## ASP.NET v2.0: is the non-visual components support finally back?
 
 ## ASP.NET v2.0: is the non-visual components support finally back?
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to use Autofac with WCF Web API"
+title: "How to use Autofac with WCF Web API"
 date: 2011-05-16 00:00:00 +0000
 ---
-
-## How to use Autofac with WCF Web API
 
 The new configuration model in the latestWCFWeb APIsallows extending the service instantiation via what is called aresource factory.
 
@@ -81,6 +79,6 @@ routes.MapServiceRoute<FooResource>("foo", config);
 
 Pretty sleek! WCF is looking like a usable technology now…
 
-![Smile](http://blogs.clariusconsulting.net/kzu/files/2011/05/wlEmoticon-smile1.png)
+![Smile](/img/2011-05-16-1.png)
 
 /kzu

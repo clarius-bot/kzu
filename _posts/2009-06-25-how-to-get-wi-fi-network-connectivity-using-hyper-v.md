@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to get wi-fi network connectivity using Hyper-V"
+title: "How to get wi-fi network connectivity using Hyper-V"
 date: 2009-06-25 00:00:00 +0000
 ---
-
-## How to get wi-fi network connectivity using Hyper-V 
 
   1. Create a new Local Network with Virtual Network Manager (name it Hyper-V, for example) 
   2. In the VHD, run msconfig.exe, in the Boot tab, click the Advanced options button, and select the Detect HAL option. 

@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to fix continuous deployment error for .NET 4.5 in Team Foundation Service"
+title: "How to fix continuous deployment error for .NET 4.5 in Team Foundation Service"
 date: 2013-07-20 00:00:00 +0000
 ---
 
-##  [How to fix continuous deployment error for .NET 4.5 in Team Foundation Service](<http://blogs.clariusconsulting.net/kzu/how-to-fix-continuous-deployment-error-for-net-4-5-in-team-foundation-service/> "How to fix continuous deployment error for .NET 4.5 in Team Foundation Service")
-
-July 20, 2013 6:00 pm
 
 If you’re configuring [continuous deployment on Team Foundation Service](<http://www.windowsazure.com/en-us/develop/net/common-tasks/publishing-with-tfs/>) for a .NET 4.5, you may get an error like the following in the build log:
     

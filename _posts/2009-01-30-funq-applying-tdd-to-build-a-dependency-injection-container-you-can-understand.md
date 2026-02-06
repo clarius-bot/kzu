@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Funq: applying TDD to build a dependency injection container you can understand"
+title: "Funq: applying TDD to build a dependency injection container you can understand"
 date: 2009-01-30 00:00:00 +0000
 ---
-
-## Funq: applying TDD to build a dependency injection container you can understand 
 
 I'm planning to record a series of screencasts which will serve as walk-throughs on how to apply TDD on a practical project consisting in building a full-featured and high-performance DI container which has two very explicit goal: minimalistic design and small footprint.
 

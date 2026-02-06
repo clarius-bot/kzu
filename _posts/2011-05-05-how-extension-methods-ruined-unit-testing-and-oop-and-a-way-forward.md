@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How extension methods ruined unit testing and OOP, and a way forward"
+title: "How extension methods ruined unit testing and OOP, and a way forward"
 date: 2011-05-05 00:00:00 +0000
 ---
 
-##  [How extension methods ruined unit testing and OOP, and a way forward](<http://blogs.clariusconsulting.net/kzu/how-extension-methods-ruined-unit-testing-and-oop-and-a-way-forward/> "How extension methods ruined unit testing and OOP, and a way forward")
-
-May 5, 2011 6:04 am
 
 You probably know I’m an advocate of a [particular way](<http://blogs.clariusconsulting.net/kzu/making-extension-methods-amenable-to-mocking/>) of [doing extension methods](<http://blogs.clariusconsulting.net/kzu/how-to-mock-extension-methods/>) that I call the “Extension Method Entry Point Pattern”, which makes it easier to mock them. 
 
@@ -110,7 +107,7 @@ After this refactoring is done, implementing a new “API extender” (a.k.a. �
     {
         public void Execute(IProject project)
         {
-            // 252 LoC to do this with VS ![;\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif)
+            // 252 LoC to do this with VS ![;\)](/img/2011-05-05-1.gif)
         }
     }
     

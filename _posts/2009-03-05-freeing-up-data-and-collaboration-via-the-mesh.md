@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Freeing up data and collaboration via the mesh"
+title: "Freeing up data and collaboration via the mesh"
 date: 2009-03-05 00:00:00 +0000
 ---
-
-## Freeing up data and collaboration via the mesh 
 
 Last weekend, during the [ALT.NET Seattle](http://altnetseattle.pbwiki.com/) conference, I spoke for quite a while with [Miguel de Icaza](http://tirania.org/blog/) on the work [we're](http://clariusconsulting.net/) doing with [InSTEDD](http://instedd.org/) in the area of data synchronization. He was very excited, and wondered how come this wasn't more broadly known. 
 
@@ -26,7 +24,7 @@ The importance of this adapter-driven approach is that instead of developing one
 
 The coolest feature ever, IMO, is the one that allows you to sync any adapter/data source with any other endpoint (which in turn may be any other adapter/data source) over [plain ***SMS*** without any kind of data/internet connection](http://edjez.instedd.org/2008/06/mesh4x-sms-adapter-sync-data-without.html). Just let that sink in your mind for a sec: we have a compressed, highly optimized, diff-based mechanism to sync ANY data source with ANY other data source over SMS (i.e. Access with MySQL over SMS, etc.), and this works TWO WAYS. (we do have HTTP-based sync too, of course!)
 
-![kind of like this](https://web.archive.org/web/20100123102448im_/http://lh4.ggpht.com/edujez/SO-xHeELQ9I/AAAAAAAAAMQ/kaqQSEUKUmg/image_thumb%5B29%5D.png?imgmax=800)
+![kind of like this](/img/2009-03-05-1.png)
 
 [Marcelo Tondato](http://jtondato.clariusconsulting.net/) has been the brain and dev behind these awesome features.
 

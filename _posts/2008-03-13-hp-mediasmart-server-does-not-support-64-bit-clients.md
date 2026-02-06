@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - HP MediaSmart Server does NOT support 64 bit clients"
+title: "HP MediaSmart Server does NOT support 64 bit clients"
 date: 2008-03-13 00:00:00 +0000
 ---
-
-## HP MediaSmart Server does NOT support 64 bit clients 
 
 Seriously, WWWWW TTTTT FFFFFF ?!?!?!?!
 

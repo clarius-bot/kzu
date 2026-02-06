@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Google + eBay: that would be killer"
+title: "Google + eBay: that would be killer"
 date: 2005-09-25 00:00:00 +0000
 ---
-
-## Google + eBay: that would be killer 
 
   * [eBay bought Skype](http://skype.com/company/news/2005/skype_ebay.html) (GTalk is not even close to Skype feature-wise)   
 

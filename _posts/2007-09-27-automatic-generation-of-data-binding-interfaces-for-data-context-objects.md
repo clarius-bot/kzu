@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Automatic generation of data-binding interfaces for data context objects"
+title: "Automatic generation of data-binding interfaces for data context objects"
 date: 2007-09-27 00:00:00 +0000
 ---
-
-## Automatic generation of data-binding interfaces for data context objects 
 
 From the new [Clarius Labs release](http://www.codeplex.com/clarius/Release/ProjectReleases.aspx?ReleaseId=7358):
 

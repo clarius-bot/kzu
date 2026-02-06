@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Do you really care about Stub vs Mock?"
+title: "Do you really care about Stub vs Mock?"
 date: 2008-07-05 00:00:00 +0000
 ---
-
-## Do you really care about Stub vs Mock? 
 
 I've argued in the past that this [theoretical discussion is utterly useless](http://www.clariusconsulting.net/blogs/kzu/archive/2007/12/27/48594.aspx). In my experience you need slightly different things from your [test doubles](http://www.martinfowler.com/bliki/TestDouble.html) at different times and depending on the scenarios and what you care about testing in a particular test. 
 

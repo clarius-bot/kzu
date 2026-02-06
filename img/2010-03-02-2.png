@@ -1,0 +1,547 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11"><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://blogs.clariusconsulting.net/kzu/","20120510011219","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1336612339");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+	<title> Daniel Cazzulino&#039;s Blog</title>
+
+	<link href="https://web.archive.org/web/20120510011219cs_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style.css" rel="stylesheet" type="text/css" media="screen"/>    
+        
+    <link href="https://web.archive.org/web/20120510011219cs_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/styles.css" rel="stylesheet" type="text/css"/>
+    <!-- iPad, iPod, iPhone icon !-->
+    <link rel="apple-touch-icon" href="https://web.archive.org/web/20120510011219im_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/images/iOSicon.png"/>
+    <meta name="viewport" content="width=1300px">
+    
+
+	<!--[if IE 6]><link href="http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/ie.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+
+	<!--[if IE 7]><link href="http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/ie.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+
+	<link rel="pingback" href="http://blogs.clariusconsulting.net/kzu/xmlrpc.php"/>
+
+	<!-- JavaScripts-->
+	<script type="text/javascript" src="https://web.archive.org/web/20120510011219js_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/js/jquery.js"></script>
+	<!--<script type="text/javascript" src="http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/js/custom.js"></script>!-->
+	<script type="text/javascript" src="https://web.archive.org/web/20120510011219js_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/js/jquery.js"></script>
+    <script type="text/javascript" src="https://web.archive.org/web/20120510011219js_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/js/profile.js"></script>
+
+	
+	<link rel="alternate" type="application/rss+xml" title="Daniel Cazzulino's Blog » Feed" href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Daniel Cazzulino's Blog » Comments Feed" href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/comments/feed/"/>
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.2.2 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-317338-6']);
+	_gaq.push(['_trackPageview'],['_trackPageLoadTime']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://web.archive.org/web/20120510011219/https://ssl' : 'https://web.archive.org/web/20120510011219/http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	//]]></script>
+<link rel="stylesheet" id="core3.0-css" href="https://web.archive.org/web/20120510011219cs_/http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/styles/shCore.css?ver=3.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="core-Default3.0-css" href="https://web.archive.org/web/20120510011219cs_/http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/styles/shCoreDefault.css?ver=3.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="theme-Default3.0-css" href="https://web.archive.org/web/20120510011219cs_/http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/styles/shThemeDefault.css?ver=3.0" type="text/css" media="all"/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.clariusconsulting.net/kzu/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.clariusconsulting.net/kzu/wp-includes/wlwmanifest.xml"/> 
+<link rel="index" title="Daniel Cazzulino's Blog" href="http://blogs.clariusconsulting.net/kzu/"/>
+<meta name="generator" content="WordPress 3.1"/>
+</head>
+
+<body class="home blog">
+<div id="wrapper" class="wrapper">
+<div id="site" class="site">
+
+<div id="content" class="site_blog clearfix">
+<!-- CHECK IF IT IS HOMEPAGE AGGREGATE OR BLOG !-->
+
+
+<div class="blog_wrapper">
+
+
+<div class="blog_sidebar sidebar_left">
+
+<div id="clarius-expert-profile" class="widget widget_expertProfile"><h2 class="widgettitle"><img src="https://web.archive.org/web/20120510011219im_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/images/KZUblogtitle.gif"><br/><br/><div id="profile"><div id="profile_left"><div class="profile_info"><p><span class="fullname">Daniel Cazzulino</span><br/>Data MVP<br/><span class="small">(a.k.a. KZU)<span></p><p>Dev Lead @ Clarius</p><span class="small"><p>Buenos Aires - Argentina</p></span><div id="profile_vcard" style="text-align:right; display:none"><a href="aaa" target="_blank"><img src="https://web.archive.org/web/20120510011219im_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/images/BTNvcard_N.gif" width="35" height="23" alt="vcard" title="Download my vCard" class="profileIcons"/></a></div></div><div class="profile_pic"><img src="https://web.archive.org/web/20120510011219im_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/images/KZUpic.jpg" width="158" height="158" alt="KZU picture" class="picture"/></div><div id="profile_btns">
+<div id="profile_btns_front"><div class="selector_front">&nbsp;</div><img src="https://web.archive.org/web/20120510011219im_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/images/KZUcard_front.png" width="30" height="50" alt="KZU front" class="front"/></div><div id="profile_btns_back"><div class="selector_back" style="opacity: 0;">&nbsp;</div><img src="https://web.archive.org/web/20120510011219im_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/images/card_back.png" width="30" height="50" alt="KZU back" class="back"/></div><div class="clear"></div></div></div><div id="profile_right"><a href="https://web.archive.org/web/20120510011219/http://twitter.com/#!/KZU" target="_blank"><img src="https://web.archive.org/web/20120510011219im_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/images/BTNtwitter_N.gif" alt="Twitter" title="Follow me on Twitter" width="35" height="27" class="profileIcons"/></a><a href="https://web.archive.org/web/20120510011219/mailto:kzu@clariusconsulting.net"><img src="https://web.archive.org/web/20120510011219im_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/images/BTNemail_N.gif" width="35" height="27" alt="Email" title="Email me" class="profileIcons"/></a><a href="https://web.archive.org/web/20120510011219/http://www.linkedin.com/in/danielcazzulino" 'target="_blank"><img src="https://web.archive.org/web/20120510011219im_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/images/BTNlink_N.gif" width="35" height="27" alt="linked" title="Visit my LinkedIN Profile" class="profileIcons"/></a><a href="https://web.archive.org/web/20120510011219/https://plus.google.com/116814760719959125534" 'target="_blank"><img src="https://web.archive.org/web/20120510011219im_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/images/BTNgoogle_N.gif" width="35" height="27" alt="google+" title="Visit my Google+ Profile" class="profileIcons"/></a><a href="https://web.archive.org/web/20120510011219/http://feeds2.feedburner.com/danielcazzulino"><img src="https://web.archive.org/web/20120510011219im_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/images/BTNrss_N.gif" width="35" height="23" alt="RSS" title="RSS Subscribe" class="profileIcons"/></a></div></div><div class="clear"></div></h2></div><div id="search-3" class="widget widget_search">
+<div class="nav_search clearfix">
+	<form method="get" id="searchform" action="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu">
+		<input value="" name="s" id="s" type="text"/>
+		<input id="searchsubmit" name="searchsubmit" type="image" src="https://web.archive.org/web/20120510011219im_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/images/search.png" id="submit" value="Search"/>
+	</form>
+</div></div><div id="tag_cloud-3" class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2><div class="tagcloud"><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/ddd/" class="tag-link-21" title="2 topics" style="font-size: 10.709677419355pt;">ddd</a>
+<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/ef/" class="tag-link-18" title="1 topic" style="font-size: 8pt;">ef</a>
+<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/eventsourcing/" class="tag-link-22" title="3 topics" style="font-size: 12.516129032258pt;">eventsourcing</a>
+<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/gadgets/" class="tag-link-14" title="3 topics" style="font-size: 12.516129032258pt;">gadgets</a>
+<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/mocking/" class="tag-link-24" title="6 topics" style="font-size: 16.279569892473pt;">mocking</a>
+<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/moq/" class="tag-link-20" title="7 topics" style="font-size: 17.032258064516pt;">moq</a>
+<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/msbuild/" class="tag-link-12" title="2 topics" style="font-size: 10.709677419355pt;">msbuild</a>
+<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/mvc/" class="tag-link-25" title="1 topic" style="font-size: 8pt;">mvc</a>
+<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/nuget/" class="tag-link-7" title="8 topics" style="font-size: 17.784946236559pt;">nuget</a>
+<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/patterns/" class="tag-link-23" title="3 topics" style="font-size: 12.516129032258pt;">patterns</a>
+<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/programming/" class="tag-link-8" title="16 topics" style="font-size: 22pt;">programming</a>
+<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/t4/" class="tag-link-13" title="1 topic" style="font-size: 8pt;">t4</a>
+<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/vsx/" class="tag-link-9" title="1 topic" style="font-size: 8pt;">VSX</a>
+<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/wcf/" class="tag-link-17" title="4 topics" style="font-size: 14.021505376344pt;">wcf</a>
+<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/tag/webapi/" class="tag-link-16" title="4 topics" style="font-size: 14.021505376344pt;">webapi</a></div>
+</div><div id="text-3" class="widget widget_text">			<div class="textwidget"><!-- Place this tag in the <head> of your document -->
+<link href="https://plus.google.com/116814760719959125534/" rel="publisher"/></div>
+		</div><div id="twitter-3" class="widget widget_twitter"><div><h2 class="widgettitle"><span class="twitterwidget twitterwidget-title">Latest Tweets</span></h2><ul><li class="wpTwitterWidgetEmpty">No Tweets Available</li></ul><div class="follow-button"><a href="https://web.archive.org/web/20120510011219/http://twitter.com/kzu" class="twitter-follow-button" title="Follow @kzu" data-lang="en" target="_blank">@kzu</a></div></div></div>		<div id="recent-posts-3" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>		<ul>
+				<li><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/how-to-map-a-shared-skydrive-folder-as-a-network-drive-in-windows/" title="How to map a shared SkyDrive folder as a network drive in Windows">How to map a shared SkyDrive folder as a network drive in Windows</a></li>
+				<li><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/a-better-way-to-encourage-contributions-to-oss/" title="A better way to encourage contributions to OSS">A better way to encourage contributions to OSS</a></li>
+				<li><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/you-dont-need-an-ioc-or-servicelocator-for-everything/" title="You don’t need an IoC container or ServiceLocator for everything">You don&rsquo;t need an IoC container or ServiceLocator for everything</a></li>
+				<li><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/event-centric-storing-and-consuming-events/" title="Event Centric: storing and consuming events">Event Centric: storing and consuming events</a></li>
+				<li><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/a-better-way-to-implement-the-singleton-anti-pattern-for-easier-testing-using-ambientsingleton/" title="A better way to implement the Singleton (anti?) pattern for easier testing using AmbientSingleton">A better way to implement the Singleton (anti?) pattern for easier testing using AmbientSingleton</a></li>
+				</ul>
+		</div>
+</div><!-- .sidebar_left -->
+
+
+<div class="blog_header">
+	<p class="site_url">http://blogs.clariusconsulting.net/kzu</p>
+	<h1 class="site_title">Daniel Cazzulino&#039;s Blog</h1>
+		<p class="site_legend"><span class="legend_title">stats</span><br/>250 posts and blogging</p>
+		
+</div>
+
+<div class="blog_posts clearfix">
+		<h1 class="blog_title"><strong>kzu</strong><span>&prime;s</span> Latest posts</h1>
+	
+
+
+<div class="post-1127 post type-post status-publish format-standard hentry category-uncategorized posts_post clearfix" id="post-1127">
+
+	<div class="post_header">
+		<h2 class="post_title">
+			<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/how-to-map-a-shared-skydrive-folder-as-a-network-drive-in-windows/" rel="bookmark" title="How to map a shared SkyDrive folder as a network drive in Windows">How to map a shared SkyDrive folder as a network drive in Windows</a>
+		</h2>
+
+		<p class="post_metadata">
+			<span class="post_time">March 22, 2012 1:37 pm</span>
+					</p>
+
+	</div><!-- .post_header -->
+
+	
+
+
+	<div class="post_footer">
+		<p class="post_metadata">
+						<span class="post_commentcount"><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/how-to-map-a-shared-skydrive-folder-as-a-network-drive-in-windows/#comments" title="Comment on How to map a shared SkyDrive folder as a network drive in Windows">2 comments</a></span>
+						
+						
+						<!--<span class="post_category_title">Under:</span> <span class="post_category"><a href="http://blogs.clariusconsulting.net/kzu/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a></span>!-->
+					</p>
+	</div><!-- .post_footer -->
+
+	</div><!-- .posts_post -->
+
+
+<div class="post-1122 post type-post status-publish format-standard hentry category-uncategorized tag-programming posts_post clearfix" id="post-1122">
+
+	<div class="post_header">
+		<h2 class="post_title">
+			<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/a-better-way-to-encourage-contributions-to-oss/" rel="bookmark" title="A better way to encourage contributions to OSS">A better way to encourage contributions to OSS</a>
+		</h2>
+
+		<p class="post_metadata">
+			<span class="post_time">March 16, 2012 3:18 am</span>
+					</p>
+
+	</div><!-- .post_header -->
+
+	
+
+
+	<div class="post_footer">
+		<p class="post_metadata">
+						<span class="post_commentcount"><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/a-better-way-to-encourage-contributions-to-oss/#comments" title="Comment on A better way to encourage contributions to OSS">15 comments</a></span>
+						
+						
+						<!--<span class="post_category_title">Under:</span> <span class="post_category"><a href="http://blogs.clariusconsulting.net/kzu/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a></span>!-->
+					</p>
+	</div><!-- .post_footer -->
+
+	</div><!-- .posts_post -->
+
+
+<div class="post-1119 post type-post status-publish format-standard hentry category-uncategorized posts_post clearfix" id="post-1119">
+
+	<div class="post_header">
+		<h2 class="post_title">
+			<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/you-dont-need-an-ioc-or-servicelocator-for-everything/" rel="bookmark" title="You don’t need an IoC container or ServiceLocator for everything">You don&rsquo;t need an IoC container or ServiceLocator for everything</a>
+		</h2>
+
+		<p class="post_metadata">
+			<span class="post_time">March 9, 2012 1:36 pm</span>
+					</p>
+
+	</div><!-- .post_header -->
+
+	
+
+
+	<div class="post_footer">
+		<p class="post_metadata">
+						<span class="post_commentcount"><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/you-dont-need-an-ioc-or-servicelocator-for-everything/#comments" title="Comment on You don’t need an IoC container or ServiceLocator for everything">13 comments</a></span>
+						
+						
+						<!--<span class="post_category_title">Under:</span> <span class="post_category"><a href="http://blogs.clariusconsulting.net/kzu/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a></span>!-->
+					</p>
+	</div><!-- .post_footer -->
+
+	</div><!-- .posts_post -->
+
+
+<div class="post-1103 post type-post status-publish format-standard hentry category-net tag-eventsourcing tag-patterns posts_post clearfix" id="post-1103">
+
+	<div class="post_header">
+		<h2 class="post_title">
+			<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/event-centric-storing-and-consuming-events/" rel="bookmark" title="Event Centric: storing and consuming events">Event Centric: storing and consuming events</a>
+		</h2>
+
+		<p class="post_metadata">
+			<span class="post_time">January 22, 2012 8:47 pm</span>
+					</p>
+
+	</div><!-- .post_header -->
+
+	
+
+
+	<div class="post_footer">
+		<p class="post_metadata">
+						<span class="post_commentcount"><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/event-centric-storing-and-consuming-events/#comments" title="Comment on Event Centric: storing and consuming events">3 comments</a></span>
+						
+						
+						<!--<span class="post_category_title">Under:</span> <span class="post_category"><a href="http://blogs.clariusconsulting.net/kzu/category/net/" title="View all posts in .NET" rel="category tag">.NET</a></span>!-->
+					</p>
+	</div><!-- .post_footer -->
+
+	</div><!-- .posts_post -->
+
+
+<div class="post-1095 post type-post status-publish format-standard hentry category-net tag-patterns posts_post clearfix" id="post-1095">
+
+	<div class="post_header">
+		<h2 class="post_title">
+			<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/a-better-way-to-implement-the-singleton-anti-pattern-for-easier-testing-using-ambientsingleton/" rel="bookmark" title="A better way to implement the Singleton (anti?) pattern for easier testing using AmbientSingleton">A better way to implement the Singleton (anti?) pattern for easier testing using AmbientSingleton</a>
+		</h2>
+
+		<p class="post_metadata">
+			<span class="post_time">January 10, 2012 6:03 pm</span>
+					</p>
+
+	</div><!-- .post_header -->
+
+	
+
+
+	<div class="post_footer">
+		<p class="post_metadata">
+						<span class="post_commentcount"><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/a-better-way-to-implement-the-singleton-anti-pattern-for-easier-testing-using-ambientsingleton/#comments" title="Comment on A better way to implement the Singleton (anti?) pattern for easier testing using AmbientSingleton">4 comments</a></span>
+						
+						
+						<!--<span class="post_category_title">Under:</span> <span class="post_category"><a href="http://blogs.clariusconsulting.net/kzu/category/net/" title="View all posts in .NET" rel="category tag">.NET</a></span>!-->
+					</p>
+	</div><!-- .post_footer -->
+
+	</div><!-- .posts_post -->
+
+
+<div class="post-1076 post type-post status-publish format-standard hentry category-uncategorized posts_post clearfix" id="post-1076">
+
+	<div class="post_header">
+		<h2 class="post_title">
+			<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/a-general-purpose-event-bus-leveraging-reactive-extensions/" rel="bookmark" title="A general purpose event bus leveraging Reactive Extensions">A general purpose event bus leveraging Reactive Extensions</a>
+		</h2>
+
+		<p class="post_metadata">
+			<span class="post_time">January 2, 2012 7:15 pm</span>
+					</p>
+
+	</div><!-- .post_header -->
+
+	
+
+
+	<div class="post_footer">
+		<p class="post_metadata">
+						<span class="post_commentcount"><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/a-general-purpose-event-bus-leveraging-reactive-extensions/#comments" title="Comment on A general purpose event bus leveraging Reactive Extensions">3 comments</a></span>
+						
+						
+						<!--<span class="post_category_title">Under:</span> <span class="post_category"><a href="http://blogs.clariusconsulting.net/kzu/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a></span>!-->
+					</p>
+	</div><!-- .post_footer -->
+
+	</div><!-- .posts_post -->
+
+
+<div class="post-1069 post type-post status-publish format-standard hentry category-net tag-ddd tag-eventsourcing posts_post clearfix" id="post-1069">
+
+	<div class="post_header">
+		<h2 class="post_title">
+			<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/event-centric-super-charge-your-model-with-domain-events-to-enable-business-intelligence/" rel="bookmark" title="Event Centric: super-charge your model with domain events to enable business intelligence">Event Centric: super-charge your model with domain events to enable business intelligence</a>
+		</h2>
+
+		<p class="post_metadata">
+			<span class="post_time">December 30, 2011 6:06 pm</span>
+					</p>
+
+	</div><!-- .post_header -->
+
+	
+
+
+	<div class="post_footer">
+		<p class="post_metadata">
+						<span class="post_commentcount"><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/event-centric-super-charge-your-model-with-domain-events-to-enable-business-intelligence/#comments" title="Comment on Event Centric: super-charge your model with domain events to enable business intelligence">6 comments</a></span>
+						
+						
+						<!--<span class="post_category_title">Under:</span> <span class="post_category"><a href="http://blogs.clariusconsulting.net/kzu/category/net/" title="View all posts in .NET" rel="category tag">.NET</a></span>!-->
+					</p>
+	</div><!-- .post_footer -->
+
+	</div><!-- .posts_post -->
+
+
+<div class="post-1064 post type-post status-publish format-standard hentry category-net tag-ddd tag-eventsourcing tag-patterns posts_post clearfix" id="post-1064">
+
+	<div class="post_header">
+		<h2 class="post_title">
+			<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/event-centric-finding-key-business-value-by-leveraging-domain-events-and-reactive-extensions/" rel="bookmark" title="Event Centric: finding key business value by leveraging domain events and reactive extensions">Event Centric: finding key business value by leveraging domain events and reactive extensions</a>
+		</h2>
+
+		<p class="post_metadata">
+			<span class="post_time">December 29, 2011 1:58 pm</span>
+					</p>
+
+	</div><!-- .post_header -->
+
+	
+
+
+	<div class="post_footer">
+		<p class="post_metadata">
+						<span class="post_commentcount"><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/event-centric-finding-key-business-value-by-leveraging-domain-events-and-reactive-extensions/#comments" title="Comment on Event Centric: finding key business value by leveraging domain events and reactive extensions">2 comments</a></span>
+						
+						
+						<!--<span class="post_category_title">Under:</span> <span class="post_category"><a href="http://blogs.clariusconsulting.net/kzu/category/net/" title="View all posts in .NET" rel="category tag">.NET</a></span>!-->
+					</p>
+	</div><!-- .post_footer -->
+
+	</div><!-- .posts_post -->
+
+
+<div class="post-1053 post type-post status-publish format-standard hentry category-uncategorized posts_post clearfix" id="post-1053">
+
+	<div class="post_header">
+		<h2 class="post_title">
+			<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/how-to-make-object-initializers-more-useful/" rel="bookmark" title="How to make object initializers more useful">How to make object initializers more useful</a>
+		</h2>
+
+		<p class="post_metadata">
+			<span class="post_time">August 1, 2011 5:37 am</span>
+					</p>
+
+	</div><!-- .post_header -->
+
+	
+
+
+	<div class="post_footer">
+		<p class="post_metadata">
+						<span class="post_commentcount"><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/how-to-make-object-initializers-more-useful/#comments" title="Comment on How to make object initializers more useful">1 comment</a></span>
+						
+						
+						<!--<span class="post_category_title">Under:</span> <span class="post_category"><a href="http://blogs.clariusconsulting.net/kzu/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a></span>!-->
+					</p>
+	</div><!-- .post_footer -->
+
+	</div><!-- .posts_post -->
+
+
+<div class="post-1042 post type-post status-publish format-standard hentry category-uncategorized tag-gadgets posts_post clearfix" id="post-1042">
+
+	<div class="post_header">
+		<h2 class="post_title">
+			<a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/cloud-aware-music-done-right-spotify-is-the-itunes-zune-amazon-cloud-player-and-google-music-killer/" rel="bookmark" title="Cloud-aware music done right: Spotify is the iTunes, Zune, Amazon Cloud Player and Google Music killer">Cloud-aware music done right: Spotify is the iTunes, Zune, Amazon Cloud Player and Google Music killer</a>
+		</h2>
+
+		<p class="post_metadata">
+			<span class="post_time">July 27, 2011 7:13 am</span>
+					</p>
+
+	</div><!-- .post_header -->
+
+	
+
+
+	<div class="post_footer">
+		<p class="post_metadata">
+						<span class="post_commentcount"><a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/cloud-aware-music-done-right-spotify-is-the-itunes-zune-amazon-cloud-player-and-google-music-killer/#comments" title="Comment on Cloud-aware music done right: Spotify is the iTunes, Zune, Amazon Cloud Player and Google Music killer">1 comment</a></span>
+						
+						
+						<!--<span class="post_category_title">Under:</span> <span class="post_category"><a href="http://blogs.clariusconsulting.net/kzu/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a></span>!-->
+					</p>
+	</div><!-- .post_footer -->
+
+	</div><!-- .posts_post -->
+
+
+
+
+<div class="posts_footer">
+	<div class="posts_pagination clearfix">
+	 		<p class="posts_pagination_prev"> </p>
+		<p class="posts_pagination_next"> <a href="https://web.archive.org/web/20120510011219/http://blogs.clariusconsulting.net/kzu/page/2/">Next Page &raquo;</a></p>
+	 	</div></div><!-- .posts_footer -->
+
+</div><!-- .blog_posts -->
+
+</div><!-- blog_wrapper -->
+<div style="clear:both; height:40px"></div>
+
+<script>
+
+$(document).ready(function(){
+						   
+						   
+						   
+$(".thumbnailPGA").hover(function(){document.getElementById('blogmessage').innerHTML = '<div id="blogmessage"><p>Pablo Galiano&#039;s Blog</p><span>PGA</span></div>';$(this).fadeTo("slow", 1.0); // This should set the opacity to 100% on hover
+						   },function(){
+						document.getElementById('blogmessage').innerHTML = '<div id="blogmessage"><p>hear the experts</p><span></span></div>';
+$(this).fadeTo("slow", 0.3);
+});
+$(".thumbnail").hover(function(){document.getElementById('blogmessage').innerHTML = '<div id="blogmessage"><p>Clarius Consulting Blogs</p><span></span></div>';$(this).fadeTo("slow", 1.0); // This should set the opacity to 100% on hover
+						   },function(){
+						document.getElementById('blogmessage').innerHTML = '<div id="blogmessage"><p>hear the experts</p><span></span></div>';
+$(this).fadeTo("slow", 0.3);
+});
+$(".thumbnailVGA").hover(function(){document.getElementById('blogmessage').innerHTML = '<div id="blogmessage"><p>Victor García Aprea</p><span>VGA</span></div>';$(this).fadeTo("slow", 1.0); // This should set the opacity to 100% on hover
+						   },function(){
+						document.getElementById('blogmessage').innerHTML = '<div id="blogmessage"><p>hear the experts</p><span></span></div>';
+$(this).fadeTo("slow", 0.3);
+});
+$(".thumbnailEZE").hover(function(){document.getElementById('blogmessage').innerHTML = '<div id="blogmessage"><p>Ezequiel Sculli</p><span>EZE</span></div>';$(this).fadeTo("slow", 1.0); // This should set the opacity to 100% on hover
+						   },function(){
+						document.getElementById('blogmessage').innerHTML = '<div id="blogmessage"><p>hear the experts</p><span></span></div>';
+$(this).fadeTo("slow", 0.3);
+});
+$(".thumbnailKZU").hover(function(){document.getElementById('blogmessage').innerHTML = '<div id="blogmessage"><p>Daniel Cazzulino&#039;s Blog</p><span>KZU</span></div>';$(this).fadeTo("slow", 1.0); // This should set the opacity to 100% on hover
+						   },function(){
+						document.getElementById('blogmessage').innerHTML = '<div id="blogmessage"><p>hear the experts</p><span></span></div>';
+$(this).fadeTo("slow", 0.3);
+});
+						   });
+</script>
+
+
+
+
+</div><!-- .site_blog -->
+
+<!-- WP SyntaxHighlighter Ver.1.7 Begin -->
+<script type="text/javascript" src="https://web.archive.org/web/20120510011219js_/http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shCore.js?ver=3.0"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20120510011219js_/http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shAutoloader.js?ver=3.0"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20120510011219js_/http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushXml.js?ver=3.0"></script>
+<script type="text/javascript">//<![CDATA[
+	SyntaxHighlighter.autoloader(
+	"applescript	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushAppleScript.js?ver=3.0"
+	,"as3 actionscript3	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushAS3.js?ver=3.0"
+	,"bash shell	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushBash.js?ver=3.0"
+	,"cf coldfusion	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushColdFusion.js?ver=3.0"
+	,"cpp c	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushCpp.js?ver=3.0"
+	,"c# c-sharp csharp	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushCSharp.js?ver=3.0"
+	,"css	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushCss.js?ver=3.0"
+	,"delphi pas pascal	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushDelphi.js?ver=3.0"
+	,"diff patch	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushDiff.js?ver=3.0"
+	,"erl erlang	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushErlang.js?ver=3.0"
+	,"groovy	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushGroovy.js?ver=3.0"
+	,"java	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushJava.js?ver=3.0"
+	,"jfx javafx	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushJavaFX.js?ver=3.0"
+	,"js jscript javascript	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushJScript.js?ver=3.0"
+	,"perl pl	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushPerl.js?ver=3.0"
+	,"php	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushPhp.js?ver=3.0"
+	,"plain text	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushPlain.js?ver=3.0"
+	,"ps powershell	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushPowerShell.js?ver=3.0"
+	,"py python	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushPython.js?ver=3.0"
+	,"rails ror ruby rb	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushRuby.js?ver=3.0"
+	,"sass scss	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushSass.js?ver=3.0"
+	,"scala	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushScala.js?ver=3.0"
+	,"sql	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushSql.js?ver=3.0"
+	,"vb vbnet	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushVb.js?ver=3.0"
+	,"xml xhtml xslt html	http://blogs.clariusconsulting.net/kzu/wp-content/plugins/wp-syntaxhighlighter/syntaxhighlighter3/scripts/shBrushXml.js?ver=3.0"
+	);
+	SyntaxHighlighter.defaults['auto-links'] = true;
+	SyntaxHighlighter.defaults['quick-code'] = true;
+	SyntaxHighlighter.defaults['title'] = '';
+	SyntaxHighlighter.defaults['class-name'] = 'notranslate';
+	SyntaxHighlighter.defaults['collapse'] = false;
+	SyntaxHighlighter.defaults['first-line'] = 1;
+	SyntaxHighlighter.defaults['gutter'] = true;
+	SyntaxHighlighter.defaults['pad-line-numbers'] = false;
+	SyntaxHighlighter.defaults['smart-tabs'] = true;
+	SyntaxHighlighter.defaults['tab-size'] = 4;
+	SyntaxHighlighter.defaults['toolbar'] = true;
+ SyntaxHighlighter.config.strings.expandSource = '+ expand source';
+	SyntaxHighlighter.config.strings.help = '?';
+	SyntaxHighlighter.config.strings.alert = 'SyntaxHighlighter\n\n';
+	SyntaxHighlighter.config.strings.noBrush = "Can't find brush for: ";
+	SyntaxHighlighter.config.strings.brushNotHtmlScript = "Brush wasn't configured for html-script option: ";
+	SyntaxHighlighter.all();
+	
+//]]></script>
+<!-- WP SyntaxHighlighter Ver.1.7 End -->
+<script type="text/javascript" src="https://web.archive.org/web/20120510011219js_/http://platform.twitter.com/widgets.js?ver=1.0.0"></script>
+
+
+
+</div><!-- .site -->
+<div id="footer" class="site_footer footer"><img src="https://web.archive.org/web/20120510011219im_/http://blogs.clariusconsulting.net/kzu/wp-content/themes/Clarius/style/images/frt_blogs.gif" width="100" height="100" alt="other Clarius BLOGS" style="margin-top:-1px;"/>
+<div id="blogmessage">
+
+  <p>hear the experts</p><span>
+
+
+
+</span></div>
+<div id="bloggers">
+
+
+
+</div>
+<p style="padding-top:43px;"><strong>Copyright © 2010 Clarius Consulting</strong> - Source code published in this blog <!--
+     FILE ARCHIVED ON 01:12:19 May 10, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:56:33 Feb 05, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 1.343
+  exclusion.robots: 0.045
+  exclusion.robots.policy: 0.035
+  esindex: 0.011
+  cdx.remote: 12.918
+  LoadShardBlock: 277.794 (3)
+  PetaboxLoader3.datanode: 204.597 (4)
+  PetaboxLoader3.resolve: 188.563 (3)
+  load_resource: 149.684
+-->

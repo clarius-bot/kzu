@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Typed XmlReaders: bridging the gap between streaming and object model APIs."
+title: "Typed XmlReaders: bridging the gap between streaming and object model APIs."
 date: 2004-03-12 00:00:00 +0000
 ---
-
-## Typed XmlReaders: bridging the gap between streaming and object model APIs. 
 
 When dealing with XML in .NET, you're mostly faced with two options:
 

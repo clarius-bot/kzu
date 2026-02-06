@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Important OASIS specs"
+title: "Important OASIS specs"
 date: 2004-02-27 00:00:00 +0000
 ---
-
-## Important OASIS specs 
 
 Yesterday I received the following [important notice](http://xml.coverpages.org/ni2004-02-26-a.html): 
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - High-performance XML (V): Increase performance on message-based web services by avoiding XmlDocument creation when using XmlSerializer"
+title: "High-performance XML (V): Increase performance on message-based web services by avoiding XmlDocument creation when using XmlSerializer"
 date: 2005-05-28 00:00:00 +0000
 ---
-
-## High-performance XML (V): Increase performance on message-based web services by avoiding XmlDocument creation when using XmlSerializer
 
 ## High-performance XML (V): Increase performance on message-based web services by avoiding XmlDocument creation when using XmlSerializer
 

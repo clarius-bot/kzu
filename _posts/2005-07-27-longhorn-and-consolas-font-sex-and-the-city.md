@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Longhorn and Consolas font: sex and the city..."
+title: "Longhorn and Consolas font: sex and the city..."
 date: 2005-07-27 00:00:00 +0000
 ---
-
-## Longhorn and Consolas font: sex and the city...
 
 ## Longhorn and Consolas font: sex and the city...
 

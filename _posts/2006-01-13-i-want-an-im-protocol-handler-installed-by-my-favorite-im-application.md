@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - I want an im:// protocol handler installed by [my favorite IM application]"
+title: "I want an im:// protocol handler installed by [my favorite IM application]"
 date: 2006-01-13 00:00:00 +0000
 ---
-
-## I want an im:// protocol handler installed by [my favorite IM application]
 
 ## I want an im:// protocol handler installed by [my favorite IM application]
 

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to mock extension methods"
+title: "How to mock extension methods"
 date: 2011-05-05 00:00:00 +0000
 ---
 
-## How to mock extension methods
-
 . without paying for a TypeMock Isolator license to do it
 
-![;-)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif)
+![;-)](/img/2011-05-05-1.gif)
 
 There’s going to be no magic here. You have to explicitly design for testability. That’s one of the things I like about mocking: if you can mock a dependency, then it means your design is loosely coupled (e.g. not tied to a particular implementation of that dependency), and you’re not "cheating or taking any shortcuts. If a test can replace a dependency at test-time, your’ll surely be able to replace the real implementation with something different when/if time comes to do so.
 
@@ -37,15 +35,15 @@ public static class SecurityExtensions
 
 This would get you the API right on the IPerson object:
 
-![image](http://blogs.clariusconsulting.net/kzu/files/2011/05/image_thumb.png)
+![image](/img/2011-05-05-2.png)
 
 If you go overboard with this "extension in the root" approach, you might end up with an ugly looking assorted collection of helpers attached to the main class, such as what happened to the UML APIs in Visual Studio 2010. Look at the before and after we reference and import the assembly containing the extensions to IClass (the interface that represents a class in a UML Logical Class Diagram):
 
-![image](http://blogs.clariusconsulting.net/kzu/files/2011/05/image_thumb1.png)
+![image](/img/2011-05-05-3.png)
 
 After referencingMicrosoft.VisualStudio.Uml.Extensions.dllMicrosoft.VisualStudio.ArchitectureTools.Extensibility.dll(it’s in PublicAssemblies) and adding the corresponding using/import Microsoft.VisualStudio.ArchitectureTools.Extensibility.Uml:
 
-![image](http://blogs.clariusconsulting.net/kzu/files/2011/05/image_thumb2.png)
+![image](/img/2011-05-05-4.png)
 
 (I pasted together a couple more pages of intellisense for added effect, but you see the point, rigth? The original API totally buried in a sea of extension methods?)
 
@@ -70,7 +68,7 @@ public static class SecurityExtensions
 
 Now, the consumer of the IPerson object can see that there is security-related behavior available to him, but won’t see what those are unless he needs to:
 
-![image](http://blogs.clariusconsulting.net/kzu/files/2011/05/image_thumb3.png)
+![image](/img/2011-05-05-5.png)
 
 Typically, the SecurityExtensions class will instantiate a non-public implementation of ISecurity that does the real work, passing the person to work on as a constructor argument:
 
@@ -103,11 +101,11 @@ public static class SecurityExtensions
 
 The attentive reader might have noticed that, being a regular interface, the extension interface now can expose properties where it makes sense, overcoming the lack of support for extension properties in C#. For example we could add a Roles property quite easily:
 
-![image](http://blogs.clariusconsulting.net/kzu/files/2011/05/image_thumb4.png)
+![image](/img/2011-05-05-6.png)
 
 And because the extension interface is nothing more than a fluent interface in the end, you can use the trick I blogged about before to hide those pesky System.Object members:
 
-![image](http://blogs.clariusconsulting.net/kzu/files/2011/05/image_thumb5.png)
+![image](/img/2011-05-05-7.png)
 
 ## How to mock extension methods, again?
 
@@ -173,7 +171,7 @@ Happymoqing!
 
 PS: remember the focus of this post is on mocking extension methods, not on how to design security for your domain. Feel free to mentally replace ISecurity with IFoo, GetPermissions with DoSomething, etc., as needed.
 
-![;-)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif)
+![;-)](/img/2011-05-05-1.gif)
 
 ![](http://www.clariusconsulting.net/aggbug.aspx?PostID=194707)
 

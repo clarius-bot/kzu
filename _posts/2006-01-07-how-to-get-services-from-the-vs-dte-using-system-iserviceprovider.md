@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to get services from the VS DTE (using System.IServiceProvider)"
+title: "How to get services from the VS DTE (using System.IServiceProvider)"
 date: 2006-01-07 00:00:00 +0000
 ---
-
-## How to get services from the VS DTE (using System.IServiceProvider)
 
 ## How to get services from the VS DTE (using System.IServiceProvider)
 

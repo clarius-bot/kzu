@@ -1,14 +1,10 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Static GitHub powered blog engine"
+title: "Static GitHub powered blog engine"
 date: 2012-11-04 00:00:00 +0000
 ---
 
-##  [Static GitHub powered blog engine](<http://blogs.clariusconsulting.net/kzu/static-github-powered-blog-engine/> "Static GitHub powered blog engine")
-
-November 4, 2012 10:21 pm
-
-Blog engines were the new "cool thing to write" after the fever of writing a new DI framework was over. It was kinda like the new "hello world++" example. Almost every single engine uses a database of some sort to keep posts and comments. Almost every one is not leveraging the web as a consequence ![;\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif)
+Blog engines were the new "cool thing to write" after the fever of writing a new DI framework was over. It was kinda like the new "hello world++" example. Almost every single engine uses a database of some sort to keep posts and comments. Almost every one is not leveraging the web as a consequence ![;\)](/img/2012-11-04-1.gif)
 
 I was intrigued by the possibilities that a flexible and general-purpose hosting solution like Github could offer for a static blog engine: basically keeping plain markdown/HTML/razor/WLW/whatever files that through a publish/build time process generate static files that pass for a "blog engine". GitHub even supports custom domain names, so why not?
 

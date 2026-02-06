@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Should we publicly debunk misbehaving companies?"
+title: "Should we publicly debunk misbehaving companies?"
 date: 2007-03-17 00:00:00 +0000
 ---
-
-## Should we publicly debunk misbehaving companies?
 
 ## Should we publicly debunk misbehaving companies?
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Mobile Application Blocks ContainerModel / Funq: an introduction"
+title: "Mobile Application Blocks ContainerModel / Funq: an introduction"
 date: 2009-04-17 00:00:00 +0000
 ---
-
-## Mobile Application Blocks ContainerModel / Funq: an introduction 
 
 If you follow my blog, you probably heard about [Funq](http://funq.me/), and maybe you even watched the [screencasts](http://www.clariusconsulting.net/blogs/kzu/archive/2009/02/02/116399.aspx) I did about it while developing it (yeah, I'm missing a bunch of new ones!).
 

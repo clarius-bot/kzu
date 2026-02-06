@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Gmail is DOWN (for the first time for me, and it’s been for a while…)"
+title: "Gmail is DOWN (for the first time for me, and it’s been for a while…)"
 date: 2006-01-12 00:00:00 +0000
 ---
 
 ##  [Gmail is DOWN (for the first time for me, and it’s been for a while…)](<http://blogs.clariusconsulting.net/kzu/gmail-is-down-for-the-first-time-for-me-and-its-been-for-a-while/> "Gmail is DOWN \(for the first time for me, and it’s been for a while…\)")
 
-January 12, 2006 4:05 pm
 
 ![](http://aspnet2.com/kzu/weblog/GmailDown.PNG)
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How To Destroy Your Web Developer Reputation in One Line, Guaranteed"
+title: "How To Destroy Your Web Developer Reputation in One Line, Guaranteed"
 date: 2004-07-15 00:00:00 +0000
 ---
-
-## How To Destroy Your Web Developer Reputation in One Line, Guaranteed 
 
 Please, make sure these words get deep in your mind the next time you write an ASP.NET application: 
 

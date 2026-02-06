@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - VS.NET Xml Intellisense and Schemas"
+title: "VS.NET Xml Intellisense and Schemas"
 date: 2003-12-17 00:00:00 +0000
 ---
-
-## VS.NET Xml Intellisense and Schemas 
 
 As most people know, in order to get intellisense for an "xmlnamespaced" document inside the IDE, the schema defining that namespace either has to be in the same project/folder or in `c:\Program Files\Microsoft Visual Studio .NET 2003\Common7\Packages\schemas\xml` (default VS installation folder). Therefore, if you have multiple projects, where one of them provides the schemas and another uses them in a document, you have to duplicate the file into the VS folder, and then you can forget copying it back when you change it in the project, etc... a mess. 
 

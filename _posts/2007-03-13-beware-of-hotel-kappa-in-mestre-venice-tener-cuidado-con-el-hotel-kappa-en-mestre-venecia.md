@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Beware of Hotel Kappa in Mestre/Venice - Tener cuidado con el Hotel Kappa en Mestre/Venecia"
+title: "Beware of Hotel Kappa in Mestre/Venice - Tener cuidado con el Hotel Kappa en Mestre/Venecia"
 date: 2007-03-13 00:00:00 +0000
 ---
-
-## Beware of Hotel Kappa in Mestre/Venice - Tener cuidado con el Hotel Kappa en Mestre/Venecia 
 
 Version en español 
 

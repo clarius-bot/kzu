@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Setting HTTP headers in .NET: This header must be modified using the appropriate property"
+title: "Setting HTTP headers in .NET: This header must be modified using the appropriate property"
 date: 2007-07-30 00:00:00 +0000
 ---
-
-## Setting HTTP headers in .NET: This header must be modified using the appropriate property 
 
 If you're trying to set HTTP headers such as If-Modified-Since (to do conditional GET based on the previous request Last-Modified response header, which you should strive to do as much as possible), you may come across this error message.
 

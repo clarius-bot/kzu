@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to create and run Compact Framework unit tests with VS2008 and TestDriven.NET"
+title: "How to create and run Compact Framework unit tests with VS2008 and TestDriven.NET"
 date: 2008-12-31 00:00:00 +0000
 ---
-
-## How to create and run Compact Framework unit tests with VS2008 and TestDriven.NET 
 
 Unlike VS2005, where you didn't have a unit testing framework for the .NET Compact Framework (and that's the reason why we had to create one for the [Mobile Client Software Factory](http://msdn.microsoft.com/en-us/library/aa480471.aspx)), VS2008 (Team System Test or Suite editions) comes with the same test framework you probably use for desktop applications. 
 

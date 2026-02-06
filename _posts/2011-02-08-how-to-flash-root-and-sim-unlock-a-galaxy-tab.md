@@ -1,13 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to flash, root and SIM unlock a Galaxy Tab"
+title: "How to flash, root and SIM unlock a Galaxy Tab"
 date: 2011-02-08 00:00:00 +0000
 tags: [gadgets, technology]
 ---
-
-## How to flash, root and SIM unlock a Galaxy Tab
-
-February 8, 2011 3:09 pm
 
 These instructions worked for me on two AT&T devices, 850/1900 WCDMA (the one that works in Argentina), model SGH-i987 to be precise.
 
@@ -40,7 +36,7 @@ These instructions are an aggregate of my own for a total newbie with a Win7 x64
   7. Start the Tab in download mode by pressing the volume down and power buttons together. A big yellow sign right on boot will tell you you’re in download mode. 
   8. Run the Odin3 program. Select PIT: P1_add_hidden.pit , PDA: P1000XWJJ4-REV03-ALL-CL639474.tar.md5, and check the Re-Partition option. Click Start. 
 
-The phone will reboot and may be in Russian. (it started in English on the second Tab I did this ![:o](https://web.archive.org/web/20140528155806im_/http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_surprised.gif) )).   
+The phone will reboot and may be in Russian. (it started in English on the second Tab I did this ![:o](/img/2011-02-08-1.gif) )).   
 Close Odin3.
 
   9. Start the Tab in download mode again (volume down + power) 

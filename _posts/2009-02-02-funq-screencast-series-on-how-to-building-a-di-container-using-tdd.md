@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Funq: screencast series on how to building a DI container using TDD"
+title: "Funq: screencast series on how to building a DI container using TDD"
 date: 2009-02-02 00:00:00 +0000
 ---
-
-## Funq: screencast series on how to building a DI container using TDD 
 
 Over the past few days, I spent some time recording the experience of building a dependency injection container using test driven development. It was a cool experience for me, and I hope you find the screencasts useful.
 

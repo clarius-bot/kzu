@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to install a Visual Studio extension with templates via an MSI"
+title: "How to install a Visual Studio extension with templates via an MSI"
 date: 2013-11-13 00:00:00 +0000
 ---
-
-##  [How to install a Visual Studio extension with templates via an MSI](<http://blogs.clariusconsulting.net/kzu/how-to-install-a-visual-studio-extension-with-templates-via-an-msi/> "How to install a Visual Studio extension with templates via an MSI")
-
-November 13, 2013 5:20 pm
 
 The original story around [VSIX deployment via an MSI](<http://blogs.msdn.com/b/visualstudio/archive/2009/10/27/vsix-and-msi.aspx>) was that simply copying it to the %VSInstallDir%\Common7\Ide\Extensions\Your Company\Your Product\Version was enough. But alas, devil is in the details, and a fairly complex [matrix of supported and unsupported features](<http://msdn.microsoft.com/en-us/library/vstudio/dd393694\(v=vs.100\).aspx>) depending on the deployment style is also available on MSDN. 
 
@@ -34,7 +30,7 @@ So here’s the trick:
                        Return='ignore' />
              
 
-You’d have one such custom action for each VS version, and that’s it ![:\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_smile.gif)
+You’d have one such custom action for each VS version, and that’s it ![:\)](/img/2013-11-13-1.gif)
 
 Enjoy!
 

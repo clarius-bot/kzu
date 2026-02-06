@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Why Embedded Silverlight Makes Sense"
+title: "Why Embedded Silverlight Makes Sense"
 date: 2009-07-13 00:00:00 +0000
 ---
-
-## Why Embedded Silverlight Makes Sense 
 
 So Microsoft just [shipped Silverlight 3.0](http://weblogs.asp.net/scottgu/archive/2009/07/10/silverlight-3-released.aspx). Outstanding achievement in its own right for a company that takes multi-year cycles for pretty much every product, if you ask me.
 

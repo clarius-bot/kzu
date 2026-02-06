@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - A better way to implement the Singleton (anti?) pattern for easier testing using AmbientSingleton"
+title: "A better way to implement the Singleton (anti?) pattern for easier testing using AmbientSingleton"
 date: 2012-01-10 18:03:00 +0000
 tags: [ddd, ef, eventsourcing, extensibility, gadgets, mocking, moq, msbuild, mvc, nuget, patterns, programming, t4, technology, vsx, wcf, webapi]
 ---
 
 ##  [A better way to implement the Singleton (anti?) pattern for easier testing using AmbientSingleton](http://blogs.clariusconsulting.net/kzu/a-better-way-to-implement-the-singleton-anti-pattern-for-easier-testing-using-ambientsingleton/ "A better way to implement the Singleton \(anti?\) pattern for easier testing using AmbientSingleton")
-
-January 10, 2012 6:03 pm
 
 In .NET singletons are typically implemented with a static variable that you control access to:
     
@@ -96,7 +94,7 @@ Given its misleading [MSDN summary](https://bit.ly/yM3fdO), and its location wit
 
 You basically use [CallContext.LogicalGetData](https://bit.ly/xfvdTu) and [LogicalSetData](https://bit.ly/ygvdMd) instead of the Thread.SetData/GetData from the example above. It is, however, a bit cumbersome, and I just wish we had something like ThreadLocal<T> to leverage for this “smart singleton” (or “ambient singleton”) capability.
 
-Enter the [NETFx AmbientSingleton](https://bit.ly/w5NcfX) class, which gives you just that ![Smile](https://web.archive.org/web/20210127041224im_/http://blogs.clariusconsulting.net/kzu/files/2012/01/wlEmoticon-smile.png):
+Enter the [NETFx AmbientSingleton](https://bit.ly/w5NcfX) class, which gives you just that ![Smile](/img/2012-01-10-1.png):
     
     
     public class SystemClock : IClock
@@ -172,7 +170,7 @@ The entire source for the class is very straightforward, as you’d expect:
         }
     }
 
-As you can see, the _Ambient Singleton_ behaves like a regular singleton, without the overhead of per-thread initialization, when it’s not needed. This is another drawback of the TLS approaches: if the object initialization is expensive, you’ll be paying for that once per thread. In the ambient singleton, however, only when a particular call context requires a different value for the singleton, the added behavior kicks in. In my tests this approach is the closest to the speed of [ThreadStatic], measuring only about 1.8x the ThreadStatic approach (compared with 5x for the ThreadLocal<T> and Thread data). All in all, a very compelling way of implementing singletons, when they are unavoidable (although you could say there’s always another way of doing it ![Winking smile](https://web.archive.org/web/20210127041224im_/http://blogs.clariusconsulting.net/kzu/files/2012/01/wlEmoticon-winkingsmile.png), but that’s another post).
+As you can see, the _Ambient Singleton_ behaves like a regular singleton, without the overhead of per-thread initialization, when it’s not needed. This is another drawback of the TLS approaches: if the object initialization is expensive, you’ll be paying for that once per thread. In the ambient singleton, however, only when a particular call context requires a different value for the singleton, the added behavior kicks in. In my tests this approach is the closest to the speed of [ThreadStatic], measuring only about 1.8x the ThreadStatic approach (compared with 5x for the ThreadLocal<T> and Thread data). All in all, a very compelling way of implementing singletons, when they are unavoidable (although you could say there’s always another way of doing it ![Winking smile](/img/2012-01-10-2.png), but that’s another post).
 
 You can install the [nuget package to get the source AmbientSingleton<T> class](https://bit.ly/w5NcfX), which is partial and defaults to internal, as you’d typically not expose it as a public type in your libraries, and is rather an internal implementation detail of your singletons. You can of course create another partial of it and make it public if you wish. It’s fully documented, and lives in the System namespace.
 

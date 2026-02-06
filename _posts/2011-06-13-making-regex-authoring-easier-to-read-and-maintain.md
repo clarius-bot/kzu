@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Making regex authoring easier to read and maintain"
+title: "Making regex authoring easier to read and maintain"
 date: 2011-06-13 00:00:00 +0000
 ---
-
-## Making regex authoring easier to read and maintain
 
 I’m spiking ideas on how to make my regular expressions easier to read and maintain for the dev who comes after me (that could be myself in 3 months, meaning I will surely have forgotten everything about how that crazy regex worked).
 

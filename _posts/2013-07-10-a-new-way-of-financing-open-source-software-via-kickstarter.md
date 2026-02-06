@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - A new way of financing open source software via Kickstarter"
+title: "A new way of financing open source software via Kickstarter"
 date: 2013-07-10 00:00:00 +0000
 ---
-
-##  [A new way of financing open source software via Kickstarter](<http://blogs.clariusconsulting.net/kzu/a-new-way-of-financing-open-source-software-via-kickstarter/> "A new way of financing open source software via Kickstarter")
-
-July 10, 2013 1:50 am
 
 The Kickstarter successes of the ambitious [Ghost](<https://bit.ly/185SSpj>) as well as the much more modest [Schema Migrations for Django](<https://bit.ly/185SYNA>) or [git-annex](<https://bit.ly/185TElY>) (all open source software projects) got me thinking that this could be the start of a new way to fund open source projects in general.
 
@@ -21,7 +17,7 @@ I can even envision some cool rewards:
   * Merchandising
   * Watch him/them code live via web (Hangouts, GoToMeeting, whatever)
   * Watch him/them code live on-site (you travel to their place)
-  * Have him/them code live at YOUR place ![;\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif)
+  * Have him/them code live at YOUR place ![;\)](/img/2013-07-10-1.gif)
   * Pair program with him/them (for a day, week, duration of the project, etc.)
   * Include x hours of couching for your team (when having dev/team at your place)
 

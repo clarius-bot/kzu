@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Are you smart enough to do without TDD"
+title: "Are you smart enough to do without TDD"
 date: 2009-09-29 00:00:00 +0000
 ---
-
-## Are you smart enough to do without TDD 
 
 Ayende wrote a controversial post titled ~~I'm so smart I don't need TDD~~ [Even tests has got to justify themselves](http://ayende.com/Blog/archive/2009/09/28/even-tests-has-got-to-justify-themselves.aspx) ;-). It's important to read it, because it reinforces many of the reasons why "regular developers" (i.e. NOT *you* if you're even reading blogs as you are) continue to see "us" as some kind of unreachable and infallible elite of "hero programmers" who will eventually show up (i.e. be hired for big bucks, which we surely do want :)) and save the day.
 

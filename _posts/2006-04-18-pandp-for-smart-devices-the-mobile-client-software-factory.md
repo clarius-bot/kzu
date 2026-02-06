@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - p&p for smart devices: the Mobile Client Software Factory"
+title: "p&p for smart devices: the Mobile Client Software Factory"
 date: 2006-04-18 00:00:00 +0000
 ---
-
-## p&p for smart devices: the Mobile Client Software Factory
 
 ## p&p for smart devices: the Mobile Client Software Factory
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Making WCF services amenable to testing"
+title: "Making WCF services amenable to testing"
 date: 2009-03-10 00:00:00 +0000
 ---
-
-## Making WCF services amenable to testing 
 
 You know that using [WebOperationContext.Current](http://msdn.microsoft.com/en-us/library/system.servicemodel.web.weboperationcontext.current.aspx) is BAD for making your service implementation testable, don't you?
 

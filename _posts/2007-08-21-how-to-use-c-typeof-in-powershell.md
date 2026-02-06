@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to use C# typeof in Powershell"
+title: "How to use C# typeof in Powershell"
 date: 2007-08-21 00:00:00 +0000
 ---
-
-## How to use C# typeof in Powershell 
 
 Have you ever missed C#'s "typeof" while working with PowerShell?
     

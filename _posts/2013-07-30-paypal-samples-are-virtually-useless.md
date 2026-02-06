@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - PayPal Samples are virtually useless"
+title: "PayPal Samples are virtually useless"
 date: 2013-07-30 00:00:00 +0000
 ---
 
-##  [PayPal Samples are virtually useless](<http://blogs.clariusconsulting.net/kzu/paypal-samples-are-virtually-useless/> "PayPal Samples are virtually useless")
-
-July 30, 2013 1:06 pm
 
 I’m investigating the [PayPal Adaptive Payments](<https://developer.paypal.com/webapps/developer/docs/classic/adaptive-payments/integration-guide/APIntro/>) for a project, and was gladly surprised to find not only the sample app but also the SDK itself [open sourced at GitHub](<https://github.com/paypal/adaptivepayments-sdk-dotnet>). Cool!
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Reflection severely broken for properties"
+title: "Reflection severely broken for properties"
 date: 2005-09-28 00:00:00 +0000
 ---
-
-## Reflection severely broken for properties 
 
 `PropertyInfo.GetCustomAttributes` never returns attributes inherited from the base class if the property is an override.   
   

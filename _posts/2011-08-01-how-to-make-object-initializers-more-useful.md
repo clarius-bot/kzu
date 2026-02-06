@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to make object initializers more useful"
+title: "How to make object initializers more useful"
 date: 2011-08-01 00:00:00 +0000
 ---
 
-##  [How to make object initializers more useful](<http://blogs.clariusconsulting.net/kzu/how-to-make-object-initializers-more-useful/> "How to make object initializers more useful")
-
-August 1, 2011 5:37 am
 
 Quite often, it’s necessary to validate an object state when it’s initialized. With constructor arguments, this is easy to do as it can be done at the end or beginning of the constructor code. With object initializers, it’s nearly impossible, as there’s no way to know programmatically when the object initialization is finished.
 

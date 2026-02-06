@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to show commands in a web project command bar"
+title: "How to show commands in a web project command bar"
 date: 2005-07-01 00:00:00 +0000
 ---
-
-## How to show commands in a web project command bar 
 
 In the good old days of Everett (VS 2003), all project kinds, either web, win, class library, etc, shared the same command bar. You could put a command in all of them at once just by adding to that one. Nowadays, web projects (Venus) no longer use the C#/VB project systems. Hence, your commands in projects that were supposed to appear on web projects too, will certainly dissapear.   
   

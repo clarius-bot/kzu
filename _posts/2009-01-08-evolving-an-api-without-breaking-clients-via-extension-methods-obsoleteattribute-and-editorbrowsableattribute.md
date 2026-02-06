@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Evolving an API without breaking clients via extension methods, ObsoleteAttribute and EditorBrowsableAttribute"
+title: "Evolving an API without breaking clients via extension methods, ObsoleteAttribute and EditorBrowsableAttribute"
 date: 2009-01-08 00:00:00 +0000
 ---
-
-## Evolving an API without breaking clients via extension methods, ObsoleteAttribute and EditorBrowsableAttribute 
 
 API evolution is tough and versioning is a complex enough issue that deserves not one but several posts. So I will only focus on one specific kind of evolution and backwards compatibility: [Source](http://en.wikipedia.org/wiki/Source_code_compatibility) [Compatibility](http://en.wikipedia.org/wiki/Backward_compatibility).
 

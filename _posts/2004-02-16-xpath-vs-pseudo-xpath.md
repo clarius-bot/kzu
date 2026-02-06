@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - XPath vs pseudo-XPath"
+title: "XPath vs pseudo-XPath"
 date: 2004-02-16 00:00:00 +0000
 ---
-
-## XPath vs pseudo-XPath 
 
 [Oleg](http://www.tkachenko.com/blog/archives/000159.html) commented on my [XSE (Xml Streaming Events)](http://weblogs.asp.net/cazzu/posts/XSEIntro.aspx) implementation. He has a nice code snipped with something called an XmlUpdater. Really cool. I'd like to see that code!  
 

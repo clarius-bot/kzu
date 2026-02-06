@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to set the startup program for debugging a project for the entire team"
+title: "How to set the startup program for debugging a project for the entire team"
 date: 2010-03-05 00:00:00 +0000
 ---
 
-## How to set the startup program for debugging a project for the entire team 
-
 You surely have set the startup application for a project countless times:
 
-![image](https://web.archive.org/web/20100515023525im_/http://www.clariusconsulting.net/images/blogs/kzu/Howtosetthestartupprogramfordebuggingafo_7BB9/image.png)
+![image](/img/2010-03-05-1.png)
 
 But that setting goes your user options file, the rest of the team doesn't get to reuse the setting. And what if you repave your machine or start working on a new virtual machine and just got the sources from source control? You have to re-set this value again and again.
 

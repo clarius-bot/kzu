@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - IE-killer (and maybe aggregators too?) features in the best-browser ever"
+title: "IE-killer (and maybe aggregators too?) features in the best-browser ever"
 date: 2004-11-13 00:00:00 +0000
 ---
-
-## IE-killer (and maybe aggregators too?) features in the best-browser ever 
 
 In case you didn't noticed (I realized today :o)), [the best browser ever](http://getfirefox.com/) was released as v1.0. I thought it was going to be mainly bug fixing since the last version I installed (0.9.3), until I noticed a red icon at the bottom-right of the screen while I was reading a webblog post, with the following tooltip: "Add Live Bookmark for this page's feed".   
   

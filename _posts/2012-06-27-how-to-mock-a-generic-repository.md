@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to mock a generic repository"
+title: "How to mock a generic repository"
 date: 2012-06-27 00:00:00 +0000
 ---
 
-##  [How to mock a generic repository](<http://blogs.clariusconsulting.net/kzu/how-to-mock-a-generic-repository/> "How to mock a generic repository")
-
-June 27, 2012 2:17 pm
 
 The short answer is: you don’t. You see, having a mocking library at hand (no matter [how cool it is](<https://bit.ly/Qjt280>)) doesn’t automatically make it the best tool for every testing need. 
 

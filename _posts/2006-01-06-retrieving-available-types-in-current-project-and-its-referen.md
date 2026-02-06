@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Retrieving available types in current project and its references (without locking)"
+title: "Retrieving available types in current project and its references (without locking)"
 date: 2006-01-06 00:00:00 +0000
 ---
 
 ##  [Retrieving available types in current project and its references (without locking)](<http://blogs.clariusconsulting.net/kzu/retrieving-available-types-in-current-project-and-its-references-withoult-locking/> "Retrieving available types in current project and its references \(without locking\)")
 
-January 6, 2006 8:47 pm
 
-One very tricky thing inside VS used to be (at least for me until I found the solution I’m about to show you) to list and work with the types defined in the project as well as its references. The problem was mainly how to properly load the types without locking the project output for compilation, as well as retrieving the types for references that could be also project references. It turns out that there is a very cool and absolutely undocumented service in VS that allows you to do just that, writing no code ![:\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_smile.gif)
+One very tricky thing inside VS used to be (at least for me until I found the solution I’m about to show you) to list and work with the types defined in the project as well as its references. The problem was mainly how to properly load the types without locking the project output for compilation, as well as retrieving the types for references that could be also project references. It turns out that there is a very cool and absolutely undocumented service in VS that allows you to do just that, writing no code ![:\)](/img/2006-01-06-1.gif)
 
 As a general fan of the `System.ComponentModel`, I noticed the new System.ComponentModel.Design.ITypeDiscoveryService:
     

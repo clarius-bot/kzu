@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Ph.D vs the real world"
+title: "Ph.D vs the real world"
 date: 2004-02-20 00:00:00 +0000
 ---
-
-## Ph.D vs the real world 
 
 In a [previous post](http://weblogs.asp.net/cazzu/archive/2004/02/20/WxsTypeSystem.aspx) I showed and discussed the similarities between the W3C XML Schema type system and the CLR one. Dare [commented](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=b2e5fe03-2205-402a-be18-7da10a9a66fe) on it by mentioning a number of already known (at least by me) issues with WXS->CLR mappings, specially the fact that the later supports only a subset of the former.   
 Given the overwhelming response in favor of similarities against differences (~~10~~ 13 to 0 so far), I can only say that Dare is probably ignoring that most developers are **.NET DEVELOPERS** , NOT XML theorists and WXS fans. Therefore, most of them completely ignore or plainly don't care about the intricacies of WXS he's talking about. My question was about the features developers really use from WXS, and the answers I got speak for themselves.   

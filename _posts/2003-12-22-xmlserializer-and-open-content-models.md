@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - XmlSerializer and open content models"
+title: "XmlSerializer and open content models"
 date: 2003-12-22 00:00:00 +0000
 ---
-
-## XmlSerializer and open content models 
 
 Using the built-in code generation features (let's say xsd.exe or the approach I've [outlined](http://weblogs.asp.net/cazzu/posts/33302.aspx)), the generated classes use the `System.Xml.Serialization.XmlAnyElementAttribute` and `System.Xml.Serialization.XmlAnyAttributeAttribute` to capture the foreign elements and attributes in an instance document. Unfortunately, this is not enough.
 

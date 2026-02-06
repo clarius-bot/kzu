@@ -1,28 +1,24 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Increase developer productivity with NuGet packages with NuGet References"
+title: "Increase developer productivity with NuGet packages with NuGet References"
 date: 2013-06-05 00:00:00 +0000
 ---
 
-##  [Increase developer productivity with NuGet packages with NuGet References](<http://blogs.clariusconsulting.net/kzu/increase-developer-productivity-with-nuget-packages-with-nuget-references/> "Increase developer productivity with NuGet packages with NuGet References")
-
-June 5, 2013 5:35 pm
-
 A typical solution usually has many projects, and many more NuGet packages in use:
 
-![image](http://blogs.clariusconsulting.net/kzu/files/2013/06/image.png)
+![image](/img/2013-06-05-1.png)
 
 How do you get a glance of what packages are installed on each project? Typically, you’d just open each of the packages.config XML files, or worse, go to the “Manage NuGet Packages…” dialog:
 
-![image](http://blogs.clariusconsulting.net/kzu/files/2013/06/image1.png)
+![image](/img/2013-06-05-2.png)
 
 Which brings up a pretty daunting dialog:
 
-![image](http://blogs.clariusconsulting.net/kzu/files/2013/06/image2.png)
+![image](/img/2013-06-05-3.png)
 
 If you wanted to uninstall a particular package, you could alternatively just type in the package manager console, but many developers aren’t as familiar with the available commands, or simply prefer to work in a more visual way. What if you could just expand the packages.config node, find the package you want to uninstall and click a context menu to do so?
 
-![image](http://blogs.clariusconsulting.net/kzu/files/2013/06/image3.png)
+![image](/img/2013-06-05-4.png)
 
 That’s precisely what the NuGet References extension provides. All packages.config nodes in the solution explorer can now be expanded and all installed packages inspected. Not only can you directly update or uninstall the extension right from the solution explorer, but you can also search a given package to see which projects use it and may need updates!
 

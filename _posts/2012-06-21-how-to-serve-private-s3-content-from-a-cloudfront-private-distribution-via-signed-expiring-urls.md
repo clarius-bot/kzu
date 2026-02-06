@@ -1,14 +1,11 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to serve private S3 content from a CloudFront private distribution via signed expiring Urls"
+title: "How to serve private S3 content from a CloudFront private distribution via signed expiring Urls"
 date: 2012-06-21 00:00:00 +0000
 ---
 
-##  [How to serve private S3 content from a CloudFront private distribution via signed expiring Urls](<http://blogs.clariusconsulting.net/kzu/how-to-serve-private-s3-content-from-a-cloudfront-private-distribution-via-signed-expiring-urls/> "How to serve private S3 content from a CloudFront private distribution via signed expiring Urls")
 
-June 21, 2012 9:08 pm
-
-For this walk-through, you’ll need the most excelent [CloudBerry S3 Explorer](<http://www.cloudberrylab.com/free-amazon-s3-explorer-cloudfront-IAM.aspx>). Somehow, these guys manage to support in the UI more stuff than Amazon itself does in its management console ![Sorpresa](http://blogs.clariusconsulting.net/kzu/files/2012/06/wlEmoticon-surprisedsmile.png). And you only need the free version.
+For this walk-through, you’ll need the most excelent [CloudBerry S3 Explorer](<http://www.cloudberrylab.com/free-amazon-s3-explorer-cloudfront-IAM.aspx>). Somehow, these guys manage to support in the UI more stuff than Amazon itself does in its management console ![Sorpresa](/img/2012-06-21-1.png). And you only need the free version.
 
 So first the requirements:
 
@@ -25,14 +22,14 @@ So here’s how to go about it:
      * Logging: whatever you like
      * Private Content: this is the key step. Click Enable Private Content Distribution and select your identity from the dropdown. Add yourself as a signer so you can sign the Urls: 
 
-[![image](http://blogs.clariusconsulting.net/kzu/files/2012/06/image_thumb.png)](<http://blogs.clariusconsulting.net/kzu/files/2012/06/image.png>)
+[![image](/img/2012-06-21-2.png)](<http://blogs.clariusconsulting.net/kzu/files/2012/06/image.png>)
 
 Copy down the ID you select in the dropdown. You’ll need it later. 
 
      * Enable the distribution in the next page
   3. Now your uploaded content needs to automatically allow the “CloudFront Origin Access Identity” to read objects, so that you don’t have to set the ACLs for each object, every time. This is done via a [bucket policy](<http://docs.amazonwebservices.com/AmazonS3/latest/dev/writebucketpolicy.html>). In our case, either via the management console: 
 
-[![image](http://blogs.clariusconsulting.net/kzu/files/2012/06/image_thumb1.png)](<http://blogs.clariusconsulting.net/kzu/files/2012/06/image1.png>)   
+[![image](/img/2012-06-21-3.png)](<http://blogs.clariusconsulting.net/kzu/files/2012/06/image1.png>)   
 (this is the properties panel for a bucket in the AWS S3 console) 
 
 or in S3 Explorer via the right-click on bucket –> Bucket Policy, enter the following policy: 

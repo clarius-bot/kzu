@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Resetting Visual Studio Experimental Instance to its super-clean initial state"
+title: "Resetting Visual Studio Experimental Instance to its super-clean initial state"
 date: 2009-12-22 00:00:00 +0000
 ---
-
-## Resetting Visual Studio Experimental Instance to its super-clean initial state 
 
 If you are doing Visual Studio extensibility (VSX) work, you are probably aware of the existence of the Visual Studio "Experimental" instance. This is basically an instance of VS that has its own isolated registry, settings, extensions, etc. This allows you to test your extensions to VS without polluting your main development environment.
 

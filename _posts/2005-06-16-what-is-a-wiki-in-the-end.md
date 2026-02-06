@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - What is a wiki, in the end???"
+title: "What is a wiki, in the end???"
 date: 2005-06-16 00:00:00 +0000
 ---
-
-## What is a wiki, in the end??? 
 
 Is it the format? The idea of collaborative editing? Other features? [From the Wikipedia, the definition is](http://en.wikipedia.org/wiki/Wikipedia:Overview_FAQ#What_is_Wiki.3F):  
 

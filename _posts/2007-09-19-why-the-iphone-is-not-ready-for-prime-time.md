@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Why the iPhone is not ready for prime time"
+title: "Why the iPhone is not ready for prime time"
 date: 2007-09-19 00:00:00 +0000
 ---
-
-## Why the iPhone is not ready for prime time 
 
 My "baseline" phone is my [Nokia N95](http://www.nseries.com/index.html#l=products,n95), so my quality and functionality bar is high. I'll go straight to the point here:
 
@@ -16,7 +14,7 @@ My "baseline" phone is my [Nokia N95](http://www.nseries.com/index.html#l=produc
   
 I tried the [TenGO Thumb for PocketPC](http://www.tengo.net/tengo_thumb.html) a [while ago](http://www.seeo2.com/product/XdaAtomExec/template/Product.vm "my previous O2 Atom Exec PocketPC phone"), and THAT's what the iPhone should have provided, nothing less. It's the only thing that can make a querty keyboard bereable:  
   
-![tengothumb_screenshot](https://web.archive.org/web/20071014050620im_/http://www.tengo.net/images/tengo_thumb/tengothumb_screenshot.gif)   
+![tengothumb_screenshot](/img/2007-09-19-1.gif)   
   
 Imagine if the iPhone keyboard had something like that:  
   
@@ -84,6 +82,6 @@ And btw, I'm pretty sure to use the feature on the iPhone, I'll have to buy a $1
 
 So, I join [Jeff's](http://www.codinghorror.com/blog/archives/000896.html) "no iPhone v1" crusade:
 
-![image](https://web.archive.org/web/20071014050620im_/http://www.clariusconsulting.net/images/blogs/kzu/WhyiPhoneisnotreadyforprimetime_7F21/image_3.png)
+![image](/img/2007-09-19-2.png)
 
 /kzu

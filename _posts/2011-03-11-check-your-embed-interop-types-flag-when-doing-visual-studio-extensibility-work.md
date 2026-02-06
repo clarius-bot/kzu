@@ -1,16 +1,13 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Check your Embed Interop Types flag when doing Visual Studio extensibility work"
+title: "Check your Embed Interop Types flag when doing Visual Studio extensibility work"
 date: 2011-03-11 00:00:00 +0000
 ---
 
-##  [Check your Embed Interop Types flag when doing Visual Studio extensibility work](<http://blogs.clariusconsulting.net/kzu/check-your-embed-interop-types-flag-when-doing-visual-studio-extensibility-work/> "Check your Embed Interop Types flag when doing Visual Studio extensibility work")
-
-March 11, 2011 11:06 pm
 
 In case you didn’t notice, VS2010 adds a new property to assembly references in the properties window: Embed Interop Types:
 
-[![image](http://blogs.clariusconsulting.net/kzu/files/2011/03/image_thumb.png)](<http://blogs.clariusconsulting.net/kzu/files/2011/03/image.png>)
+[![image](/img/2011-03-11-1.png)](<http://blogs.clariusconsulting.net/kzu/files/2011/03/image.png>)
 
 This property was introduced as a way to overcome [the pain of deploying Primary Interop Assemblies](<http://blogs.msdn.com/b/samng/archive/2010/01/24/the-pain-of-deploying-primary-interop-assemblies.aspx>). Read that blog post, it will help understand why you DON’T need it when doing VS extensibility (VSX) work.
 

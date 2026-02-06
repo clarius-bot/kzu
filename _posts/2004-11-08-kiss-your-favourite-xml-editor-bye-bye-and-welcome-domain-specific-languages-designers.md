@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Kiss your favourite XML editor bye bye! (and welcome Domain Specific Languages designers!)"
+title: "Kiss your favourite XML editor bye bye! (and welcome Domain Specific Languages designers!)"
 date: 2004-11-08 00:00:00 +0000
 ---
-
-## Kiss your favourite XML editor bye bye! (and welcome Domain Specific Languages designers!) 
 
 With the advent of XML, each and every piece of software is configurable with it, from [Virtual PC](http://www.microsoft.com/windows/virtualpc/default.mspx) to [IIS](http://www.microsoft.com/WindowsServer2003/iis/default.mspx) to [log4net](http://logging.apache.org/log4net/) to [Shadowfax](http://workspaces.gotdotnet.com/shadowfx) and all the Application Blocks released from [PAG](http://www.microsoft.com/practices) ... you name it.   
   

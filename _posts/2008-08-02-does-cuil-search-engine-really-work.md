@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Does CUIL search engine really work?"
+title: "Does CUIL search engine really work?"
 date: 2008-08-02 00:00:00 +0000
 ---
-
-## Does CUIL search engine really work? 
 
 Query: "how to replace ipod touch boot screen"  
 Cuil: 1 result, completely unrelated to what I'm looking for  

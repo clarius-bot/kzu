@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - XSE != XPath != SXPath != XPathReader"
+title: "XSE != XPath != SXPath != XPathReader"
 date: 2004-02-16 00:00:00 +0000
 ---
-
-## XSE != XPath != SXPath != XPathReader 
 
 [Dare](http://www.25hoursaday.com/weblog/CommentView.aspx?guid=a333b9f4-0a67-45fd-913d-3b9bc37cf4b6) argues that my [Xml Streaming Events](http://weblogs.asp.net/cazzu/posts/XseIntro.aspx) API can't support queries like the following:
 

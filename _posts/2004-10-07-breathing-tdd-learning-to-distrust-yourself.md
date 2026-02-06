@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Breathing TDD: learning to distrust yourself"
+title: "Breathing TDD: learning to distrust yourself"
 date: 2004-10-07 00:00:00 +0000
 ---
-
-## Breathing TDD: learning to distrust yourself
 
 ## Breathing TDD: learning to distrust yourself
 

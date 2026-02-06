@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to get a gazillion XAML clipart for free"
+title: "How to get a gazillion XAML clipart for free"
 date: 2007-08-24 00:00:00 +0000
 ---
-
-## How to get a gazillion XAML clipart for free 
 
 You surely know [XAML subsumes pretty much all of SVG](http://www.google.com/search?hl=en&q=xaml%20vs%20svg), right?
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Gmail for your domain"
+title: "Gmail for your domain"
 date: 2006-02-12 00:00:00 +0000
 ---
-
-## Gmail for your domain
 
 ## Gmail for your domain
 

@@ -1,14 +1,10 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Improving the state of the art in API documentation sites"
+title: "Improving the state of the art in API documentation sites"
 date: 2013-10-15 00:00:00 +0000
 ---
 
-##  [Improving the state of the art in API documentation sites](<http://blogs.clariusconsulting.net/kzu/improving-the-state-of-the-art-in-api-documentation-sites/> "Improving the state of the art in API documentation sites")
-
-October 15, 2013 4:04 pm
-
-Go straight to the site if you want: [http://nudoq.org](<http://nudoq.org/>). You can then come back and continue reading ![:\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_smile.gif)
+Go straight to the site if you want: [http://nudoq.org](<http://nudoq.org/>). You can then come back and continue reading ![:\)](/img/2013-10-15-1.gif)
 
 Compare some of the most popular NuGet packages API documentation sites:
 

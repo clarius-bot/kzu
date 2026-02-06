@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Serious flaw in WPF validation infrastructure for ValidationRule and Binding"
+title: "Serious flaw in WPF validation infrastructure for ValidationRule and Binding"
 date: 2007-09-25 00:00:00 +0000
 ---
-
-## Serious flaw in WPF validation infrastructure for ValidationRule and Binding 
 
 [Adam Nathan](http://www.adamnathan.net/)'s [excelent book on WPF](http://adamnathan.net/wpf/) states:
 

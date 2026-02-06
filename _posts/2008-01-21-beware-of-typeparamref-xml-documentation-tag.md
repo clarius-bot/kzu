@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Beware of typeparamref XML documentation tag"
+title: "Beware of typeparamref XML documentation tag"
 date: 2008-01-21 00:00:00 +0000
 ---
 
-##  [Beware of typeparamref XML documentation tag](<http://blogs.clariusconsulting.net/kzu/beware-of-typeparamref-xml-documentation-tag/> "Beware of typeparamref XML documentation tag")
-
-January 21, 2008 2:36 am
 
 Most projects use “Warnings as Errors” project-level setting together with the “XML documentation file” so that you can spot early on which areas of your public APIs are not documented or have broken links etc. in it. I’ve come to rely on it, especially in the face of refactoring, which even in VS2008 still doesn’t refactor code documentation references.
 

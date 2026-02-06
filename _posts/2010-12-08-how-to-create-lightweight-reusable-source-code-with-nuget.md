@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to create lightweight reusable source code with NuGet"
+title: "How to create lightweight reusable source code with NuGet"
 date: 2010-12-08 00:00:00 +0000
 ---
-
-## How to create lightweight reusable source code with NuGet 
 
 Sometimes, you just have a reusable helper that you bring in to every project (i.e. an argument validation thingy, or the [static reflection stuff](http://www.clariusconsulting.net/blogs/kzu/archive/2007/12/30/49063.aspx), [useful extension methods](http://social.msdn.microsoft.com/forums/en-US/linqprojectgeneral/thread/fe3d441d-1e49-4855-8ae8-60068b3ef741/), and so on). You don't always need them all, they are generally single-file utilities, and having a Common.dll looks overkill or dumb.
 

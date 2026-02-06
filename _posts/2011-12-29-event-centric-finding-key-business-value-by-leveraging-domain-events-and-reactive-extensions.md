@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Event Centric: finding key business value by leveraging domain events and reactive extensions"
+title: "Event Centric: finding key business value by leveraging domain events and reactive extensions"
 date: 2011-12-29 00:00:00 +0000
 ---
 
-##  [Event Centric: finding key business value by leveraging domain events and reactive extensions](<http://blogs.clariusconsulting.net/kzu/event-centric-finding-key-business-value-by-leveraging-domain-events-and-reactive-extensions/> "Event Centric: finding key business value by leveraging domain events and reactive extensions")
-
-December 29, 2011 1:58 pm
 
 [Reactive Extensions](<https://bit.ly/rsPavA>) (Rx) is one of the coolest additions to .NET ever. However, they have been largely ignored by the mainstream, in a significant part because (IMO) it’s seen as a [UI technique](<http://www.reactiveui.net/>), with samples that show how to handle mouse moves, drag & drop and so on. Its focus on asynchronous programming too makes it look like a niche technique that might even be worth skipping over as we wait for [C# 5.0 async keyword](<https://bit.ly/vBpKrj>) (see [Mike’s blog entry](<https://bit.ly/vJuwi7>) on a possible clarification of where it might fit in the async world).
 
@@ -82,6 +79,6 @@ This seems like a rather simple thing, and even one that isn’t so revolutionar
 
 Stay tunned!
 
-[Update] The “surprisingly simple” implementation explained above is surprisingly limiting too ![:\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_smile.gif) . Namely: the subscriber has to use the exact same type as the publisher in order for a subscription to be called. In other words: no support for covariant subscriptions, subscriptions to interfaces implemented by the concrete events, etc. (i.e. the EventPattern<TEventArgs> from Rx wouldn’t work for subscriptions to the base EventPattern<EventArgs>). So I had to make it a bit more complicated to support everything the CLR supports in terms of assignable types. The updated nuget package contains the full implementation.
+[Update] The “surprisingly simple” implementation explained above is surprisingly limiting too ![:\)](/img/2011-12-29-1.gif) . Namely: the subscriber has to use the exact same type as the publisher in order for a subscription to be called. In other words: no support for covariant subscriptions, subscriptions to interfaces implemented by the concrete events, etc. (i.e. the EventPattern<TEventArgs> from Rx wouldn’t work for subscriptions to the base EventPattern<EventArgs>). So I had to make it a bit more complicated to support everything the CLR supports in terms of assignable types. The updated nuget package contains the full implementation.
 
 /kzu

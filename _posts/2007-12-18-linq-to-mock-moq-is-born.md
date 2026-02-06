@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Linq to Mock: MoQ is born"
+title: "Linq to Mock: MoQ is born"
 date: 2007-12-18 00:00:00 +0000
 ---
-
-## Linq to Mock: MoQ is born 
 
 (go straight to the snippets if you can't wait ;))
 

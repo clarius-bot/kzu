@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Shadowfax Wizards for configuration and code generation"
+title: "Shadowfax Wizards for configuration and code generation"
 date: 2004-07-05 00:00:00 +0000
 ---
-
-## Shadowfax Wizards for configuration and code generation 
 
 The cornerstone of any highly extensible and pluggable framework is configuration. This is even more important in SOA architectures like [ Shadowfax](http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=9c29a963-594e-4e7a-9c45-576198df8058) (Sfx), because business actions (BA), service interface and implementation, pipelines, etc., must be configured. Configuring BAs is specially critical since a typical enterprise application will contain hundreds of them. A set of wizards for Sfx were released for that purpose.
 
 First, what you'll see: after installing both MSIs in the distro, you'll have new items in the Add New Project and Add New Item dialogs, as well as some additional context menus.
 
-![](https://web.archive.org/web/20051225224734im_/http://aspnet2.com/kzu/weblog/addnewproject.gif)
+![](/img/2004-07-05-1.gif)
 
 All wizards can generate either VB.NET or C# code. Note that both language categories exist inside a new folder at the left called Microsoft IPE Wizard Framework. That's the framework these wizards are built on top, which I'll discuss in another post.
 
@@ -26,19 +24,19 @@ Parameters received by the template at run-time, depending on user input, are re
 
 Wizards are deeply integrated with the IDE and the Sfx configuration file. Therefore, in order to run the wizards you must specify where's the configuration file. You do so by right-clicking the `ServicesReferenceArchitecture.config` file in the `Solution Items` folder, and selecting `Set as configuration file`:
 
-![](https://web.archive.org/web/20051225224734im_/http://aspnet2.com/kzu/weblog/setasconfigurationfile.gif)
+![](/img/2004-07-05-2.gif)
 
 Wizards will show relevant information from both the current solution as well as the configuration file when necessary. For example, in the screenshot above you see a `Configure pipeline` menu option. If you select it, you'll enter a wizard that allows you to modify existing pipelines in the file. (I have to show this because I like how it looks) 
 
-![](https://web.archive.org/web/20051225224734im_/http://aspnet2.com/kzu/weblog/configurepipeline.jpg)
+![](/img/2004-07-05-3.jpg)
 
 On the next step, you'll have the option of editing either a service interface or implementation pipeline. The dropdown below shows the actual pipeline names in the configuration file for the joinpoint you chose!
 
-![](https://web.archive.org/web/20051225224734im_/http://aspnet2.com/kzu/weblog/editpipeline.gif)
+![](/img/2004-07-05-4.gif)
 
 And in the next step, you get the current configuration, including handlers associated with the pipeline. You can add/remove handlers too, from a list that is also pulled from the config file:
 
-![](https://web.archive.org/web/20051225224734im_/http://aspnet2.com/kzu/weblog/edithandlers.gif)
+![](/img/2004-07-05-5.gif)
 
 This can be a real time-saver, and avoids occasional typos. 
 

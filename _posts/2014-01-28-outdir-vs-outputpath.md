@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - OutDir vs OutputPath"
+title: "OutDir vs OutputPath"
 date: 2014-01-28 00:00:00 +0000
 ---
 
-##  [OutDir vs OutputPath](<http://blogs.clariusconsulting.net/kzu/outdir-vs-outputpath/> "OutDir vs OutputPath")
-
-January 28, 2014 1:25 am
 
 Which one should you use? Seems like OutputPath is the way to go, since it’s the one that is specified on every project you create, right inside the Debug or Release configuration. 
 

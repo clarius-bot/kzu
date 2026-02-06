@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - RssBandit, XML rendering and &amp;lt;xmp&amp;gt; element"
+title: "RssBandit, XML rendering and &amp;lt;xmp&amp;gt; element"
 date: 2004-01-26 00:00:00 +0000
 ---
-
-## RssBandit, XML rendering and &amp;lt;xmp&amp;gt; element 
 
 For those showing XML in a post, you surely know how annoying it is to be forced to convert all the tags to the corresponding escaped sequence in order to get it properly rendered. That is, change the < and > characters. There's a cool element, [<xmp>](http://devedge.netscape.com/library/manuals/1998/htmlguide/tags4.html#1424741), which allows arbitrary markup and tells the browser to show it as-is, without any processing. It's a kind of <pre> but better because you don't have to escape reserved characters. 
 

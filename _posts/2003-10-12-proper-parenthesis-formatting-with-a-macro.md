@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Proper parenthesis formatting with a macro"
+title: "Proper parenthesis formatting with a macro"
 date: 2003-10-12 00:00:00 +0000
 ---
-
-## Proper parenthesis formatting with a macro 
 
 It's common coding convention to add a space surrounding method parameters. However, it can be quite annoying to keep remembering it. Examples of such convention are: 
 

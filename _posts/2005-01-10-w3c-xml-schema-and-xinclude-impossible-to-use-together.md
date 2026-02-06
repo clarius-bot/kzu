@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - W3C XML Schema and XInclude: impossible to use together???"
+title: "W3C XML Schema and XInclude: impossible to use together???"
 date: 2005-01-10 00:00:00 +0000
 ---
-
-## W3C XML Schema and XInclude: impossible to use together??? 
 
 On a project I'm working on for [MS Patterns & Practices](http://www.microsoft.com/practices), we were excited about the [XInclude spec becoming a recomendation](http://www.w3.org/2004/11/xinclude-pr) and anxious about using it in our project, which is quite heavy on XML usage for configuration. The modularization that could be introduced transparently by XInclude was very compelling. Even if it [will hardly be implemented in .NET v2](http://weblogs.asp.net/cazzu/posts/XIncludeRec.aspx), we could still take advantage of the [Mvp.Xml](http://mvp-xml.sf.net/) project [XInclude.NET](http://mvp-xml.sourceforge.net/xinclude/index.html) implementation [Oleg ](http://www.tkachenko.com/blog/)did. But apparently it's almost impossible to use XInclude and XSD validation together :(  
   

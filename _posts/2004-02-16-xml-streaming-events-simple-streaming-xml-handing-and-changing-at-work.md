@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Xml Streaming Events: simple streaming Xml handing (and changing) at work."
+title: "Xml Streaming Events: simple streaming Xml handing (and changing) at work."
 date: 2004-02-16 00:00:00 +0000
 ---
-
-## Xml Streaming Events: simple streaming Xml handing (and changing) at work. 
 
 I presented XSE (Xml Streaming Events) in [ a previous post](http://weblogs.asp.net/cazzu/posts/XseIntro.aspx). In this post I will show some examples of what can be acomplished with it in a streaming (therefore performant) way. 
 

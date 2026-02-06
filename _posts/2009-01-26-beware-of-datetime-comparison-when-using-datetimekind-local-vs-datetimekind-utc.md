@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Beware of DateTime comparison when using DateTimeKind.Local vs DateTimeKind.Utc"
+title: "Beware of DateTime comparison when using DateTimeKind.Local vs DateTimeKind.Utc"
 date: 2009-01-26 00:00:00 +0000
 ---
-
-##  [Beware of DateTime comparison when using DateTimeKind.Local vs DateTimeKind.Utc](<http://blogs.clariusconsulting.net/kzu/beware-of-datetime-comparison-when-using-datetimekind-local-vs-datetimekind-utc/> "Beware of DateTime comparison when using DateTimeKind.Local vs DateTimeKind.Utc")
-
-January 26, 2009 6:07 pm
 
 Oh, DateTime is so hopelessly broken…
     

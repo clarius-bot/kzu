@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Introducing NETFx, or the end of Common.dll and Helpers.dll"
+title: "Introducing NETFx, or the end of Common.dll and Helpers.dll"
 date: 2011-05-20 00:00:00 +0000
 ---
-
-## Introducing NETFx, or the end of Common.dll and Helpers.dll
 
 From theproject home page:
 
@@ -28,21 +26,21 @@ And thusNETFxwas born: a repository of the source and accompanying unit tests fo
 
 You install NETFx nugets via the Add Library Package Reference dialog (this is easiest, since the individual package ids are fairly long and organized by extended namespace):
 
-![](http://download.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=netfx&DownloadId=241702)
+![](/img/2011-05-20-1.png)
 
 Note that you don’t get a single monolithic gigantic “NETFx Package”, but rather you get to pick precisely what you need and nothing more.
 
 From thePackage Manager Console, you can also just type install-package netfx-[TAB] and see a list of NETFx packages:
 
-![](http://download.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=netfx&DownloadId=242132)
+![](/img/2011-05-20-2.png)
 
 Or even filter by area by entering a fragment of the namespace:
 
-![](http://download.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=netfx&DownloadId=242133)
+![](/img/2011-05-20-3.png)
 
 And unlike most nugets, what you always get from NETFx is the actual source, as internal classes (the point of helpers!) that you build together with your own source. Need to debug it? Found a bug? No problem! The source is right *there* for you to see, patch or whatever:
 
-![](http://download.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=netfx&DownloadId=241703)
+![](/img/2011-05-20-4.png)
 
 And every NETFx has its own place forSource + Unit Testsso that anyone can read the tests and see how to use a class, contribute patches and improvements for existing ones, or even send a pull request for a new one.
 
@@ -52,7 +50,7 @@ The list is alreadyfairly extensive, and growing all the time.
 
 Read ourdocumentationto get involved and contribute fixes or new netfx extensions! We even have a project template to make the entire process enjoyable
 
-![Smile](http://download.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=netfx&DownloadId=241005)
+![Smile](/img/2011-05-20-5.png)
 
 This project is sponsored byClarius Labs.
 

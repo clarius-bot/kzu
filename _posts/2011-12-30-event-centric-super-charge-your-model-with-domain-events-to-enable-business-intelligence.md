@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Event Centric: super-charge your model with domain events to enable business intelligence"
+title: "Event Centric: super-charge your model with domain events to enable business intelligence"
 date: 2011-12-30 00:00:00 +0000
 ---
 
-##  [Event Centric: super-charge your model with domain events to enable business intelligence](<http://blogs.clariusconsulting.net/kzu/event-centric-super-charge-your-model-with-domain-events-to-enable-business-intelligence/> "Event Centric: super-charge your model with domain events to enable business intelligence")
-
-December 30, 2011 6:06 pm
 
 I’ve shown in [my previous post](<https://bit.ly/srVn3P>) how interesting domain events can be mined using the Reactive Extensions for .NET. Now we need to raise those events when things happen to our domain. The typical way you’d publish events from your domain is simply adding .NET events. Say we have a Patient class, with a method Admit that causes the patient to be in the hospital and tracks the date when he was admitted:
     
@@ -26,7 +23,7 @@ I’ve shown in [my previous post](<https://bit.ly/srVn3P>) how interesting doma
         }
     }
 
-The domain object method typically does some precondition validation (like the one above, the patient can’t be admitted twice), then mutates the state as needed. At some point the resulting object state will be persisted somehow, but it’s a good goal to have [persistence ignorant](<https://bit.ly/tNqNE0>) entities, as you probably know by now ![Winking smile](http://blogs.clariusconsulting.net/kzu/files/2011/12/wlEmoticon-winkingsmile.png).
+The domain object method typically does some precondition validation (like the one above, the patient can’t be admitted twice), then mutates the state as needed. At some point the resulting object state will be persisted somehow, but it’s a good goal to have [persistence ignorant](<https://bit.ly/tNqNE0>) entities, as you probably know by now ![Winking smile](/img/2011-12-30-1.png).
 
 If we now want to let other components know whenever a patient is admitted, we can just add a .NET event, like so:
     

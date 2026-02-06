@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - New C# conditional assignment operator ?? for null cases!! (no more ? .. : in C# 2.0)"
+title: "New C# conditional assignment operator ?? for null cases!! (no more ? .. : in C# 2.0)"
 date: 2005-09-20 00:00:00 +0000
 ---
 
-## New C# conditional assignment operator ?? for null cases!! (no more ? .. : in C# 2.0) 
-    
     
     object obj = canBeNull ?? alternativeObj;
     

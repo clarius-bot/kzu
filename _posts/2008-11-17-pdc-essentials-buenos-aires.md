@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - PDC Essentials @ Buenos Aires"
+title: "PDC Essentials @ Buenos Aires"
 date: 2008-11-17 00:00:00 +0000
 ---
-
-## PDC Essentials @ Buenos Aires 
 
 On Tuesday 18th, [Victor](http://clariusconsulting.net/vga) and I will be presenting A Lap Around VS2010. Check which other talks are available and register [here](http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032394696&Culture=es-AR). 
 

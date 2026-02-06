@@ -1,20 +1,18 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Blogger: how to provide label/tag feeds"
+title: "Blogger: how to provide label/tag feeds"
 date: 2007-11-16 00:00:00 +0000
 ---
 
-## Blogger: how to provide label/tag feeds 
-
 By default, blogger will only render links to the pages where you can read all entries with given labels:
 
-[![BloggerLabels](https://web.archive.org/web/20080929004210im_/http://www.clariusconsulting.net/images/blogs/kzu/Bloggerhowtoprovidelabeltagfeeds_BF05/BloggerLabels_thumb.png)](http://www.clariusconsulting.net/images/blogs/kzu/Bloggerhowtoprovidelabeltagfeeds_BF05/BloggerLabels.png)
+[![BloggerLabels](/img/2007-11-16-1.png)](/img/2007-11-16-2.png)
 
 If you want to expose a feed so that people can subscribe to receive only entries with the given label, here's what you need to do:
 
   1. Go to the Template -> Edit HTML tab on your feed management page:  
   
-[![BloggerEditHTML](https://web.archive.org/web/20080929004210im_/http://www.clariusconsulting.net/images/blogs/kzu/Bloggerhowtoprovidelabeltagfeeds_BF05/BloggerEditHTML_thumb.png)](http://www.clariusconsulting.net/images/blogs/kzu/Bloggerhowtoprovidelabeltagfeeds_BF05/BloggerEditHTML.png)   
+[![BloggerEditHTML](/img/2007-11-16-2.png)](/img/2007-11-16-1.png)   
 
   2. Make sure to check "Expand Widget Templates" 
   3. Do a "find" for "data:labels". That will take you to the markup where the labels are iterated to build the links. 
@@ -52,7 +50,7 @@ change to:
   
 Now the rendering is as follows:  
   
-[![BloggerLabelsRss](https://web.archive.org/web/20080929004210im_/http://www.clariusconsulting.net/images/blogs/kzu/Bloggerhowtoprovidelabeltagfeeds_BF05/BloggerLabelsRss_thumb.png)](http://www.clariusconsulting.net/images/blogs/kzu/Bloggerhowtoprovidelabeltagfeeds_BF05/BloggerLabelsRss.png)
+[![BloggerLabelsRss](/img/2007-11-16-1.png)](/img/2007-11-16-2.png)
 
 Enjoy! 
 

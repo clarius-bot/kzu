@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - ForwardXPathNavigator vs XSE"
+title: "ForwardXPathNavigator vs XSE"
 date: 2004-02-16 00:00:00 +0000
 ---
-
-## ForwardXPathNavigator vs XSE 
 
 [Oleg](http://www.tkachenko.com/blog/archives/000161.html) has posted his code now too. I guess this way we're encouraging mutually to release code often ;). I must defend: 
 

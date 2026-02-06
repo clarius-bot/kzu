@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to get binary XML out of SQL Server 2005 XML field"
+title: "How to get binary XML out of SQL Server 2005 XML field"
 date: 2005-06-09 00:00:00 +0000
 ---
-
-## How to get binary XML out of SQL Server 2005 XML field
 
 ## How to get binary XML out of SQL Server 2005 XML field
 

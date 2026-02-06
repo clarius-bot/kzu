@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to add an MSBuild import to a project on NuGet install"
+title: "How to add an MSBuild import to a project on NuGet install"
 date: 2011-04-19 00:00:00 +0000
 ---
-
-## How to add an MSBuild import to a project on NuGet install
 
 This functionality has beendiscussedandrequestedas a feature for a future version ofNuGet.
 

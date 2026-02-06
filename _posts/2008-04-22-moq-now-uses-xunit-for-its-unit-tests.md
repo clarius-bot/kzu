@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - MoQ now uses xUnit for its unit tests"
+title: "MoQ now uses xUnit for its unit tests"
 date: 2008-04-22 00:00:00 +0000
 ---
-
-## MoQ now uses xUnit for its unit tests 
 
 After talking to a few guys during the MVP summit and the proceedings of the ALT.NET conference, I decided to give [xUnit](http://www.codeplex.com/xunit/ "xUnit home page") a serious try. 
 

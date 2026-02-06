@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Hello World of VS"
+title: "Hello World of VS"
 date: 2010-08-20 00:00:00 +0000
 ---
-
-## Hello World of VS 
 
 At [Clarius](http://clariusconsulting.net/) we've spent years doing Visual Studio extensibility. Literally. We LOVE doing so. We did so much of it during the years that chances are pretty high you've been using some of our stuff (fully or partially developed by us) at one point or another. A non-exhaustive list includes:
 

@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - NuGet References: publishing my first open source extension to the DevStore"
+title: "NuGet References: publishing my first open source extension to the DevStore"
 date: 2013-05-18 00:00:00 +0000
 ---
-
-##  [NuGet References: publishing my first open source extension to the DevStore](<http://blogs.clariusconsulting.net/kzu/nuget-references-publishing-my-first-open-source-extension-to-the-devstore/> "NuGet References: publishing my first open source extension to the DevStore")
-
-May 18, 2013 7:49 pm
 
 Last week I had the pleasure of spending time with a bunch of friends at the [OuterConf 2013](<https://bit.ly/outerconf>), including pretty much the entire NuGet team. I also could attend to the hackathon they organized, and I got to hack what I think is a pretty cool Visual Studio 2012 extension: NuGet References. 
 
@@ -53,7 +49,7 @@ I get to sign in with either a Google or Windows Live account, and after that qu
 
 ![image](http://blogs.clariusconsulting.net/kzu/files/2013/05/image1.png)
 
-That will send an email to our inbox for verification purposes, after which we can log in with our credentials by clicking the Login button at the top. Of course this is only required the first time ![;\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif) .
+That will send an email to our inbox for verification purposes, after which we can log in with our credentials by clicking the Login button at the top. Of course this is only required the first time ![;\)](/img/2013-05-18-1.gif) .
 
 After we’re logged in, if we now click again the Upload button, we get to accept the Seller terms of service (which is different than for users, just like every other app store), and with that out of the way, we can just go ahead and upload our VSIX!
 
@@ -63,7 +59,7 @@ Here I have already chosen my extension file. Note that the file I’m uploading
 
 ![image](http://blogs.clariusconsulting.net/kzu/files/2013/05/image11.png)
 
-For one thing, I know I want to change the Full Price value! So let’s click Edit. You can edit quite a bit of information about how you want to sell your extension, including full price (for first-time purchases), upgrade price (for v1 users when I come out with v2), what countries I want to sell it on, screenshots, and so on. I just happen to love Stella Artois beer which is [about $2 on Amazon Fresh](<http://fresh.amazon.com/product?asin=B0016XMXZK&qid=156589851&rank=1&sr=1-1&tag=title>), so I’ll just round it up to $2.99 and you can buy me a beer for this extension ![;\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif) .
+For one thing, I know I want to change the Full Price value! So let’s click Edit. You can edit quite a bit of information about how you want to sell your extension, including full price (for first-time purchases), upgrade price (for v1 users when I come out with v2), what countries I want to sell it on, screenshots, and so on. I just happen to love Stella Artois beer which is [about $2 on Amazon Fresh](<http://fresh.amazon.com/product?asin=B0016XMXZK&qid=156589851&rank=1&sr=1-1&tag=title>), so I’ll just round it up to $2.99 and you can buy me a beer for this extension ![;\)](/img/2013-05-18-1.gif) .
 
 After I’ve saved the information, I can click Submit/Publish, at which point it’s live on the site on the Recently Added section:
 
@@ -101,6 +97,6 @@ The DevStore provides a great way to encourage developers to automate more of th
 
 In order to prove the point that both open source and paid convenience delivery of binaries can actually be a commercially viable option, I’m also publishing the entire source for this extension in [GitHub](<https://bit.ly/10x7FXt>).
 
-And that’s it! I just bought myself a beer with that demo above, so it’s time for me to go enjoy it. I hope you like the extension and gift me a beer too ![;\)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif)
+And that’s it! I just bought myself a beer with that demo above, so it’s time for me to go enjoy it. I hope you like the extension and gift me a beer too ![;\)](/img/2013-05-18-1.gif)
 
 /kzu

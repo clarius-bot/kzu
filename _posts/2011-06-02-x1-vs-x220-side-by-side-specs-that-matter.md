@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - X1 vs X220 side by side specs that matter"
+title: "X1 vs X220 side by side specs that matter"
 date: 2011-06-02 00:00:00 +0000
 ---
-
-##  [X1 vs X220 side by side specs that matter](<http://blogs.clariusconsulting.net/kzu/x1-vs-x220-side-by-side-specs-that-matter/> "X1 vs X220 side by side specs that matter")
-
-June 2, 2011 8:50 pm
 
 Is it just me or the X220 is just plain better in almost all relevant fronts?
 

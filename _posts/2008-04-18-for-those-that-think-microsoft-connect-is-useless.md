@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - For those that think Microsoft Connect is useless"
+title: "For those that think Microsoft Connect is useless"
 date: 2008-04-18 00:00:00 +0000
 ---
-
-## For those that think Microsoft Connect is useless 
 
 A while back I reported both [through my weblog](http://www.clariusconsulting.net/blogs/kzu/archive/2007/09/25/SeriousflawinWPFvalidationinfrastructureforValidationRuleandBinding.aspx "Serious flaw in WPF validation infrastructure for ValidationRule and Binding") and [Microsoft Connect](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=299711) what I thought was a serious flaw in the WPF validation infrastructure for ValidationRule and Binding. The issue, in short was:
 

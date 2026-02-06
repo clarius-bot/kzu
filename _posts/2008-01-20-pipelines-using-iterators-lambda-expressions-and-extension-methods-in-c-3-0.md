@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Pipelines Using Iterators, Lambda Expressions and Extension Methods in C# 3.0"
+title: "Pipelines Using Iterators, Lambda Expressions and Extension Methods in C# 3.0"
 date: 2008-01-20 00:00:00 +0000
 ---
-
-## Pipelines Using Iterators, Lambda Expressions and Extension Methods in C# 3.0 
 
 Inspired by [Pipelines Using Fibers in Ruby 1.9](http://pragdave.blogs.pragprog.com/pragdave/2007/12/pipelines-using.html), I set to explore what could be done with C# 3.0 in the same area. I'll also follow that article's overall structure.
 

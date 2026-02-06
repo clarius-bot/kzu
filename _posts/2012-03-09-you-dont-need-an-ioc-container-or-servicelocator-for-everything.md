@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - You don’t need an IoC container or ServiceLocator for everything"
+title: "You don’t need an IoC container or ServiceLocator for everything"
 date: 2012-03-09 00:00:00 +0000
 ---
-
-## You don’t need an IoC container or ServiceLocator for everything
 
 Say you have a class that needs to collaborate with another, say a repository:
 
@@ -110,6 +108,6 @@ If you were doing TDD (which you should) the process would be slightly different
 
 That said, an IoC container and a mocking framework are my first two choices when doing File | New Project. I know I’ll need them for anything non-trivial.
 
-![Smile](http://blogs.clariusconsulting.net/kzu/files/2012/03/wlEmoticon-smile.png)
+![Smile](/img/2012-03-09-1.png)
 
 /kzu

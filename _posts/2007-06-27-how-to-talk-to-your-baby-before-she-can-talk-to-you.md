@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to talk to your baby before she can talk to you"
+title: "How to talk to your baby before she can talk to you"
 date: 2007-06-27 00:00:00 +0000
 ---
-
-## How to talk to your baby before she can talk to you 
 
 About half a year ago, [Scott Hanselman](http://www.hanselman.com/blog) got me into [baby signing](http://www.google.com/search?hl=en&q=baby%20sign%20language). He was so enthusiastic about it that he succeeded in infusing the same excitement in me. I have a 15 months-old daughter Aylen (and a 3 year-old one too, Agustina), which was about 11 months back then. Make sure you read his [initial post on baby signing](http://www.hanselman.com/blog/BabySignLanguage.aspx) as well as his update when his son Zenzo was 14 months old.
 

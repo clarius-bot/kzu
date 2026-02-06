@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Guidance Automation in the development process"
+title: "Guidance Automation in the development process"
 date: 2006-02-01 00:00:00 +0000
 ---
-
-## Guidance Automation in the development process
 
 ## Guidance Automation in the development process
 

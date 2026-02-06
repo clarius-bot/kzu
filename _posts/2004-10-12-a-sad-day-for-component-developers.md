@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - A sad day for component developers"
+title: "A sad day for component developers"
 date: 2004-10-12 00:00:00 +0000
 ---
-
-## A sad day for component developers
 
 ## A sad day for component developers
 

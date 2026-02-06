@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Mesh synchronization of KML files through FeedSync"
+title: "Mesh synchronization of KML files through FeedSync"
 date: 2008-05-28 00:00:00 +0000
 ---
-
-## Mesh synchronization of KML files through FeedSync 
 
 We've been working for the past few days on a [mesh4x](http://mesh4x.org/) adapter that can synchronize a potentially big KML file at a very granular level (styles, placemarks, folders, etc.) so that you can collaboratively edit these large files without having to resolve spurious "conflicts".
 

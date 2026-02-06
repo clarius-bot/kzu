@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to install Visual Studio 2010 Search References and Pro Power Tools side by side"
+title: "How to install Visual Studio 2010 Search References and Pro Power Tools side by side"
 date: 2010-06-09 00:00:00 +0000
 ---
 
-## How to install Visual Studio 2010 Search References and Pro Power Tools side by side 
-
 The new [Visual Studio 2010 Pro Power Tools](http://visualstudiogallery.msdn.microsoft.com/en-us/d0d33361-18e2-46c0-8ff2-4adea1e34fef) bring a new Add Reference dialog that completely replaces the classic one when you click the familiar Add Reference command:
 
-![image](https://web.archive.org/web/20100612215802im_/http://www.clariusconsulting.net/images/blogs/kzu/HowtoinstallVisualStudio2010SearchRefere_A326/image.png)
+![image](/img/2010-06-09-1.png)
 
 It seems like a nice dialog that is more aligned with the new Add New dialog and the Extension Manager one. But for this particular case, I believe it's awfully overkill (what's the use of that right sidebar? what's the use for the categories of assemblies split between Framework and Extensions?).
 

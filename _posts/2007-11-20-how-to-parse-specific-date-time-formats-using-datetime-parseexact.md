@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to parse specific date-time formats using DateTime.ParseExact"
+title: "How to parse specific date-time formats using DateTime.ParseExact"
 date: 2007-11-20 00:00:00 +0000
 ---
-
-## How to parse specific date-time formats using DateTime.ParseExact 
 
 I've done this myself: write an entirely new date-time parser using regular expressions. I'm sure most people implementing standards have done the same (i.e. for syndication libraries, etc.). There's almost no point in doing so, except for some very specific cases, as [DateTime.ParseExact](http://msdn2.microsoft.com/en-US/library/w2sa9yss.aspx) is very flexible through the use of [custom DateTime format strings](http://msdn2.microsoft.com/en-US/library/8kb3ddd4.aspx).
 

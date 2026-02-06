@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to get ASP.NET MVC Preview 4 to run with .NET SP1"
+title: "How to get ASP.NET MVC Preview 4 to run with .NET SP1"
 date: 2008-08-24 00:00:00 +0000
 ---
-
-## How to get ASP.NET MVC Preview 4 to run with .NET SP1 
 
 As you probably know by now (i.e. from [Phill's blog](http://haacked.com/archive/2008/08/14/aspnetmvc-not-in-sp1.aspx "ASP.NET MVC Is Not Part of ASP.NET 3.5 SP1")), however both [Routing](http://msdn.microsoft.com/en-us/library/system.web.routing.aspx) and [Abstractions](http://msdn.microsoft.com/en-us/library/system.web.httpcontextbase.aspx) are. [MVC Preview 4](http://www.asp.net/mvc/), however, has its own version of both assemblies.
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to install Intel WiFi Link 5300/5100 drivers for Windows 7 Beta"
+title: "How to install Intel WiFi Link 5300/5100 drivers for Windows 7 Beta"
 date: 2009-02-17 00:00:00 +0000
 ---
-
-## How to install Intel WiFi Link 5300/5100 drivers for Windows 7 Beta 
 
 I just couldn't resist going for the brand new beta which is being praised quite a bit when I got my new [Lenovo X200](http://shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal/en_US/systemconfig.runtime.workflow:LoadRuntimeTree?sb=:00000025:000019D3:&smid=6194D04805DF4296B0D1A64481A943A4).
 

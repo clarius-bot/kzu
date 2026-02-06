@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to install MySQL on Windows 2008"
+title: "How to install MySQL on Windows 2008"
 date: 2008-03-19 00:00:00 +0000
 ---
-
-## How to install MySQL on Windows 2008 
 
 When you finish the setup, the configuration wizard may not start, and upon starting it manually, you might get:
 

@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - A general purpose event bus leveraging Reactive Extensions"
+title: "A general purpose event bus leveraging Reactive Extensions"
 date: 2012-01-02 00:00:00 +0000
 ---
-
-##  [A general purpose event bus leveraging Reactive Extensions](<http://blogs.clariusconsulting.net/kzu/a-general-purpose-event-bus-leveraging-reactive-extensions/> "A general purpose event bus leveraging Reactive Extensions")
-
-January 2, 2012 7:15 pm
 
 I talked before on the usefulness of having [rich events published throughout your domain](<https://bit.ly/srVn3P>). In that blog post, I also showed a very simple implementation.
 

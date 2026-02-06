@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Argentina: Fibertel, ilegalidad, discrecionalidad y arbitrariedad"
+title: "Argentina: Fibertel, ilegalidad, discrecionalidad y arbitrariedad"
 date: 2010-08-23 00:00:00 +0000
 ---
-
-## Argentina: Fibertel, ilegalidad, discrecionalidad y arbitrariedad 
 
 [to my English-only dear readers, this is going to be just Spanish, for my compatriots. I hope you don't mind :)] 
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - New Moq features for mock verification and creation"
+title: "New Moq features for mock verification and creation"
 date: 2008-02-02 00:00:00 +0000
 ---
-
-## New Moq features for mock verification and creation 
 
 I wrote before about [What's wrong with the Record/Reply/Verify model for mocking frameworks](http://www.clariusconsulting.net/blogs/kzu/archive/2007/12/26/48177.aspx), and in that context, why [Moq](http://code.google.com/p/moq/) didn't provide a mock verification functionality.
 

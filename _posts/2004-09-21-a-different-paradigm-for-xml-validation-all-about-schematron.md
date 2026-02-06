@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - A different paradigm for XML validation: all about Schematron"
+title: "A different paradigm for XML validation: all about Schematron"
 date: 2004-09-21 00:00:00 +0000
 ---
-
-## A different paradigm for XML validation: all about Schematron
 
 ## A different paradigm for XML validation: all about Schematron
 

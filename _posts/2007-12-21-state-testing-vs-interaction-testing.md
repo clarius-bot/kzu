@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - State Testing vs Interaction Testing"
+title: "State Testing vs Interaction Testing"
 date: 2007-12-21 00:00:00 +0000
 ---
-
-## State Testing vs Interaction Testing 
 
 Highly recommended reading: [Fowler's article Mocks aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html). It's a very clear characterization of the types of so-called Test Doubles (mocks, fakes, stubs, etc.) you can use to aid your unit testing needs, but also of the kinds of TDD you can do: classic (or state) TDD and mockist (or interaction) TDD.
 

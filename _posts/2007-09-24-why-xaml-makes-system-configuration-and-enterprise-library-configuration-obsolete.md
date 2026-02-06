@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Why XAML makes System.Configuration and Enterprise Library Configuration obsolete"
+title: "Why XAML makes System.Configuration and Enterprise Library Configuration obsolete"
 date: 2007-09-24 00:00:00 +0000
 ---
-
-## Why XAML makes System.Configuration and Enterprise Library Configuration obsolete 
 
 It may seem unrelated, but if you haven't read [Fowler's article on DSLs](http://martinfowler.com/bliki/DomainSpecificLanguage.html) ([from Google cache if it's down like now](http://64.233.169.104/search?q=cache:EmIl1AbBKpkJ:martinfowler.com/bliki/DomainSpecificLanguage.html+configuration+dsl+fowler&hl=en&ct=clnk&cd=2&lr=lang_es%7Clang_en)), please do so now. It will help you understand why XAML goes far beyond WPF and presentation.
 

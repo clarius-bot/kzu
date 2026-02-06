@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to use Windows 2008 on your laptop"
+title: "How to use Windows 2008 on your laptop"
 date: 2008-10-21 00:00:00 +0000
 ---
-
-## How to use Windows 2008 on your laptop 
 
   * Follow all the tips from [Windows 2008 Workstation](http://www.win2008workstation.com/) site. [Microsoft has a KB article](http://support.microsoft.com/kb/947036) also that is useful. 
   * Get [Windows Live Messenger bare MSI from Softpedia](http://www.softpedia.com/progDownload/MSN-Messenger-8-Download-68149.html) (it's a MS-signed installer, worked just fine for me) 

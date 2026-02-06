@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Funq Part III: adding named services and refactoring to improve code"
+title: "Funq Part III: adding named services and refactoring to improve code"
 date: 2009-01-30 00:00:00 +0000
 ---
-
-## Funq Part III: adding named services and refactoring to improve code 
 
 Third part is up!
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Mocking protected members with Moq"
+title: "Mocking protected members with Moq"
 date: 2008-07-05 00:00:00 +0000
 ---
-
-## Mocking protected members with Moq 
 
 If you're familiar with [Moq](http://www.mockframeworks.com/moq), you know that it relies on lambda expressions heavily. This is very good as you get full support from intellisense and refactoring features in Visual Studio. However, it also means you're for the most part restricted to setting expectations on things that your code has access too (public or internal members). 
 

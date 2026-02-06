@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Writing inline MSBuild tasks in C# for one-liners"
+title: "Writing inline MSBuild tasks in C# for one-liners"
 date: 2011-05-09 00:00:00 +0000
 ---
 
-##  [Writing inline MSBuild tasks in C# for one-liners](<http://blogs.clariusconsulting.net/kzu/writing-inline-msbuild-tasks-in-c-for-one-liners/> "Writing inline MSBuild tasks in C# for one-liners")
-
-May 9, 2011 12:52 pm
 
 Every now and then, when trying to do something in MSBuild, I hit a roadblock (or maybe just some unintuitive “feature”) and I’m left thinking “gosh, now I have to create a custom MSBuild task for this one-liner that is SO trivial in plain C#!”.
 

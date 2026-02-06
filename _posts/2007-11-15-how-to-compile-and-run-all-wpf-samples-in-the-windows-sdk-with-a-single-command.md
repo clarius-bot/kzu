@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to compile and run ALL WPF samples in the Windows SDK with a single command"
+title: "How to compile and run ALL WPF samples in the Windows SDK with a single command"
 date: 2007-11-15 00:00:00 +0000
 ---
-
-## How to compile and run ALL WPF samples in the Windows SDK with a single command 
 
 Just issue the following PowerShell one-liner, and you'll compile and run each sample in the SDK (enter all in one line; broken here for readability): 
     

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - A really simple ViewModel base class with strongly-typed INotifyPropertyChanged"
+title: "A really simple ViewModel base class with strongly-typed INotifyPropertyChanged"
 date: 2010-05-14 00:00:00 +0000
 ---
-
-## A really simple ViewModel base class with strongly-typed INotifyPropertyChanged 
 
 I have already written about other alternative ways of [implementing INotifyPropertyChanged](http://www.clariusconsulting.net/blogs/kzu/archive/2010/03/08/SimplifiedINotifyPropertyChangedImplementationwithWeakReferenceSupportandTypedPropertyAccessAPI.aspx), as well as [augment your view models](http://www.clariusconsulting.net/blogs/kzu/archive/2009/03/30/AnnouncingthefreeViewModelTool.aspx) with a bit of automatic code generation for the same purpose. But for some co-workers, either one seemed a bit too much :o). 
 

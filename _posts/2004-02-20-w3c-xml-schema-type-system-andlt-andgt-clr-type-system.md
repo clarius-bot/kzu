@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - W3C XML Schema type system &amp;lt; - &amp;gt; CLR type system"
+title: "W3C XML Schema type system &amp;lt; - &amp;gt; CLR type system"
 date: 2004-02-20 00:00:00 +0000
 ---
-
-## W3C XML Schema type system &amp;lt; - &amp;gt; CLR type system 
 
 I've had some discussions with co-workers and colleages about the WXS (W3C XML Schema) type system and its relation with the CLR one. We all agree that many concepts in WXS don't map to anything existing in OO languages, such as derivation by restriction, content-ordering (i.e. sequence vs choice), etc. However, in the light of the tools the .NET Framework makes available to map XML to objects, we usually have to analyze WXS (used to define the structure of that very XML instance to be mapped) and its relation with our classes. 
 

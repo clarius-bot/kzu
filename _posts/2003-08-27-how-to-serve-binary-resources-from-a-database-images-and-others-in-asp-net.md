@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to serve binary resources from a database (images and others) in ASP.NET?"
+title: "How to serve binary resources from a database (images and others) in ASP.NET?"
 date: 2003-08-27 00:00:00 +0000
 ---
-
-## How to serve binary resources from a database (images and others) in ASP.NET? 
 
 This is such a frequent question, that I thought I’d better spend some time outlining a customizable and versatile solution so that it can be reused in future scenarios.   
 Often, binary resources such as employee pictures, office documents in a document management system, and others, are stored in a database. Now the issue is how to pull that information out of it and show it using ASP.NET. One way to solve this problem is creating a dummy ASP.NET page that simply uses `Response.BinaryWrite()` to output the binary field brought by the DB query, as is explained in an [ASP Alliance](http://aspalliance.com/das/datagridimages.aspx) article. However, you don’t get encapsulation and reusability, having to resort to copy/paste as new projects need such a feature.   

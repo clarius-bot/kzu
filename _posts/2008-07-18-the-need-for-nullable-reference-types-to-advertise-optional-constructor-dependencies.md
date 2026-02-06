@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - The need for nullable reference types to advertise optional constructor dependencies"
+title: "The need for nullable reference types to advertise optional constructor dependencies"
 date: 2008-07-18 00:00:00 +0000
 ---
-
-## The need for nullable reference types to advertise optional constructor dependencies 
 
 In "traditional" OOP, you advertise your class required dependencies via constructor arguments:
     

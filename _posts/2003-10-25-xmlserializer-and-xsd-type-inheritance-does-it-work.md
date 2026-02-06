@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - XmlSerializer and XSD Type Inheritance: does it work?"
+title: "XmlSerializer and XSD Type Inheritance: does it work?"
 date: 2003-10-25 00:00:00 +0000
 ---
-
-## XmlSerializer and XSD Type Inheritance: does it work? 
 
 One of the most powerful XML Schema features is its hability to validate documents based on element types, instead of element names. That is no matter which element name is used in an instance document, say `Customer`, ` customer` and `CRMCustomer`, as far as our XSD Schema makes them all inherit from say `CustomerDef`, the document will be valid. This is very important in interoperability scenarios, of course.   
 That said, one of the most versatile and performat ways to handle XML in .NET (forget about `XmlDocument`) is using the `XmlSerializer` class. Coupled with XSD.EXE or the technique I exposed [ in a previous post](http://weblogs.asp.net/cazzu/posts/33302.aspx), you can easily autogenerate the classes from that schema. So far so good.

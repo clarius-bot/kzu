@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to improve string resources usability"
+title: "How to improve string resources usability"
 date: 2011-07-13 00:00:00 +0000
 ---
-
-##  [How to improve string resources usability](<http://blogs.clariusconsulting.net/kzu/how-to-improve-string-resources-usability/> "How to improve string resources usability")
-
-July 13, 2011 5:47 am
 
 (cross-posted from [NETFx](<https://bit.ly/rnpM7S>))
 
@@ -30,7 +26,7 @@ The [netfx-System.StringResources](<https://bit.ly/oCEsLz>) package provides tha
 
 The template automatically processes the .resx file whenever its associated custom tool is run by right-clicking the template and selecting “Run Custom Tool”, which also happens automatically when you install the package. So you end up with something like this:
 
-[![image5](http://blogs.clariusconsulting.net/kzu/files/2011/07/image5_thumb1.png)](<http://blogs.clariusconsulting.net/kzu/files/2011/07/image51.png>)
+[![image5](/img/2011-07-13-1.png)](<http://blogs.clariusconsulting.net/kzu/files/2011/07/image51.png>)
 
 The resulting generated class is named Strings (under the same namespace as your existing Resources class) and solves both problems above by building on top of the built-in generated Resources class in the following ways:
 
@@ -77,6 +73,6 @@ The generated method is:
 
 Multiple levels of nesting are supported. 
 
-And that’s it. The simplest thing that could possibly work and make your developer’s life just a tiny bit happier [![wlEmoticon-smile2](http://blogs.clariusconsulting.net/kzu/files/2011/07/wlEmoticon-smile2_thumb1.png)](<http://blogs.clariusconsulting.net/kzu/files/2011/07/wlEmoticon-smile21.png>)
+And that’s it. The simplest thing that could possibly work and make your developer’s life just a tiny bit happier [![wlEmoticon-smile2](/img/2011-07-13-2.png)](<http://blogs.clariusconsulting.net/kzu/files/2011/07/wlEmoticon-smile21.png>)
 
 /kzu

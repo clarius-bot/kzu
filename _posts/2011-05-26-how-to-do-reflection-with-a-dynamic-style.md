@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to do reflection with a dynamic style"
+title: "How to do reflection with a dynamic style"
 date: 2011-05-26 00:00:00 +0000
 ---
-
-## How to do reflection with a dynamic style
 
 I’m not advocating *private* reflection (invoking private/internal fields, properties and methods), but we all know that there are those corner cases where you just can’t avoid it. And there’s a whole lot of scenarios when there are legitimate uses of reflection itself that can also leverage this very cool dynamic syntax (i.e. invoking generic methods where you don’t know the type at compile-time, etc.). In these cases, your code goes from pristine-looking C# to crappy unreadable reflection code.
 
@@ -14,13 +12,13 @@ This is a pretty handy tool to have for those rare cases, and it’s pretty smal
 
 You install it either from the library package manager (search for “dynamic reflection”):
 
-![image](http://blogs.clariusconsulting.net/kzu/files/2011/05/image31.png)
+![image](/img/2011-05-26-1.png)
 
 or the console(you can [TAB] for autocompletion right after “netfx-System.Dyn”).
 
 And you get a new extension method (with source code, as usual) in the System.Dynamic namespace (didn’t want to put this in the global namespace as it would show up everywhere):
 
-![reflectiondynamic](http://blogs.clariusconsulting.net/kzu/files/2011/05/reflectiondynamic.png)
+![reflectiondynamic](/img/2011-05-26-2.png)
 
 Now you can do all sorts of interesting reflection-based code with nice clean C# syntax (even if it’s private, internal, static, or generics stuff). The implementation isfully covered by unit tests(yes all 100% of the functionality), and supports the following features:
 

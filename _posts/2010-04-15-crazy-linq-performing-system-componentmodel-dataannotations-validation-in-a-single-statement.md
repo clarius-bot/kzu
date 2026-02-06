@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Crazy Linq: performing System.ComponentModel.DataAnnotations validation in a single statement"
+title: "Crazy Linq: performing System.ComponentModel.DataAnnotations validation in a single statement"
 date: 2010-04-15 00:00:00 +0000
 ---
 
-## Crazy Linq: performing System.ComponentModel.DataAnnotations validation in a single statement 
-    
     
     public static IEnumerable<ValidationResult> Validate(object component)
     {

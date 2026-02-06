@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to setup continous integration with team foundation build"
+title: "How to setup continous integration with team foundation build"
 date: 2006-07-26 00:00:00 +0000
 ---
-
-##  [How to setup continous integration with team foundation build](<http://blogs.clariusconsulting.net/kzu/how-to-setup-continous-integration-with-team-foundation-build/> "How to setup continous integration with team foundation build")
-
-July 26, 2006 8:14 am
 
 First, I followed the instructions and used the code from the [Vertigo Software guys](<http://blogs.vertigosoftware.com/teamsystem/archive/2006/07/14/3075.aspx> "How to setup TFS continous integration"). 
 

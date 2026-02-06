@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Connect to VPN on Vista: This connection requires an active Internet connection"
+title: "Connect to VPN on Vista: This connection requires an active Internet connection"
 date: 2007-06-27 00:00:00 +0000
 ---
-
-## Connect to VPN on Vista: This connection requires an active Internet connection 
 
 Pretty much every day, I get the following stupid dialog from Vista when I'm trying to connect to a VPN:
 

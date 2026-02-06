@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to fix the Beta bits have expired dialog"
+title: "How to fix the Beta bits have expired dialog"
 date: 2010-11-16 00:00:00 +0000
 ---
 
-##  [How to fix the Beta bits have expired dialog](<http://blogs.clariusconsulting.net/kzu/how-to-fix-the-beta-bits-have-expired-dialog/> "How to fix the Beta bits have expired dialog")
-
-November 16, 2010 11:57 am
 
 If you installed a [WoVS](<http://visualstudiogallery.msdn.microsoft.com/en-us/site/profile?userName=Clarius%20%20Consulting>) extension prior to 10/25, and didn’t update the bits from the Updates tab in Extension Manager prior to 10/27, then you may see the following annoying dialog:
 

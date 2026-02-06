@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Reading XML fragments with XmlTextReader - XmlFragmentStream"
+title: "Reading XML fragments with XmlTextReader - XmlFragmentStream"
 date: 2004-04-23 00:00:00 +0000
 ---
-
-## Reading XML fragments with XmlTextReader - XmlFragmentStream 
 
 Back at the [2004 MVP Global Summit](http://mvp.support.microsoft.com/default.aspx?scid=fh;en-us;mvpsmt2004), I met fellow XML fan [Kirk](http://weblogs.asp.net/kaevans), who was seeking a solution to the following problem: you have a (several) megabytes file containing multiple XML fragments, and you want to read it (in [his case](http://weblogs.asp.net/kaevans/archive/2004/04/24/119508.aspx) specially through the [SgmlReader](http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=B90FDDCE-E60D-43F8-A5C4-C3BD760564BC)). The problem is, of course, that the `XmlTextReader` will throw an exception as soon as it finds the second fragment, unless you use the special ctor. overload that takes an `XmlParsingContext`.[ Dare](http://www.25hoursaday.com/) [shows](http://msdn.microsoft.com/xml/default.aspx?pull=/library/en-us/dnxmlnet/html/largexml.asp) an alternate solution based on XML inclusion techniques, either DTD external entities or [XInclude](http://workspaces.gotdotnet.com/xinclude). 
 

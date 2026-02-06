@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Reactive Framework Extensions Generator"
+title: "Reactive Framework Extensions Generator"
 date: 2009-11-26 00:00:00 +0000
 ---
-
-## Reactive Framework Extensions Generator 
 
 You probably know already that the Reactive Framework Extensions (Rx) is a new library on top of .NET 4.0 and Silverlight that allows developers to leverage the expressiveness and power of LINQ for .NET events. It brings an entirely new paradigm for doing event-driven apps, and therefore shines in WPF/Silverlight scenarios. 
 
@@ -14,15 +12,15 @@ Even with the general availability of the [bits for VS2010 beta2 at DevLabs](htt
 
 That's precisely what this [Clarius Labs](http://clarius.codeplex.com/) provided extension does, enabling Reactive Framework Extensions for arbitrary assemblies, without writing any code. It basically traverses all public types in a given assembly (i.e. PresentationFramework.dll, for WPF) and generates a "Reactive" assembly for it (i.e. PresentationFramework.Reactive.dll) which contains the necessary extension methods for all public types that expose generic or custom delegate events that can be automatically converted to [IObservables](http://msdn.microsoft.com/en-us/library/dd990377\(VS.100\).aspx). With that in place, you can simply use the Reactive() extension method on your classes and access in a strong-typed fashion all events of that type as [IObservables](http://msdn.microsoft.com/en-us/library/dd990377\(VS.100\).aspx): 
 
-![Typed events as IObservables](https://web.archive.org/web/20100811023721im_/http://i3.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=clarius&DownloadId=94584)
+![Typed events as IObservables](/img/2009-11-26-1.png)
 
 In order to get the extensions assembly generated, you simply right-click on a project or assembly reference, and select "Create Reactive Extensions":
 
-![Executing the command](https://web.archive.org/web/20100811023721im_/http://i3.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=clarius&DownloadId=94586)
+![Executing the command](/img/2009-11-26-2.png)
 
 and a new assembly will be generated and referenced automatically:
 
-![Reference added](https://web.archive.org/web/20100811023721im_/http://i3.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=clarius&DownloadId=94587)
+![Reference added](/img/2009-11-26-3.png)
 
 which will enable you to use LINQ operators and the new Observable APIs for all events exposed on all public types for the given assembly.
 

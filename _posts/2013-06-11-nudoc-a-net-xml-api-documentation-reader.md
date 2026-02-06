@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - NuDoc: A .NET XML API Documentation Reader"
+title: "NuDoc: A .NET XML API Documentation Reader"
 date: 2013-06-11 00:00:00 +0000
 ---
-
-## NuDoc: A .NET XML API Documentation Reader
 
 A couple days ago I was toying with the idea of generating a static API documentation site in markdown ready for hosting in GitHub. The idea is to make it part of the project wiki, so that anyone can very easily improve the code documentation, and later on somehow allow project authors/contributors to merge back the edited markdown as XML documentation in the code itself, so that the cycle is closed.
 
@@ -12,11 +10,11 @@ So I set out to spike the idea, and the first thing I encountered was that readi
 
 So, instead of building my XML doc <-> markdown wiki synchronizer, I first had to build a simple XML documentation reading  API. Straight from theNuDoc site:
 
-![:)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_smile.gif)
+![:)](/img/2013-06-11-1.gif)
 
 # NuDoc: A .NET XML API Documentation Reader
 
-![Icon](https://raw.github.com/clariuslabs/NuDoc/master/doc/Icon-32.png)
+![Icon](/img/2013-06-11-1.png)
 
 A standalone API to read .NET XML documentation files and optionally augment it with reflection information.
 
@@ -234,7 +232,7 @@ There are two logically separated hierarchies of visitable elements: the members
 
 The following is the members hierarchy:
 
-![Members hierarchy](https://raw.github.com/clariuslabs/NuDoc/master/doc/NuDoc.Members.png)
+![Members hierarchy](/img/2013-06-11-1.png)
 
 And this is the supported documentation elements hierarchy:
 
@@ -244,6 +242,6 @@ Note that at the visitor level, both hierarchies are treated uniformly, since th
 
 Enjoy! Go get it now fromNuGet
 
-![;)](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_wink.gif)
+![;)](/img/2013-06-11-2.gif)
 
 /kzu

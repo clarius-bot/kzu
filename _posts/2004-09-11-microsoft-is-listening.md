@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Microsoft is listening"
+title: "Microsoft is listening"
 date: 2004-09-11 00:00:00 +0000
 ---
-
-## Microsoft is listening 
 
 You may have heard about the [MSDN Product Feedback Center](http://lab.msdn.microsoft.com/productfeedback/): it's MS's new way of communicating with the community of users of their products, not only to report bugs but to receive suggestions. At first, I wouldn't believe what they said: that most of what you enter in this site goes directly to the appropriate product group **real** bug database. I saw it with my own eyes. Believe it, and take advantage of it.   
   

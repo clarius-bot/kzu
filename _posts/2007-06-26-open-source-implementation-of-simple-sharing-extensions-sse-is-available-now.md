@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Open source implementation of Simple Sharing Extensions (SSE) is available now!"
+title: "Open source implementation of Simple Sharing Extensions (SSE) is available now!"
 date: 2007-06-26 00:00:00 +0000
 ---
-
-## Open source implementation of Simple Sharing Extensions (SSE) is available now! 
 
 SSE is an XML micro-format and corresponding sync algorithm that can be embedded in RSS or Atom feeds to allow for two-way synchronization among peers. More important: the algorithm allows for mesh-style synchronization between nodes, with no concept of a "master" copy. This can be game-changing for data-exchange and app-level data interop. But only the future will tell.
 

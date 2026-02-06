@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to apply build configuration transformations on non-web projects"
+title: "How to apply build configuration transformations on non-web projects"
 date: 2012-06-21 00:00:00 +0000
 ---
-
-##  [How to apply build configuration transformations on non-web projects](<http://blogs.clariusconsulting.net/kzu/how-to-apply-build-configuration-transformations-on-non-web-projects/> "How to apply build configuration transformations on non-web projects")
-
-June 21, 2012 5:44 pm
 
 This is a pretty common request, and the simple [answer is available in SO](<http://stackoverflow.com/questions/3004210/app-config-transformation-for-projects-which-are-not-web-projects-in-visual-stud>): right after the C# targets import, add the following:
     

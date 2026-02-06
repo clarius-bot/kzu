@@ -1,24 +1,22 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - The best browser ever!"
+title: "The best browser ever!"
 date: 2004-06-25 00:00:00 +0000
 ---
-
-## The best browser ever! 
 
 I've been using [FireFox](http://www.mozilla.org/products/firefox/) for a while now. It used to be FireBird when I started, and it's been my default browser ever since. But every new version surprises me, as well the constant availability and improvement of all sorts of [ extensions](http://update.mozilla.org/?application=firefox) to it, as well as a growing number of [ themes](http://update.mozilla.org/themes/?application=firefox) to make it look even better. 
 
 For example, I stumbled across the [ Google Toolbar](http://googlebar.mozdev.org/screenshots.html). It even supports features not available in the [ Google-provided IE toolbar](http://toolbar.google.com/)! Amazing. And I can't live anymore without the extensible search functionality:
 
-![FireFox search box, showing alternative search engines](https://web.archive.org/web/20071016222651im_/http://aspnet2.com/kzu/weblog/firefoxsearch.png)
+![FireFox search box, showing alternative search engines](/img/2004-06-25-1.png)
 
 It has a sleek design, way better than aged IE one: 
 
-![FireFox options dialog, way better than IE](https://web.archive.org/web/20071016222651im_/http://aspnet2.com/kzu/weblog/firefoxoptions.png)
+![FireFox options dialog, way better than IE](/img/2004-06-25-2.png)
 
 And there's an absolutely must-have extension that allows me to open those everytime-less-often pages that can only be browsed with IE: 
 
-![FireFox extension that allows you to view a page in IE](https://web.archive.org/web/20071016222651im_/http://aspnet2.com/kzu/weblog/firefoxviewinie.png)
+![FireFox extension that allows you to view a page in IE](/img/2004-06-25-3.png)
 
 And there's even an [ActiveX wrapper](http://www.iol.ie/~locka/mozilla/control.htm) that hosts the Gecko rendering engine (the one behind FireFox, Mozilla and Netscape) and that implements all the interfaces of the IE WebBrowser control. This means you can get rid of the buggy-non-standard-old jscript-aged IE browser for your embedded browser needs!
 

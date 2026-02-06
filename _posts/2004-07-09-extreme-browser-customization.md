@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Extreme browser customization"
+title: "Extreme browser customization"
 date: 2004-07-09 00:00:00 +0000
 ---
-
-## Extreme browser customization 
 
 I've [already said](http://weblogs.asp.net/cazzu/archive/2004/06/25/166372.aspx) why I believe [FireFox](http://getfirefox.com/) is the best browser ever. Let me show you another amazing feature of this browser. 
 

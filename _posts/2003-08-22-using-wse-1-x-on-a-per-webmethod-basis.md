@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Using WSE (1.x) on a per-WebMethod basis"
+title: "Using WSE (1.x) on a per-WebMethod basis"
 date: 2003-08-22 00:00:00 +0000
 ---
-
-## Using WSE (1.x) on a per-WebMethod basis 
 
 WSE is great for several things, but as stated in [Programming with WSE 1.0](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwebsrv/html/progwse.asp), you have to add the extension in the Web.config. However, this causes ALL exposed WebMethods to require WSE processing, thus, you can't secure some of them and leave others as "plain" ASP.NET WebServices. 
 

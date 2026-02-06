@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Outlook 2007 and RSS Platform do not support authenticated feeds"
+title: "Outlook 2007 and RSS Platform do not support authenticated feeds"
 date: 2006-09-15 00:00:00 +0000
 ---
-
-## Outlook 2007 and RSS Platform do not support authenticated feeds
 
 ## Outlook 2007 and RSS Platform do not support authenticated feeds
 

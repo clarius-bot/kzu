@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - PowerCommands for VS2008"
+title: "PowerCommands for VS2008"
 date: 2008-03-03 00:00:00 +0000
 ---
-
-## PowerCommands for VS2008 
 
 From [Pablo's announcement](http://www.clariusconsulting.net/blogs/pga/archive/2008/03/02/57960.aspx):
 

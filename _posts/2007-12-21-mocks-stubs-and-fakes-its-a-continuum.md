@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Mocks, Stubs and Fakes: it's a continuum"
+title: "Mocks, Stubs and Fakes: it's a continuum"
 date: 2007-12-21 00:00:00 +0000
 ---
-
-## Mocks, Stubs and Fakes: it's a continuum 
 
 Highly recommended reading: [Fowler's article Mocks aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html). 
 

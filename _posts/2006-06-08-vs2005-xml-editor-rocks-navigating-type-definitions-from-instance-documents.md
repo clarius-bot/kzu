@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - VS2005 XML Editor rocks! Navigating type definitions from instance documents!"
+title: "VS2005 XML Editor rocks! Navigating type definitions from instance documents!"
 date: 2006-06-08 00:00:00 +0000
 ---
 
-##  [VS2005 XML Editor rocks! Navigating type definitions from instance documents!](<http://blogs.clariusconsulting.net/kzu/vs2005-xml-editor-rocks-navigating-type-definitions-from-instance-documents/> "VS2005 XML Editor rocks! Navigating type definitions from instance documents!")
-
-June 8, 2006 7:36 pm
 
 Today, I was working on some [GAX](<http://lab.msdn.microsoft.com/teamsystem/workshop/gat/> "Guidance Automation Toolkit homepage")[software factory](<http://practices.gotdotnet.com/mobile> "Mobile Client Software Factory home page") stuff. I just couldn’t remember if a particular element I had at hand in an instance document supported xs:anyAttribute or not in the corresponding schema. So I though “how handy it would be if I could press F12 (Go to Definition) and be taken to the schema for it”. I tried it:
 

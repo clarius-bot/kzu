@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Software Development Productivity"
+title: "Software Development Productivity"
 date: 2010-02-08 00:00:00 +0000
 ---
-
-## Software Development Productivity 
 
 [Scott Bellware](http://blog.scottbellware.com/) has an [interesting series](http://blog.scottbellware.com/2010/02/to-control-and-observe-productive.html) of posts where he discusses how to get back to productive development teams. As usual in his writing (IMO), in a rather verbose way he brings up quite a few good points. Please go ahead and read them. He links from the first entry to the next so you can follow the flow.
 

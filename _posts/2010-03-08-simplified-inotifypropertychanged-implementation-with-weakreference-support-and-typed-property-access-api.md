@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Simplified INotifyPropertyChanged Implementation with WeakReference Support and Typed Property Access API"
+title: "Simplified INotifyPropertyChanged Implementation with WeakReference Support and Typed Property Access API"
 date: 2010-03-08 00:00:00 +0000
 ---
-
-## Simplified INotifyPropertyChanged Implementation with WeakReference Support and Typed Property Access API 
 
 I've grown a bit tired of implementing [INotifyPropertyChanged](http://msdn.microsoft.com/en-us/library/ms229614.aspx). I've tried ways to improve it before (like [this "ViewModel"](http://clarius.codeplex.com/wikipage?title=ViewModel%20Tool&referringTitle=Home) custom tool which even generates strong-typed event accessors). 
 

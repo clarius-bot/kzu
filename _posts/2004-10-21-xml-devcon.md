@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - XML DevCon"
+title: "XML DevCon"
 date: 2004-10-21 00:00:00 +0000
 ---
-
-## XML DevCon
 
 ## XML DevCon
 

@@ -1,0 +1,5 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        ".\\update-images.ps1": true
+    }
+}

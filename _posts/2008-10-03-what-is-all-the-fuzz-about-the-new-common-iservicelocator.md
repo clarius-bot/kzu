@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - What is all the fuzz about the new common IServiceLocator"
+title: "What is all the fuzz about the new common IServiceLocator"
 date: 2008-10-03 00:00:00 +0000
 ---
-
-## What is all the fuzz about the new common IServiceLocator 
 
 There's been [some](http://codebetter.com/blogs/jeremy.miller/archive/2008/08/16/it-s-time-for-ioc-container-detente.aspx) [excitement](http://codebetter.com/blogs/jeremy.miller/archive/2008/08/16/it-s-time-for-ioc-container-detente.aspx) [lately](http://www.tavaresstudios.com/Blog/post/Announcing-The-IServiceLocator-interface.aspx) about the introduction of a [common IServiceLocator](http://www.codeplex.com/CommonServiceLocator) that all major DI containers apparently will provide.
 

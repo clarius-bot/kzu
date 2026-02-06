@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Evolving an API without breaking clients via extension methods, ObsoleteAttribute and EditorBrowsableAttribute: Part II"
+title: "Evolving an API without breaking clients via extension methods, ObsoleteAttribute and EditorBrowsableAttribute: Part II"
 date: 2009-01-11 00:00:00 +0000
 ---
-
-## Evolving an API without breaking clients via extension methods, ObsoleteAttribute and EditorBrowsableAttribute: Part II
 
 ## Evolving an API without breaking clients via extension methods, ObsoleteAttribute and EditorBrowsableAttribute
 

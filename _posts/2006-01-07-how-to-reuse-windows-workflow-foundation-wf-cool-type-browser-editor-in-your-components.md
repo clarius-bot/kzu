@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - How to reuse Windows Workflow Foundation (WF) cool type browser editor in your components"
+title: "How to reuse Windows Workflow Foundation (WF) cool type browser editor in your components"
 date: 2006-01-07 00:00:00 +0000
 ---
 
 ##  [How to reuse Windows Workflow Foundation (WF) cool type browser editor in your components](<http://blogs.clariusconsulting.net/kzu/how-to-reuse-windows-workflow-foundation-wf-cool-type-browser-editor-in-your-components/> "How to reuse Windows Workflow Foundation \(WF\) cool type browser editor in your components")
-
-January 7, 2006 12:14 pm
 
 Windows Workflow Foundation (WF) comes with a very cool `UITypeEditor` that allows selection of a type in the current project or any of its references:
 
@@ -71,7 +69,7 @@ Finally, you apply the filter to your property with another attribute:
     
     **[TypeFilterProvider(typeof(DataContractFilter))]**  [Editor(typeof(TypeBrowser), typeof(UITypeEditor))]   public Type DataContractType 
 
-It took quite some time and reflectoring, but I’m very satisfied with the result ![:D](http://blogs.clariusconsulting.net/kzu/wp-includes/images/smilies/icon_biggrin.gif)   
+It took quite some time and reflectoring, but I’m very satisfied with the result ![:D](/img/2006-01-07-1.gif)   
 Enjoy!
 
 **Update** : download the sample code from [CodeProject](<http://www.codeproject.com/csharp/WFTypeBrowser.asp>).

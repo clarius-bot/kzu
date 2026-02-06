@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Making extension methods amenable to mocking"
+title: "Making extension methods amenable to mocking"
 date: 2009-02-19 00:00:00 +0000
 ---
-
-## Making extension methods amenable to mocking 
 
 The question of how to mock extension methods comes up frequently enough that I though I might give my opinion and solution to it (which does NOT include using [TypeMock](http://www.typemock.com/) ;)).
 

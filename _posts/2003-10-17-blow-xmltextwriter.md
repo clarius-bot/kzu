@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Blow XmlTextWriter"
+title: "Blow XmlTextWriter"
 date: 2003-10-17 00:00:00 +0000
 ---
-
-## Blow XmlTextWriter 
 
 Mmm... the following code causes a `System.NullReferenceException`: 
 

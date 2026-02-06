@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - High-performing virtual machines with Diskeeper"
+title: "High-performing virtual machines with Diskeeper"
 date: 2007-11-30 00:00:00 +0000
 ---
-
-## High-performing virtual machines with Diskeeper 
 
 One of the first things (if not THE first thing) I install on virtual machines (as well as the host) is Diskeeper. It really makes a noticeable difference on the performance of the VM, especially when compared to other VMs you use for quite some time without defrag'ing. VMs stress the hard drive a lot, so keeping it in good shape is a must for well performing VMs. 
 

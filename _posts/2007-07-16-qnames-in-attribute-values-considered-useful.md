@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - QNames in attribute values considered useful"
+title: "QNames in attribute values considered useful"
 date: 2007-07-16 00:00:00 +0000
 ---
-
-## QNames in attribute values considered useful 
 
 Quite some time ago (around XML raise as a universal data format), the W3C seemed to be in doubt of the value of QNames (prefix + local name) in attribute values. 
 

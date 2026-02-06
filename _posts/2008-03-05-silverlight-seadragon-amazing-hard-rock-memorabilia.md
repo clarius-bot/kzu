@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Silverlight + Seadragon = amazing Hard Rock memorabilia"
+title: "Silverlight + Seadragon = amazing Hard Rock memorabilia"
 date: 2008-03-05 00:00:00 +0000
 ---
-
-## Silverlight + Seadragon = amazing Hard Rock memorabilia 
 
 Just go and see it at the [Memorabilia Hard Rock](http://memorabilia.hardrock.com/) site.
 

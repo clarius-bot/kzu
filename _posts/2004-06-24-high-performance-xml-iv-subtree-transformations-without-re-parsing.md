@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - High-performance XML (IV): subtree transformations without re-parsing"
+title: "High-performance XML (IV): subtree transformations without re-parsing"
 date: 2004-06-24 00:00:00 +0000
 ---
-
-## High-performance XML (IV): subtree transformations without re-parsing 
 
 In a [previous post](http://weblogs.asp.net/cazzu/archive/2004/05/10/129101.aspx) I showed how to load and transform subsets of a document with the [XPathNavigatorReader](http://weblogs.asp.net/cazzu/archive/2004/04/19/115966.aspx). In the example I used, which follows the [MSDN documentation](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconXslTransformClassImplementsXSLTProcessor.asp?frame=true&hidetoc=true) one (under the section "Transforming a Section of an XML Document"), XML parsing is happening once, but in-memory document building is happening for each subtree being transformed, effectively loading those fragments in memory twice. The relevant piece of code is: 
 

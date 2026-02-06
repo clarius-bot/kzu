@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Live Mesh FeedSync: an overview of the protocol under the hood"
+title: "Live Mesh FeedSync: an overview of the protocol under the hood"
 date: 2008-04-29 00:00:00 +0000
 ---
-
-## Live Mesh FeedSync: an overview of the protocol under the hood 
 
 I already mentioned why I think Live Mesh is cool and that I think the most important part of it, [FeedSync](http://feedsync.org/), is being largely ignored by reviewers. Fortunately, there's an extensive interview with the team that goes quite deep in FeedSync and how it works. Go watch it, it's good info.
 

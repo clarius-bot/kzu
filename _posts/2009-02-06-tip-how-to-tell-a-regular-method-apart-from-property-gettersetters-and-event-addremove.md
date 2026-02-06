@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Tip: how to tell a regular method apart from property getter/setters and event add/remove"
+title: "Tip: how to tell a regular method apart from property getter/setters and event add/remove"
 date: 2009-02-06 00:00:00 +0000
 ---
-
-## Tip: how to tell a regular method apart from property getter/setters and event add/remove 
 
 Rather than typical code like:
     

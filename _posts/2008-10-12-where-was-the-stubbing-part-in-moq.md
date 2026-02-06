@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Where was the stubbing part in Moq?"
+title: "Where was the stubbing part in Moq?"
 date: 2008-10-12 00:00:00 +0000
 ---
-
-## Where was the stubbing part in Moq? 
 
 In my [very recent previous post](http://www.clariusconsulting.net/blogs/kzu/archive/2008/10/12/102921.aspx) I said "mocking and stubbing easier than ever", but actually forgot to mention the stubbing part :S.
 

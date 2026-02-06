@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Daniel Cazzulino's Blog - Complex traces you can actually understand by leveraging Activity Tracing"
+title: "Complex traces you can actually understand by leveraging Activity Tracing"
 date: 2014-01-14 00:00:00 +0000
 ---
 
-##  [Complex traces you can actually understand by leveraging Activity Tracing](<http://blogs.clariusconsulting.net/kzu/complex-traces-you-can-actually-understand-by-leveraging-activity-tracing/> "Complex traces you can actually understand by leveraging Activity Tracing")
-
-January 14, 2014 1:09 pm
 
 Activity tracing is part of a feature that was initially introduced with WCF, named [End-to-End Tracing](<http://msdn.microsoft.com/en-us/library/aa738749\(v=vs.110\).aspx>). Its underlying implementation, however, is baked into the [XmlWriterTraceListener](<http://msdn.microsoft.com/en-us/library/system.diagnostics.xmlwritertracelistener\(v=vs.110\).aspx>) and does not depend on WCF in any way. Currently it’s only supported in the [SystemDiagnostics](<https://www.nuget.org/packages/tracer.systemdiagnostics>) implementation.
 
@@ -18,7 +15,7 @@ The activities are identified by an arbitrary guid, which is placed in the [ambi
 
 With the right traces and payloads in place, you can get some pretty amazing diagnostics going, with call graphs and all, as shown on [MSDN](<http://msdn.microsoft.com/en-us/library/aa751795\(v=vs.110\).aspx>). The following graph shows what a very complex set of traces could look like, involving several threads, an intermediate warning and an ultimate error that caused a build to fail on some remote build server:
 
-[![Trace Viewer](https://github.com/clariuslabs/tracer/wiki/media/trace-viewer-build.png)](<https://github.com/clariuslabs/tracer/wiki/media/trace-viewer-build.png>)
+[![Trace Viewer](/img/2014-01-14-1.png)](<https://github.com/clariuslabs/tracer/wiki/media/trace-viewer-build.png>)
 
 This can be achieved rather easily using the Microsoft Service Trace Viewer, since it’s able to open multiple logs simultaneously and correlate activities automatically. There’s built-in searching and filtering too, and you can also see on the right side what was the trace source for each message, as well as extended information about the computer, thread, exception or even full stack traces.
 
