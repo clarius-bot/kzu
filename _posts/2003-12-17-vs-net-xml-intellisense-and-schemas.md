@@ -12,12 +12,9 @@ As most people know, in order to get intellisense for an "xmlnamespaced" documen
 
 Well, if you use Windows XP and NTFS volumes, there's a cool workaround, which involves creating a [ "hard link"](http://www.microsoft.com/technet/treeview/default.asp?url=/TechNet/prodtechnol/winxppro/reskit/prkc_fil_baey.asp) inside the VS folder to the real file location. This way the file is not duplicated, but VS still finds it and keeps in sync with the real file location. It's easy to achieve: go to the VS folder aforementioned, and use the following command:
 
-`
-    
-    
+```
     fsutil hardlink create {new filename} {existing filename}
-
-`
+```
 
 Enjoy! 
 

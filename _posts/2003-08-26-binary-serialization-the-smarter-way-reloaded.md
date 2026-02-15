@@ -10,9 +10,7 @@ tags:
 
 [VGA](http://weblogs.asp.net/vga/posts/25121.aspx) posted about a way to improve the binary serialization, by using a compact format. We work together, and I was surprised he didn't post some code for all the code-hungry guys, so here it is: 
 
-`
-    
-    
+```
     public sealed class BinaryHelper
     {
     	private enum TypeID : byte
@@ -94,8 +92,7 @@ tags:
     		}
     	}
     }
-
-`
+```
 
 Note that for arbitrary object serialization, the class relies in built-in `BinaryFormatter`, which makes it an improvement of if but not a replacement. The types specified in the TypeID enumeration will be highly optimized, and could even expand on the future if you find better ways of serializing other types.  
 You can figure out the missing parts. It's pretty clear in the IL code (maybe Reflector can help more). What's important is that whether or not you saw System.Web AltSerialization class, this approach is so logic and common that I doubt many more developers haven't arrived to very similar code before (at least I did, even before .NET existed). 

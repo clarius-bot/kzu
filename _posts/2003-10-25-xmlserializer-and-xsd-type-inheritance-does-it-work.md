@@ -13,9 +13,7 @@ That said, one of the most versatile and performat ways to handle XML in .NET (f
 
 + For the curious, here's such a schema (a trivial one here of couse). 
 
-`
-    
-    
+```
     <?xml version="1.0" encoding="utf-8" ?>
     <xs:schema id="Customers" 
       targetNamespace="http://www.lagash.com/schemas/customers" 
@@ -33,16 +31,11 @@ That said, one of the most versatile and performat ways to handle XML in .NET (f
       <xs:element name="Customer" type="CustomerDef"></xs:element>
       <xs:element name="CustomerCRM" type="CustomerDef"></xs:element>
     </xs:schema>
-
-`
-
-  
+```
 
 + And here are the different instance documents. 
 
-`
-    
-    
+```
     <?xml version="1.0" encoding="utf-8" ?> 
     <Customer xmlns="http://www.lagash.com/schemas/customers">
       <Name>Daniel Cazzulino</Name>
@@ -60,15 +53,12 @@ That said, one of the most versatile and performat ways to handle XML in .NET (f
       <Name>Daniel Cazzulino</Name>
       <EMail>customer@example.com</EMail>
     </CustomerCRM>
-
-`
+```
 
 However, only one of the three versions will work, the one with the element "customer". The other versions, which are equally valid according to the schema, and which are of the desired type `CustomerDef` will fail with an exception saying the element was not expected. As I explained while [discussing `XmlSerializer` speed](http://weblogs.asp.net/cazzu/posts/32822.aspx), it creates a temporary assembly for reading and writing the serialized version of a type. We're interested in the reader now.   
 When the XSD shown above is used to generate the XmlSerializable class, we get a class definition like the following: 
 
-`
-    
-    
+```
     /// <remarks/>
     [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.lagash.com/schemas/customers")]
     [System.Xml.Serialization.XmlRootAttribute("customer", Namespace="http://www.lagash.com/schemas/customers", IsNullable=false)]
@@ -80,16 +70,13 @@ When the XSD shown above is used to generate the XmlSerializable class, we get a
       /// <remarks/>
       public string EMail;
     }
-
-`
+```
 
 From the definition above, the `XmlSerializer` will create the temporary reader. The reader will contain a set of `Read` methods according to those serialization attributes. Using the technique explained in the [aforemetioned post](http://weblogs.asp.net/cazzu/posts/32822.aspx), I got the temporary generated class. The reader contains a `Read4_customer` method which is the one that tries to load the XML. The problem is that this method uses a stored string (taken from the serialization attributes) and performs an element name/namespace string comparison. Therefore, it will always fail with the other two valid root elements. 
 
 I found a very interesting thing though, while digging inside the generated reader. It has a method with the signature `CustomerDef Read1_CustomerDef(bool isNullable, bool checkType)` which is perfectly capable of loading the object. However, getting this far was very difficult. First, I had to add this temporary class to my project and make that method public, as it's private by default, and second, there's no "public" way of initializing this reader. You have to call an internal `Init` method on the base `XmlSerializationReader` class. Thanks GOD we still have reflection to test these things! 
 
-`
-    
-    
+```
     MethodInfo m = typeof(XmlSerializationReader).GetMethod(
       "Init", BindingFlags.Instance | BindingFlags.NonPublic);
     
@@ -109,14 +96,11 @@ I found a very interesting thing though, while digging inside the generated read
       object cust = cr.Read1_CustomerDef( false, false );
       Console.WriteLine(cust);
     }
-
-`
+```
 
 That method will sucessfully load any of the three versions for the root element, either if they have the `xsi:type` attribute set, in which case the `Read1_CustomerDef` could use a `true` for the second parameter (checkType), or not. Another method that is generated and could work is `Read2_Object`, if it receives `checkType=true` and the instance document uses `xsi:type` to specify that it's a `CustomerDef` instance (which is not always possible if you're receiving the document from a third party). Unfortunately, like I said above, the code that calls `Read1_CustomerDef`, and which is the one called by the serializer to load the XML, only checks for names:
 
-`
-    
-    
+```
     public object Read4_customer() {
         object o = null;
         Reader.MoveToContent();
@@ -134,17 +118,14 @@ That method will sucessfully load any of the three versions for the root element
         }
         return (object)o;
     }
-
-`
+```
 
 Note the very efficient use of string reference comparison, by casting them to `Object`.
 
 One way to solve this would be if the `XmlRootAttribute` could be specified multiple times, so that the generated code checks for multiple names.   
 The other, more XSD-compliant and certainly more flexible as it wouldn't require regeneration of the serializable class (CustomerDef in this case) to reflect new element names, would be to check if the current `Reader` is actually an `XmlValidatingReader` and read the customer if the type matches. The previous code can be modified as follows to make this work: 
 
-`
-    
-    
+```
     public object Read4_customer() {
       object o = null;
       Reader.MoveToContent();
@@ -178,8 +159,7 @@ The other, more XSD-compliant and certainly more flexible as it wouldn't require
       return (object)o;
     }
     
-
-`
+```
 
 Of course this would require a validating reader with the appropriate schema loaded, by why would you create an XSD otherwise? Would you loose all those powerful validation capabilities and instead use it only to save you some lines of class definition code and Xml serialization attributes? If you do, I urge you to think twice, you're really missing something that can greatly improve your code (no more validation of ranges, patterns, etc.).
 
@@ -189,9 +169,7 @@ In a future post, maybe here, maybe on MSDN online, I will explain how to take a
 
 + For the curious, the complete XmlSerializer-generated file for the schema. 
 
-`
-    
-    
+```
     [assembly:System.Security.AllowPartiallyTrustedCallers()]
     namespace Microsoft.Xml.Serialization.GeneratedAssembly {
     
@@ -374,7 +352,6 @@ In a future post, maybe here, maybe on MSDN online, I will explain how to take a
         }
       }
     }
-
-`
+```
 
 /kzu

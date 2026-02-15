@@ -44,9 +44,7 @@ The performance impact of this approach in negligible because the class is basic
 
 As Oleg noted pointed in a comment (and motivated a slight editing in this post), as well as [showed in his weblog](http://www.tkachenko.com/blog/archives/000053.html), you can do this with the aforementioned special `XmlTextReader` constructor overload, passing an `XmlParsingContext`. This is more cumbersome, in my opinion, and still leaves you with the problem of not having a valid XML document.
 
-+ As usual, if you just want the full class code to copy-paste on your project, here it is. I strongly encourage you to take a look at the Mvp.Xml project, as there're other really cool goodies there! `
-    
-    
++ As usual, if you just want the full class code to copy-paste on your project, here it is. I strongly encourage you to take a look at the Mvp.Xml project, as there're other really cool goodies there! ```
     #region using  
       
     using System;  
@@ -236,8 +234,7 @@ As Oleg noted pointed in a comment (and motivated a slight editing in this post)
      #endregion Read method   
      }  
     }
-
-`
+```
 
 The full [Mvp.Xml project](http://sf.net/projects/mvp-xml) source code can be downloaded from [SourceForge](http://sourceforge.net/project/showfiles.php?group_id=102352&package_id=112234).
 

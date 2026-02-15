@@ -12,9 +12,7 @@ WSE is great for several things, but as stated in [Programming with WSE 1.0](htt
 
 The solution is to use the other type of web service extension available on ASP.NET, an `SoapExtensionAttribute`-inherited class that can be applied to each desired attribute. The code for such an attribute class, allowing you to use WSE only on specific methods, follows:
 
-`
-    
-    
+```
     [AttributeUsage(AttributeTargets.Method, AllowMultiple=false)]
     public class WseExtensionAttribute : SoapExtensionAttribute
     {
@@ -30,14 +28,11 @@ The solution is to use the other type of web service extension available on ASP.
     	} int _priority = 0;
     }
     
-
-`
+```
 
 Now you can use the attribute only on the methods that require WSE processing:
 
-`
-    
-    
+```
     [WebMethod]
     [WseExtension]
     public void WseSecuredMethod()
@@ -49,8 +44,7 @@ Now you can use the attribute only on the methods that require WSE processing:
     {
     }
     
-
-`
+```
 
 By looking at the [WSE 2.0 Technical Preview](http://microsoft.com/downloads/details.aspx?FamilyId=21FB9B9A-C5F6-4C95-87B7-FC7AB49B3EDD&displaylang=en) "code", I can say this still holds true, so you will need this code anyway (except if they happen to add it!).
 

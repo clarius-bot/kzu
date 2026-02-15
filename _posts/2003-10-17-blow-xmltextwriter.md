@@ -10,9 +10,7 @@ tags:
 
 Mmm... the following code causes a `System.NullReferenceException`: 
 
-`
-    
-    
+```
     using (FileStream fs = new FileStream(@"e:\xmltextwriter.xml", FileMode.Create))
     {
       XmlTextWriter tw = new XmlTextWriter(fs, System.Text.Encoding.UTF8);
@@ -23,8 +21,7 @@ Mmm... the following code causes a `System.NullReferenceException`:
       tw.WriteStartDocument();
       tw.Flush();
     }
-
-`
+```
 
 The exception is thrown at the `WriteStartDocument()` call. Of course the document being written is not valid according to the [Prolog and DTD Declaration](http://www.w3.org/TR/REC-xml#sec-prolog-dtd) specification in XML, but we should get a meaningful exception, right? 
 

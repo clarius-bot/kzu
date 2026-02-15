@@ -16,14 +16,11 @@ For the curious, I was trying to print [Keith Pijanowski](http://msdn.microsoft.
 
 _Updated:_ What's more, if you want to get rid of the floating panel and the bottom voting panel, just [use Firebird EditCSS extension](http://weblogs.asp.net/cazzu/archive/2004/01/08/48613.aspx) as I explained, and just add the following styles to the bottom of it: 
 
-`
-    
-    
+```
     .MNPPart { display: none; }
     #frmRatings { display: none; }
     #msviFooter { display: none; }
-
-`
+```
 
 Enjoy. 
 

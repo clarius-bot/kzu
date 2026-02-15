@@ -10,21 +10,16 @@ tags:
 
 It's common coding convention to add a space surrounding method parameters. However, it can be quite annoying to keep remembering it. Examples of such convention are: 
 
-`
-    
-    
+```
     Console.WriteLine( "\nFinished" );
     int var = Int32.Parse( Console.Read() );
     DoSomething( Int32.Parse( Console.Read() ), 
     	DoSomethingElse( var ) );
-
-`
+```
 
 As you can see, it gets more and more annoying when you have nested method calls, as closing each requires placing a space between parenthesis too. You can easily add such formatting to a whole solution by executing this simple macro:
 
-`
-    
-    
+```
     Sub FormatParenthesis()
         Dim result As vsFindResult
     
@@ -55,7 +50,6 @@ As you can see, it gets more and more annoying when you have nested method calls
         DTE.Windows.Item(Constants.vsWindowKindFindReplace).Close()
     
     End Sub
-
-`
+```
 
 /kzu

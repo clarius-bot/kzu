@@ -13,9 +13,7 @@ Often, binary resources such as employee pictures, office documents in a documen
 My advice is to always use a custom `IHttpHandler` that serves these binary resources. Of course this is not a new idea, I'm just putting it here so I can refer to the countless persons that asked me.   
 You have to map a path to your handler in the `Web.config` file, and to avoid having to modify the IIS extensions mapping, you should use one of the built-in extensions that are already mapped to ASP.NET at installation time: .ashx or .axd. It's always better to use an specific "file name" for your handler, to avoid interfering with the ASP.NET built-in handlers. Such a handler should be configured in the `Web.config` as follows: 
 
-`
-    
-    
+```
     <configuration>
       <system.web>
         ...
@@ -23,28 +21,22 @@ You have to map a path to your handler in the `Web.config` file, and to avoid ha
           <add verb="GET" path="getresource.axd" type="NMatrix.Web.BinaryResourceHandler, NMatrix.Core" />
         </httpHandlers>
     
-
-`
+```
 
 From now on, each request sent to the "file" getresource.axd will be passed to our handler. The ".ashx" extension could have been used too: it's already mapped in IIS to the ASP.NET ISAPI filter, it doesn't affect the normal ASP.NET execution, and it was conceived as the natural extension to use by so-called "web handlers" (see [other articles](http://www.google.com/search?q=%22%40+webhandler%22+asp.net+IHttpHandler)). However, that extension is usually applied to files that look like .aspx with inline server-side code with an @ webhandler directive. That's why I prefer the "axd" extension. We map only the `GET` verb as it's the only one we will need to retrieve resources. This could easily be extended by allowing the `POST` verb meaning a new resource should be stored. I'll leave that as homework for the reader. Mostly, uploading resources is a more complex process that involves authorization at least, maybe even a full document management system. 
 
 The handler will need two parameters: the resource ID and the connection string to the repository. The first one will be provided by the calling client, as a query string value. The later is stored in the `Web.config` for simplicity: 
 
-`
-    
-    
+```
     <configuration>
       <appSettings>
       <add key="connection" value="Data Source=.\NetSdk;Initial Catalog=Resources;User Id=sa;Pwd=;" />
       </appSettings>
-
-`
+```
 
 To make the storage flexible, the table storing the resources will also contain a ContentType to allow the storage of arbitrary types. Now the handler code: 
 
-`
-    
-    
+```
     using System;
     using System.Configuration;
     using System.Data;
@@ -114,15 +106,12 @@ To make the storage flexible, the table storing the resources will also contain 
         #endregion IHttpHandler Members
       }
     }
-
-`
+```
 
 The code is straightforward. The only tip is that by using `CommandBehavior.SequentialAccess`, the SqlDataReader can read the binary data in chunks, avoiding to load it completely in-memory (thanks Pablo Castro!).   
 A client application performing uploads could simply have a file upload HTML control (with `runat="server"` to allow our code to access the `Request.Files` collection) and with the following code could simply save arbitrary files to the database: 
 
-`
-    
-    
+```
     private void btnUpload_ServerClick(object sender, System.EventArgs e)
     {
       using (SqlConnection cn = new SqlConnection(ConfigurationSettings.AppSettings[
@@ -141,18 +130,14 @@ A client application performing uploads could simply have a file upload HTML con
       }         
     }
     
-
-`
+```
 
 The `ContentType` field has a purpose: if someone specifies `application/msword` or `application/msexcel` (or any other content type understood and handled specially by the browser), IE will automatically instantiate the appropriate Office application inside the browser window to open the incoming "file" (stream, more properly).  
 To refer to a resource of type `image/jpg` from an `<img>` HTML tag, we could use: 
 
-`
-    
-    
+```
     <img alt="Dynamically served image" src="getresource.axd?id=3">
-
-`
+```
 
 To directly open a Word document from the server, we could simply point IE to the same handler passing its id.
 

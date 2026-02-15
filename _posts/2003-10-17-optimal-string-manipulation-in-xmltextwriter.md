@@ -11,21 +11,15 @@ tags:
 Lately I've been digging inside the `XmlTextWriter` class. I'm working on an alternate implementation to the traditional state machine based on arrays, one based on a mix of hierarchical state machines and DOM-like events propagation, for an XmlWriter-inherited class.   
 During this investigation, I found several places where string manipulation is not optimal in aforementioned class. Specifically, even if it uses the `StringBuilder` class, it mixes calls to it with `String.Concat`, which is completely useless. Look at the following example taken from the `StartDocument` method (called by `WriteStartDocument`): 
 
-`
-    
-    
+```
     builder1.Append(string.Concat(" encoding=", this.quoteChar));
-
-`
+```
 
 This is functionally equivalent to:
 
-`
-    
-    
+```
     builder1.Append(" encoding=").Append(this.quoteChar);
-
-`
+```
 
 So, why are the strings concatenated? Even temporary arrays of strings are built only to be concatenated and passed to the `Append` method later. Do these guys now something about string handling we don't or is this just a bit more inefficient code?
 
