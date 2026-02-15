@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Funq Part VIII: adding support for initializer functions"
+title: 'Funq Part VIII: adding support for initializer functions'
 date: 2009-02-02 00:00:00 +0000
+tags:
+- .NET
+- All Technology
+- msbuild
+- XML
+- Miscelaneous
 ---
-
 Now available at [Funq Part VIII- building a fast DI container with TDD](<http://www.viddler.com/explore/dcazzulino/videos/9/> "Funq Part VIII- building a fast DI container with TDD")
 
 Enjoy!

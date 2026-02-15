@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Retrieving available types in current project and its references (without locking)"
+title: Retrieving available types in current project and its references (without locking)
 date: 2006-01-06 00:00:00 +0000
+tags:
+- ef
+- .NET
+- All Technology
+- patterns
+- XML
 ---
-
 ##  [Retrieving available types in current project and its references (without locking)](<http://blogs.clariusconsulting.net/kzu/retrieving-available-types-in-current-project-and-its-references-withoult-locking/> "Retrieving available types in current project and its references \(without locking\)")
 
 

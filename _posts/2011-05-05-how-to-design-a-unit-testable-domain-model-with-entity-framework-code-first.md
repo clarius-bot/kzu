@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "How to mock extension methods"
+title: How to mock extension methods
 date: 2011-05-05 00:00:00 +0000
+tags:
+- ef
+- Moq
+- moq
+- .NET
+- patterns
 ---
-
 . without paying for a TypeMock Isolator license to do it
 
 ![;-)](/img/2011-05-05-1.gif)

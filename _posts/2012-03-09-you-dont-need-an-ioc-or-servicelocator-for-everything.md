@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "You don’t need an IoC container or ServiceLocator for everything"
+title: You don’t need an IoC container or ServiceLocator for everything
 date: 2012-03-09 00:00:00 +0000
+tags:
+- ef
+- .NET
+- mvc
+- ASP.NET
+- wcf
 ---
-
 Say you have a class that needs to collaborate with another, say a repository:
     
     

@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "How to hide System.Object members from your interfaces: the IFluentInterface"
+title: 'How to hide System.Object members from your interfaces: the IFluentInterface'
 date: 2008-03-10 00:00:00 +0000
+tags:
+- ef
+- Moq
+- moq
+- .NET
+- nuget
 ---
-
 Sometimes, [System.Object](<http://msdn2.microsoft.com/en-us/library/system.object.aspx>) methods ([Equals](<http://msdn2.microsoft.com/en-us/library/system.object.equals.aspx>), [GetHashCode](<http://msdn2.microsoft.com/en-us/library/system.object.gethashcode.aspx>), [GetType](<http://msdn2.microsoft.com/en-us/library/system.object.gettype.aspx>) and [ToString](<http://msdn2.microsoft.com/en-us/library/system.object.tostring.aspx>)) only contribute clutter to VS intellisense. Everyone knows those members are always there, yet they are seldom used explicitly. This is especially important (and annoying) for fluent APIs that define the flow of invocations in terms of interfaces and usually have few members at each "step" of the statement.
 
 For example, in the following [Moq](<http://code.google.com/p/moq/> "A Moq framework powered by C# 3.5 and lambda expressions") expectation, at the particular step in the statement, there is only one "real" invocation that makes sense (Verifiable). However, it is obscured by the [System.Object](<http://msdn2.microsoft.com/en-us/library/system.object.aspx>) members:

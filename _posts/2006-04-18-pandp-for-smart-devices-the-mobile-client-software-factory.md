@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "p&p for smart devices: the Mobile Client Software Factory"
+title: 'p&p for smart devices: the Mobile Client Software Factory'
 date: 2006-04-18 00:00:00 +0000
+tags:
+- .NET
+- All Technology
+- patterns
+- XML
+- Miscelaneous
 ---
-
 ## p&p for smart devices: the Mobile Client Software Factory
 
 Asannouced a while back,patterns & practicesis coming with guidance and tooling on how to best author applications for mobile devices (Pocket PCs), initially targetting theWindows Mobile 5.0.

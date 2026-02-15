@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Documenting user interfaces in a mouse-less touch UI"
+title: Documenting user interfaces in a mouse-less touch UI
 date: 2012-11-25 00:00:00 +0000
+tags:
+- .NET
+- All Technology
+- ef
+- XML
+- Miscelaneous
 ---
-
-
 “Old” apps rely on mouse pointing and tooltips to explain what a given button is for. Maybe there is text associated with the button, but you can only put so much text without wasting useful screen state. More so in a phone or tablet app.
 
 I’ve seen a trend in Google apps where they put an overlay on top of the app the first time it runs, to explain how the various pieces of UI work. I have seen this also on my Nexus phone, but don’t have a screenshot. I don’t recall a way to actually bring that help overlay back again, so that’s maybe some built-in gesture that’s missing. Here’s what it looks like in Gmail, the first time you use the new compose layout:

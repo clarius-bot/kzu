@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Argentina: Fibertel, ilegalidad, discrecionalidad y arbitrariedad"
+title: 'Argentina: Fibertel, ilegalidad, discrecionalidad y arbitrariedad'
 date: 2010-08-23 00:00:00 +0000
+tags:
+- CAB
+- ef
+- .NET
+- GAT
+- All Technology
 ---
-
 [to my English-only dear readers, this is going to be just Spanish, for my compatriots. I hope you don't mind :)] 
 
 Soy Abogado, al fin y al cabo. Y uno (el único?) realmente invicto: gane el 100% de mi/s juicio/s (fue UNO, pero muy importante para mi familia ;)). Y me pincharon donde más me duele: "investiga un poco primero antes de hablar". 

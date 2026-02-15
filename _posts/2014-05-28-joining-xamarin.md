@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Joining Xamarin"
+title: Joining Xamarin
 date: 2014-05-28 00:00:00 +0000
+tags:
+- .NET
+- ef
+- programming
+- XML
+- patterns
 ---
-
 ![](/img/2014-05-28-1.png)[Cross-posted from [my new blog](<http://www.cazzulino.com/hello-xamarin.html> "kzu's new blog")]
 
 Back in 2001 I was making as much money as you could, programming in a language that I had grown to hate: Visual Basic 6.

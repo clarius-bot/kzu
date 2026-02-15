@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "How to talk to your baby before she can talk to you"
+title: How to talk to your baby before she can talk to you
 date: 2007-06-27 00:00:00 +0000
+tags:
+- ef
+- .NET
+- All Technology
+- Books
+- XML
 ---
-
 About half a year ago, [Scott Hanselman](http://www.hanselman.com/blog) got me into [baby signing](http://www.google.com/search?hl=en&q=baby%20sign%20language). He was so enthusiastic about it that he succeeded in infusing the same excitement in me. I have a 15 months-old daughter Aylen (and a 3 year-old one too, Agustina), which was about 11 months back then. Make sure you read his [initial post on baby signing](http://www.hanselman.com/blog/BabySignLanguage.aspx) as well as his update when his son Zenzo was 14 months old.
 
 Just after a couple weeks signing 3 words to her (duck, drink and milk), she signed the duck! I was blown away by how fast she started with the first one, but it took another month for her to start picking up more and more signs. When she was exactly one year old (about a month after we started), I got a couple of [books](http://www.amazon.com/gp/product/1401906397/105-6189843-6703660) which tought me more techniques and approaches to signing to make it more effective. Three months later, she's able to sign: duck, drink, milk, cookie/cracker, eat, more, baby, take a bath, need heulp, hot, dog, cat, monkey, flower, shoes, hat, pain, water, sleep, silence (and clip, which Agustina uses at the kindergarten to also mean silence), dance (this one she made it up and we learned what she meant!). That's 22 words for a 15 months-old baby that can barely say Mom and Agus (her sister's nickname and the first thing she learnt to say :)). And there are many more that she understands but she's not signing yet.

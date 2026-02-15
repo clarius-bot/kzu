@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "WPF NavigationWindow, WinFormsHost and TextBoxes: backspace bug"
+title: 'WPF NavigationWindow, WinFormsHost and TextBoxes: backspace bug'
 date: 2007-11-15 00:00:00 +0000
+tags:
+- GAT
+- WPF
+- .NET
+- All Technology
+- XML
 ---
-
 The WPF NavigationWindow is a very cool way to develop apps that expose a browser-like user experiences: 
 
 [ ![NavigationWindow](/web/20081022075906im_/http://www.clariusconsulting.net/images/blogs/kzu/WPFNavigationWindowWinFormsHostandTextBo_13FBF/NavigationWindow_thumb.png) ](http://www.clariusconsulting.net/images/blogs/kzu/WPFNavigationWindowWinFormsHostandTextBo_13FBF/NavigationWindow.png)

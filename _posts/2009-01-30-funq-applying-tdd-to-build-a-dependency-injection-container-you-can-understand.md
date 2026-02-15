@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Funq: applying TDD to build a dependency injection container you can understand"
+title: 'Funq: applying TDD to build a dependency injection container you can understand'
 date: 2009-01-30 00:00:00 +0000
+tags:
+- .NET
+- msbuild
+- patterns
+- CAB
+- ef
 ---
-
 I'm planning to record a series of screencasts which will serve as walk-throughs on how to apply TDD on a practical project consisting in building a full-featured and high-performance DI container which has two very explicit goal: minimalistic design and small footprint.
 
 Both goals come from the requirements of the project I'm building this for: the upcoming version of the [patterns & practices](msdn.microsoft.com/practices) [Mobile Client Software Factory](http://www.codeplex.com/mobile). As I've tweeted in the past, the Compact Framework and constrained execution environment of a mobile device, place some requirements on anything you do there, but specially for something which can have a broad impact in performance as a DI container, which typically replaces most object lifecycle management throughout the codebase.

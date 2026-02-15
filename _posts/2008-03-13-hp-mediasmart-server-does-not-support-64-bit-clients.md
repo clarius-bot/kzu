@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "HP MediaSmart Server does NOT support 64 bit clients"
+title: HP MediaSmart Server does NOT support 64 bit clients
 date: 2008-03-13 00:00:00 +0000
+tags:
+- .NET
+- All Technology
+- XML
+- Miscelaneous
+- Patterns amp; Practices
 ---
-
 Seriously, WWWWW TTTTT FFFFFF ?!?!?!?!
 
 From [http://h10025.www1.hp.com/ewfrf/wc/document?docname=c01212412&lc=en&cc=us&dlc=en&product=3548164&lang=en](http://h10025.www1.hp.com/ewfrf/wc/document?docname=c01212412&lc=en&cc=us&dlc=en&product=3548164&lang=en "http://h10025.www1.hp.com/ewfrf/wc/document?docname=c01212412&lc=en&cc=us&dlc=en&product=3548164&lang=en"):

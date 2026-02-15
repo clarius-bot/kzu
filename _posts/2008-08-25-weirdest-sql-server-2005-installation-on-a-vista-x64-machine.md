@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Weirdest SQL Server 2005 installation on a Vista x64 machine"
+title: Weirdest SQL Server 2005 installation on a Vista x64 machine
 date: 2008-08-25 00:00:00 +0000
+tags:
+- .NET
+- All Technology
+- XML
+- Miscelaneous
+- Patterns amp; Practices
 ---
-
 While attempting to install SQL Server x64 I got a number of errors, so I ended up uninstalling all components I could find in the control panel, and reinstalling x32. 
 
 Now it was time for SP2, I ended having to download BOTH x64 and x32 versions as half my components are in each platform :S. Miraculously enough, it works just fine.

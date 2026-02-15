@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Tracer: the unified, dead-simple API for all logging frameworks in existence"
+title: 'Tracer: the unified, dead-simple API for all logging frameworks in existence'
 date: 2012-08-08 00:00:00 +0000
+tags:
+- nuget
+- ef
+- .NET
+- All Technology
+- GAT
 ---
-
-
 We all need some kind of tracing or logging in our apps. We’d also like third party components to provide useful logging too. And if it integrates with whatever logging framework we happen to use, even better!
 
 There’s a challenge though: we’d all have to agree on using a certain logging framework up-front. Or we could all agree on a common API (much like [Common Service Locator](<https://bit.ly/MrebVE>) did for picking DI containers) and provide specific adapters. The former is impossible, so it’s got to be the latter ![:\)](/img/2012-08-08-1.gif)

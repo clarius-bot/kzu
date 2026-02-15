@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Forget about extending WPF data binding support"
+title: Forget about extending WPF data binding support
 date: 2007-09-23 00:00:00 +0000
+tags:
+- WPF
+- .NET
+- ef
+- extensibility
+- All Technology
 ---
-
 Databinding in WPF is implemented in the [Binding](http://msdn2.microsoft.com/en-us/library/system.windows.data.binding) class, which in principle looks like just a [MarkupExtension](http://msdn2.microsoft.com/en-us/library/ms747254.aspx). A MarkupExtension is a core piece of XAML markup "magic". It's rather simple, though:
     
     

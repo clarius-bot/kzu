@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "A general purpose event bus leveraging Reactive Extensions"
+title: A general purpose event bus leveraging Reactive Extensions
 date: 2012-01-02 00:00:00 +0000
+tags:
+- ef
+- nuget
+- .NET
+- All Technology
+- patterns
 ---
-
 I talked before on the usefulness of having [rich events published throughout your domain](<https://bit.ly/srVn3P>). In that blog post, I also showed a very simple implementation.
 
 I realized that there seems to be [quite](<http://code.google.com/p/simpleeventbus/>) [some](<http://stackoverflow.com/questions/368265/a-simple-eventbus-for-net>) [interest](<http://docs.guava-libraries.googlecode.com/git-history/v10.0.1/javadoc/com/google/common/eventbus/EventBus.html>) in the event (or message) bus pattern as an application architecture pattern and not necessarily in the usual enterprise integration style. This means that you leverage the concept of an event bus for internal application decoupling (along the lines of an [Event Collaboration](<https://bit.ly/v1VPoF>)), and not for integration with external systems. The difference is that everything happens in-memory, there is no intermediate persistent message queue, there are not message/event routers, partition, scalability requirements or anything like that. It’s a very simple way to make your components more loosely coupled.

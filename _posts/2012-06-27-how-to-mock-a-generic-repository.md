@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "How to mock a generic repository"
+title: How to mock a generic repository
 date: 2012-06-27 00:00:00 +0000
+tags:
+- Moq
+- ef
+- moq
+- .NET
+- All Technology
 ---
-
-
 The short answer is: you don’t. You see, having a mocking library at hand (no matter [how cool it is](<https://bit.ly/Qjt280>)) doesn’t automatically make it the best tool for every testing need. 
 
 A generic repository is much easier to replace for testing with a simple fake and allows to use simple state-based testing agaist it, rather than mock verifications. 

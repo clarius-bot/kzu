@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Beware of DateTime comparison when using DateTimeKind.Local vs DateTimeKind.Utc"
+title: Beware of DateTime comparison when using DateTimeKind.Local vs DateTimeKind.Utc
 date: 2009-01-26 00:00:00 +0000
+tags:
+- .NET
+- All Technology
+- XML
+- Miscelaneous
+- Patterns amp; Practices
 ---
-
 Oh, DateTime is so hopelessly broken…
     
     

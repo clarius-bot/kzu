@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Serious flaw in WPF validation infrastructure for ValidationRule and Binding"
+title: Serious flaw in WPF validation infrastructure for ValidationRule and Binding
 date: 2007-09-25 00:00:00 +0000
+tags:
+- WPF
+- .NET
+- All Technology
+- ef
+- XML
 ---
-
 [Adam Nathan](http://www.adamnathan.net/)'s [excelent book on WPF](http://adamnathan.net/wpf/) states:
 
 > The validation check is invoked during any attempt to update the underlying data ... before a value converter is called (if present)...

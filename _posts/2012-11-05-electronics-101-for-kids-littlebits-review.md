@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Electronics 101 for kids: littleBits review"
+title: 'Electronics 101 for kids: littleBits review'
 date: 2012-11-05 00:00:00 +0000
+tags:
+- .NET
+- ef
+- GAT
+- CAB
+- All Technology
 ---
-
-
 I’m always on the lookout for cool toys that can empower my kids (9, 6 and 2yo) to be creative and break the mold of being just consumers of other’s ideas.
 
 I recently came across [littleBits](<http://littlebits.cc/>) while watching a [TED video](<https://bit.ly/TGaC4u>) of their creator. I was immediately hooked. It seemed like the perfect blend of simplicity and self-learning that I was looking to get my kids into electronics. So I went ahead and [purchased the kit from SparkFun](<https://bit.ly/TGaIJm>) and a bunch of standalone parts ("[bits](<https://community.littlebits.cc/bits>)") from the [site itself](<https://bit.ly/TGaPVq>). There are also a bunch of videos and pictures on their site to get a better idea of what they are, as well as multitude [YouTube videos](<https://bit.ly/TGcLNE>).

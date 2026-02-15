@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "W3C XML Schema type system &amp;lt; - &amp;gt; CLR type system"
+title: W3C XML Schema type system &amp;lt; - &amp;gt; CLR type system
 date: 2004-02-20 00:00:00 +0000
+tags:
+- XML
+- .NET
+- ef
+- All Technology
+- ASP.NET
 ---
-
 I've had some discussions with co-workers and colleages about the WXS (W3C XML Schema) type system and its relation with the CLR one. We all agree that many concepts in WXS don't map to anything existing in OO languages, such as derivation by restriction, content-ordering (i.e. sequence vs choice), etc. However, in the light of the tools the .NET Framework makes available to map XML to objects, we usually have to analyze WXS (used to define the structure of that very XML instance to be mapped) and its relation with our classes. 
 
 When you use the XmlSerializer to get a CLR object filled with data in the XML, you're actually mapping it to the CLR type system. Moreover, when you use xsd.exe /classes tool, you're effectively translating WXS types to CLR ones. You get classes with `System.String` type corresponding to `xs:string`, and the like. Dare explains this in [ his article in MSDN](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnexxml/html/xml01202003.asp?frame=true&hidetoc=true). The .NET Framework documentation about the [ XmlSerializer](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpref/html/frlrfSystemXmlSerializationXmlSerializerClassTopic.asp?frame=true&hidetoc=true) class explicitly states: 

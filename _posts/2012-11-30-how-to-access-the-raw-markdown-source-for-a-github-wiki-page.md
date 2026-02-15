@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "How to access the raw markdown source for a github wiki page"
+title: How to access the raw markdown source for a github wiki page
 date: 2012-11-30 01:44:00 +0000
-tags: [ddd, ef, eventsourcing, extensibility, gadgets, mocking, moq, msbuild, mvc, nuget, patterns, programming, t4, technology, vsx, wcf, webapi]
+tags:
+- .NET
+- All Technology
+- nuget
+- XML
+- msbuild
 ---
-
-
 This is not entirely obvious (at least it wasn’t for me), but since Github wikis are actually backed by a [proper Git repo](https://github.com/blog/699-making-github-more-open-git-backed-wikis), I figured it should be possible to access the raw markdown for a page by using Github’s <https://raw.github.com/> style URLs.
 
 After some minor trial/error, it turns out to be very predictable (as many things in github):

@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Customizing XSD-&gt;Classes code generation, the &quot;easy&quot; way"
+title: Customizing XSD-&gt;Classes code generation, the &quot;easy&quot; way
 date: 2003-10-24 00:00:00 +0000
+tags:
+- XML
+- ef
+- .NET
+- ASP.NET
+- All Technology
 ---
-
 Update: check a more thorough explanation of this techique in [ Code Generation in the .NET Framework Using XML Schema](http://msdn.microsoft.com/xml/default.aspx?pull=/library/en-us/dnxmlnet/html/xsdcodegen.asp) article published in the [MSDN XML DevCenter](http://msdn.microsoft.com/xml/), and the companion post on [the VS.NET custom tool](http://weblogs.asp.net/cazzu/archive/2004/05/14/XsdCodeGenTool.aspx) for it.
 
 I've always been disgusted by the imposibility to customize XSD.EXE tool. I've even thought about [some workaround](http://weblogs.asp.net/cazzu/posts/25460.aspx) for the all-public-fields issue. However, I was  WRONG. It's perfectly possible to generate fully customized classes from an XSD Schema, if not by calling XSD.EXE, by reusing the very same classes it uses. 
