@@ -10,8 +10,6 @@ tags:
 
 ---
 
-##  [How to reuse Windows Workflow Foundation (WF) cool type browser editor in your components](<http://blogs.clariusconsulting.net/kzu/how-to-reuse-windows-workflow-foundation-wf-cool-type-browser-editor-in-your-components/> "How to reuse Windows Workflow Foundation \(WF\) cool type browser editor in your components")
-
 Windows Workflow Foundation (WF) comes with a very cool `UITypeEditor` that allows selection of a type in the current project or any of its references:
 
 ![Screenshot of WF type browser in action](http://aspnet2.com/kzu/weblog/WWFTypeBrowser.png)

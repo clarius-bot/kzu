@@ -9,7 +9,6 @@ tags:
 - patterns
 - XML
 ---
-##  [Retrieving available types in current project and its references (without locking)](<http://blogs.clariusconsulting.net/kzu/retrieving-available-types-in-current-project-and-its-references-withoult-locking/> "Retrieving available types in current project and its references \(without locking\)")
 
 
 One very tricky thing inside VS used to be (at least for me until I found the solution I’m about to show you) to list and work with the types defined in the project as well as its references. The problem was mainly how to properly load the types without locking the project output for compilation, as well as retrieving the types for references that could be also project references. It turns out that there is a very cool and absolutely undocumented service in VS that allows you to do just that, writing no code ![:\)](/img/2006-01-06-1.gif)

@@ -10,7 +10,6 @@ tags:
 - nuget
 - t4
 ---
-##  [A better way to implement the Singleton (anti?) pattern for easier testing using AmbientSingleton](http://blogs.clariusconsulting.net/kzu/a-better-way-to-implement-the-singleton-anti-pattern-for-easier-testing-using-ambientsingleton/ "A better way to implement the Singleton \(anti?\) pattern for easier testing using AmbientSingleton")
 
 In .NET singletons are typically implemented with a static variable that you control access to:
     

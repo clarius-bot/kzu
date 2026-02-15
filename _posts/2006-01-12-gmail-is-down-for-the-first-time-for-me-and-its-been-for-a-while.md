@@ -8,8 +8,6 @@ tags:
 
 ---
 
-##  [Gmail is DOWN (for the first time for me, and it’s been for a while…)](<http://blogs.clariusconsulting.net/kzu/gmail-is-down-for-the-first-time-for-me-and-its-been-for-a-while/> "Gmail is DOWN \(for the first time for me, and it’s been for a while…\)")
-
 
 ![](http://aspnet2.com/kzu/weblog/GmailDown.PNG)
 

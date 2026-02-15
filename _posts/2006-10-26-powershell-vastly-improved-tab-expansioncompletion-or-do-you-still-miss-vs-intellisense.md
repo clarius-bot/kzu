@@ -11,8 +11,6 @@ tags:
 
 ---
 
-##  [PowerShell: vastly improved tab expansion/completion (or do you still miss VS intellisense?)](<http://blogs.clariusconsulting.net/kzu/powershell-vastly-improved-tab-expansioncompletion-or-do-you-still-miss-vs-intellisense/> "PowerShell: vastly improved tab expansion/completion \(or do you still miss VS intellisense?\)")
-
 
 I’m an intellisense-addict. I hate doing work that my computer can do for me, and typing long namespace and class names certainly fits that category.
 
