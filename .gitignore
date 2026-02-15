@@ -1,8 +1,9 @@
-/_site
-/*.lock
+_site
+*.lock
 .DS_Store
 *test-*.md
 .jekyll-metadata
 .vs
-/vendor
-/.bundle
+vendor
+.bundle
+.venv
