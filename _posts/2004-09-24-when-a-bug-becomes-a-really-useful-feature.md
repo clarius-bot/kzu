@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "When a bug becomes a really useful feature"
+title: When a bug becomes a really useful feature
 date: 2004-09-24 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/BugTure
+tags:
+- Miscelaneous
+
 ---
 
 I have to take quite a few screenshots for [Victor](http://aspnet2.com/vga)'s and mine [last book](http://www.apress.com/book/bookDisplay.html?bID=292) and they have to be taken with 120dpi screen resolution. There's no way I will use such resolution in my laptop, and I also have to test the app in a fresh machine. Of course, the solution is using virtual machines, and I started using VPC 2004.   

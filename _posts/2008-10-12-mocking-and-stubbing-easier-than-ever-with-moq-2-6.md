@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Mocking and stubbing easier than ever with Moq 2.6"
+title: Mocking and stubbing easier than ever with Moq 2.6
 date: 2008-10-12 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/mocking-and-stubbing-easier-than-ever-with-moq-2-6
+tags:
+- .NET
+- All Technology
+- Moq
+
 ---
 
 I've just released a new version of [Moq](http://moq.me/) which contains a few bug fixes but two extremely useful features: recursive mocks and mocked default values.

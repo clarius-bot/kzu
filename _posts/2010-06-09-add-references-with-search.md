@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Add References with Search"
+title: Add References with Search
 date: 2010-06-09 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/add-references-with-search
+tags:
+- .NET
+- All Technology
+
 ---
 
 If you have been using VS2010 for any significant amount of time, you surely came across the awkward, slow and hard to use Add Reference dialog. Despite some (apparent) [improvements over the VS2008](http://weblogs.asp.net/scottgu/archive/2009/10/29/add-reference-dialog-improvements-vs-2010-and-net-4-0-series.aspx) behavior, in its current form it's even LESS usable than before. A brief non-exhaustive summary of the typical grief with this dialog is:

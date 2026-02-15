@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "How to get rid of the auto-generated #region for implemented interfaces"
+title: 'How to get rid of the auto-generated #region for implemented interfaces'
 date: 2008-03-13 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-get-rid-of-the-auto-generated-region-for-implemented-interfaces
+tags:
+- .NET
+- All Technology
+
 ---
 
 I HATE this default so much. Every stupid interface gets its own #region in my code file. I wonder who thought regions were so cool... 

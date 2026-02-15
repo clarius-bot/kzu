@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "XPathNavigatorReader: reading, validating and serializing! (XmlReader/XmlTextReader over XPathNavigator)"
+title: 'XPathNavigatorReader: reading, validating and serializing! (XmlReader/XmlTextReader
+  over XPathNavigator)'
 date: 2004-04-19 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/115966
+tags:
+- .NET
+- Mvp.Xml project
+- XML
+
 ---
 
 There are many reasons why developers don't use the `XPathDocument` and `XPathNavigator` APIs and resort to `XmlDocument` instead. I outlined some of them with regards to querying functionality in my posts about [how to take advantage of XPath expression precompilation](http://weblogs.asp.net/cazzu/archive/2003/10/07/30888.aspx), and [How to get an XmlNodeList from an XPathNodeIterator (reloaded)](http://weblogs.asp.net/cazzu/archive/2004/04/14/113479.aspx). 

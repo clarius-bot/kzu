@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Dependency Injection and Object Composition put to practice"
+title: Dependency Injection and Object Composition put to practice
 date: 2007-05-17 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/ObjectBuilderZurich
+tags:
+- .NET
+
 ---
 
 [Last week I presented](http://www.sigs-datacom.de/sd/kongresse/set_2007/index.htm "SET Conference") this topic in Zurich, based on [p&p ObjectBuilder](http://www.codeplex.com/objectbuilder "ObjectBuilder @ CodePlex"). It's amazing how much interest people show around this topic, yet there is so little available on the web about ObjectBuilder. 

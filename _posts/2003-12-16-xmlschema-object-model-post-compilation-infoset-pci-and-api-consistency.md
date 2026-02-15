@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "XmlSchema Object Model, Post-compilation InfoSet (PCI) and API consistency"
+title: XmlSchema Object Model, Post-compilation InfoSet (PCI) and API consistency
 date: 2003-12-16 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/43875
+tags:
+- XML
+
 ---
 
 The Schema Object Model (SOM), much like the DOM, holds pre- and post-compilation (validation for DOM) information items. However, the model is not consistent for both, in the case of the SOM. For example, for the pre-compilation phase, you iterate the top-level items through the XmlSchema.Items collection:

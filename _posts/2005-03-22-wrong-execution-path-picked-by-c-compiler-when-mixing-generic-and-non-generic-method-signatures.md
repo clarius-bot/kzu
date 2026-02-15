@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Wrong execution path picked by C# compiler when mixing generic and non-generic method signatures."
+title: Wrong execution path picked by C# compiler when mixing generic and non-generic
+  method signatures.
 date: 2005-03-22 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/csharpcompilerbug
+tags:
+- .NET
+- All Technology
+
 ---
 
 I've found what seems like a bug in the C# compiler which makes the execution path of your code unpredictable. The scenario is laid out in the [product feedback bug](http://lab.msdn.microsoft.com/ProductFeedback/viewfeedback.aspx?feedbackid=581bd41b-eb2a-4902-bcef-623f05e6726c) but a brief repro will hopefully suffice to convince you of its severity.   

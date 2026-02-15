@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Typed XmlReaders: bridging the gap between streaming and object model APIs."
+title: 'Typed XmlReaders: bridging the gap between streaming and object model APIs.'
 date: 2004-03-12 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/TypedReader
+tags:
+- XML
+
 ---
 
 When dealing with XML in .NET, you're mostly faced with two options:

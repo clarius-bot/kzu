@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "How to add GAX/GAT recipes to arbitrary VS menus"
+title: How to add GAX/GAT recipes to arbitrary VS menus
 date: 2006-06-01 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/How-to-add-GAX_2F00_GAT-recipes-to-arbitrary-VS-menus
+tags:
+- .NET
+
 ---
 
 

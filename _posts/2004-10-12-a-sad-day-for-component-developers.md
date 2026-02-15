@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "A sad day for component developers"
+title: A sad day for component developers
 date: 2004-10-12 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/241276
+tags:
+- .NET
+- ASP.NET
+
 ---
 
 ## A sad day for component developers

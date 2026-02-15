@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "TechEd Barcelona 2006: Designing Zero-Code Adaptive User Interfaces (UIs) for Windows Mobile"
+title: 'TechEd Barcelona 2006: Designing Zero-Code Adaptive User Interfaces (UIs)
+  for Windows Mobile'
 date: 2006-10-31 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/TechEd2006Barcelona
+tags:
+- .NET
+- All Technology
+- Patterns amp; Practices
+
 ---
 
 ##  [TechEd Barcelona 2006: Designing Zero-Code Adaptive User Interfaces (UIs) for Windows Mobile](<http://blogs.clariusconsulting.net/kzu/teched-barcelona-2006-designing-zero-code-adaptive-user-interfaces-uis-for-windows-mobile/> "TechEd Barcelona 2006: Designing Zero-Code Adaptive User Interfaces \(UIs\) for Windows Mobile")

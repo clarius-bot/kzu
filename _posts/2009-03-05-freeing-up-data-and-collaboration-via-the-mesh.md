@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Freeing up data and collaboration via the mesh"
+title: Freeing up data and collaboration via the mesh
 date: 2009-03-05 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/freeing-up-data-and-collaboration-via-the-mesh
+tags:
+- .NET
+- All Technology
+
 ---
 
 Last weekend, during the [ALT.NET Seattle](http://altnetseattle.pbwiki.com/) conference, I spoke for quite a while with [Miguel de Icaza](http://tirania.org/blog/) on the work [we're](http://clariusconsulting.net/) doing with [InSTEDD](http://instedd.org/) in the area of data synchronization. He was very excited, and wondered how come this wasn't more broadly known. 

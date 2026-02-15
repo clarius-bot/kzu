@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "How to send URL shortcuts to a specific browser such as Internet Explorer"
+title: How to send URL shortcuts to a specific browser such as Internet Explorer
 date: 2011-04-13 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-send-url-shortcuts-to-a-specific-browser-such-as-internet-explorer
+
 ---
 
 IE is not my default browser. But still some links have to be sent to it in order for the right thing to happen (i.e. [Microsoft Lync](<www.microsoft.com/downloads/en/details.aspx?FamilyID=39d317af-3b6e-43cd-a53c-a0ef561e3355>) invitations, Live Meeting, InfoPath forms, etc.). So far I had the multi-click solution of opening IE, then clicking on a toolbar bookmark.

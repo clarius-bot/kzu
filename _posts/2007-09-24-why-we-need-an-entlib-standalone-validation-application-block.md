@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Why we need an EntLib Standalone Validation Application Block"
+title: Why we need an EntLib Standalone Validation Application Block
 date: 2007-09-24 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/why-we-need-an-entlib-standalone-validation-application-block
+tags:
+- .NET
+- All Technology
+- WPF
+
 ---
 
 In my previous post about [XAML and its future as a domain model/DSL serialization format](http://www.clariusconsulting.net/blogs/kzu/archive/2007/09/24/WhyXAMLmakesSystemConfigurationandEnterpriseLibraryConfigurationobsolete.aspx), I've argued that System.Configuration as well as [Enterprise Library](http://msdn2.microsoft.com/en-us/library/aa480453.aspx) Configuration (part of the core of EntLib) will soon become irrelevant. 

@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "The 'Microsoft.ACE.OLEDB.12.0' provider is not registered error with Vista 64bit"
+title: The 'Microsoft.ACE.OLEDB.12.0' provider is not registered error with Vista
+  64bit
 date: 2007-11-15 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/the-microsoft-ace-oledb-12-0-provider-is-not-registered-error-with-vista-64bit
+tags:
+- .NET
+- All Technology
+
 ---
 
 If you're getting this error while trying to connect to Access 2007 or Excel 2007 via the Office 12 OleDB provider, you must first make sure you have the [Office 2007 data providers](http://www.microsoft.com/downloads/details.aspx?FamilyID=7554F536-8C28-4598-9B72-EF94E038C891&displaylang=en "MSDN download") installed.

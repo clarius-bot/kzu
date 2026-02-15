@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "XmlSerializerFactory caching issues and leaks"
+title: XmlSerializerFactory caching issues and leaks
 date: 2008-11-13 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/xmlserializerfactory-caching-issues-and-leaks
+
 ---
 
 You'd think that after the [serious leaks](http://www.google.com.ar/search?client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&channel=s&hl=en&q=xmlserializer%20leaks) people was hitting with the XmlSerializer, the "new" (in .NET 2.0!!! but which many seem to forget about, just like AVOID doing [new XmlTextReader in a PDC *keynote*](http://twitter.com/kzu/status/979325718 "My tweet in real-time from PDC on the mostruosity :\)")) [XmlSerializerFactory](http://msdn.microsoft.com/en-us/library/system.xml.serialization.xmlserializerfactory.aspx) would [do away with those](http://blogs.msdn.com/kaevans/archive/2006/03/08/546172.aspx). 

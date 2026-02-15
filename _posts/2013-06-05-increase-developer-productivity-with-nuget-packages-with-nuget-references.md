@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Increase developer productivity with NuGet packages with NuGet References"
+title: Increase developer productivity with NuGet packages with NuGet References
 date: 2013-06-05 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/increase-developer-productivity-with-nuget-packages-with-nuget-references
+tags:
+- .NET
+
 ---
 
 A typical solution usually has many projects, and many more NuGet packages in use:

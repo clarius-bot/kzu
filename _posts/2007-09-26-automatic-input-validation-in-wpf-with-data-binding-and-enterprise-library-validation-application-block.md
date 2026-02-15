@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "Automatic input validation in WPF with data binding and Enterprise Library Validation Application Block"
+title: Automatic input validation in WPF with data binding and Enterprise Library
+  Validation Application Block
 date: 2007-09-26 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/automatic-input-validation-in-wpf-with-data-binding-and-enterprise-library-validation-application-pblock
+tags:
+- .NET
+- All Technology
+- WPF
+
 ---
 
 WPF provides validation infrastructure for databinding scenarios through [ValidationRule](http://msdn2.microsoft.com/en-us/library/ms752347.aspx#validation_process) objects. Only one built-in rule is provided, and you're expected to write most of these yourself. The way they work is by assigning one or more explicit rules to a binding:

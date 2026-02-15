@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "NuGet References: publishing my first open source extension to the DevStore"
+title: 'NuGet References: publishing my first open source extension to the DevStore'
 date: 2013-05-18 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/nuget-references-publishing-my-first-open-source-extension-to-the-devstore
+
 ---
 
 Last week I had the pleasure of spending time with a bunch of friends at the [OuterConf 2013](<https://bit.ly/outerconf>), including pretty much the entire NuGet team. I also could attend to the hackathon they organized, and I got to hack what I think is a pretty cool Visual Studio 2012 extension: NuGet References. 

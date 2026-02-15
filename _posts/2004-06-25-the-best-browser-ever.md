@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "The best browser ever!"
+title: The best browser ever!
 date: 2004-06-25 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/166372
+tags:
+- Miscelaneous
+
 ---
 
 I've been using [FireFox](http://www.mozilla.org/products/firefox/) for a while now. It used to be FireBird when I started, and it's been my default browser ever since. But every new version surprises me, as well the constant availability and improvement of all sorts of [ extensions](http://update.mozilla.org/?application=firefox) to it, as well as a growing number of [ themes](http://update.mozilla.org/themes/?application=firefox) to make it look even better. 

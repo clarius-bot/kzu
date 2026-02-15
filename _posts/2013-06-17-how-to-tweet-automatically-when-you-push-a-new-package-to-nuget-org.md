@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "How to tweet automatically when you push a new package to nuget.org"
+title: How to tweet automatically when you push a new package to nuget.org
 date: 2013-06-17 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-tweet-automatically-when-you-push-a-new-package-to-nuget-org
+tags:
+- .NET
+
 ---
 
 

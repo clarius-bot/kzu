@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "How to install Reactive Extensions for .NET 4.0 Beta 2 on VS2010 RC"
+title: How to install Reactive Extensions for .NET 4.0 Beta 2 on VS2010 RC
 date: 2010-03-02 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-install-reactive-extensions-for-net-4-0-beta-2-on-vs2010-rc
+tags:
+- .NET
+- All Technology
+
 ---
 
   1. Get the [.NET 4.0 Beta 2 download](http://msdn.microsoft.com/en-us/devlabs/ee794896.aspx) from MSDN. 

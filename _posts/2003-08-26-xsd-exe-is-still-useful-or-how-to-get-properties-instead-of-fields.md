@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "XSD.EXE is still useful (or how to get properties instead of fields)"
+title: XSD.EXE is still useful (or how to get properties instead of fields)
 date: 2003-08-26 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/25460
+tags:
+- XML
+
 ---
 
 Getting code form XSD files is a great help when you have to create many entities reflecting your business logic. It also allows for easy extensibility because you only have to change the schema and generate the entities again. Using xsd.exe /c, you can get the XmlSerializer-friendly classes in a snap. What's more, a very usefull tool by [Chris Sells](http://www.sellsbrothers.com/tools/#xsdClassesGen) even makes the process automatic inside the IDE, with a custom tool.  

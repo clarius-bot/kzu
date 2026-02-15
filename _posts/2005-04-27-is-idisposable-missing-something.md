@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Is IDisposable missing something???"
+title: Is IDisposable missing something???
 date: 2005-04-27 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/IDisposeDefinition
+tags:
+- .NET
+
 ---
 
 Who about:  

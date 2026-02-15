@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "EIF vs log4net"
+title: EIF vs log4net
 date: 2004-05-17 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/133196
+tags:
+- .NET
+
 ---
 
 I've been doing a comparison of both products recently. Before you read, I must say that I used [log4net](http://logging.apache.org/log4net/) a lot (I even appear as a contributor :o), so I may be biased. On the other hand, I only evaluated EIF, looked at how it's used in a real world product, and read the documentation provided, as well as built the examples. 

@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "Enter Guidance Automation Toolkit (and who you should blame ;))"
+title: Enter Guidance Automation Toolkit (and who you should blame ;))
 date: 2005-07-28 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/GATAdvantages
+tags:
+- .NET
+- All Technology
+- GAT
+- Patterns amp; Practices
+
 ---
 
 ## Enter Guidance Automation Toolkit (and who you should blame ;))

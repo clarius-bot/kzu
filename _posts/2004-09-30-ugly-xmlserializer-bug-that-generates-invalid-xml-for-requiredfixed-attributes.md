@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Ugly XmlSerializer bug that generates invalid XML for required+fixed attributes."
+title: Ugly XmlSerializer bug that generates invalid XML for required+fixed attributes.
 date: 2004-09-30 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/236378
+tags:
+- .NET
+- XML
+
 ---
 
 One common way of signaling the version of a configuration file that the processor of that file understands, is having an attribute (i.e. SchemaVersion) with the attributes use="required"fixed="[required version]". This way, all config files need to include such an attribute. When you evolve the schema, you can allow say "2.0" and most probably have XSLTs that automatically upgrades older versions, based on the version number you receive.

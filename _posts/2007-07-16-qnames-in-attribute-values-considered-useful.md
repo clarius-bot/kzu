@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "QNames in attribute values considered useful"
+title: QNames in attribute values considered useful
 date: 2007-07-16 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/qnames-in-attribute-values-considered-useful
+tags:
+- .NET
+- All Technology
+- XML
+
 ---
 
 Quite some time ago (around XML raise as a universal data format), the W3C seemed to be in doubt of the value of QNames (prefix + local name) in attribute values. 

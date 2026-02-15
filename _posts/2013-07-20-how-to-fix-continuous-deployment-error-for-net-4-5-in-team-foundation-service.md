@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "How to fix continuous deployment error for .NET 4.5 in Team Foundation Service"
+title: How to fix continuous deployment error for .NET 4.5 in Team Foundation Service
 date: 2013-07-20 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-fix-continuous-deployment-error-for-net-4-5-in-team-foundation-service
+tags:
+- .NET
+
 ---
 
 

@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Introducing NETFx, or the end of Common.dll and Helpers.dll"
+title: Introducing NETFx, or the end of Common.dll and Helpers.dll
 date: 2011-05-20 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/introducing-netfx-or-the-end-of-common-dll-and-helpers-dll
+tags:
+- .NET
+
 ---
 
 From theproject home page:

@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "MEF, IServiceProvider and Testing Visual Studio Extensions"
+title: MEF, IServiceProvider and Testing Visual Studio Extensions
 date: 2010-06-08 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/mef-iserviceprovider-and-testing-visual-studio-extensions
+tags:
+- .NET
+- All Technology
+
 ---
 
 In the latest and greatest version of [Visual Studio](<http://www.microsoft.com/visualstudio/products/2010/default.mspx>), [MEF](<http://mef.codeplex.com/>) plays a critical role, one that makes extending VS much more fun than it ever was.

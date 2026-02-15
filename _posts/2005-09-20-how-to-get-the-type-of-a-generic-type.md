@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "How to get the type of a generic type"
+title: How to get the type of a generic type
 date: 2005-09-20 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/TypeOfGeneric
+tags:
+- .NET
+
 ---
 
     

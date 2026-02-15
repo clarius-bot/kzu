@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Expression tree usage in ASP.NET MVC Preview 2 rocks!"
+title: Expression tree usage in ASP.NET MVC Preview 2 rocks!
 date: 2008-04-07 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/expression-tree-usage-in-asp-net-mvc-preview-2-rocks
+tags:
+- .NET
+- All Technology
+- ASP.NET
+
 ---
 
 The latest MVC release adds some pretty cool usage of LINQ expression trees. It's another example of how cool (and WAY beyond querying) LINQ is. 

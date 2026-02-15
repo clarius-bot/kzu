@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Team Foundation Power Toys, Vista compatible!"
+title: Team Foundation Power Toys, Vista compatible!
 date: 2007-02-20 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/TeamFoundationPowerToysVista
+tags:
+- .NET
+
 ---
 
 If you're serious about working with TFS, and you fell the out-of-the-box experience (UI and command line) is lacking, you MUST go get these tools NOW.

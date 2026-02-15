@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "You Don’t Own Your Kindle Content: Amazon Does"
+title: 'You Don’t Own Your Kindle Content: Amazon Does'
 date: 2009-07-18 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/you-don-t-own-your-kindle-content-amazon-does
+
 ---
 
 Yes, what [has been](http://www.theregister.co.uk/2009/07/18/amazon_removes_1984_from_kindle/)[reported](http://mashable.com/2009/07/17/amazon-kindle-1984/)[already](http://www.informationweek.com/news/personal_tech/drm/showArticle.jhtml?articleID=218501227) is indeed very true. 

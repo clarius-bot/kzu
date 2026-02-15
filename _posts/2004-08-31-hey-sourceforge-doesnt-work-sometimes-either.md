@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Hey, SourceForge doesn't work sometimes either!!!"
+title: Hey, SourceForge doesn't work sometimes either!!!
 date: 2004-08-31 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/sfbroken
+tags:
+- Miscelaneous
+
 ---
 
 Just to be fair to the complete fiasco that is [GDN](http://www.gotdotnet.com/), today is the *first time ever* that I see [SourceForge](http://sf.net/) *partially* broken. 

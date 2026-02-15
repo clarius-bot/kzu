@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Running cleanup powershell command from MSBuild for Team Build Continuous Integration"
+title: Running cleanup powershell command from MSBuild for Team Build Continuous Integration
 date: 2007-08-05 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/running-cleanup-powershell-command-from-msbuild-for-team-build-continuous-integration
+tags:
+- .NET
+- All Technology
+
 ---
 
 Team Build is great, with its tight integration into the WorkItem tracking feature of TFS. It can be setup pretty easily to do [continuous integration](http://www.clariusconsulting.net/blogs/kzu/archive/2006/07/26/TFS_CI.aspx) and I use [a modified version](http://www.clariusconsulting.net/kzu/rss.aspx.txt) of the [Team Build RSS Feed](http://blogs.msdn.com/abhinaba/archive/2005/12/21/506277.aspx) generator so that I get a nice ([authenticated](http://www.rssbandit.org/ "RSS Bandit supports authenticated feeds")) feed with entries like:

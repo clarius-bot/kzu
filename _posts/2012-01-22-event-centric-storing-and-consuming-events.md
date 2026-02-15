@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Event Centric: storing and consuming events"
+title: 'Event Centric: storing and consuming events'
 date: 2012-01-22 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/event-centric-storing-and-consuming-events
+tags:
+- .NET
+
 ---
 
 

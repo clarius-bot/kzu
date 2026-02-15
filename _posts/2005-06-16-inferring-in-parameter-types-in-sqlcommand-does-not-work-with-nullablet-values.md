@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Inferring in parameter types in SqlCommand: does not work with Nullable&lt;T&gt; values"
+title: 'Inferring in parameter types in SqlCommand: does not work with Nullable&lt;T&gt;
+  values'
 date: 2005-06-16 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/NullableTSQLParam
+tags:
+- .NET
+- All Technology
+
 ---
 
 SqlCommand can infer parameter types from their values. It has always been that way. Therefore, you don't need to care about the mapping between CLR types and SQL types. In Whidbey (.NET v2.0), nullable types (Nullable<T> generic class) were introduced to better support database scenarios, where a field that would map to a CLR value type can actually be null. I would have expected the same type inference on parameters to be performed for these types too, basically resolving to the underlying type (i.e. Int32 in a Nullable<int>) and having the parameter set to null if it didn't contain a value.   

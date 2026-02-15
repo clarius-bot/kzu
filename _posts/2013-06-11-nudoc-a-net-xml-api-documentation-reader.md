@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "NuDoc: A .NET XML API Documentation Reader"
+title: 'NuDoc: A .NET XML API Documentation Reader'
 date: 2013-06-11 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/nudoc-a-net-xml-api-documentation-reader
+tags:
+- .NET
+
 ---
 
 A couple days ago I was toying with the idea of generating a static API documentation site in markdown ready for hosting in GitHub. The idea is to make it part of the project wiki, so that anyone can very easily improve the code documentation, and later on somehow allow project authors/contributors to merge back the edited markdown as XML documentation in the code itself, so that the cycle is closed.

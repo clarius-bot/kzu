@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Do I need SAX for .NET? (or does straight Java ports to C# make sense?)"
+title: Do I need SAX for .NET? (or does straight Java ports to C# make sense?)
 date: 2004-03-29 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/101437
+tags:
+- XML
+
 ---
 
 After reading [Oleg's](http://www.tkachenko.com/) post [ about an upcoming SAX.NET](http://www.tkachenko.com/blog/archives/000197.html) implementation, and while I still look forward to the other XML fellow developer working on that, I got certainly excited and run to download and have a look at it. I was dissapointed, I must say. 

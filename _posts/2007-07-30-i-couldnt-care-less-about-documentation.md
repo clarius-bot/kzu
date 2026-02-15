@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "I couldn't care less about documentation"
+title: I couldn't care less about documentation
 date: 2007-07-30 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/i-couldn-t-care-less-about-documentation
+tags:
+- .NET
+- All Technology
+
 ---
 
 I've been subconsciously hunt by this statement I made during the last MVP Summit among a bunch of very smart people, specially because I'm pretty sure I was misinterpreted as I didn't have a chance to explain my assertion.

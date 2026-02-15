@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "How to mock a dynamic object"
+title: How to mock a dynamic object
 date: 2011-06-29 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-mock-a-dynamic-object
+tags:
+- .NET
+
 ---
 
 Someone asked me how to mock a dynamic object with Moq, which might be non-obvious.

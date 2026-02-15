@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "A picture is worth a thousand words: is XML dying?"
+title: 'A picture is worth a thousand words: is XML dying?'
 date: 2009-03-15 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/a-picture-is-worth-a-thousand-words-is-xml-dying
+tags:
+- .NET
+- All Technology
+
 ---
 
 ![XML-dying](/img/2009-03-15-1.jpg)

@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "New C# conditional assignment operator ?? for null cases!! (no more ? .. : in C# 2.0)"
+title: 'New C# conditional assignment operator ?? for null cases!! (no more ? .. :
+  in C# 2.0)'
 date: 2005-09-20 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/NewAssignmentOperator
+tags:
+- .NET
+
 ---
 
     

@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Making extension methods amenable to mocking"
+title: Making extension methods amenable to mocking
 date: 2009-02-19 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/making-extension-methods-amenable-to-mocking
+tags:
+- .NET
+- All Technology
+
 ---
 
 The question of how to mock extension methods comes up frequently enough that I though I might give my opinion and solution to it (which does NOT include using [TypeMock](http://www.typemock.com/) ;)).

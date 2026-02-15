@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Cool ajax loader image generator"
+title: Cool ajax loader image generator
 date: 2008-07-03 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/cool-ajax-loader-image-generator
+tags:
+- .NET
+- All Technology
+
 ---
 
 Just found (via [Brian](http://weblogs.manas.com.ar/bcardiff/)) about this cool site to [generate ajax-like loading donnuts](http://www.ajaxload.info/) like this one:

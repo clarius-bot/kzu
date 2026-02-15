@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Hard drive capable of hosting Windows Home Server was not found while installing on VMWare"
+title: Hard drive capable of hosting Windows Home Server was not found while installing
+  on VMWare
 date: 2007-10-01 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/hard-drive-capable-of-hosting-windows-home-server-was-not-found-while-installing-on-vmware
+tags:
+- All Technology
+
 ---
 
 VMWare suggests by default that you create SCSI hard drives when you create a new VM based on the Win2003 profile. 

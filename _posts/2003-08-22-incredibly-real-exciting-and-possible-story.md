@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Incredibly real, exciting and possible story!"
+title: Incredibly real, exciting and possible story!
 date: 2003-08-22 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/24995
+tags:
+- Books
+
 ---
 
 I can't stress enough how great [Neuromancer](http://www.amazon.com/exec/obidos/ASIN/0441569595/deverest-20/) is. I read it twice in a month... it is THAT good.  

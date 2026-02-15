@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Ph.D vs the real world"
+title: Ph.D vs the real world
 date: 2004-02-20 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/77218
+tags:
+- .NET
+- XML
+
 ---
 
 In a [previous post](http://weblogs.asp.net/cazzu/archive/2004/02/20/WxsTypeSystem.aspx) I showed and discussed the similarities between the W3C XML Schema type system and the CLR one. Dare [commented](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=b2e5fe03-2205-402a-be18-7da10a9a66fe) on it by mentioning a number of already known (at least by me) issues with WXS->CLR mappings, specially the fact that the later supports only a subset of the former.   

@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Beware of typeparamref XML documentation tag"
+title: Beware of typeparamref XML documentation tag
 date: 2008-01-21 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/beware-of-typeparamref-xml-documentation-tag
+tags:
+- .NET
+- All Technology
+
 ---
 
 

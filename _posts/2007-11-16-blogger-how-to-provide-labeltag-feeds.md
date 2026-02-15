@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Blogger: how to provide label/tag feeds"
+title: 'Blogger: how to provide label/tag feeds'
 date: 2007-11-16 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/blogger-how-to-provide-label-tag-feeds
+tags:
+- All Technology
+
 ---
 
 By default, blogger will only render links to the pages where you can read all entries with given labels:

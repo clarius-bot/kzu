@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "How to reuse Windows Workflow Foundation (WF) cool type browser editor in your components"
+title: How to reuse Windows Workflow Foundation (WF) cool type browser editor in your
+  components
 date: 2006-01-07 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/WFTypeBrowser
+tags:
+- .NET
+- All Technology
+
 ---
 
 ##  [How to reuse Windows Workflow Foundation (WF) cool type browser editor in your components](<http://blogs.clariusconsulting.net/kzu/how-to-reuse-windows-workflow-foundation-wf-cool-type-browser-editor-in-your-components/> "How to reuse Windows Workflow Foundation \(WF\) cool type browser editor in your components")

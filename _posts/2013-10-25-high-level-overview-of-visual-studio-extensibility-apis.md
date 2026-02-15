@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "High level overview of Visual Studio Extensibility APIs"
+title: High level overview of Visual Studio Extensibility APIs
 date: 2013-10-25 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/high-level-overview-of-visual-studio-extensibility-apis
+tags:
+- .NET
+
 ---
 
 If your head is dizzy with the myriad VS services and APIs, from EnvDTE to Shell.Interop, this should clarify a couple things.

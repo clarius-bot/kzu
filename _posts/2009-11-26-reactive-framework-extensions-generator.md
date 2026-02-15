@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Reactive Framework Extensions Generator"
+title: Reactive Framework Extensions Generator
 date: 2009-11-26 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/reactive-framework-extensions-generator
+
 ---
 
 You probably know already that the Reactive Framework Extensions (Rx) is a new library on top of .NET 4.0 and Silverlight that allows developers to leverage the expressiveness and power of LINQ for .NET events. It brings an entirely new paradigm for doing event-driven apps, and therefore shines in WPF/Silverlight scenarios. 

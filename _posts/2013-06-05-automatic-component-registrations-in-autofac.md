@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Automatic component registrations in Autofac"
+title: Automatic component registrations in Autofac
 date: 2013-06-05 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/automatic-component-registrations-in-autofac
+tags:
+- .NET
+
 ---
 
 

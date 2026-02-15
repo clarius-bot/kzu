@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Does CUIL search engine really work?"
+title: Does CUIL search engine really work?
 date: 2008-08-02 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/does-cuil-search-engine-really-work
+tags:
+- All Technology
+
 ---
 
 Query: "how to replace ipod touch boot screen"  

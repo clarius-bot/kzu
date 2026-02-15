@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "How to get wi-fi network connectivity using Hyper-V"
+title: How to get wi-fi network connectivity using Hyper-V
 date: 2009-06-25 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-get-wi-fi-network-connectivity-using-hyper-v
+tags:
+- .NET
+
 ---
 
   1. Create a new Local Network with Virtual Network Manager (name it Hyper-V, for example) 

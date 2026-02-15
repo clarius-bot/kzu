@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "How to mock extension methods"
+title: How to mock extension methods
 date: 2009-12-22 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-mock-extension-methods
+tags:
+- .NET
+- All Technology
+
 ---
 
 . without paying for a TypeMock Isolator license to do it ;-)

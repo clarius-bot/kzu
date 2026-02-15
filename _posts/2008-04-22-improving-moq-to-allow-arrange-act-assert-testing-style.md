@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Improving MoQ to allow arrange-act-assert testing style"
+title: Improving MoQ to allow arrange-act-assert testing style
 date: 2008-04-22 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/improving-moq-to-allow-arrange-act-assert-testing-style
+tags:
+- .NET
+- All Technology
+- Moq
+
 ---
 
 Today, the [MoQ](http://code.google.com/p/moq/)[API](http://www.clariusconsulting.net/labs/moq/html/F3C3BE5A.htm) lets you setup expectations and later verify them, like so:

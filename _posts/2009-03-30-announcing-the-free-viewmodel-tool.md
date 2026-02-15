@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Announcing the free ViewModel Tool"
+title: Announcing the free ViewModel Tool
 date: 2009-03-30 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/announcing-the-free-viewmodel-tool
+
 ---
 
 If you're doing any kind of WPF development, you probably read at least some of the links in this [entry on WPF Patterns](http://blogs.sqlxml.org/bryantlikes/archive/2006/09/27/WPF-Patterns.aspx).

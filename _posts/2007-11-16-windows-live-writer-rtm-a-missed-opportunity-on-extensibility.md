@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Windows Live Writer RTM: a missed opportunity on extensibility"
+title: 'Windows Live Writer RTM: a missed opportunity on extensibility'
 date: 2007-11-16 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/windows-live-writer-rtm-a-missed-opportunity-on-extensibility
+tags:
+- .NET
+- All Technology
+
 ---
 
 The [Window Live suite final version](http://get.live.com/) was finally released. I've been following quite closely its evolution since Beta2, and have done a quite complicated (although not from the point of view of the end user) plugin which goes quite deep into WLW libraries (deeper than I dare to confess, if you know what I mean ;)).

@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "How to remove all useless new lines in automatic properties in an entire solution"
+title: How to remove all useless new lines in automatic properties in an entire solution
 date: 2010-09-22 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-remove-all-useless-new-lines-in-automatic-properties-in-an-entire-solution
+tags:
+- .NET
+- All Technology
+
 ---
 
 Say you have someone on the team that for whatever reason keeps changing back the corresponding VS settings (or even worse, wasting keystrokes) and formats automatic properties like so:

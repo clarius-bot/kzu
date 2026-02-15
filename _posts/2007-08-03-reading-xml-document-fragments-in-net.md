@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Reading XML document fragments in .NET"
+title: Reading XML document fragments in .NET
 date: 2007-08-03 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/reading-xml-document-fragments-in-net
+tags:
+- .NET
+- All Technology
+- XML
+
 ---
 
 A document fragment is an XML file that doesn't have a root element:

@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "A different paradigm for XML validation: all about Schematron"
+title: 'A different paradigm for XML validation: all about Schematron'
 date: 2004-09-21 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/AllAboutSchematron
+tags:
+- .NET
+- Miscelaneous
+- XML
+
 ---
 
 ## A different paradigm for XML validation: all about Schematron

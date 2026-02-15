@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "How to get out of the GAC all the registered assemblies"
+title: How to get out of the GAC all the registered assemblies
 date: 2010-01-08 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-get-out-of-the-gac-all-the-registered-assemblies
+tags:
+- .NET
+- All Technology
+
 ---
 
 You know how annoying the GAC shell extension makes it to access the actual assemblies:

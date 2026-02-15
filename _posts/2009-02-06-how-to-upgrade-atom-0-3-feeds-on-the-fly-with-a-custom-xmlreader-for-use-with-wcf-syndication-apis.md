@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "How to upgrade Atom 0.3 feeds on the fly with a custom XmlReader for use with WCF Syndication APIs"
+title: How to upgrade Atom 0.3 feeds on the fly with a custom XmlReader for use with
+  WCF Syndication APIs
 date: 2009-02-06 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-upgrade-atom-0-3-feeds-on-the-fly-with-a-custom-xmlreader-for-use-with-wcf-syndication-apis
+tags:
+- .NET
+- All Technology
+
 ---
 
 Even now that Atom 1.0 has been approved and official for some time, there's a feed every now and then that still uses Atom 0.3 (i.e. Google News! [http://news.google.com/?ned=us&topic=w&output=atom](http://news.google.com/?ned=us&topic=w&output=atom "http://news.google.com/?ned=us&topic=w&output=atom")).

@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Locating the active item in the solution explorer"
+title: Locating the active item in the solution explorer
 date: 2008-04-18 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/locating-the-active-item-in-the-solution-explorer
+tags:
+- .NET
+- All Technology
+
 ---
 
 Say you are working with a code file. At some point, you "Go To Definition" of another type, and now you have its code file opened. Or maybe you just run the solution to debug a weird issue that's happening, turn on "break when exception is thrown" option, and just when the exception is thrown, Visual Studio gets activated, and you get the relevant code file opened at the appropriate location.

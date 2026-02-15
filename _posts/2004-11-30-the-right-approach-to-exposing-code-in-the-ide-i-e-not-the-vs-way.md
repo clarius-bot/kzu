@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "The right approach to exposing code in the IDE (i.e. NOT the VS way!)"
+title: The right approach to exposing code in the IDE (i.e. NOT the VS way!)
 date: 2004-11-30 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/CodeDomIde
+tags:
+- .NET
+- All Technology
+
 ---
 
 Every since the [CodeDom](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpgenref/html/cpconCodeDOMQuickReference.asp) saw the day of light, I've been wondering when it'll be the time that VS throws away the ugly vb-like CodeModel and fully embrace the CodeDom for representing .NET code inside the IDE. Looks like at least [one other company](http://www.borland.com/) is [doing what I believe is the right thing](http://blogs.borland.com/corbindunn/archive/2004/09/30/1493.aspx).   

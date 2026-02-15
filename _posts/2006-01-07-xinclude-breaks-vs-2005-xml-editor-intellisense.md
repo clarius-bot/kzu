@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "XInclude breaks VS 2005 XML editor intellisense"
+title: XInclude breaks VS 2005 XML editor intellisense
 date: 2006-01-07 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/XIncludeBreaksIntellisense
+tags:
+- .NET
+- All Technology
+- XML
+
 ---
 
 

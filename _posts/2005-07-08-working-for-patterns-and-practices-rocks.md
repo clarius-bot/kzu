@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Working for patterns &amp; practices rocks"
+title: Working for patterns &amp; practices rocks
 date: 2005-07-08 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/PAGWarRoom
+tags:
+- Patterns amp; Practices
+
 ---
 
 For quite some time now, I've been lucky enough to be involved in various projects from Microsoft [patterns & practices](http://microsoft.com/practices). I've already posted about the [previous war room we had](http://weblogs.asp.net/cazzu/archive/2005/06/25/CabDrop2.aspx) and also mentioned that we were improving it. Here's a picture of the setup process:  

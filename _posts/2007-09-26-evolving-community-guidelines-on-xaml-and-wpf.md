@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Evolving community guidelines on XAML and WPF"
+title: Evolving community guidelines on XAML and WPF
 date: 2007-09-26 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/evolving-community-guidelines-on-xaml-and-wpf
+tags:
+- All Technology
+- WPF
+
 ---
 
 I just found the following [excelent guidelines](http://www.paulstovell.net/blog/index.php/xaml-and-wpf-coding-guidelines) (especially the ones on resources organization) at [Paul Stovell's blog](http://www.paulstovell.net/blog).

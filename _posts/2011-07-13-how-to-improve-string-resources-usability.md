@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "How to improve string resources usability"
+title: How to improve string resources usability
 date: 2011-07-13 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-improve-string-resources-usability
+
 ---
 
 (cross-posted from [NETFx](<https://bit.ly/rnpM7S>))

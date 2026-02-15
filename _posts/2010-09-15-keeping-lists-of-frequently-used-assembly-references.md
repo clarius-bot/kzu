@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Keeping lists of frequently used assembly references"
+title: Keeping lists of frequently used assembly references
 date: 2010-09-15 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/keeping-lists-of-frequently-used-assembly-references
+tags:
+- .NET
+- All Technology
+
 ---
 
 This idea had been onour headsfor quite a while. Just to make sure it wasn’t just us who thought it was a cool idea,we postedit on theExtension Ideasforum and it rather quickly made it to the top 10.

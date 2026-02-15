@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Contributing to OSS projects made easy"
+title: Contributing to OSS projects made easy
 date: 2013-08-20 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/contributing-to-oss-projects-made-easy
+tags:
+- .NET
+
 ---
 
 I recently came across what I believe is a [missing feature](<https://github.com/JamesNK/Newtonsoft.Json/issues/122>) (bug?) in [Json.NET](<https://nuget.org/packages/newtonsoft.json>) most excellent library: when using custom constructor, default values are not populated for properties ![:\(](/img/2013-08-20-1.gif)

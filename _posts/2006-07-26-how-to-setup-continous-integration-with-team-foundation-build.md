@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "How to setup continous integration with team foundation build"
+title: How to setup continous integration with team foundation build
 date: 2006-07-26 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/TFS_5F00_CI
+tags:
+- .NET
+
 ---
 
 First, I followed the instructions and used the code from the [Vertigo Software guys](<http://blogs.vertigosoftware.com/teamsystem/archive/2006/07/14/3075.aspx> "How to setup TFS continous integration"). 

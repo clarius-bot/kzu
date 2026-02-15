@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "How to use Windows 2008 on your laptop"
+title: How to use Windows 2008 on your laptop
 date: 2008-10-21 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-use-windows-2008-on-your-laptop
+tags:
+- All Technology
+
 ---
 
   * Follow all the tips from [Windows 2008 Workstation](http://www.win2008workstation.com/) site. [Microsoft has a KB article](http://support.microsoft.com/kb/947036) also that is useful. 

@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Why the iPhone is not ready for prime time"
+title: Why the iPhone is not ready for prime time
 date: 2007-09-19 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/why-the-iphone-is-not-ready-for-prime-time
+tags:
+- All Technology
+- Miscelaneous
+
 ---
 
 My "baseline" phone is my [Nokia N95](http://www.nseries.com/index.html#l=products,n95), so my quality and functionality bar is high. I'll go straight to the point here:

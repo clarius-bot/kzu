@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Portable DVD player vs PlayStation Portable vs PictureFrame w/video"
+title: Portable DVD player vs PlayStation Portable vs PictureFrame w/video
 date: 2006-02-10 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/UltimateDisplay
+tags:
+- All Technology
+- Miscelaneous
+
 ---
 
 ## Portable DVD player vs PlayStation Portable vs PictureFrame w/video

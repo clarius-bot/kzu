@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Behave properly on your posts"
+title: Behave properly on your posts
 date: 2004-08-02 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/204889
+tags:
+- Miscelaneous
+
 ---
 
 It's rewarding to see [other bloggers](http://weblogs.asp.net/jgalloway/archive/2004/08/01/204671.aspx) using [the same approach I've been using for quite a while](http://weblogs.asp.net/cazzu/archive/2003/10/07/30888.aspx) for collapsing code regions that maybe be of interest of those who want a closer look at what you've done, but not to all readers, specially on the aggregated site.  

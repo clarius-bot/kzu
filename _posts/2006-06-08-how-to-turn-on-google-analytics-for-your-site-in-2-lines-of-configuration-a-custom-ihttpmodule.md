@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "How to turn on Google Analytics for your site in 2 lines of configuration: a custom IHttpModule"
+title: 'How to turn on Google Analytics for your site in 2 lines of configuration:
+  a custom IHttpModule'
 date: 2006-06-08 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/InstantGoogleAnalytics
+tags:
+- .NET
+- All Technology
+
 ---
 
 Ok, so I got excited with [Google Analytics](<http://www.google.com/analytics>) , thanks to [Scott Hanselman](<http://www.hanselman.com/blog/GoogleAnalyticsItDoesntSuck.aspx>). So I decided to give it a quick try. 

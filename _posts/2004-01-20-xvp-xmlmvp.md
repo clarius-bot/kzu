@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "XVP: XML+MVP"
+title: 'XVP: XML+MVP'
 date: 2004-01-20 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/60758
+tags:
+- Miscelaneous
+
 ---
 
 I would like to thank ( //the-ones-that-nominated-me[@MS or @otherwise] ) for the MVP award MS gave me on the XML area. It's certainly heartwarming to see one's efforts recognized. I've just read [DonXML](http://donxml.com/allthingstechie/archive/2004/01/20/332.aspx) is onboard too. That's great.  

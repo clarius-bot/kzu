@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "XmlSerializer and IXmlSerializable: automatic XSD validation please!"
+title: 'XmlSerializer and IXmlSerializable: automatic XSD validation please!'
 date: 2003-10-27 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/33693
+tags:
+- XML
+
 ---
 
 The `IXmlSerializable` interface allows you to take full control of the XML serialization of your class whenever the `XmlSerializer` is used. It will check for this interface, and if it finds it, it will use its methods for the serialization, instead of reading the serialization attributes, etc. The interface has the following definition: 

@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Search References multi-platform support is forward-compatible"
+title: Search References multi-platform support is forward-compatible
 date: 2010-08-30 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/search-references-multi-platform-support-is-forward-compatible
+tags:
+- .NET
+- All Technology
+
 ---
 
 Remember when I introduced you to the [Search References extension](<http://www.clariusconsulting.net/blogs/kzu/archive/2010/06/09/AddReferenceswithSearch.aspx>)? I know my fellow coworkers at [Clarius](<http://clariusconsulting.net/>) are awesome and all, but I was happily surprised when after installing MonoDroid, the following just worked:

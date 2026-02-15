@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Forget about writing Atom or RSS XML handling code ever again"
+title: Forget about writing Atom or RSS XML handling code ever again
 date: 2007-11-22 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/forget-about-writing-atom-or-rss-xml-handling-code-ever-again
+tags:
+- .NET
+- All Technology
+
 ---
 
 A *very* welcome addition to .NET 3.5, which just went [RTM for MSDN](http://www.danielmoth.com/Blog/2007/11/vs2008-rtm-for-non-msdn-subscribers.html) subscribers and [trial for the rest](http://msdn2.microsoft.com/en-gb/vstudio/products/aa700831.aspx "Download VS2008 RTM from MSDN") before general availability early next year: [System.ServiceModel.Syndication](msdn2.microsoft.com/library/system.servicemodel.syndication.aspx "MSDN Library").

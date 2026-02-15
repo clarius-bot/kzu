@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "Zero-click design-time validation of XML in VS: the XmlValidate custom tool"
+title: 'Zero-click design-time validation of XML in VS: the XmlValidate custom tool'
 date: 2004-12-30 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/XmlValidateTool
+tags:
+- .NET
+- All Technology
+- Mvp.Xml project
+- XML
+
 ---
 
 ## Zero-click design-time validation of XML in VS: the XmlValidate custom tool

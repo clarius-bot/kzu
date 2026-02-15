@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "How to set the startup program for debugging a project for the entire team"
+title: How to set the startup program for debugging a project for the entire team
 date: 2010-03-05 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-set-the-startup-program-for-debugging-a-project-for-the-entire-team
+tags:
+- .NET
+- All Technology
+
 ---
 
 You surely have set the startup application for a project countless times:

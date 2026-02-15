@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "How to merge your referenced assemblies into the output assembly for improved usability"
+title: How to merge your referenced assemblies into the output assembly for improved
+  usability
 date: 2010-03-11 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-merge-your-referenced-assemblies-into-the-output-assembly-for-improved-usability
+tags:
+- .NET
+- All Technology
+
 ---
 
 

@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Nightly build is NOT continuous integration"
+title: Nightly build is NOT continuous integration
 date: 2005-08-02 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/BradOnBuild
+tags:
+- .NET
+- All Technology
+
 ---
 
 Enough said: 

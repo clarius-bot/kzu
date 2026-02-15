@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I hate the damn MSDN print feature"
+title: I hate the damn MSDN print feature
 date: 2004-01-20 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/60660
+tags:
+- Miscelaneous
+
 ---
 
 Every now and then I make the big mistake of clicking that damn Print button at the right on MSDN articles, only to realize that most of the time the text gets cut to the right on the paper. I [have already](http://weblogs.asp.net/cazzu/archive/2004/01/08/48613.aspx) complained about the pain of printing on the web (on badly designed sites, i.e. NOT like [XML.com](http://www.xml.com/) or [CNET](http://www.cnet.com/)).   

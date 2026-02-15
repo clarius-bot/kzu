@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "While we wait for Whidbey visualizers..."
+title: While we wait for Whidbey visualizers...
 date: 2004-02-10 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/70658
+tags:
+- .NET
+
 ---
 
 I'm as excited as almost everybody else with the ability to [write custom visualizers](http://blogs.msdn.com/ericgu/archive/2003/11/21/52871.aspx) in managed code, so that at debug-time I have a better experience and interaction with variables and their data. However, there're a couple things you can do right now to improve the debugging experience. Here's my favorite list of "tips": 

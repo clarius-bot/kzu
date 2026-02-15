@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Silverlight + Seadragon = amazing Hard Rock memorabilia"
+title: Silverlight + Seadragon = amazing Hard Rock memorabilia
 date: 2008-03-05 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/silverlight-seadragon-amazing-hard-rock-memorabilia
+tags:
+- .NET
+- All Technology
+
 ---
 
 Just go and see it at the [Memorabilia Hard Rock](http://memorabilia.hardrock.com/) site.

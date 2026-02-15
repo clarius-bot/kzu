@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "vsCommandStatus illogical rules put to work"
+title: vsCommandStatus illogical rules put to work
 date: 2004-09-23 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/DamnvsCommandStatus
+tags:
+- .NET
+
 ---
 
 I spend quite a bit of time trying to make the most "natural" scenario work:   

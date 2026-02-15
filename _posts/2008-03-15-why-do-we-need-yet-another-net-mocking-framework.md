@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Why do we need yet another NET mocking framework"
+title: Why do we need yet another NET mocking framework
 date: 2008-03-15 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/why-do-we-need-yet-another-net-mocking-framework
+tags:
+- .NET
+- All Technology
+
 ---
 
 I got this question a couple times in the past MIX08 at Las Vegas. And this is a very valid question indeed, given that there's already [Rhino](http://www.mockframeworks.com/rhino), [EasyMock](http://www.mockframeworks.com/easymock), [TypeMock](http://www.mockframeworks.com/typemock) and [NMock](http://www.mockframeworks.com/nmock) (to name a few). So why did we give you Moq?

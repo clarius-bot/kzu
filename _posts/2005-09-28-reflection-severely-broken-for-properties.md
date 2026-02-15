@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Reflection severely broken for properties"
+title: Reflection severely broken for properties
 date: 2005-09-28 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/CustomAttributesBroken
+tags:
+- .NET
+- All Technology
+
 ---
 
 `PropertyInfo.GetCustomAttributes` never returns attributes inherited from the base class if the property is an override.   

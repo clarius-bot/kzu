@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "How To Temporarily Disable The Touch Screen In X1 Carbon"
+title: How To Temporarily Disable The Touch Screen In X1 Carbon
 date: 2013-08-01 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-temporarily-disable-the-touch-screen-in-x1-carbon
+tags:
+- .NET
+
 ---
 
 I know, why would anyone want to do that?

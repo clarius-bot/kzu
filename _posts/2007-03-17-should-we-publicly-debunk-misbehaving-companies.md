@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Should we publicly debunk misbehaving companies?"
+title: Should we publicly debunk misbehaving companies?
 date: 2007-03-17 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/DebunkCompanies
+tags:
+- Miscelaneous
+
 ---
 
 ## Should we publicly debunk misbehaving companies?

@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "How to replace default interface property implementation expansion with automatic properties"
+title: How to replace default interface property implementation expansion with automatic
+  properties
 date: 2011-05-11 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-replace-default-interface-property-implementation-expansion-with-automatic-properties
+tags:
+- .NET
+
 ---
 
 By default, when you implement an interface in a class, you get the following for properties:

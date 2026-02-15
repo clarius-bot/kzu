@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "A new way of financing open source software via Kickstarter"
+title: A new way of financing open source software via Kickstarter
 date: 2013-07-10 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/a-new-way-of-financing-open-source-software-via-kickstarter
+tags:
+- .NET
+
 ---
 
 The Kickstarter successes of the ambitious [Ghost](<https://bit.ly/185SSpj>) as well as the much more modest [Schema Migrations for Django](<https://bit.ly/185SYNA>) or [git-annex](<https://bit.ly/185TElY>) (all open source software projects) got me thinking that this could be the start of a new way to fund open source projects in general.

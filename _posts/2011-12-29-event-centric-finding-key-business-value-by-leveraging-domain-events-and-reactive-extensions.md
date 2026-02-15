@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Event Centric: finding key business value by leveraging domain events and reactive extensions"
+title: 'Event Centric: finding key business value by leveraging domain events and
+  reactive extensions'
 date: 2011-12-29 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/event-centric-finding-key-business-value-by-leveraging-domain-events-and-reactive-extensions
+tags:
+- .NET
+
 ---
 
 

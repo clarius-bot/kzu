@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Shadowfax Wizards for configuration and code generation"
+title: Shadowfax Wizards for configuration and code generation
 date: 2004-07-05 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/173238
+tags:
+- .NET
+- Patterns amp; Practices
+- Shadowfax
+
 ---
 
 The cornerstone of any highly extensible and pluggable framework is configuration. This is even more important in SOA architectures like [ Shadowfax](http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=9c29a963-594e-4e7a-9c45-576198df8058) (Sfx), because business actions (BA), service interface and implementation, pipelines, etc., must be configured. Configuring BAs is specially critical since a typical enterprise application will contain hundreds of them. A set of wizards for Sfx were released for that purpose.

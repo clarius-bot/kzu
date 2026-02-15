@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Early Microsoft evangelism"
+title: Early Microsoft evangelism
 date: 2004-04-13 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/112014
+tags:
+- Miscelaneous
+
 ---
 
 I don't want her to take the path to the [dark side](http://java.sun.com/), so I started evangelizing early...

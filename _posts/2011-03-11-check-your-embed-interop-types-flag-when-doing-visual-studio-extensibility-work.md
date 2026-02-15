@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Check your Embed Interop Types flag when doing Visual Studio extensibility work"
+title: Check your Embed Interop Types flag when doing Visual Studio extensibility
+  work
 date: 2011-03-11 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/check-your-embed-interop-types-flag-when-doing-visual-studio-extensibility-work
+tags:
+- .NET
+
 ---
 
 

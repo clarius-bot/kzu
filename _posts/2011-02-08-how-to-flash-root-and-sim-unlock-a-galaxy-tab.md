@@ -1,8 +1,12 @@
 ---
 layout: post
-title: "How to flash, root and SIM unlock a Galaxy Tab"
+title: How to flash, root and SIM unlock a Galaxy Tab
 date: 2011-02-08 00:00:00 +0000
-tags: [gadgets, technology]
+tags:
+- gadgets
+- technology
+weblogs: https://weblogs.asp.net/cazzu/how-to-flash-root-and-sim-unlock-a-galaxy-tab
+
 ---
 
 These instructions worked for me on two AT&T devices, 850/1900 WCDMA (the one that works in Argentina), model SGH-i987 to be precise.

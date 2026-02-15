@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "OutDir vs OutputPath"
+title: OutDir vs OutputPath
 date: 2014-01-28 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/outdir-vs-outputpath
+tags:
+- .NET
+
 ---
 
 

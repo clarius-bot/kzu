@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Using Json.NET for text and binary Json payloads with WCF WebApi"
+title: Using Json.NET for text and binary Json payloads with WCF WebApi
 date: 2011-05-19 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/using-json-net-for-text-and-binary-json-payloads-with-wcf-webapi
+tags:
+- .NET
+
 ---
 
 There is anaging post by Christianon how to use theawesome Json.NET libraryas a default serializer for the new WCF Web Api.

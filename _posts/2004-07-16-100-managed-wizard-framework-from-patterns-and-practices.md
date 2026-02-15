@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "100% Managed Wizard Framework from Patterns &amp; Practices"
+title: 100% Managed Wizard Framework from Patterns &amp; Practices
 date: 2004-07-16 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/EverettWizardConfig
+tags:
+- .NET
+- Patterns amp; Practices
+- Shadowfax
+
 ---
 
 The [Shadowfax Visual Studio Wizards](http://www.gotdotnet.com/community/workspaces/newsitem.aspx?id=9c29a963-594e-4e7a-9c45-576198df8058&newsId=2971) are built on top of a managed framework for constructing wizards automatically from configuration files. When the source code for the wizards is released, you'll see that there's minimum code in them, mostly for those parts of the wizard that actually need to modify information on the current solution, called Commands. The whole wizard UI is built from the configuration file. 

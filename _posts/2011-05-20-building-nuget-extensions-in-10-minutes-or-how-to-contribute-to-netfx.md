@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Building NuGet extensions in 10 minutes, or how to contribute to NETFx"
+title: Building NuGet extensions in 10 minutes, or how to contribute to NETFx
 date: 2011-05-20 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/building-nuget-extensions-in-10-minutes-or-how-to-contribute-to-netfx
+tags:
+- .NET
+
 ---
 
 From the [documentation](<https://bit.ly/netfx-contribute>):

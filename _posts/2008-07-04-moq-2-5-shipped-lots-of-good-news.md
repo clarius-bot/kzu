@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Moq 2.5 shipped: lots of good news!"
+title: 'Moq 2.5 shipped: lots of good news!'
 date: 2008-07-04 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/moq-2-5-shipped-lots-of-good-news
+tags:
+- .NET
+- All Technology
+- Moq
+
 ---
 
 Today we shipped Moq v2.5. It's been a while since RC1 (a month or so feels so long for an open source agile project!) and we god very good feedback and suggestions for the final release. I'm pretty happy with the current drop and felt it was time for a new stable release. 

@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Automocking container with Moq"
+title: Automocking container with Moq
 date: 2008-10-13 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/automocking-container-with-moq
+tags:
+- .NET
+- Moq
+
 ---
 
 I realized that I never blogged about this cool feature contributed by [Slava](http://code.google.com/u/slava42/) to [Moq-Contrib](http://code.google.com/p/moq-contrib).

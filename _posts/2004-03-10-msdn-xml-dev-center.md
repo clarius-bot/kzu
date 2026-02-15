@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "MSDN XML Dev Center"
+title: MSDN XML Dev Center
 date: 2004-03-10 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/87671
+tags:
+- .NET
+- Miscelaneous
+- XML
+
 ---
 
 Dare is [announcing ](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=35121198-5d20-4546-8f9b-0c3c1d55ab22) the upcoming MSDN XML Dev Center (~ two weeks from launch), and asking for a tagline suggestion. Mine is:

@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Google to kill Exchange Server?"
+title: Google to kill Exchange Server?
 date: 2005-09-09 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/GoogleKillExchange
+tags:
+- All Technology
+
 ---
 
 There are a lot of mail servers out there. Most web UIs for them suck really bad. The only one that is usable is OWA, bundled with Exchange.   

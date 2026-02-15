@@ -1,8 +1,12 @@
 ---
 layout: post
-title: "Old style imperative mocks vs moq functional specifications"
+title: Old style imperative mocks vs moq functional specifications
 date: 2010-09-22 15:56:00 +0000
-tags: [ddd, ef, eventsourcing, extensibility, gadgets, mocking, moq, msbuild, mvc, nuget, patterns, programming, t4, technology, vsx, wcf, webapi]
+tags:
+- .NET
+- All Technology
+weblogs: https://weblogs.asp.net/cazzu/old-style-imperative-mocks-vs-moq-functional-specifications
+
 ---
 
 

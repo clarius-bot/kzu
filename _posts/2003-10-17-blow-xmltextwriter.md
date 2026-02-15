@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Blow XmlTextWriter"
+title: Blow XmlTextWriter
 date: 2003-10-17 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/32367
+tags:
+- XML
+
 ---
 
 Mmm... the following code causes a `System.NullReferenceException`: 

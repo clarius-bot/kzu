@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Evolving existing APIs in backwards-compatible way (i.e. SOM and DOM)"
+title: Evolving existing APIs in backwards-compatible way (i.e. SOM and DOM)
 date: 2003-12-18 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/44385
+tags:
+- .NET
+- XML
+
 ---
 
 [A couple days ago](http://weblogs.asp.net/cazzu/posts/43875.aspx) I posted about the inconvenience of an API that is designed to expose augmented data depending on its state. This is the case for the XmlSchema Object Model (SOM) in .NET and its Post-compilation infoset (PCI), as well as the DOM and its Post-schema validation infoset (PSVI). [Dare Obasanjo](http://weblogs.asp.net/cazzu/posts/43875.aspx#43882) aknowledged this issue, but is resigned, saying it's too late to fix any of this.

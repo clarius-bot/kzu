@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Linq to Mocks is finally born"
+title: Linq to Mocks is finally born
 date: 2009-08-13 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/linq-to-mocks-is-finally-born
+tags:
+- .NET
+
 ---
 
 Last time I announced Linq to Mocks, some said [Moq](http://moq.me/) didn't actually have anything to do with Linq. Despite the heavy usage of lambda expressions and expression trees, the "q" in Linq is for "query" after all. And they were right, of course, but it was fun anyway, and the name is definitely cool IMO :).

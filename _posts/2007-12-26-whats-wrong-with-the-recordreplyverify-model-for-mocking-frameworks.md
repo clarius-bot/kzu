@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "What's wrong with the Record/Reply/Verify model for mocking frameworks"
+title: What's wrong with the Record/Reply/Verify model for mocking frameworks
 date: 2007-12-26 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/what-s-wrong-with-the-record-reply-verify-model-for-mocking-frameworks
+tags:
+- .NET
+- All Technology
+
 ---
 
 Most mocking frameworks, and especially the two most popular ones, [Rhino Mocks](http://www.ayende.com/Wiki/%28S%28er4mx1bdcnrr3y45fuz15i45%29%29/Rhino+Mocks+Documentation.ashx) and [TypeMock](http://www.typemock.com/), use a record/reply/verify model where the developer invokes members on the mock during the record phase, does a replay to prepare the mock for those expectations, and finally do a verify before the test ends. 

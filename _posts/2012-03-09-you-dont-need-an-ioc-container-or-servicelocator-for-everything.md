@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "You don’t need an IoC container or ServiceLocator for everything"
+title: You don’t need an IoC container or ServiceLocator for everything
 date: 2012-03-09 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/you-don-t-need-an-ioc-container-or-servicelocator-for-everything
+
 ---
 
 Say you have a class that needs to collaborate with another, say a repository:

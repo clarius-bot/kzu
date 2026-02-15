@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Crazy Linq: replacing multiple and nested foreach statements with a query"
+title: 'Crazy Linq: replacing multiple and nested foreach statements with a query'
 date: 2009-03-27 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/crazy-linq-replacing-multiple-and-nested-foreach-statements-with-a-query
+tags:
+- .NET
+- All Technology
+
 ---
 
 Objective of the method: determine whether the given EnvDTE code class contains the given GeneratedCodeAttribute:

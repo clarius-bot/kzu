@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "PowerCommands for VS2008"
+title: PowerCommands for VS2008
 date: 2008-03-03 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/powercommands-for-vs2008
+tags:
+- .NET
+- All Technology
+
 ---
 
 From [Pablo's announcement](http://www.clariusconsulting.net/blogs/pga/archive/2008/03/02/57960.aspx):

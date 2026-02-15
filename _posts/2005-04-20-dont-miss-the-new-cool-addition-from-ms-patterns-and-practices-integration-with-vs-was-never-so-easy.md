@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "Don't miss the new cool addition from MS patterns &amp; practices: integration with VS was never so easy...."
+title: 'Don''t miss the new cool addition from MS patterns &amp; practices: integration
+  with VS was never so easy....'
 date: 2005-04-20 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/GATAnnouncement
+tags:
+- .NET
+- GAT
+- Patterns amp; Practices
+
 ---
 
 For the past 6 months I've been the dev lead on a new framework coming from PAG, called the Guidance Automation Toolkit (or GAT). With it you'll be able to package so-called recipes that can greatly enhance your developers experience and productivity, by providing guidance that comply with your own processes and rules. PAG will be using this same framework to deliver integrated assistance on using the different application blocks and frameworks it releases, so working with them will be much easier than in the past too.   

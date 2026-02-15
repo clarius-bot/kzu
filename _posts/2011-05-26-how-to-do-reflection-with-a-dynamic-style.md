@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "How to do reflection with a dynamic style"
+title: How to do reflection with a dynamic style
 date: 2011-05-26 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-do-reflection-with-a-dynamic-style
+tags:
+- .NET
+
 ---
 
 I’m not advocating *private* reflection (invoking private/internal fields, properties and methods), but we all know that there are those corner cases where you just can’t avoid it. And there’s a whole lot of scenarios when there are legitimate uses of reflection itself that can also leverage this very cool dynamic syntax (i.e. invoking generic methods where you don’t know the type at compile-time, etc.). In these cases, your code goes from pristine-looking C# to crappy unreadable reflection code.

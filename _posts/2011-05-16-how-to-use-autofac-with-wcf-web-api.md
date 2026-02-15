@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "How to use Autofac with WCF Web API"
+title: How to use Autofac with WCF Web API
 date: 2011-05-16 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-use-autofac-with-wcf-web-api
+tags:
+- .NET
+
 ---
 
 The new configuration model in the latestWCFWeb APIsallows extending the service instantiation via what is called aresource factory.

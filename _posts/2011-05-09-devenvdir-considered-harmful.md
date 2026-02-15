@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "DevEnvDir considered harmful"
+title: DevEnvDir considered harmful
 date: 2011-05-09 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/devenvdir-considered-harmful
+tags:
+- .NET
+
 ---
 
 

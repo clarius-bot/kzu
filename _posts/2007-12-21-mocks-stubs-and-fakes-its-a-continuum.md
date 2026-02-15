@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Mocks, Stubs and Fakes: it's a continuum"
+title: 'Mocks, Stubs and Fakes: it''s a continuum'
 date: 2007-12-21 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/mocks-stubs-and-fakes-it-s-a-continuum
+tags:
+- .NET
+- All Technology
+
 ---
 
 Highly recommended reading: [Fowler's article Mocks aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html). 

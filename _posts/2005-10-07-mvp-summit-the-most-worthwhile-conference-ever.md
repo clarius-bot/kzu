@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "MVP Summit: the most worthwhile conference ever"
+title: 'MVP Summit: the most worthwhile conference ever'
 date: 2005-10-07 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/MVPSummit2
+tags:
+- .NET
+- All Technology
+
 ---
 
 This week I came back from the [MVP 2005](http://www.microsoft.com/presspass/press/2005/sep05/09-29MVPSummit05PR.mspx) [Global Summit](http://www.microsoft.com/presspass/features/2005/sep05/09-29MVPSummit.mspx). This conference is IMO the most unique and valuable conference Microsoft organizes. Surely, you need to be an MVP to attend ;).  

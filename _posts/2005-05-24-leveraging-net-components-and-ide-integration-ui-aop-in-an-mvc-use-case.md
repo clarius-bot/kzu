@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Leveraging .NET Components and IDE Integration: UI AOP in an MVC use case"
+title: 'Leveraging .NET Components and IDE Integration: UI AOP in an MVC use case'
 date: 2005-05-24 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/ComponentsMvc
+tags:
+- .NET
+- All Technology
+
 ---
 
 ## Introduction

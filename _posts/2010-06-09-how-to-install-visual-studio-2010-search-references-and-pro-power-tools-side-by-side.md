@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "How to install Visual Studio 2010 Search References and Pro Power Tools side by side"
+title: How to install Visual Studio 2010 Search References and Pro Power Tools side
+  by side
 date: 2010-06-09 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-install-visual-studio-2010-search-references-and-pro-power-tools-side-by-side
+tags:
+- .NET
+- All Technology
+
 ---
 
 The new [Visual Studio 2010 Pro Power Tools](http://visualstudiogallery.msdn.microsoft.com/en-us/d0d33361-18e2-46c0-8ff2-4adea1e34fef) bring a new Add Reference dialog that completely replaces the classic one when you click the familiar Add Reference command:

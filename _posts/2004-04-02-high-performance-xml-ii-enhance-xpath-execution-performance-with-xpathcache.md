@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "High-performance XML (II'): Enhance XPath execution performance with XPathCache"
+title: 'High-performance XML (II''): Enhance XPath execution performance with XPathCache'
 date: 2004-04-02 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/106667
+tags:
+- .NET
+- Mvp.Xml project
+- XML
+- XML Performance
+
 ---
 
 Just about a month ago, most XVPs (XML MVPs) started the opensource [Mvp.Xml project](http://sf.net/projects/mvp-xml) aimed at providing a single point of entry for all our efforts in advancing XML processing and APIs in .NET. By having a single project to look for, you can take advantage of the implementation of most stuff you read regularle though the MVPs weblogs, including this one. The code will contain references to the appropriate weblog posts whenever they're available. 

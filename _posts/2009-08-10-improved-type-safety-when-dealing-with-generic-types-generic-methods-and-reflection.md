@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Improved type safety when dealing with generic types, generic methods and reflection"
+title: Improved type safety when dealing with generic types, generic methods and reflection
 date: 2009-08-10 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/improved-type-safety-when-dealing-with-generic-types-generic-methods-and-reflection
+tags:
+- .NET
+
 ---
 
 Compile-time safety is always important, as it reduces the chances that a refactoring can break existing code that compiles successfully. This benefit took me previously to the path of using expression trees to achieve strong-typed reflection. 

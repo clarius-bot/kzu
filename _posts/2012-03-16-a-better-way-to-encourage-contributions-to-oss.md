@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "A better way to encourage contributions to OSS"
+title: A better way to encourage contributions to OSS
 date: 2012-03-16 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/a-better-way-to-encourage-contributions-to-oss
+tags:
+- .NET
+
 ---
 
 Currently in the .NET world, most OSS projects are available via a [NuGet](<http://nuget.org/>) package. Users have a very easy path towards *using* the project right away.

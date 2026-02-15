@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "When a bug that became a really useful feature is fixed: !@#$!@$%@#^%#$%"
+title: 'When a bug that became a really useful feature is fixed: !@#$!@$%@#^%#$%'
 date: 2004-10-21 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/BugTureFixed
+tags:
+- Miscelaneous
+
 ---
 
 ## When a bug that became a really useful feature is fixed: !@#$!@$%@#^%#$%

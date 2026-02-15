@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Why Windows Media Center is dead"
+title: Why Windows Media Center is dead
 date: 2010-01-03 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/why-windows-media-center-is-dead
+tags:
+- .NET
+- All Technology
+
 ---
 
 Windows Media Center (WMC) is based on a relatively simple (albeit awfully implemented) principle: you have ONE "server" PC holding and running your media, and then you associate any number of Media Center Extenders to it that are typically (except for the XBox 360) single-purpose devices that can only act as such and are fancy and silent enough to deserve a place in your living room.

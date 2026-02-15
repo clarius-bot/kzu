@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "XInclude in .NET v2?"
+title: XInclude in .NET v2?
 date: 2004-12-22 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/XIncludeRec
+tags:
+- .NET
+- All Technology
+- Mvp.Xml project
+- XML
+
 ---
 
 Now that the [XInclude](http://www.w3.org/TR/2004/REC-xinclude-20041220/) spec [is officially a Recomendation](http://www.w3.org/News/2004#item205), is it too late to include it in System.Xml v2? Unfortunately I think so :(  

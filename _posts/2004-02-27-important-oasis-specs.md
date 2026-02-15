@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Important OASIS specs"
+title: Important OASIS specs
 date: 2004-02-27 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/OasisWeirdNews
+tags:
+- Miscelaneous
+
 ---
 
 Yesterday I received the following [important notice](http://xml.coverpages.org/ni2004-02-26-a.html): 

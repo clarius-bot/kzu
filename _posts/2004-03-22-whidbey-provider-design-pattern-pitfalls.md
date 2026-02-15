@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Whidbey Provider Design Pattern pitfalls"
+title: Whidbey Provider Design Pattern pitfalls
 date: 2004-03-22 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/93838
+tags:
+- ASP.NET
+
 ---
 
 A couple weeks ago [Rob Howard](http://weblogs.asp.net/rhoward/Rss.aspx) (from the ASP.NET team) [ announced the "disclosure"](http://weblogs.asp.net/rhoward/archive/2004/03/02/83026.aspx) of the [ Provider Design Pattern](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnaspnet/html/asp02182004.asp?frame=true&hidetoc=true) they are using in Whidbey ASP.NET (v2).

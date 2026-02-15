@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Who failed to validate XML?"
+title: Who failed to validate XML?
 date: 2004-03-24 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/95588
+tags:
+- XML
+
 ---
 
 Today, you validate XML in .NET v1.x by creating an `XmlValidatingReader`, setting the schema, and reading: 

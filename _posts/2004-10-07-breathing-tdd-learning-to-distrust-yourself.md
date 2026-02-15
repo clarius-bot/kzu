@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Breathing TDD: learning to distrust yourself"
+title: 'Breathing TDD: learning to distrust yourself'
 date: 2004-10-07 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/239449
+tags:
+- .NET
+
 ---
 
 ## Breathing TDD: learning to distrust yourself

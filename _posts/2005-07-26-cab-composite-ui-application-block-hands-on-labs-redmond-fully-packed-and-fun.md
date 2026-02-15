@@ -1,7 +1,15 @@
 ---
 layout: post
-title: "CAB (Composite UI Application Block) hands on labs @ Redmond: fully packed and fun!"
+title: 'CAB (Composite UI Application Block) hands on labs @ Redmond: fully packed
+  and fun!'
 date: 2005-07-26 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/CabLab1
+tags:
+- .NET
+- All Technology
+- CAB
+- Patterns amp; Practices
+
 ---
 
 We're having our first lab on [CAB](http://practices.gotdotnet.com/projects/cab), with people from all over the country (US). It went incredible well. People seem to find CAB very useful and intuitive so far, and they certainly think we're solving a lot of the recurring problems they find when building rich smart client applications. We got lots of good feedback. Very engaging overall.   

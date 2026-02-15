@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "How to make object initializers more useful"
+title: How to make object initializers more useful
 date: 2011-08-01 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-make-object-initializers-more-useful
+
 ---
 
 

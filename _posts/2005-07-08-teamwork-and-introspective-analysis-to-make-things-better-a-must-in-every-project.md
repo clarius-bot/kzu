@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Teamwork and introspective analysis to make things better: a must in every project"
+title: 'Teamwork and introspective analysis to make things better: a must in every
+  project'
 date: 2005-07-08 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/PAGIntrospection
+tags:
+- All Technology
+- Patterns amp; Practices
+
 ---
 
 A couple weeks ago, as we approached an [important milestone for CAB](http://msdn.microsoft.com/library/en-us/dnpag2/html/cabctp.asp), we had a session where we analyzed the job we did, not only technically but in every aspect. This introspection about how we work and interact as a team led to an interesting set of post-its on the wall:

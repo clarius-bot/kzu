@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "VS2005 XML Editor rocks! Navigating type definitions from instance documents!"
+title: VS2005 XML Editor rocks! Navigating type definitions from instance documents!
 date: 2006-06-08 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/XmlGoToDefinition
+tags:
+- .NET
+- .NETXML
+- All Technology
+- XML
+
 ---
 
 

@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Calendar buggy styles, and the OOP fix!"
+title: Calendar buggy styles, and the OOP fix!
 date: 2004-02-02 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/66130
+tags:
+- ASP.NET
+
 ---
 
 [VGA](http://weblogs.asp.net/vga/archive/2004/02/01/CalendarsBuggyStyleHandling.aspx) found a recurrent problem most developers and users of the MS Calendar control seem to have, namely, its poor integration with CSS styles. Being an OOP fan, I clearly see an easy way to solve this problem. Inherit Calendar and change its behavior! That's the cool thing about .NET and the new ASP.NET. It's all too easy: 

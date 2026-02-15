@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "XmlNodes from XPathNodeIterator"
+title: XmlNodes from XPathNodeIterator
 date: 2004-03-09 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/86609
+tags:
+- .NET
+- Mvp.Xml project
+- XML
+
 ---
 
 Every now and then I receive complains about `XPathNodeIterator`. You know, it allows iteration where each `Current` element is an `XPathNavigator`. Not too useful if you're looking for `OuterXml`, or are too-dependant on the XmlNode-based API (i.e. `XmlDocument`). The most worrying issue is that people use this argument against using compiled XPath expressions, which are known to significantly improve performance (see [ Performant XML (I)](http://weblogs.asp.net/cazzu/archive/2003/10/07/30888.aspx) and [ Performant XML (II)](http://weblogs.asp.net/cazzu/archive/2003/10/09/31294.aspx) articles). The reason is that in order to get an XmlNodeList, you have to use the SelectNodes method of the XmlNode (and therefore XmlDocument), whose signature is as follows:

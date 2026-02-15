@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "The future of video conferencing is NOT a webcam and a TV, it’s 3D augmented reality, and it could happen really soon"
+title: The future of video conferencing is NOT a webcam and a TV, it’s 3D augmented
+  reality, and it could happen really soon
 date: 2010-10-13 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/the-future-of-video-conferencing-is-not-a-webcam-and-a-tv-it-s-3d-augmented-reality-and-it-could-happen-really-soon
+tags:
+- All Technology
+
 ---
 
 

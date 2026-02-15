@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "How to use T4 templates in WP7, Silverlight, Desktop or even MonoDroid apps"
+title: How to use T4 templates in WP7, Silverlight, Desktop or even MonoDroid apps
 date: 2010-12-09 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-use-t4-templates-in-wp7-silverlight-desktop-or-even-monodroid-apps
+tags:
+- .NET
+- All Technology
+
 ---
 
 In other words, how to use T4 templates without ANY runtime dependencies? Yes, it is possible, and quite simple and elegant actually.

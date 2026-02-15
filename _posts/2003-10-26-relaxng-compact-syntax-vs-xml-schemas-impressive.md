@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "RelaxNG Compact Syntax vs XML Schemas: impressive!"
+title: 'RelaxNG Compact Syntax vs XML Schemas: impressive!'
 date: 2003-10-26 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/33507
+tags:
+- XML
+
 ---
 
 I've reading about blogging formats, undergoing specs, and the like, and I eventually ended in [Tim Bray weblog](http://www.tbray.org/ongoing/), and his multi-version schema for [PIE/ECHO/ATOM/Whatever (PEAW)](http://www.tbray.org/ongoing/When/200x/2003/08/18/PieSchema02). You can look at the [RelaxNG Compact Syntax](http://www.tbray.org/ongoing/pie/0.2/pie02.rnc) version as well as the [XML Schema](http://www.tbray.org/ongoing/pie/0.2/pie02.xsd) version.   

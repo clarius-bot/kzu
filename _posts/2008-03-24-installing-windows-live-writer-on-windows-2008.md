@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Installing Windows Live Writer on Windows 2008"
+title: Installing Windows Live Writer on Windows 2008
 date: 2008-03-24 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/installing-windows-live-writer-on-windows-2008
+tags:
+- All Technology
+
 ---
 
 How long can it take to update a [crappy installer](http://get.live.com/writer/) and remove a hard-coded platform check?? Whatever...

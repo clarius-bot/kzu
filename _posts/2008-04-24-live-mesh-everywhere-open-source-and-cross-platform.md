@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "Live Mesh Everywhere: open source and cross-platform"
+title: 'Live Mesh Everywhere: open source and cross-platform'
 date: 2008-04-24 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/live-mesh-everywhere-open-source-and-cross-platform
+tags:
+- .NET
+- All Technology
+- InSTEDD
+- Mesh
+
 ---
 
 You have probably read or [listened](http://channel9.msdn.com/showpost.aspx?postid=399578 "Ray Ozzie's Live Mesh Overview video") all the (maybe a bit vague) information about the [Mesh Operating Environment](http://www.google.com/search?hl=en&q=mesh+operating+environment&btnG=Search "MOE Google Search") (MOE): a platform that will allow multiple applications and devices to participate in the [Live Mesh](http://www.google.com/search?hl=en&q=microsoft%20live%20mesh "Live Mesh Google Search"). 

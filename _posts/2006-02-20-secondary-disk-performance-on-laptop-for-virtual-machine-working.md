@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Secondary disk performance on laptop (for virtual machine working)"
+title: Secondary disk performance on laptop (for virtual machine working)
 date: 2006-02-20 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/LaptopHDPerformance
+tags:
+- All Technology
+- Miscelaneous
+
 ---
 
 ## Secondary disk performance on laptop (for virtual machine working)

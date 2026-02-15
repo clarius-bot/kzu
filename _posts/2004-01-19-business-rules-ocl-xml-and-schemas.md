@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Business Rules, OCL, XML and Schemas"
+title: Business Rules, OCL, XML and Schemas
 date: 2004-01-19 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/60180
+tags:
+- .NET
+- XML
+
 ---
 
 [DonXML](http://donxml.com/allthingstechie/archive/2004/01/15/314.aspx) is proposing extensions to OCL to express business rules that can be used at code-gen time and at run-time.   

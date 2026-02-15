@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "MakePascal identifier (the XmlSerializer way)"
+title: MakePascal identifier (the XmlSerializer way)
 date: 2004-01-16 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/59356
+tags:
+- .NET
+- XML
+
 ---
 
 [In a previous post](http://weblogs.asp.net/cazzu/archive/2004/01/09/48987.aspx), I proposed an implementation of a simple method to make the first letter of an identifier uppercase, to get a pseudo PascalCase from an xml name. I've found that a better and more consistent way is to reuse the method used by the XmlSerializer to build the code identifiers, which is `System.Xml.Serialization.CodeIdentifier.MakePascal(string identifier)`

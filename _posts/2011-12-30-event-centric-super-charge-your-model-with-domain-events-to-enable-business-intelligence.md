@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Event Centric: super-charge your model with domain events to enable business intelligence"
+title: 'Event Centric: super-charge your model with domain events to enable business
+  intelligence'
 date: 2011-12-30 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/event-centric-super-charge-your-model-with-domain-events-to-enable-business-intelligence
+tags:
+- .NET
+
 ---
 
 

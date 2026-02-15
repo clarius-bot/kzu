@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Writing inline MSBuild tasks in C# for one-liners"
+title: Writing inline MSBuild tasks in C# for one-liners
 date: 2011-05-09 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/writing-inline-msbuild-tasks-in-c-for-one-liners
+tags:
+- .NET
+
 ---
 
 

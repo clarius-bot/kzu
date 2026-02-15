@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Leveraging ILMerge to simplify deployment and your users experience"
+title: Leveraging ILMerge to simplify deployment and your users experience
 date: 2009-02-23 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/leveraging-ilmerge-to-simplify-deployment-and-your-users-experience
+tags:
+- .NET
+- All Technology
+
 ---
 
 [ILMerge](http://research.microsoft.com/en-us/people/mbarnett/ilmerge.aspx) is one of those little-known gems that are an absolute must-have once you know how to apply them effectively to scenarios you didn't even think about.

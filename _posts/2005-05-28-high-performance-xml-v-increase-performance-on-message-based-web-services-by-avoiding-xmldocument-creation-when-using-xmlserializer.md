@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "High-performance XML (V): Increase performance on message-based web services by avoiding XmlDocument creation when using XmlSerializer"
+title: 'High-performance XML (V): Increase performance on message-based web services
+  by avoiding XmlDocument creation when using XmlSerializer'
 date: 2005-05-28 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/XmlMessagePerformance
+tags:
+- .NET
+- All Technology
+- Mvp.Xml project
+- XML
+- XML Performance
+
 ---
 
 ## High-performance XML (V): Increase performance on message-based web services by avoiding XmlDocument creation when using XmlSerializer

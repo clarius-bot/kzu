@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "String concatenation considered harmfull (or how is HTML different than XML with regards to creating it)"
+title: String concatenation considered harmfull (or how is HTML different than XML
+  with regards to creating it)
 date: 2005-08-03 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/StringConcatenationConsideredHarmful
+tags:
+- .NET
+- All Technology
+
 ---
 
 From [Brad](http://www.agileprogrammer.com/dotnetguy/archive/2005/07/28/6459.aspx), I got to [Craig](http://pluralsight.com/blogs/craig/)'s post about the [bad things that happen when you build XML by string concatenation](http://pluralsight.com/blogs/craig/archive/2005/07/28/13549.aspx). His core statement is: 

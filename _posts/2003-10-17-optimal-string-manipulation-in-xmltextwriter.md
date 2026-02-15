@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Optimal string manipulation in XmlTextWriter?"
+title: Optimal string manipulation in XmlTextWriter?
 date: 2003-10-17 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/32373
+tags:
+- XML
+
 ---
 
 Lately I've been digging inside the `XmlTextWriter` class. I'm working on an alternate implementation to the traditional state machine based on arrays, one based on a mix of hierarchical state machines and DOM-like events propagation, for an XmlWriter-inherited class.   

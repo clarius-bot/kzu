@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Automatic generation of data-binding interfaces for data context objects"
+title: Automatic generation of data-binding interfaces for data context objects
 date: 2007-09-27 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/automatic-generation-of-data-binding-interfaces-for-data-context-objects
+tags:
+- .NET
+- All Technology
+- WPF
+
 ---
 
 From the new [Clarius Labs release](http://www.codeplex.com/clarius/Release/ProjectReleases.aspx?ReleaseId=7358):

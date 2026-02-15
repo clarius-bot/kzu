@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "How to serve binary resources from a database (images and others) in ASP.NET?"
+title: How to serve binary resources from a database (images and others) in ASP.NET?
 date: 2003-08-27 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/25568
+tags:
+- ASP.NET
+
 ---
 
 This is such a frequent question, that I thought I’d better spend some time outlining a customizable and versatile solution so that it can be reused in future scenarios.   

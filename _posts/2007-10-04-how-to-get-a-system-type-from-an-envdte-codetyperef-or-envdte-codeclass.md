@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "How to get a System.Type from an EnvDTE.CodeTypeRef or EnvDTE.CodeClass"
+title: How to get a System.Type from an EnvDTE.CodeTypeRef or EnvDTE.CodeClass
 date: 2007-10-04 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-get-a-system-type-from-an-envdte-codetyperef-or-envdte-codeclass
+tags:
+- .NET
+- All Technology
+
 ---
 
 I have already [hinted at this in a previous post](http://www.clariusconsulting.net/blogs/kzu/archive/2006/01/06/GetTypesFromProject.aspx "Retrieving available types in current project and its references \(withoult locking\)"), but this time it's a bit different. Sometimes it's useful to switch to a full System.Type when you're doing code-generation or general CodeModel navigation within VS in an addin or VSSDK package.

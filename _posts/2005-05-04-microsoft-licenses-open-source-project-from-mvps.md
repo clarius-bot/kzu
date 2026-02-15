@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "Microsoft licenses open source project from MVPs"
+title: Microsoft licenses open source project from MVPs
 date: 2005-05-04 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/MvpXml2Micosoft
+tags:
+- .NET
+- Mvp.Xml project
+- Patterns amp; Practices
+- XML
+
 ---
 
 In a major achievement for [MVPs](http://www.microsoft.com/communities/mvp/mvp.mspx) contributing to the [Mvp.Xml](http://mvp-xml.sf.net/) project, a couple weeks ago I signed a license agreement with Microsoft to confer ample rights to use and distribute our code base. This has several implications:  

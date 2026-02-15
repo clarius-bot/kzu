@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "I hate sealed classes!!!"
+title: I hate sealed classes!!!
 date: 2005-08-29 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/IHateSealed
+tags:
+- .NET
+- All Technology
+
 ---
 
 Sealed keyword is by far the most annoying showstopper to extensibility. I hate it so much. I wish there was an FxCop rule that would enforce that:  

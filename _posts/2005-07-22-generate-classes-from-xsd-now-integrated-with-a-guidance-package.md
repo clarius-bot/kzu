@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "Generate classes from XSD, now integrated with a guidance package!"
+title: Generate classes from XSD, now integrated with a guidance package!
 date: 2005-07-22 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/XsdClassesGAT
+tags:
+- .NET
+- All Technology
+- GAT
+- XML
+
 ---
 
 ## Generate classes from XSD, now integrated with a guidance package!

@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Firefox is still king: creating fully customized GMail and Google skins with plain CSS"
+title: 'Firefox is still king: creating fully customized GMail and Google skins with
+  plain CSS'
 date: 2007-10-31 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/firefox-is-still-king-creating-fully-customized-gmail-and-google-skins-with-plain-css
+tags:
+- All Technology
+
 ---
 
 Just get the [Stylish](http://userstyles.org/stylish/) add-on browse the huge library of community contributed styles to a myriad of sites. My customized Gmail hosted now looks much better (especially on my new small 12.1'' laptop :))

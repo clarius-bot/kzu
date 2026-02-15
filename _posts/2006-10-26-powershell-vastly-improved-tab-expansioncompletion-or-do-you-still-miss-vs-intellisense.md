@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "PowerShell: vastly improved tab expansion/completion (or do you still miss VS intellisense?)"
+title: 'PowerShell: vastly improved tab expansion/completion (or do you still miss
+  VS intellisense?)'
 date: 2006-10-26 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/PowerShellTabExpansion
+tags:
+- .NET
+- All Technology
+- PowerShell
+
 ---
 
 ##  [PowerShell: vastly improved tab expansion/completion (or do you still miss VS intellisense?)](<http://blogs.clariusconsulting.net/kzu/powershell-vastly-improved-tab-expansioncompletion-or-do-you-still-miss-vs-intellisense/> "PowerShell: vastly improved tab expansion/completion \(or do you still miss VS intellisense?\)")

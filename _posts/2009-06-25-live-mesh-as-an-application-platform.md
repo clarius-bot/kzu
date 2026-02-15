@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Live Mesh as an application platform"
+title: Live Mesh as an application platform
 date: 2009-06-25 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/live-mesh-as-an-application-platform
+tags:
+- .NET
+
 ---
 
 ## The potential

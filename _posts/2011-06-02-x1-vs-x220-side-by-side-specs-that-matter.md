@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "X1 vs X220 side by side specs that matter"
+title: X1 vs X220 side by side specs that matter
 date: 2011-06-02 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/x1-vs-x220-side-by-side-specs-that-matter
+
 ---
 
 Is it just me or the X220 is just plain better in almost all relevant fronts?

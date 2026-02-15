@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "How to develop WPF applications in VS2005 and VS2008 simultaneously"
+title: How to develop WPF applications in VS2005 and VS2008 simultaneously
 date: 2007-09-12 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-develop-wpf-applications-in-vs2005-and-vs2008-simultaneously
+tags:
+- .NET
+- All Technology
+- WPF
+
 ---
 
 In order to develop WPF apps in VS2005, you must install the corresponding CTP tools for it. These will basically bring in some new project templates, project types, MSBuild taks and designers. The designers are quite slow, and don't always work as expected. Being a CTP, and with VS2008 ("Orcas") already in the beta phase, I don't expect these to be updated anymore. Wouldn't it be great if you had a choice to use VS2008 or VS2005 with the same project files?

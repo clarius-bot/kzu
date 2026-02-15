@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Developing orientation and resolution aware Windows Mobile applications just got a TON easier"
+title: Developing orientation and resolution aware Windows Mobile applications just
+  got a TON easier
 date: 2008-09-03 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/developing-orientation-and-resolution-aware-windows-mobile-applications-just-got-a-ton-easier
+tags:
+- .NET
+- All Technology
+
 ---
 
 Quite some time ago I posted about how we ([Clarius Consulting](http://clariusconsulting.net/) with [Microsoft Patterns & Practices](http://msdn.microsoft.com/practices)) [solved the multiple resolution/orientation problem](http://www.clariusconsulting.net/blogs/kzu/archive/2006/05/09/OrientationAwareIntroduction.aspx) for Windows Mobile developers by introducing the [Orientation Aware Control](http://www.clariusconsulting.net/blogs/kzu/archive/2006/07/05/ZeroCodeAdaptiveUIs.aspx) (OAC) as part of the [Mobile Client Software Factory](http://msdn.microsoft.com/mobileclientfactory). As any 6-month project, there were a number of features that had to be left out because of time constraints. Also, being two years old also shows: that version does not support smartphone project types, neither Windows Mobile 6, nor VS2008, etc. A few bugs were also discovered after being released.

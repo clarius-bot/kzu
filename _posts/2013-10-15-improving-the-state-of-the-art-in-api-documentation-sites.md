@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Improving the state of the art in API documentation sites"
+title: Improving the state of the art in API documentation sites
 date: 2013-10-15 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/improving-the-state-of-the-art-in-api-documentation-sites
+tags:
+- .NET
+
 ---
 
 Go straight to the site if you want: [http://nudoq.org](<http://nudoq.org/>). You can then come back and continue reading ![:\)](/img/2013-10-15-1.gif)

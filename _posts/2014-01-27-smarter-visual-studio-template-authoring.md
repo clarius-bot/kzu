@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "Smarter Visual Studio Template Authoring"
+title: Smarter Visual Studio Template Authoring
 date: 2014-01-27 18:53:00 +0000
-tags: [ddd, ef, eventsourcing, extensibility, gadgets, mocking, moq, msbuild, mvc, nuget, patterns, programming, t4, technology, vsx, wcf, webapi]
+tags:
+- .NET
+weblogs: https://weblogs.asp.net/cazzu/smarter-visual-studio-template-authoring
+
 ---
 
 From [Clarius VisualStudio Targets](https://github.com/clariuslabs/VisualStudio/wiki/Authoring-Templates) project:

@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "How to create a Visual Studio extensibility project that is compatible with VS 2010, 2012 and 2013"
+title: How to create a Visual Studio extensibility project that is compatible with
+  VS 2010, 2012 and 2013
 date: 2014-01-11 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-create-a-visual-studio-extensibility-project-that-is-compatible-with-vs-2010-2012-and-2013
+
 ---
 
 For most common project types, you can just create a project in VS2010 and open it in 2012 and 2013 just fine. For some others (like VS package or VSIX projects), you may find Visual Studio wants to perform a one-way conversion:

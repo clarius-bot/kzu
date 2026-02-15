@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Guidance Automation in the development process"
+title: Guidance Automation in the development process
 date: 2006-02-01 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/GuidanceProcess
+tags:
+- .NET
+- All Technology
+- GAT
+
 ---
 
 ## Guidance Automation in the development process

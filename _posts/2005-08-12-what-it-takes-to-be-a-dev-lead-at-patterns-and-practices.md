@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "What it takes to be a Dev Lead at patterns &amp; practices"
+title: What it takes to be a Dev Lead at patterns &amp; practices
 date: 2005-08-12 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/PeterJuggler
+tags:
+- Patterns amp; Practices
+
 ---
 
 One very important area where a dev lead must excel, specially at [patterns & practices](http://msdn.microsoft.com/practices) where there's a lot of interaction with product groups across Microsoft, is to be able to handle situations smoothly, keep several mind-threads and tasks running at the same time, etc., in other words, you have to be kind of a [juggler](http://dictionary.reference.com/search?q=juggler) with regards to people, projects, and so on.  

@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "XmlSerializer and XSD Type Inheritance: does it work?"
+title: 'XmlSerializer and XSD Type Inheritance: does it work?'
 date: 2003-10-25 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/33470
+tags:
+- XML
+
 ---
 
 One of the most powerful XML Schema features is its hability to validate documents based on element types, instead of element names. That is no matter which element name is used in an instance document, say `Customer`, ` customer` and `CRMCustomer`, as far as our XSD Schema makes them all inherit from say `CustomerDef`, the document will be valid. This is very important in interoperability scenarios, of course.   

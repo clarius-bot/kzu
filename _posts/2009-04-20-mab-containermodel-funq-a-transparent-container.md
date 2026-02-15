@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "MAB ContainerModel / Funq: a transparent container"
+title: 'MAB ContainerModel / Funq: a transparent container'
 date: 2009-04-20 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/mab-containermodel-funq-a-transparent-container
+tags:
+- .NET
+- All Technology
+- Patterns  Practices
+
 ---
 
 From the point of view of the user of the container, he doesn't have to do anything at all. He just creates classes as usual:

@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Evolving an API without breaking clients via extension methods, ObsoleteAttribute and EditorBrowsableAttribute: Part II"
+title: 'Evolving an API without breaking clients via extension methods, ObsoleteAttribute
+  and EditorBrowsableAttribute: Part II'
 date: 2009-01-11 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/evolving-an-api-without-breaking-clients-via-extension-methods-obsoleteattribute-and-editorbrowsableattribute-part-ii
+tags:
+- .NET
+- All Technology
+
 ---
 
 ## Evolving an API without breaking clients via extension methods, ObsoleteAttribute and EditorBrowsableAttribute

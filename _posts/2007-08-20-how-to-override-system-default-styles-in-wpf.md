@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "How to override system default styles in WPF"
+title: How to override system default styles in WPF
 date: 2007-08-20 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-override-system-default-styles-in-wpf
+tags:
+- .NET
+- All Technology
+- WPF
+
 ---
 
 You should typically use system defined styles for your controls, such as:

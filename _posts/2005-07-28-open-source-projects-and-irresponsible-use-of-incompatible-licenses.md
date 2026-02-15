@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Open source projects and irresponsible use of incompatible licenses"
+title: Open source projects and irresponsible use of incompatible licenses
 date: 2005-07-28 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/OSLicensesMismatch
+tags:
+- .NET
+- All Technology
+
 ---
 
 I started working on a sample app I want to build on top of [CAB](http://practices.gotdotnet.com/projects/cab). I evaluated using [RssBandit](http://rssbandit.org/) components to do the RSS parsing, NNTP reading and some other goodies it will have. Problem is that I don't like the [GPL ](http://www.opensource.org/licenses/gpl-license.php)license at all, so first thing I did was to check [RssBandit](http://rssbandit.org/) license [as listed in SourceForge](http://sourceforge.net/projects/rssbandit). It says it's [BSD](http://www.opensource.org/licenses/bsd-license.php), cool. But looking at the dependencies the project has, I noticed it's using the [#ZipLib](http://www.icsharpcode.net/OpenSource/SharpZipLib/Default.aspx), which is GPL-licensed and explicitly states that "_Linking this library statically or dynamically with other modules is making a combined work based on this library. Thus, the terms and conditions of the GNU General Public License cover the whole combination._ ". Hence, RssBandit is also GPL, and I therefore cannot use any of its components in any project that is not GPL'ed.   

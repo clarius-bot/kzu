@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Linq to Mock: MoQ is born"
+title: 'Linq to Mock: MoQ is born'
 date: 2007-12-18 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/linq-to-mock-moq-is-born
+tags:
+- .NET
+- All Technology
+
 ---
 
 (go straight to the snippets if you can't wait ;))

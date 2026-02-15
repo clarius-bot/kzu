@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "How to get a gazillion XAML clipart for free"
+title: How to get a gazillion XAML clipart for free
 date: 2007-08-24 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-get-a-gazillion-xaml-clipart-for-free
+tags:
+- .NET
+- All Technology
+- WPF
+
 ---
 
 You surely know [XAML subsumes pretty much all of SVG](http://www.google.com/search?hl=en&q=xaml%20vs%20svg), right?

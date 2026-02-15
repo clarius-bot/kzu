@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "PayPal Samples are virtually useless"
+title: PayPal Samples are virtually useless
 date: 2013-07-30 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/paypal-samples-are-virtually-useless
+
 ---
 
 

@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "How extension methods ruined unit testing and OOP, and a way forward"
+title: How extension methods ruined unit testing and OOP, and a way forward
 date: 2011-05-05 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-extension-methods-ruined-unit-testing-and-oop-and-a-way-forward
+tags:
+- .NET
+
 ---
 
 

@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Writing meaningful, self-documenting, behavior-oriented tests"
+title: Writing meaningful, self-documenting, behavior-oriented tests
 date: 2009-10-01 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/writing-meaningful-self-documenting-behavior-oriented-tests
+tags:
+- .NET
+
 ---
 
 Over the years I've come to realize that the one-fixture-per-class approach to unit testing just doesn't scale. As the amount of variations in state and interactions increases, that file starts becoming a big soup of "Should" methods that are increasingly difficult to traverse and find later on. Essentially, since every test is doing the first "A" in AAA (Arrange-Act-Assert) too, that means the context is also part of the test method.

@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Binary serialization, the smarter way: reloaded"
+title: 'Binary serialization, the smarter way: reloaded'
 date: 2003-08-26 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/25440
+tags:
+- .NET
+
 ---
 
 [VGA](http://weblogs.asp.net/vga/posts/25121.aspx) posted about a way to improve the binary serialization, by using a compact format. We work together, and I was surprised he didn't post some code for all the code-hungry guys, so here it is: 

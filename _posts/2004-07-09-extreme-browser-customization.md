@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Extreme browser customization"
+title: Extreme browser customization
 date: 2004-07-09 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/FireFoxCustomization
+tags:
+- Miscelaneous
+
 ---
 
 I've [already said](http://weblogs.asp.net/cazzu/archive/2004/06/25/166372.aspx) why I believe [FireFox](http://getfirefox.com/) is the best browser ever. Let me show you another amazing feature of this browser. 

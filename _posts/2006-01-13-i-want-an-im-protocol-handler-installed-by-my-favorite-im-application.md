@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I want an im:// protocol handler installed by [my favorite IM application]"
+title: I want an im:// protocol handler installed by [my favorite IM application]
 date: 2006-01-13 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/ProtocolHandlersMissing
+tags:
+- All Technology
+
 ---
 
 ## I want an im:// protocol handler installed by [my favorite IM application]

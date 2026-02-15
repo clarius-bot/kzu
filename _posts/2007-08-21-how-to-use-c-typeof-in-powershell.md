@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "How to use C# typeof in Powershell"
+title: How to use C# typeof in Powershell
 date: 2007-08-21 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/how-to-use-c-typeof-in-powershell
+tags:
+- .NET
+- All Technology
+- PowerShell
+
 ---
 
 Have you ever missed C#'s "typeof" while working with PowerShell?

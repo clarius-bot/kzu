@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Mocks: by-the-book vs practical"
+title: 'Mocks: by-the-book vs practical'
 date: 2007-12-27 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/mocks-by-the-book-vs-practical
+tags:
+- .NET
+- All Technology
+
 ---
 
 ![c12--professor-umbridge](/web/20080507070923im_/http://www.clariusconsulting.net/images/blogs/kzu/Mocksbythebookvspractical_F83B/c12professorumbridge.jpg) Lately, there's been some formalization of the definitions of mocks, stubs, fakes and dummies, which Fowler popularized through his site with his article [Mocks aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) by introducing the concepts from Gerard Meszaros' [xUnit patterns book](http://xunitpatterns.com/). I haven't read the book, but the definitions are sensible.

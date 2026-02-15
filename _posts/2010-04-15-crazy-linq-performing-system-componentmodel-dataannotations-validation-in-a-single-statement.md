@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Crazy Linq: performing System.ComponentModel.DataAnnotations validation in a single statement"
+title: 'Crazy Linq: performing System.ComponentModel.DataAnnotations validation in
+  a single statement'
 date: 2010-04-15 00:00:00 +0000
+weblogs: https://weblogs.asp.net/cazzu/crazy-linq-performing-system-componentmodel-dataannotations-validation-in-a-single-statement
+tags:
+- .NET
+- All Technology
+
 ---
 
     
