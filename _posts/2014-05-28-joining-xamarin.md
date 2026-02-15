@@ -9,8 +9,6 @@ tags:
 - XML
 - patterns
 ---
-[Cross-posted from [my new blog](<http://www.cazzulino.com/hello-xamarin.html> "kzu's new blog")]
-
 <img src="https://www.cazzulino.com/img/vb6.png" width="35%" align="right" class="image">
 Back in 2001 I was making good bucks, programming in a language that I had grown to hate: Visual Basic 6.
 
