@@ -9,9 +9,10 @@ tags:
 - XML
 - patterns
 ---
-![]({{ site.baseurl }}/img/2014-05-28-1.png)[Cross-posted from [my new blog](<http://www.cazzulino.com/hello-xamarin.html> "kzu's new blog")]
+[Cross-posted from [my new blog](<http://www.cazzulino.com/hello-xamarin.html> "kzu's new blog")]
 
-Back in 2001 I was making as much money as you could, programming in a language that I had grown to hate: Visual Basic 6.
+<img src="https://www.cazzulino.com/img/vb6.png" width="35%" align="right" class="image">
+Back in 2001 I was making good bucks, programming in a language that I had grown to hate: Visual Basic 6.
 
 I remember vividly my first encounter with .NET. I could totally see the upcoming sea change, and how anyone programming in anything but .NET was doomed (well, kinda ![;)]({{ site.baseurl }}/img/2014-05-28-1.gif) ). So I became very proficient at C# before it even shipped. I started a couple open source projects, wrote articles, books, presented at conferences and eventually became a Microsoft Most Valuable Professional. An XML MVP even, if you can believe it.
 
